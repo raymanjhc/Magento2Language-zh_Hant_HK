@@ -7,7 +7,7 @@
         "MIT"
     ],
     "require": {
-        "magento/framework": "100.0.*"
+        "magento/framework": "~100.0"
     },
     "keywords": [
         "magento",
