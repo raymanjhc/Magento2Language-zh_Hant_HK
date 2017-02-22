@@ -5985,6 +5985,49 @@ Total:,共計:,module,Magento_Checkout
 "Shipping Method:","送貨方式:",module,Magento_Checkout
 "Payment Method:","付款方法:",module,Magento_Checkout
 "Date & Time:","日期與時間:",module,Magento_Checkout
+"Sign In",登錄,module,Magento_Checkout
+"Email Address",電子郵件地址,module,Magento_Checkout
+Password,密碼,module,Magento_Checkout
+"Forgot Your Password?",忘記密碼？ ,module,Magento_Checkout
+"My billing and shipping address are the same",我的帳單和發貨使用相同地址,module,Magento_Checkout
+Update,更新,module,Magento_Checkout
+Cancel,保存,module,Magento_Checkout
+"Save in address book",保存到地址簿,module,Magento_Checkout
+"Estimated Total",估計總額,module,Magento_Checkout
+"You can create an account after checkout.",您可以在結賬後創建帳戶。 ,module,Magento_Checkout
+"You already have an account with us. Sign in or continue as guest.",您已經有賬號了，可以登錄或繼續使用遊客賬號,module,Magento_Checkout
+Login,登錄,module,Magento_Checkout
+Close,關閉,module,Magento_Checkout
+item,項目,module,Magento_Checkout
+items,項目,module,Magento_Checkout
+"Go to Checkout",去結帳,module,Magento_Checkout
+"Recently added item(s)",最近添加的商品,module,Magento_Checkout
+"View and edit cart",查看和編輯購物車,module,Magento_Checkout
+"See Details",查看詳細信息,module,Magento_Checkout
+"Options Details",選項詳細信息,module,Magento_Checkout
+Remove,刪除,module,Magento_Checkout
+"Cart Subtotal",購物車小計,module,Magento_Checkout
+"Payment Information",支付信息,module,Magento_Checkout
+"No Payment method available.",沒有可用的付款方法。 ,module,Magento_Checkout
+"You can track your order status by creating an account.",通過創建一個帳戶跟踪您的訂單狀態。 ,module,Magento_Checkout
+"Place Order",對不起，暫無報價可供此訂單現在。 ,module,Magento_Checkout
+"Forgot an Item?",消除一個商品嗎?,module,Magento_Checkout
+"Edit Your Cart",編輯您的購物車,module,Magento_Checkout
+"Ship Here",送貨到這裡,module,Magento_Checkout
+"Ship To:",送貨到:,module,Magento_Checkout
+edit,編輯,module,Magento_Checkout
+"Shipping Address",送貨地址,module,Magento_Checkout
+"New Address",從您的地址簿選擇發貨地址，或輸入新地址。 ,module,Magento_Checkout
+"Shipping Methods",送貨方式,module,Magento_Checkout
+"Select Method",選擇方法,module,Magento_Checkout
+"Method Title",方法標題,module,Magento_Checkout
+"Carrier Title",承運人名字,module,Magento_Checkout
+Next,下一個,module,Magento_Checkout
+"Sorry, no quotes are available for this order at this time",抱歉，這個訂單目前沒有報價,module,Magento_Checkout
+"Order Summary",訂單匯總,module,Magento_Checkout
+"Item in Cart",購物裡的商品,module,Magento_Checkout
+"Items in Cart",購物裡的商品,module,Magento_Checkout
+"View Details",查看詳細信息,module,Magento_Checkout
 "Name: %name","名稱: %name",module,Magento_Contact
 "Email: %email","電子郵件: %email",module,Magento_Contact
 "Phone Number: %telephone","電話號碼: %telephone",module,Magento_Contact
@@ -6856,7 +6899,7 @@ Addresses,地址,module,Magento_Customer
 "Gateway URL","Gateway URL",module,Magento_Dhl
 Title,Title,module,Magento_Dhl
 "Access ID","Access ID",module,Magento_Dhl
-Password,Password,module,Magento_Dhl
+Password,密碼,module,Magento_Dhl
 "Account Number","Account Number",module,Magento_Dhl
 "Content Type","Content Type",module,Magento_Dhl
 "Calculate Handling Fee","Calculate Handling Fee",module,Magento_Dhl
@@ -6938,7 +6981,7 @@ Title,Title,module,Magento_Fedex
 "Please make sure to use only digits here. No dashes are allowed.","Please make sure to use only digits here. No dashes are allowed.",module,Magento_Fedex
 "Meter Number","Meter Number",module,Magento_Fedex
 Key,Key,module,Magento_Fedex
-Password,Password,module,Magento_Fedex
+Password,密碼,module,Magento_Fedex
 "Sandbox Mode","Sandbox Mode",module,Magento_Fedex
 "Web-Services URL (Production)","Web-Services URL (Production)",module,Magento_Fedex
 "Web-Services URL (Sandbox)","Web-Services URL (Sandbox)",module,Magento_Fedex
@@ -7258,7 +7301,7 @@ Enabled,Enabled,module,Magento_Paypal
 "Settlement Report Settings","Settlement Report Settings",module,Magento_Paypal
 "SFTP Credentials","SFTP Credentials",module,Magento_Paypal
 Login,Login,module,Magento_Paypal
-Password,Password,module,Magento_Paypal
+Password,密碼,module,Magento_Paypal
 "Custom Endpoint Hostname or IP-Address","Custom Endpoint Hostname or IP-Address",module,Magento_Paypal
 "By default it is ""reports.paypal.com"".","By default it is ""reports.paypal.com"".",module,Magento_Paypal
 "Use colon to specify port. For example: ""test.example.com:5224"".","Use colon to specify port. For example: ""test.example.com:5224"".",module,Magento_Paypal
@@ -7771,7 +7814,7 @@ Container,Container,module,Magento_Ups
 "Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)",module,Magento_Ups
 "Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)","Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)",module,Magento_Ups
 "Origin of the Shipment","Origin of the Shipment",module,Magento_Ups
-Password,Password,module,Magento_Ups
+Password,密碼,module,Magento_Ups
 "Pickup Method","Pickup Method",module,Magento_Ups
 "Sort Order","Sort Order",module,Magento_Ups
 Title,Title,module,Magento_Ups
@@ -7812,7 +7855,7 @@ USPS,USPS,module,Magento_Usps
 "Secure Gateway URL","Secure Gateway URL",module,Magento_Usps
 Title,Title,module,Magento_Usps
 "User ID","User ID",module,Magento_Usps
-Password,Password,module,Magento_Usps
+Password,密碼,module,Magento_Usps
 Mode,Mode,module,Magento_Usps
 "Packages Request Type","Packages Request Type",module,Magento_Usps
 Container,Container,module,Magento_Usps
