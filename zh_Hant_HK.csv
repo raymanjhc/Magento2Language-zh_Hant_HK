@@ -83,12 +83,12 @@ void,作廢,module,Magento_Authorizenet
 "Credit Card Number","信用卡号碼",module,Magento_Authorizenet
 "Expiration Date","有效日期至",module,Magento_Authorizenet
 "Card Verification Number","信用卡識別號",module,Magento_Authorizenet
-"Fraud Detection ","Fraud Detection ",module,Magento_Authorizenet
-"FDS Filter Action","FDS Filter Action",module,Magento_Authorizenet
-"AVS Response","AVS Response",module,Magento_Authorizenet
-"Card Code Response","Card Code Response",module,Magento_Authorizenet
-"CAVV Response","CAVV Response",module,Magento_Authorizenet
-"Fraud Filters","Fraud Filters",module,Magento_Authorizenet
+"Fraud Detection ","欺詐檢測 ",module,Magento_Authorizenet
+"FDS Filter Action","FDS過濾器操作",module,Magento_Authorizenet
+"AVS Response","AVS響應",module,Magento_Authorizenet
+"Card Code Response","卡代碼響應",module,Magento_Authorizenet
+"CAVV Response","CAVV響應",module,Magento_Authorizenet
+"Fraud Filters","欺詐過濾器",module,Magento_Authorizenet
 "Invalid Form Key. Please refresh the page.","Invalid Form Key. Please refresh the page.",module,Magento_Backend
 "You entered an invalid Secret Key. Please refresh the page.","You entered an invalid Secret Key. Please refresh the page.",module,Magento_Backend
 "Cache Storage Management","Cache Storage Management",module,Magento_Backend
@@ -860,12 +860,11 @@ Gallery,畫廊,module,Magento_Catalog
 No,不是,module,Magento_Catalog
 Yes,是,module,Magento_Catalog
 "Data Type for Saving in Database","保存在數據庫中的數據類型",module,Magento_Catalog
-Text,Text,module,Magento_Catalog
-Varchar,Varchar,module,Magento_Catalog
-Static,Static,module,Magento_Catalog
-Datetime,Datetime,module,Magento_Catalog
-Decimal,Decimal,module,Magento_Catalog
-Integer,Integer,module,Magento_Catalog
+Text,文字,module,Magento_Catalog
+Static,靜態,module,Magento_Catalog
+Datetime,日期時間,module,Magento_Catalog
+Decimal,十進制,module,Magento_Catalog
+Integer,整數,module,Magento_Catalog
 "Globally Editable","可在所有範圍內進行編輯",module,Magento_Catalog
 "Attribute Information","屬性信息",module,Magento_Catalog
 Properties,屬性,module,Magento_Catalog
@@ -2185,49 +2184,44 @@ Depth,深度,module,Magento_Dhl
 Width,寬度,module,Magento_Dhl
 Regular,通常,module,Magento_Dhl
 Specific,特定,module,Magento_Dhl
-"Easy shop","Easy shop",module,Magento_Dhl
-Sprintline,Sprintline,module,Magento_Dhl
-Secureline,Secureline,module,Magento_Dhl
-"Express easy","Express easy",module,Magento_Dhl
-Europack,Europack,module,Magento_Dhl
-"Break bulk express","Break bulk express",module,Magento_Dhl
-"Medical express","Medical express",module,Magento_Dhl
-"Express worldwide","Express worldwide",module,Magento_Dhl
-"Express 9:00","Express 9:00",module,Magento_Dhl
-"Express 10:30","Express 10:30",module,Magento_Dhl
-"Domestic economy select","Domestic economy select",module,Magento_Dhl
-"Economy select","Economy select",module,Magento_Dhl
-"Break bulk economy","Break bulk economy",module,Magento_Dhl
-"Domestic express","Domestic express",module,Magento_Dhl
-Others,Others,module,Magento_Dhl
-"Globalmail business","Globalmail business",module,Magento_Dhl
-"Same day","Same day",module,Magento_Dhl
-"Express 12:00","Express 12:00",module,Magento_Dhl
-"Express envelope","Express envelope",module,Magento_Dhl
-"Customer services","Customer services",module,Magento_Dhl
-Jetline,Jetline,module,Magento_Dhl
-"Freight worldwide","Freight worldwide",module,Magento_Dhl
-"Jumbo box","Jumbo box",module,Magento_Dhl
-"DHL service is not available at %s date","DHL service is not available at %s date",module,Magento_Dhl
-"The response is in wrong format.","The response is in wrong format.",module,Magento_Dhl
-"Error #%1 : %2","Error #%1 : %2",module,Magento_Dhl
-"We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).","We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).",module,Magento_Dhl
-"Zero shipping charge for '%1'","Zero shipping charge for '%1'",module,Magento_Dhl
-DHL,DHL,module,Magento_Dhl
-"Cannot identify measure unit for %1","Cannot identify measure unit for %1",module,Magento_Dhl
-"Cannot identify weight unit for %1","Cannot identify weight unit for %1",module,Magento_Dhl
-"There is no items in this order","There is no items in this order",module,Magento_Dhl
-"Please, specify origin country","Please, specify origin country",module,Magento_Dhl
-Documents,Documents,module,Magento_Dhl
-"Non Documents","Non Documents",module,Magento_Dhl
-"Height, width and length should be equal or greater than %1","Height, width and length should be equal or greater than %1",module,Magento_Dhl
-"Wrong Region","Wrong Region",module,Magento_Dhl
-"Unable to retrieve tracking","Unable to retrieve tracking",module,Magento_Dhl
-"Response is in the wrong format","Response is in the wrong format",module,Magento_Dhl
-"No packages for request","No packages for request",module,Magento_Dhl
-"Unable to retrieve shipping label","Unable to retrieve shipping label",module,Magento_Dhl
-"Non documents","Non documents",module,Magento_Dhl
-None,None,module,Magento_Dhl
+"Easy shop",易店,module,Magento_Dhl
+"Express easy",快遞很容易,module,Magento_Dhl
+"Break bulk express",散貨快遞,module,Magento_Dhl
+"Medical express",醫療快遞,module,Magento_Dhl
+"Express worldwide",在世界​​範圍內的快遞,module,Magento_Dhl
+"Express 9:00","表示 9:00",module,Magento_Dhl
+"Express 10:30","表示 10:30",module,Magento_Dhl
+"Domestic economy select",國內經濟選擇,module,Magento_Dhl
+"Economy select",經濟選擇,module,Magento_Dhl
+"Break bulk economy",打破大容量經濟,module,Magento_Dhl
+"Domestic express",國內快遞,module,Magento_Dhl
+Others,其他,module,Magento_Dhl
+"Globalmail business","Globalmail 業務",module,Magento_Dhl
+"Same day",同一天,module,Magento_Dhl
+"Express 12:00","表達 12:00",module,Magento_Dhl
+"Express envelope",快遞信封,module,Magento_Dhl
+"Customer services",客戶服務,module,Magento_Dhl
+"Freight worldwide",全球貨運,module,Magento_Dhl
+"Jumbo box",珍寶箱,module,Magento_Dhl
+"DHL service is not available at %s date","DHL 服務 %s 日期不可用",module,Magento_Dhl
+"The response is in wrong format.",響應是錯誤的格式。 ,module,Magento_Dhl
+"Error #%1 : %2","錯誤 #%1: %2",module,Magento_Dhl
+"We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).","我們不得不跳過DHL 方法%1，因為我們找不到匯率%2 (基礎貨幣)。 ",module,Magento_Dhl
+"Zero shipping charge for '%1'","'%1' 的零運費",module,Magento_Dhl
+"Cannot identify measure unit for %1","找不到 %1 的計量單位",module,Magento_Dhl
+"Cannot identify weight unit for %1","找不到 %1 的重量單位",module,Magento_Dhl
+"There is no items in this order",按此順序還有沒有項目,module,Magento_Dhl
+"Please specify origin country.",請指定原產地。 ,module,Magento_Dhl
+Documents,文件,module,Magento_Dhl
+"Non Documents",非文件,module,Magento_Dhl
+"Height, width and length should be equal or greater than %1","高度、 寬度和長度應等於或大於 %1",module,Magento_Dhl
+"Wrong Region",區域錯誤,module,Magento_Dhl
+"Unable to retrieve tracking",無法檢索跟踪,module,Magento_Dhl
+"Response is in the wrong format",反應是在錯誤的格式,module,Magento_Dhl
+"No packages for request",沒有要求包裹,module,Magento_Dhl
+"Unable to retrieve shipping label",無法檢索發貨標籤,module,Magento_Dhl
+"Non documents",非文件,module,Magento_Dhl
+None,無,module,Magento_Dhl
 State/Province,州/省,module,Magento_Directory
 "--Please Select--","--請選擇--",module,Magento_Directory
 lbs,磅,module,Magento_Directory
@@ -2580,49 +2574,49 @@ Yes,是,module,Magento_EncryptionKey
 "Please enter an encryption key.","請輸入加密密鑰.",module,Magento_EncryptionKey
 "The encryption key has been changed.","加密密鑰已被更改.",module,Magento_EncryptionKey
 "This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","這是你的新的加密密鑰: <span style=""font-family:monospace;"">%1</span>. 請務必將它寫下來，好好保存它!",module,Magento_EncryptionKey
-"Europe First Priority","Europe First Priority",module,Magento_Fedex
-"1 Day Freight","1 Day Freight",module,Magento_Fedex
-"2 Day Freight","2 Day Freight",module,Magento_Fedex
-"2 Day","2 Day",module,Magento_Fedex
-"2 Day AM","2 Day AM",module,Magento_Fedex
-"3 Day Freight","3 Day Freight",module,Magento_Fedex
-"Express Saver","Express Saver",module,Magento_Fedex
-Ground,Ground,module,Magento_Fedex
-"First Overnight","First Overnight",module,Magento_Fedex
-"Home Delivery","Home Delivery",module,Magento_Fedex
-"International Economy","International Economy",module,Magento_Fedex
-"Intl Economy Freight","Intl Economy Freight",module,Magento_Fedex
-"International First","International First",module,Magento_Fedex
-"International Ground","International Ground",module,Magento_Fedex
-"International Priority","International Priority",module,Magento_Fedex
-"Intl Priority Freight","Intl Priority Freight",module,Magento_Fedex
-"Priority Overnight","Priority Overnight",module,Magento_Fedex
-"Smart Post","Smart Post",module,Magento_Fedex
-"Standard Overnight","Standard Overnight",module,Magento_Fedex
-Freight,Freight,module,Magento_Fedex
-"National Freight","National Freight",module,Magento_Fedex
-"Regular Pickup","Regular Pickup",module,Magento_Fedex
-"Request Courier","Request Courier",module,Magento_Fedex
-"Drop Box","Drop Box",module,Magento_Fedex
-"Business Service Center","Business Service Center",module,Magento_Fedex
-Station,Station,module,Magento_Fedex
-"FedEx Envelope","FedEx Envelope",module,Magento_Fedex
-"FedEx Pak","FedEx Pak",module,Magento_Fedex
-"FedEx Box","FedEx Box",module,Magento_Fedex
-"FedEx Tube","FedEx Tube",module,Magento_Fedex
-"FedEx 10kg Box","FedEx 10kg Box",module,Magento_Fedex
-"FedEx 25kg Box","FedEx 25kg Box",module,Magento_Fedex
-"Your Packaging","Your Packaging",module,Magento_Fedex
-"Not Required","Not Required",module,Magento_Fedex
-Adult,Adult,module,Magento_Fedex
-Direct,Direct,module,Magento_Fedex
-Indirect,Indirect,module,Magento_Fedex
-Pounds,Pounds,module,Magento_Fedex
-Kilograms,Kilograms,module,Magento_Fedex
-"For some reason we can't retrieve tracking info right now.","For some reason we can't retrieve tracking info right now.",module,Magento_Fedex
-status,status,module,Magento_Fedex
-"Empty response","Empty response",module,Magento_Fedex
-None,None,module,Magento_Fedex
+"The encryption key has been changed.",加密密鑰已被更改。 ,module,Magento_EncryptionKey
+"Europe First Priority",若選擇職能遞送方法，該字段適用,module,Magento_Fedex
+"1 Day Freight","1 天貨運",module,Magento_Fedex
+"2 Day Freight","2 天貨運",module,Magento_Fedex
+"2 Day","2 天",module,Magento_Fedex
+"2 Day AM","2 日上午",module,Magento_Fedex
+"3 Day Freight","3 天貨運",module,Magento_Fedex
+"Express Saver",表示保護程序,module,Magento_Fedex
+"First Overnight",第一夜,module,Magento_Fedex
+"Home Delivery",送貨上門,module,Magento_Fedex
+"International Economy",國際經濟,module,Magento_Fedex
+"Intl Economy Freight",國際經濟貨運,module,Magento_Fedex
+"International First",國際第一,module,Magento_Fedex
+"International Ground",國際地面,module,Magento_Fedex
+"International Priority",國際優先事項,module,Magento_Fedex
+"Intl Priority Freight",國際優先貨運,module,Magento_Fedex
+"Priority Overnight",隔夜優先,module,Magento_Fedex
+"Smart Post",智能的帖子,module,Magento_Fedex
+"Standard Overnight",標準一夜之間,module,Magento_Fedex
+Freight,運輸,module,Magento_Fedex
+"National Freight",全國貨運,module,Magento_Fedex
+"Regular Pickup",定期的檢查,module,Magento_Fedex
+"Request Courier",要求快遞,module,Magento_Fedex
+"Drop Box",下拉框,module,Magento_Fedex
+"Business Service Center",商務服務中心,module,Magento_Fedex
+Station,車站,module,Magento_Fedex
+"FedEx Env​​elope",聯邦快遞信封,module,Magento_Fedex
+"FedEx Pak",聯邦快遞白,module,Magento_Fedex
+"FedEx Box",聯邦快遞的盒子,module,Magento_Fedex
+"FedEx Tube",聯邦快遞管,module,Magento_Fedex
+"FedEx 10kg Box","聯邦快遞 10 公斤箱",module,Magento_Fedex
+"FedEx 25kg Box","聯邦快遞 25 公斤箱",module,Magento_Fedex
+"Your Packaging",您的包裝,module,Magento_Fedex
+"Not Required",最大包裝重量（請參閱您的裝運承運人的最大支持裝運重量）,module,Magento_Fedex
+Adult,成人,module,Magento_Fedex
+Direct,直接,module,Magento_Fedex
+Indirect,間接,module,Magento_Fedex
+Pounds,公斤,module,Magento_Fedex
+Kilograms,公斤,module,Magento_Fedex
+"For some reason we can't retrieve tracking info right now.",出於某種原因，我們無法檢索跟踪信息現在。 ,module,Magento_Fedex
+status,狀態,module,Magento_Fedex
+"Empty response",空響應,module,Magento_Fedex
+None,無,module,Magento_Fedex
 "Gift Messages is not applicable for empty cart","禮品消息並不適用於空購物車",module,Magento_GiftMessage
 "Gift Messages is not applicable for virtual products","禮品信息不適用於虛擬產品",module,Magento_GiftMessage
 "Gift Message is not available","禮品信息不可用",module,Magento_GiftMessage
@@ -3368,279 +3362,271 @@ Never,永不,module,Magento_Paypal
 "This customer didn't include a confirmed address.","該客戶不包括已確認的地址.",module,Magento_Paypal
 "The payment is authorized but not settled.","支付已授權，但尚未結算.",module,Magento_Paypal
 "The payment eCheck is not cleared.","The payment eCheck is not cleared.",module,Magento_Paypal
-"The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.","The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.",module,Magento_Paypal
-"The payment currency doesn't match any of the merchant's balances currency.","The payment currency doesn't match any of the merchant's balances currency.",module,Magento_Paypal
-"The payment is pending while it is being reviewed by PayPal for risk.","The payment is pending while it is being reviewed by PayPal for risk.",module,Magento_Paypal
-"The payment is pending because it was made to an email address that is not yet registered or confirmed.","The payment is pending because it was made to an email address that is not yet registered or confirmed.",module,Magento_Paypal
-"The merchant account is not yet verified.","The merchant account is not yet verified.",module,Magento_Paypal
-"The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.","The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.",module,Magento_Paypal
-"Sorry, but something went wrong. Please contact PayPal customer service.","Sorry, but something went wrong. Please contact PayPal customer service.",module,Magento_Paypal
-"A reversal has occurred on this transaction due to a chargeback by your customer.","A reversal has occurred on this transaction due to a chargeback by your customer.",module,Magento_Paypal
-"A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.","A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.",module,Magento_Paypal
-"A reversal has occurred on this transaction due to a complaint about the transaction from your customer.","A reversal has occurred on this transaction due to a complaint about the transaction from your customer.",module,Magento_Paypal
-"A reversal has occurred on this transaction because you have given the customer a refund.","A reversal has occurred on this transaction because you have given the customer a refund.",module,Magento_Paypal
-"Reversal of an adjustment.","Reversal of an adjustment.",module,Magento_Paypal
-"Transaction reversal due to fraud detected by PayPal administrators.","Transaction reversal due to fraud detected by PayPal administrators.",module,Magento_Paypal
-"Transaction reversal by PayPal administrators.","Transaction reversal by PayPal administrators.",module,Magento_Paypal
-"Reimbursement for a chargeback.","Reimbursement for a chargeback.",module,Magento_Paypal
-"Settlement of a chargeback.","Settlement of a chargeback.",module,Magento_Paypal
-"A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.","A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.",module,Magento_Paypal
-"Buyer claims that he did not receive goods or service.","Buyer claims that he did not receive goods or service.",module,Magento_Paypal
-"Buyer claims that the goods or service received differ from merchant’s description of the goods or service.","Buyer claims that the goods or service received differ from merchant’s description of the goods or service.",module,Magento_Paypal
-"Buyer claims that he/she did not authorize transaction.","Buyer claims that he/she did not authorize transaction.",module,Magento_Paypal
-"A case that has been resolved and close requires a reimbursement.","A case that has been resolved and close requires a reimbursement.",module,Magento_Paypal
-"Buyer claims that a possible duplicate payment was made to the merchant.","Buyer claims that a possible duplicate payment was made to the merchant.",module,Magento_Paypal
-"Buyer claims that the received merchandise is unsatisfactory, defective, or damaged.","Buyer claims that the received merchandise is unsatisfactory, defective, or damaged.",module,Magento_Paypal
-"Unknown reason. Please contact PayPal customer service.","Unknown reason. Please contact PayPal customer service.",module,Magento_Paypal
-"Payer ID","付款人ID",module,Magento_Paypal
-"Payer Email","付款人電子郵件",module,Magento_Paypal
-"Payer Status","付款人狀態",module,Magento_Paypal
-"Payer Address ID","付款人地址ID",module,Magento_Paypal
-"Payer Address Status","付款人地址狀態",module,Magento_Paypal
-"Merchant Protection Eligibility","商家保護資格",module,Magento_Paypal
-"Triggered Fraud Filters","Triggered Fraud Filters",module,Magento_Paypal
-"Last Correlation ID","Last Correlation ID",module,Magento_Paypal
-"Address Verification System Response","Address Verification System Response",module,Magento_Paypal
-"CVV2 Check Result by PayPal","CVV2 Check Result by PayPal",module,Magento_Paypal
-"AVS Street Match","AVS Street Match",module,Magento_Paypal
-"AVS zip","AVS zip",module,Magento_Paypal
-"International AVS response","International AVS response",module,Magento_Paypal
-"Buyer's Tax ID","Buyer's Tax ID",module,Magento_Paypal
-"Buyer's Tax ID Type","Buyer's Tax ID Type",module,Magento_Paypal
-Chargeback,Chargeback,module,Magento_Paypal
-Complaint,Complaint,module,Magento_Paypal
-Dispute,Dispute,module,Magento_Paypal
-"Matched Address only (no ZIP)","Matched Address only (no ZIP)",module,Magento_Paypal
-"Matched Address only (no ZIP) International","Matched Address only (no ZIP) International",module,Magento_Paypal
-"No Details matched","No Details matched",module,Magento_Paypal
-"No Details matched. International","No Details matched. International",module,Magento_Paypal
-"Exact Match.","Exact Match.",module,Magento_Paypal
-"Exact Match. Address and Postal Code. International","Exact Match. Address and Postal Code. International",module,Magento_Paypal
-"Exact Match. Address and Postal Code. UK-specific","Exact Match. Address and Postal Code. UK-specific",module,Magento_Paypal
-"N/A. Not allowed for MOTO (Internet/Phone) transactions","N/A. Not allowed for MOTO (Internet/Phone) transactions",module,Magento_Paypal
-"N/A. Global Unavailable","N/A. Global Unavailable",module,Magento_Paypal
-"N/A. International Unavailable","N/A. International Unavailable",module,Magento_Paypal
-"Matched five-digit ZIP only (no Address)","Matched five-digit ZIP only (no Address)",module,Magento_Paypal
-"Matched Postal Code only (no Address)","Matched Postal Code only (no Address)",module,Magento_Paypal
-"N/A. Retry","N/A. Retry",module,Magento_Paypal
-"N/A. Service not Supported","N/A. Service not Supported",module,Magento_Paypal
-"N/A. Unavailable","N/A. Unavailable",module,Magento_Paypal
-"Matched whole nine-didgit ZIP (no Address)","Matched whole nine-didgit ZIP (no Address)",module,Magento_Paypal
-"Yes. Matched Address and five-didgit ZIP","Yes. Matched Address and five-didgit ZIP",module,Magento_Paypal
-"All the address information matched","All the address information matched",module,Magento_Paypal
-"None of the address information matched","None of the address information matched",module,Magento_Paypal
-"Part of the address information matched","Part of the address information matched",module,Magento_Paypal
-"N/A. The merchant did not provide AVS information","N/A. The merchant did not provide AVS information",module,Magento_Paypal
-"N/A. Address not checked, or acquirer had no response. Service not available","N/A. Address not checked, or acquirer had no response. Service not available",module,Magento_Paypal
-"Matched (CVV2CSC)","Matched (CVV2CSC)",module,Magento_Paypal
-"No match","No match",module,Magento_Paypal
-"N/A. Not processed","N/A. Not processed",module,Magento_Paypal
-"N/A. Service not supported","N/A. Service not supported",module,Magento_Paypal
-"N/A. Service not available","N/A. Service not available",module,Magento_Paypal
-"N/A. No response","N/A. No response",module,Magento_Paypal
-"Matched (CVV2)","Matched (CVV2)",module,Magento_Paypal
-"N/A. The merchant has not implemented CVV2 code handling","N/A. The merchant has not implemented CVV2 code handling",module,Magento_Paypal
-"N/A. Merchant has indicated that CVV2 is not present on card","N/A. Merchant has indicated that CVV2 is not present on card",module,Magento_Paypal
-CNPJ,CNPJ,module,Magento_Paypal
-CPF,CPF,module,Magento_Paypal
-"Note: %1","Note: %1",module,Magento_Paypal
-"IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4","IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4",module,Magento_Paypal
-"IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.","IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.",module,Magento_Paypal
-"You notified customer about invoice #%1.","You notified customer about invoice #%1.",module,Magento_Paypal
-"IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""",module,Magento_Paypal
-"You notified customer about creditmemo #%1.","You notified customer about creditmemo #%1.",module,Magento_Paypal
-"IPN ""%1""","IPN ""%1""",module,Magento_Paypal
-"Payflow PNREF: #%1.","Payflow PNREF: #%1.",module,Magento_Paypal
-"Unable to fetch transaction details.","Unable to fetch transaction details.",module,Magento_Paypal
-"Invalid method %1::%2(%3)","Invalid method %1::%2(%3)",module,Magento_Paypal
-"Transaction has been declined","Transaction has been declined",module,Magento_Paypal
-"Error processing payment, please try again later.","Error processing payment, please try again later.",module,Magento_Paypal
-"We cannot send the new order email.","We cannot send the new order email.",module,Magento_Paypal
-"You cannot void a verification transaction.","You cannot void a verification transaction.",module,Magento_Paypal
-"You need an authorization transaction to void.","You need an authorization transaction to void.",module,Magento_Paypal
-"We can't issue a refund transaction because there is no capture transaction.","We can't issue a refund transaction because there is no capture transaction.",module,Magento_Paypal
-"We cannot create a target file for reading reports.","We cannot create a target file for reading reports.",module,Magento_Paypal
-"Report Date","Report Date",module,Magento_Paypal
-"Merchant Account","Merchant Account",module,Magento_Paypal
-"Transaction ID","Transaction ID",module,Magento_Paypal
-"Invoice ID","Invoice ID",module,Magento_Paypal
-"PayPal Reference ID","PayPal Reference ID",module,Magento_Paypal
-"PayPal Reference ID Type","PayPal Reference ID Type",module,Magento_Paypal
-"Event Code","Event Code",module,Magento_Paypal
-Event,Event,module,Magento_Paypal
-"Start Date","Start Date",module,Magento_Paypal
-"Finish Date","Finish Date",module,Magento_Paypal
-"Debit or Credit","Debit or Credit",module,Magento_Paypal
-"Gross Amount","Gross Amount",module,Magento_Paypal
-"Fee Debit or Credit","Fee Debit or Credit",module,Magento_Paypal
-"Fee Amount","Fee Amount",module,Magento_Paypal
-Custom,Custom,module,Magento_Paypal
-"Order ID","Order ID",module,Magento_Paypal
-"Preapproved Payment ID","Preapproved Payment ID",module,Magento_Paypal
-"Subscription ID","Subscription ID",module,Magento_Paypal
-Credit,Credit,module,Magento_Paypal
-Debit,Debit,module,Magento_Paypal
-"ACH Deposit (Hold for Dispute or Other Investigation)","ACH Deposit (Hold for Dispute or Other Investigation)",module,Magento_Paypal
-"ACH Deposit (Reversal)","ACH Deposit (Reversal)",module,Magento_Paypal
-"ACH Funding for Funds Recovery from Account Balance","ACH Funding for Funds Recovery from Account Balance",module,Magento_Paypal
-"ACH Withdrawal","ACH Withdrawal",module,Magento_Paypal
-"Account-to-Account Payment, initiated by PayPal","Account-to-Account Payment, initiated by PayPal",module,Magento_Paypal
-"Auction Payment other than through eBay","Auction Payment other than through eBay",module,Magento_Paypal
-AutoSweep,AutoSweep,module,Magento_Paypal
-"Available Balance","Available Balance",module,Magento_Paypal
-"Balance Manager Account Bonus","Balance Manager Account Bonus",module,Magento_Paypal
-"Bonus for first ACH Use","Bonus for first ACH Use",module,Magento_Paypal
-"Buyer Credit Payment","Buyer Credit Payment",module,Magento_Paypal
-Charge-off,Charge-off,module,Magento_Paypal
-"Coupon Redemption","Coupon Redemption",module,Magento_Paypal
-"Currency Conversion required to cover negative balance","Currency Conversion required to cover negative balance",module,Magento_Paypal
-"Debit Card Cash Back","Debit Card Cash Back",module,Magento_Paypal
-"Debit Card Transaction","Debit Card Transaction",module,Magento_Paypal
-"Direct Payment API","Direct Payment API",module,Magento_Paypal
-"EFT Funding (German banking)","EFT Funding (German banking)",module,Magento_Paypal
-"Express Checkout APIs","Express Checkout APIs",module,Magento_Paypal
-"Fee Reversal","Fee Reversal",module,Magento_Paypal
-"Fee: Foreign ACH Withdrawal","Fee: Foreign ACH Withdrawal",module,Magento_Paypal
-"Fee: Mass Pay Request","Fee: Mass Pay Request",module,Magento_Paypal
-"Fee: Web Site Payments Pro Account Monthly","Fee: Web Site Payments Pro Account Monthly",module,Magento_Paypal
-"Fee: WorldLink Check Withdrawal","Fee: WorldLink Check Withdrawal",module,Magento_Paypal
-Funding,Funding,module,Magento_Paypal
-"General (Authorization)","General (Authorization)",module,Magento_Paypal
-"General (Dividend)","General (Dividend)",module,Magento_Paypal
-"General (Funds Transfer from PayPal Account to Another)","General (Funds Transfer from PayPal Account to Another)",module,Magento_Paypal
-"General (Purchase with a credit card)","General (Purchase with a credit card)",module,Magento_Paypal
-"General Adjustment without businessrelated event","General Adjustment without businessrelated event",module,Magento_Paypal
-"General Currency Conversion","General Currency Conversion",module,Magento_Paypal
-"General Funding of PayPal Account ","General Funding of PayPal Account ",module,Magento_Paypal
-"General Redemption","General Redemption",module,Magento_Paypal
-"General Withdrawal from PayPal Account","General Withdrawal from PayPal Account",module,Magento_Paypal
-"General. Product no longer supported","General. Product no longer supported",module,Magento_Paypal
-"General: Use of PayPal account for purchasing as well as receiving payments","General: Use of PayPal account for purchasing as well as receiving payments",module,Magento_Paypal
-"General: Withdrawal from PayPal Account","General: Withdrawal from PayPal Account",module,Magento_Paypal
-"General: Withdrawal to Non-Bank Entity","General: Withdrawal to Non-Bank Entity",module,Magento_Paypal
-"General: adjustment of a type not belonging to the other T12xx categories","General: adjustment of a type not belonging to the other T12xx categories",module,Magento_Paypal
-"General: bonus of a type not belonging to the other T08xx categories","General: bonus of a type not belonging to the other T08xx categories",module,Magento_Paypal
-"General: event not yet categorized","General: event not yet categorized",module,Magento_Paypal
-"General: non-payment fee of a type not belonging to the other T01xx categories","General: non-payment fee of a type not belonging to the other T01xx categories",module,Magento_Paypal
-"General: received payment of a type not belonging to the other T00xx categories","General: received payment of a type not belonging to the other T00xx categories",module,Magento_Paypal
-"General: reversal of a type not belonging to the other T11xx categories","General: reversal of a type not belonging to the other T11xx categories",module,Magento_Paypal
-"General: temporary hold of a type not belonging to the other T15xx categories","General: temporary hold of a type not belonging to the other T15xx categories",module,Magento_Paypal
-"Gift Certificate Payment: purchase of Gift Certificate","Gift Certificate Payment: purchase of Gift Certificate",module,Magento_Paypal
-"Gift Certificate Redemption","Gift Certificate Redemption",module,Magento_Paypal
-"Hidden Virtual PayPal Debit Card Transaction","Hidden Virtual PayPal Debit Card Transaction",module,Magento_Paypal
-"Hold for Dispute Investigation","Hold for Dispute Investigation",module,Magento_Paypal
-Incentive,Incentive,module,Magento_Paypal
-"Mass Pay Payment","Mass Pay Payment",module,Magento_Paypal
-"Merchant Referral Bonus","Merchant Referral Bonus",module,Magento_Paypal
-"Mobile Payment (made via a mobile phone)","Mobile Payment (made via a mobile phone)",module,Magento_Paypal
-"Negative Balance","Negative Balance",module,Magento_Paypal
-"Open Authorization","Open Authorization",module,Magento_Paypal
-"PayPal Balance Manager function of PayPal account","PayPal Balance Manager function of PayPal account",module,Magento_Paypal
-"PayPal Buyer Warranty Bonus","PayPal Buyer Warranty Bonus",module,Magento_Paypal
-"PayPal Debit Card Cash Advance","PayPal Debit Card Cash Advance",module,Magento_Paypal
-"PayPal Debit Card Withdrawal from ATM","PayPal Debit Card Withdrawal from ATM",module,Magento_Paypal
-"PayPal Protection Bonus","PayPal Protection Bonus",module,Magento_Paypal
-"Payment Refund initiated by merchant","Payment Refund initiated by merchant",module,Magento_Paypal
-"Points Incentive Redemption","Points Incentive Redemption",module,Magento_Paypal
-"Postage Payment to either USPS or UPS","Postage Payment to either USPS or UPS",module,Magento_Paypal
-"Preapproved Payment (BillUser API, either sent or received","Preapproved Payment (BillUser API, either sent or received",module,Magento_Paypal
-Reauthorization,Reauthorization,module,Magento_Paypal
-"Reimbursement of Chargeback","Reimbursement of Chargeback",module,Magento_Paypal
-Reversal,Reversal,module,Magento_Paypal
-"Reversal of General Account Hold","Reversal of General Account Hold",module,Magento_Paypal
-"Reversal of Points Usage","Reversal of Points Usage",module,Magento_Paypal
-"Reversal of hold for Dispute Investigation","Reversal of hold for Dispute Investigation",module,Magento_Paypal
-"Reward Voucher Redemption","Reward Voucher Redemption",module,Magento_Paypal
-"Settlement Consolidation","Settlement Consolidation",module,Magento_Paypal
-"Subscription Payment, either payment sent or payment received","Subscription Payment, either payment sent or payment received",module,Magento_Paypal
-"User-initiated Currency Conversion","User-initiated Currency Conversion",module,Magento_Paypal
-"Virtual PayPal Debit Card Transaction","Virtual PayPal Debit Card Transaction",module,Magento_Paypal
-"Virtual Terminal Payment","Virtual Terminal Payment",module,Magento_Paypal
-Void,Void,module,Magento_Paypal
-"WorldLink Withdrawal","WorldLink Withdrawal",module,Magento_Paypal
-"eBay Auction Payment","eBay Auction Payment",module,Magento_Paypal
-"The PayPal certificate file is empty.","The PayPal certificate file is empty.",module,Magento_Paypal
-"Header (center)","Header (center)",module,Magento_Paypal
-"Sidebar (right)","Sidebar (right)",module,Magento_Paypal
-"Near PayPal Credit checkout button","Near PayPal Credit checkout button",module,Magento_Paypal
-"--Please Select--","--Please Select--",module,Magento_Paypal
-Daily,Daily,module,Magento_Paypal
-"Every 3 days","Every 3 days",module,Magento_Paypal
-"Every 7 days","Every 7 days",module,Magento_Paypal
-"Every 10 days","Every 10 days",module,Magento_Paypal
-"Every 14 days","Every 14 days",module,Magento_Paypal
-"Every 30 days","Every 30 days",module,Magento_Paypal
-"Every 40 days","Every 40 days",module,Magento_Paypal
-"No Logo","No Logo",module,Magento_Paypal
-"Yes (PayPal recommends this option)","Yes (PayPal recommends this option)",module,Magento_Paypal
-"Created billing agreement #%1.","Created billing agreement #%1.",module,Magento_Paypal
-"We can't create a billing agreement for this order.","We can't create a billing agreement for this order.",module,Magento_Paypal
-"Pending PayPal","Pending PayPal",module,Magento_Paypal
-"PayPal Reversed","PayPal Reversed",module,Magento_Paypal
-"PayPal Canceled Reversal","PayPal Canceled Reversal",module,Magento_Paypal
-Error,Error,module,Magento_Paypal
-"Billing Agreement","Billing Agreement",module,Magento_Paypal
-"Please Select","Please Select",module,Magento_Paypal
-Customer,Customer,module,Magento_Paypal
-"Created At","Created At",module,Magento_Paypal
-"Updated At","Updated At",module,Magento_Paypal
-"Not sure what PayPal payment method to use? Click ","Not sure what PayPal payment method to use? Click ",module,Magento_Paypal
-here,here,module,Magento_Paypal
-" to learn more."," to learn more.",module,Magento_Paypal
-"Important: ","Important: ",module,Magento_Paypal
-"To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.","To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.",module,Magento_Paypal
-"Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below",module,Magento_Paypal
-"To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.",module,Magento_Paypal
-"Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below",module,Magento_Paypal
-"Billing Agreement # ","Billing Agreement # ",module,Magento_Paypal
-"Agreement Information","Agreement Information",module,Magento_Paypal
-"Reference ID:","Reference ID:",module,Magento_Paypal
-Status:,Status:,module,Magento_Paypal
-Created:,Created:,module,Magento_Paypal
-Updated:,Updated:,module,Magento_Paypal
-"Payment Method:","Payment Method:",module,Magento_Paypal
-"Order #","Order #",module,Magento_Paypal
-Date,Date,module,Magento_Paypal
-"Ship To","Ship To",module,Magento_Paypal
-"Order Status","Order Status",module,Magento_Paypal
-"View Order","View Order",module,Magento_Paypal
-"Back to Billing Agreements","Back to Billing Agreements",module,Magento_Paypal
-"Payment Method","Payment Method",module,Magento_Paypal
-View,View,module,Magento_Paypal
-"There are no billing agreements yet.","There are no billing agreements yet.",module,Magento_Paypal
-"New Billing Agreement","New Billing Agreement",module,Magento_Paypal
-"You will be redirected to the payment system website.","You will be redirected to the payment system website.",module,Magento_Paypal
-"-- Please Select --","-- Please Select --",module,Magento_Paypal
-Create...,Create...,module,Magento_Paypal
-"Your credit card will be charged for","Your credit card will be charged for",module,Magento_Paypal
-"Your billing agreement # is: ","Your billing agreement # is: ",module,Magento_Paypal
-"Shipping Method","Shipping Method",module,Magento_Paypal
-"Please select a shipping method...","Please select a shipping method...",module,Magento_Paypal
-"Update Shipping Method","Update Shipping Method",module,Magento_Paypal
-"Sorry, no quotes are available for this order right now.","Sorry, no quotes are available for this order right now.",module,Magento_Paypal
-"Shipping Address","Shipping Address",module,Magento_Paypal
-Edit,Edit,module,Magento_Paypal
-"Buy now with PayPal","Buy now with PayPal",module,Magento_Paypal
-"Edit Payment Information","Edit Payment Information",module,Magento_Paypal
-"Items in Your Shopping Cart","Items in Your Shopping Cart",module,Magento_Paypal
-"Edit Shopping Cart","Edit Shopping Cart",module,Magento_Paypal
-"Place Order","Place Order",module,Magento_Paypal
-"Submitting order information...","Submitting order information...",module,Magento_Paypal
-Item,Item,module,Magento_Paypal
-Price,Price,module,Magento_Paypal
-Qty,Qty,module,Magento_Paypal
-Subtotal,Subtotal,module,Magento_Paypal
-"Please update order data to get shipping methods and rates","Please update order data to get shipping methods and rates",module,Magento_Paypal
-or,or,module,Magento_Paypal
-"Checkout with PayPal","Checkout with PayPal",module,Magento_Paypal
-"Please do not refresh the page until you complete payment.","Please do not refresh the page until you complete payment.",module,Magento_Paypal
-"You will be required to enter your payment details after you place an order.","You will be required to enter your payment details after you place an order.",module,Magento_Paypal
-Continue,Continue,module,Magento_Paypal
-"Additional Options","Additional Options",module,Magento_Paypal
-"-- Please Select Billing Agreement--","-- Please Select Billing Agreement--",module,Magento_Paypal
-"Acceptance Mark","Acceptance Mark",module,Magento_Paypal
-"What is PayPal?","What is PayPal?",module,Magento_Paypal
-"Sign a billing agreement to streamline further purchases  with PayPal.","Sign a billing agreement to streamline further purchases  with PayPal.",module,Magento_Paypal
+The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.",商人持有非美國帳戶，並沒有退出機制。 ,module,Magento_Paypal
+"The payment currency doesn't match any of the merchant's balances currency.",付款幣種不匹配任何商人的餘額的貨幣。 ,module,Magento_Paypal
+"The payment is pending while it is being reviewed by PayPal for risk.",該付款正在等待，而它正在審查通過支付寶的風險。 ,module,Magento_Paypal
+"The payment is pending because it was made to an email address that is not yet registered or confirmed.",該付款正在等待，因為它是由一個電子郵件地址，尚未登記或確認。 ,module,Magento_Paypal
+"The merchant account is not yet verified.",商人帳戶尚未證明。 ,module,Magento_Paypal
+"The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.",通過信用卡付款。為了得到資金商人必須升級帳戶到業務或總理的地位。 ,module,Magento_Paypal
+"Sorry, but something went wrong. Please contact PayPal customer service.","對不起，但東西走錯了。請聯繫 PayPal 客戶服務。",module,Magento_Paypal
+"A reversal has occurred on this transaction due to a chargeback by your customer.",由於您的客戶計費的這筆交易發生了逆轉。 ,module,Magento_Paypal
+"A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.",由於觸發退款保證您客戶的這筆交易發生了逆轉。 ,module,Magento_Paypal
+"A reversal has occurred on this transaction due to a complaint about the transaction from your customer.",從您的客戶交易投訴此交易發生了逆轉。 ,module,Magento_Paypal
+"A reversal has occurred on this transaction because you have given the customer a refund.",因為你給客戶退款這筆交易上出現逆轉。 ,module,Magento_Paypal
+"Reversal of an adjustment.",逆轉的調整。 ,module,Magento_Paypal
+"Transaction reversal due to fraud detected by PayPal administrators.",由於支付寶管理人員檢測到的欺詐交易。 ,module,Magento_Paypal
+"Transaction reversal by PayPal administrators.",通過支付寶管理員的交易撤銷。 ,module,Magento_Paypal
+"Reimbursement for a chargeback.",報銷費用分攤。 ,module,Magento_Paypal
+"Settlement of a chargeback.",存儲容量使用計費結算。 ,module,Magento_Paypal
+"A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.",這筆交易因懷疑未經授權的欺騙客戶糾紛發生了逆轉。 ,module,Magento_Paypal
+"Buyer claims that he did not receive goods or service.",買方聲稱，他沒有收到貨物或服務。 ,module,Magento_Paypal
+"Buyer claims that the goods or service received differ from merchant’s description of the goods or service.",收到貨物或服務的買方索賠不同從商人的貨物或服務的描述。 ,module,Magento_Paypal
+"Buyer claims that he/she did not authorize transaction.",買方聲稱他/她並沒有授權交易。 ,module,Magento_Paypal
+"A case that has been resolved and close requires a reimbursement.",已解決和關閉某一案件需要償還。 ,module,Magento_Paypal
+"Buyer claims that a possible duplicate payment was made to the merchant.",買方索賠可能重複付款向商人。 ,module,Magento_Paypal
+"Buyer claims that the received merchandise is unsatisfactory, defective, or damaged.",買方聲稱收到的商品是不令人滿意，有缺陷或損壞。 ,module,Magento_Paypal
+"Unknown reason. Please contact PayPal customer service.","未知的原因。請聯繫 PayPal 客戶服務。",module,Magento_Paypal
+"Payer ID","付款人 ID",module,Magento_Paypal
+"Payer Email",付款人的電子郵件,module,Magento_Paypal
+"Payer Status",付款人地位,module,Magento_Paypal
+"Payer Address ID","付款人地址 ID",module,Magento_Paypal
+"Payer Address Status",付款人地址狀態,module,Magento_Paypal
+"Merchant Protection Eligibility",商船保護資格,module,Magento_Paypal
+"Triggered Fraud Filters",觸發的欺詐篩選器,module,Magento_Paypal
+"Last Correlation ID","上一個相關 ID",module,Magento_Paypal
+"Address Verification System Response",地址驗證系統響應,module,Magento_Paypal
+"CVV2 Check Result by PayPal","通過PayPal CVV2檢查結果",module,Magento_Paypal
+"AVS Street Match","AVS 街與匹配",module,Magento_Paypal
+"AVS zip","AVS 郵編",module,Magento_Paypal
+"International AVS response","國際 AVS 響應",module,Magento_Paypal
+"Buyer's Tax ID","買方的稅務 ID",module,Magento_Paypal
+"Buyer's Tax ID Type","買方的稅務 ID 類型",module,Magento_Paypal
+Chargeback,拒付,module,Magento_Paypal
+Complaint,投訴,module,Magento_Paypal
+Dispute,爭端,module,Magento_Paypal
+"Matched Address only (no ZIP)","只匹配的地址 (沒有郵政編碼)",module,Magento_Paypal
+"Matched Address only (no ZIP) International","匹配的地址只 (沒有郵政編碼) 國際",module,Magento_Paypal
+"No Details matched",沒有匹配的詳細信息,module,Magento_Paypal
+"No Details matched. International",沒有詳細信息匹配。國際,module,Magento_Paypal
+"Exact Match.",精確匹配,module,Magento_Paypal
+"Exact Match. Address and Postal Code. International",精確匹配。地址和郵政編碼。國際,module,Magento_Paypal
+"Exact Match. Address and Postal Code. UK-specific",精確匹配。地址和郵政編碼。英國特定,​​module,Magento_Paypal
+"N/A. Not allowed for MOTO (Internet/Phone) transactions","N/A。對於 MOTO (網絡電話) 的交易，不允許",module,Magento_Paypal
+"N/A. Global Unavailable","N/A。 全球不可用",module,Magento_Paypal
+"N/A. International Unavailable",N/A.國際不可用,module,Magento_Paypal
+"Matched five-digit ZIP only (no Address)","匹配五位數郵編 (沒有地址)",module,Magento_Paypal
+"Matched Postal Code only (no Address)","只匹配的郵政編碼 (沒有地址)",module,Magento_Paypal
+"N/A. Retry","重試 n/A。",module,Magento_Paypal
+"N/A. Service not Supported",不支持服務不適用。 ,module,Magento_Paypal
+"N/A. Unavailable",N/A.不可用,module,Magento_Paypal
+"Matched whole nine-didgit ZIP (no Address)","匹配整個九位數郵編 (沒有地址)",module,Magento_Paypal
+"Yes. Matched Address and five-didgit ZIP",是的。匹配的地址和五位數郵編,module,Magento_Paypal
+"All the address information matched",所有匹配的地址信息,module,Magento_Paypal
+"None of the address information matched",沒有匹配的地址信息,module,Magento_Paypal
+"Part of the address information matched",匹配的地址信息的一部分,module,Magento_Paypal
+"N/A. The merchant did not provide AVS information","N/A。商人沒有提供 AVS 信息",module,Magento_Paypal
+"N/A. Address not checked, or acquirer had no response. Service not available",N/A.講話不簽，或收購者有沒有反應。服務不可用,module,Magento_Paypal
+"Matched (CVV2CSC)","匹配的 (CVV2CSC)",module,Magento_Paypal
+"No match",沒有匹配,module,Magento_Paypal
+"N/A. Not processed",N/A。不處理,module,Magento_Paypal
+"N/A. Service not supported",不支持服務不適用。 ,module,Magento_Paypal
+"N/A. Service not available","N/A 服務不可用",module,Magento_Paypal
+"N/A. No response",N/A。沒有響應,module,Magento_Paypal
+"Matched (CVV2)","匹配的 (CVV2)",module,Magento_Paypal
+"N/A. The merchant has not implemented CVV2 code handling","N/A。商人沒有執行 CVV2 代碼處理",module,Magento_Paypal
+"N/A. Merchant has indicated that CVV2 is not present on card","N/A。 商人已表示 CVV2 不是卡上",module,Magento_Paypal
+CPF,中央公積金,module,Magento_Paypal
+"Note: %1","注: %1",module,Magento_Paypal
+"IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4","IPN""%1""。案例類型""%2""。用例ID ""%3""%4",module,Magento_Paypal
+"IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.","IPN""%1""。爭議已解決並關閉。%2 交易量%3。", module,Magento_Paypal
+"You notified customer about invoice #%1.","你通知客戶關於發票 #%1。",module,Magento_Paypal
+"IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN""%1""。%2 交易量%3。交易記錄ID:""% 4""",module,Magento_Paypal
+"You notified customer about creditmemo #%1.","你通知客戶關於付款 #%1。",module,Magento_Paypal
+"IPN ""%1""","IPN""%1""",module,Magento_Paypal
+"Payflow PNREF: #%1.","轉賬 PNREF: #%1。",module,Magento_Paypal
+"Unable to fetch transaction details.",無法獲取交易記錄詳細信息。 ,module,Magento_Paypal
+"Invalid method %1::%2","無效的方法 %1::%2",module,Magento_Paypal
+"Transaction has been declined",交易記錄已被拒絕,module,Magento_Paypal
+"Error processing payment. Please try again later.",錯誤處理付款。請稍後再試。 ,module,Magento_Paypal
+"We cannot send the new order email.",我們不能發送新的訂單郵件。 ,module,Magento_Paypal
+"You cannot void a verification transaction.",你不能驗證交易記錄無效。 ,module,Magento_Paypal
+"You need an authorization transaction to void.",你需要到無效授權交易。 ,module,Magento_Paypal
+"We can't issue a refund transaction because there is no capture transaction.",我們不能發出退款交易，因為沒有捕捉交易。 ,module,Magento_Paypal
+"We cannot create a target file for reading reports.",我們不能為創建一個目標文件閱讀報告。 ,module,Magento_Paypal
+"Report Date",報告日期,module,Magento_Paypal
+"Merchant Account",商人帳戶,module,Magento_Paypal
+"Transaction ID",交易ID,module,Magento_Paypal
+"Invoice ID","發票 ID",module,Magento_Paypal
+"PayPal Reference ID","支付參考引用 ID",module,Magento_Paypal
+"PayPal Reference ID Type",支付參考ID類型,module,Magento_Paypal
+"Event Code",事件代碼,module,Magento_Paypal
+Event,事件,module,Magento_Paypal
+"Start Date",起始日期,module,Magento_Paypal
+"Finish Date",完成日期,module,Magento_Paypal
+"Debit or Credit",借方或貸方,module,Magento_Paypal
+"Gross Amount",總金額,module,Magento_Paypal
+"Fee Debit or Credit",費用借方或貸方,module,Magento_Paypal
+"Fee Amount",費用金額,module,Magento_Paypal
+Custom,自定義,module,Magento_Paypal
+"Order ID","訂單 ID",module,Magento_Paypal
+"Preapproved Payment ID","預先的付款 ID",module,Magento_Paypal
+"Subscription ID","訂閱 ID",module,Magento_Paypal
+Credit,信用,module,Magento_Paypal
+Debit,借記卡,module,Magento_Paypal
+"ACH Deposit (Hold for Dispute or Other Investigation)","ACH 存款 (按住爭議或其他調查)",module,Magento_Paypal
+"ACH Deposit (Reversal)","ACH 存款 (逆轉)",module,Magento_Paypal
+"ACH Funding for Funds Recovery from Account Balance","ACH 經費賬戶結餘資金回收",module,Magento_Paypal
+"ACH Withdrawal","ACH 撤出",module,Magento_Paypal
+"Account-to-Account Payment, initiated by PayPal",賬戶支付，由支付寶發起,module,Magento_Paypal
+"Auction Payment other than through eBay","其他比通過 eBay 的拍賣付款",module,Magento_Paypal
+"Available Balance",可用餘額,module,Magento_Paypal
+"Balance Manager Account Bonus",平衡管理器帳戶獎金,module,Magento_Paypal
+"Bonus for first ACH Use","第一次的 ACH 使用獎金",module,Magento_Paypal
+"Buyer Credit Payment",買方信貸付款,module,Magento_Paypal
+Charge-off,撇帳,module,Magento_Paypal
+"Coupon Redemption",優惠券,module,Magento_Paypal
+"Currency Conversion required to cover negative balance",貨幣轉換需要支付負平衡,module,Magento_Paypal
+"Debit Card Cash Back",借記卡卡現金返還,module,Magento_Paypal
+"Debit Card Transaction",借記卡交易,module,Magento_Paypal
+"Direct Payment API","直接付款的 API",module,Magento_Paypal
+"EFT Funding (German banking)","EFT 籌資 (德國銀行)",module,Magento_Paypal
+"Express Checkout APIs","表達結帳 Api",module,Magento_Paypal
+"Fee Reversal",費逆轉,module,Magento_Paypal
+"Fee: Foreign ACH Withdrawal","費用: 外國 ACH 撤出",module,Magento_Paypal
+"Fee: Mass Pay Request","費用: 大規模付款請求",module,Magento_Paypal
+"Fee: Web Site Payments Pro Account Monthly","費用: Web 站點的付款臨帳戶每月",module,Magento_Paypal
+"Fee: WorldLink Check Withdrawal","費用: 威檢查退出",module,Magento_Paypal
+Funding,資金,module,Magento_Paypal
+"General (Authorization)","一般 (授權)",module,Magento_Paypal
+"General (Dividend)","一般 (紅利)",module,Magento_Paypal
+"General (Funds Transfer from PayPal Account to Another)","一般 (資金轉移從 PayPal Account 到另一個)",module,Magento_Paypal
+"General (Purchase with a credit card)","一般 (用信用卡購買)",module,Magento_Paypal
+"General Adjustment without businessrelated event","一般調整沒有 businessrelated 的事件",module,Magento_Paypal
+"General Currency Conversion",一般貨幣換算,module,Magento_Paypal
+"General Redemption",一般贖回,module,Magento_Paypal
+"General Withdrawal from PayPal Account","PayPal 帳戶一般的撤軍",module,Magento_Paypal
+"General. Product no longer supported",一般。不再支持的產品,module,Magento_Paypal
+"General: Use of PayPal account for purchasing as well as receiving payments","一般: 使用貝寶帳戶的採購，並且接收付款",module,Magento_Paypal
+"General: Withdrawal from PayPal Account","一般情況: 撤出 PayPal 帳戶",module,Magento_Paypal
+"General: Withdrawal to Non-Bank Entity","一般情況: 撤回到非銀行實體",module,Magento_Paypal
+"General: adjustment of a type not belonging to the other T12xx categories","一般情況: 調整不屬於其他 T12xx 類別類型的",module,Magento_Paypal
+"General: bonus of a type not belonging to the other T08xx categories","一般情況: 獎金不屬於其他 T08xx 類別類型的",module,Magento_Paypal
+"General: event not yet categorized","一般情況: 事件尚未分類",module,Magento_Paypal
+"General: non-payment fee of a type not belonging to the other T01xx categories","一般情況: 非付款費用不屬於其他 T01xx 類別類型的",module,Magento_Paypal
+"General: received payment of a type not belonging to the other T00xx categories","一般: 收到付款的一種類型不屬於其他 T00xx 類別",module,Magento_Paypal
+"General: reversal of a type not belonging to the other T11xx categories","一般情況: 逆轉的不屬於其他 T11xx 類別類型",module,Magento_Paypal
+"General: temporary hold of a type not belonging to the other T15xx categories","一般情況: 暫時凍結不屬於其他 T15xx 類別類型的",module,Magento_Paypal
+"Gift Certificate Payment: purchase of Gift Certificate","禮品證書付款: 購買的禮品證書",module,Magento_Paypal
+"Gift Certificate Redemption",禮品券兌換,module,Magento_Paypal
+"Hidden Virtual PayPal Debit Card Transaction",隱藏虛擬支付寶借記卡交易,module,Magento_Paypal
+"Hold for Dispute Investigation",為糾紛調查舉行,module,Magento_Paypal
+Incentive,激勵,module,Magento_Paypal
+"Mass Pay Payment",大體積付付款,module,Magento_Paypal
+"Merchant Referral Bonus",商人的推薦獎金,module,Magento_Paypal
+"Mobile Payment (made via a mobile phone)","移動支付 (手機)",module,Magento_Paypal
+"Negative Balance",負平衡,module,Magento_Paypal
+"Open Authorization",打開授權,module,Magento_Paypal
+"PayPal Balance Manager function of PayPal account","貝寶平衡管理器功能的 PayPal 帳戶",module,Magento_Paypal
+"PayPal Buyer Warranty Bonus",貝寶買家保修獎金,module,Magento_Paypal
+"PayPal Debit Card Cash Advance",貝寶借記卡卡預付現金,module,Magento_Paypal
+"PayPal Debit Card Withdrawal from ATM","貝寶付款卡退出 ATM",module,Magento_Paypal
+"PayPal Protection Bonus",貝寶保護獎金,module,Magento_Paypal
+"Payment Refund initiated by merchant",商人發起退款,module,Magento_Paypal
+"Points Incentive Redemption",指出激勵救贖,module,Magento_Paypal
+"Postage Payment to either USPS or UPS","美國郵政或 UPS 郵資支付",module,Magento_Paypal
+"Preapproved Payment (BillUser API, either sent or received","預先批准的付款 (BillUser API，或者發送或接收",module,Magento_Paypal
+Reauthorization,再授權,module,Magento_Paypal
+"Reimbursement of Chargeback",償還的計費,module,Magento_Paypal
+Reversal,逆轉,module,Magento_Paypal
+"Reversal of General Account Hold",一般賬戶持有的逆轉,module,Magento_Paypal
+"Reversal of Points Usage",反轉點的用法,module,Magento_Paypal
+"Reversal of hold for Dispute Investigation",逆轉的等待糾紛調查,module,Magento_Paypal
+"Reward Voucher Redemption",獎勵券贖回,module,Magento_Paypal
+"Settlement Consolidation",解決整合,module,Magento_Paypal
+"Subscription Payment, either payment sent or payment received",訂閱付款，付款發送或收到付款,module,Magento_Paypal
+"User-initiated Currency Conversion",用戶啟動貨幣換算,module,Magento_Paypal
+"Virtual PayPal Debit Card Transaction",借記卡貝寶虛擬交易,module,Magento_Paypal
+"Virtual Terminal Payment",虛擬終端支付,module,Magento_Paypal
+Void,創建於,module,Magento_Paypal
+"WorldLink Withdrawal",威撤出,module,Magento_Paypal
+"eBay Auction Payment","eBay 拍賣付款",module,Magento_Paypal
+"The PayPal certificate file is empty.",貝寶的證書文件是空的。 ,module,Magento_Paypal
+"Header (center)","標題 (中心)",module,Magento_Paypal
+"Sidebar (right)","側邊欄 (右)",module,Magento_Paypal
+"Near PayPal Credit checkout button",貝寶信用卡結帳按鈕附近,module,Magento_Paypal
+"--Please Select--","-- 請選擇 --",module,Magento_Paypal
+Daily,每天,module,Magento_Paypal
+"Every 3 days","每隔 3 天",module,Magento_Paypal
+"Every 7 days","每隔 7 天",module,Magento_Paypal
+"Every 10 days","每隔 10 天",module,Magento_Paypal
+"Every 14 days","每 14 天",module,Magento_Paypal
+"Every 30 days","每隔 30 天",module,Magento_Paypal
+"Every 40 days","每隔 40 天",module,Magento_Paypal
+"No Logo",無標誌,module,Magento_Paypal
+"Yes (PayPal recommends this option)","是的 (PayPal 建議此選項)",module,Magento_Paypal
+"Created billing agreement #%1.","創建計費協議 #%1。",module,Magento_Paypal
+"We can't create a billing agreement for this order.",我們無法創建此訂單的賬單協議。 ,module,Magento_Paypal
+"Pending PayPal",掛起貝寶,module,Magento_Paypal
+"PayPal Reversed",貝寶逆轉,module,Magento_Paypal
+"PayPal Canceled Reversal",貝寶取消逆轉,module,Magento_Paypal
+Error,錯誤,module,Magento_Paypal
+"Billing Agreement",付帳協議,module,Magento_Paypal
+"Please Select",請選擇,module,Magento_Paypal
+Customer,客戶,module,Magento_Paypal
+"Created At",創建於,module,Magento_Paypal
+"Updated At",更新,module,Magento_Paypal
+here,在這裡,module,Magento_Paypal
+"To use PayPal Payments Advanced, you must configure your PayPal Payments Advanced account on the PayPal website.",若要使用貝寶付款先進，必須在貝寶網站上配置您的貝寶付款高級帳戶。 ,module,Magento_Paypal
+"Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","一旦你登錄到您的PayPal 高級帳戶、 導航到服務設置-主辦結帳頁面-設置菜單和設置選項如下所述",module,Magento_Paypal
+"To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","若要使用 PayPal 轉賬鏈接，您必須在貝寶網站上配置您的 PayPal 轉賬鏈接帳戶。",module,Magento_Paypal
+"Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","一旦你登錄到您的PayPal 轉賬鏈接帳戶、 導航到服務設置-主辦結帳頁面-設置菜單和設置選項如下所述",module,Magento_Paypal
+"Agreement Information",協議信息,module,Magento_Paypal
+"Reference ID:","引用 ID:",module,Magento_Paypal
+Status:,狀態:,module,Magento_Paypal
+Created:,已創建:,module,Magento_Paypal
+Updated:,更新:,module,Magento_Paypal
+"Payment Method:",支付方式:,module,Magento_Paypal
+"Order #","訂單 #",module,Magento_Paypal
+Date,日期,module,Magento_Paypal
+"Ship To",船到,module,Magento_Paypal
+"Order Status",訂單狀態,module,Magento_Paypal
+"View Order",查看訂單,module,Magento_Paypal
+"Back to Billing Agreements",回到計費協定,module,Magento_Paypal
+"Payment Method",支付方式,module,Magento_Paypal
+View,查看,module,Magento_Paypal
+"There are no billing agreements yet.",目前還沒有自動扣款協議。 ,module,Magento_Paypal
+"New Billing Agreement",新計費協議,module,Magento_Paypal
+"You will be redirected to the payment system website.",您將被重定向到付款系統網站。 ,module,Magento_Paypal
+"-- Please Select --","-- 請選擇 --",module,Magento_Paypal
+Create...,創建...,module,Magento_Paypal
+"Your credit card will be charged for",您的信用卡將被收費,module,Magento_Paypal
+"Shipping Method",運送方式,module,Magento_Paypal
+"Please select a shipping method...",請選擇送貨方式...,module,Magento_Paypal
+"Update Shipping Method",更新送貨方式,module,Magento_Paypal
+"Sorry, no quotes are available for this order right now.",對不起，目前沒有報價可用於此訂單。 ,module,Magento_Paypal
+"Shipping Address",送貨地址,module,Magento_Paypal
+Edit,編輯,module,Magento_Paypal
+"Buy now with PayPal",使用Paypal支付,module,Magento_Paypal
+"Edit Payment Information",編輯付款信息,module,Magento_Paypal
+"Items in Your Shopping Cart",您的購物車中的商品,module,Magento_Paypal
+"Edit Shopping Cart",編輯購物車,module,Magento_Paypal
+"Place Order",對不起，暫無報價可供此訂單現在。 ,module,Magento_Paypal
+"Submitting order information...",提交訂單信息。 。 。 ,module,Magento_Paypal
+Item,產品,module,Magento_Paypal
+Price,價格,module,Magento_Paypal
+Qty,數量,module,Magento_Paypal
+Subtotal,小計,module,Magento_Paypal
+"Please update order data to get shipping methods and rates",請更新訂單數據以獲取運輸方法和費率,module,Magento_Paypal
+or,或者,module,Magento_Paypal
+"Checkout with PayPal",使用Paypal支付,module,Magento_Paypal
+"Please do not refresh the page until you complete payment.",請不要刷新頁面，直到你完成付款。 ,module,Magento_Paypal
+"You will be required to enter your payment details after you place an order.",下訂單之後您需要輸入您的付款信息,module,Magento_Paypal
+Continue,繼續,module,Magento_Paypal
+"Additional Options",附加選項,module,Magento_Paypal
+"-- Please Select Billing Agreement--","— — 請請選擇計費協議 — —",module,Magento_Paypal
+"Acceptance Mark",驗收標誌,module,Magento_Paypal
+"What is PayPal?","PayPal 是什麼?",module,Magento_Paypal
+"Sign a billing agreement to streamline further purchases with PayPal.",簽署一項協議，簡化使用Paypal支付的流程。 ,module,Magento_Paypal
 "Not you?","不是你?",module,Magento_Persistent
 "Your shopping cart has been updated with new prices.","您的購物車已經更新了新價格.",module,Magento_Persistent
 "Welcome, %1!","歡迎, %1!",module,Magento_Persistent
@@ -3998,232 +3984,233 @@ Reviews,評論,module,Magento_Review
 "Something went wrong while saving this review.","保存這筆評論時出了錯.",module,Magento_Review
 "The review was removed by another user or does not exist.","評論已被其他用戶刪除或不存在.",module,Magento_Review
 "You deleted the rating.","您刪除了這評級.",module,Magento_Review
-Ratings,Ratings,module,Magento_Review
-"You saved the rating.","You saved the rating.",module,Magento_Review
-"My Product Reviews","My Product Reviews",module,Magento_Review
-"You submitted your review for moderation.","You submitted your review for moderation.",module,Magento_Review
-"We can't post your review right now.","We can't post your review right now.",module,Magento_Review
-"Storage key was not set","Storage key was not set",module,Magento_Review
-Approved,Approved,module,Magento_Review
-Pending,Pending,module,Magento_Review
-"Not Approved","Not Approved",module,Magento_Review
-"Please enter a review summary.","Please enter a review summary.",module,Magento_Review
-"Please enter a nickname.","Please enter a nickname.",module,Magento_Review
-"Please enter a review.","Please enter a review.",module,Magento_Review
-"Rating isn\'t Available","Rating isn\'t Available",module,Magento_Review
-"Please specify a rating title for a store, or we'll just use the default value.","Please specify a rating title for a store, or we'll just use the default value.",module,Magento_Review
-"Assigned Options","Assigned Options",module,Magento_Review
-"Option Title:","Option Title:",module,Magento_Review
-"Product Name","Product Name",module,Magento_Review
-Rating,Rating,module,Magento_Review
-Actions,Actions,module,Magento_Review
-"See Details","See Details",module,Magento_Review
-"You have submitted no reviews.","You have submitted no reviews.",module,Magento_Review
-Back,Back,module,Magento_Review
-"My Recent Reviews","My Recent Reviews",module,Magento_Review
-"View All","View All",module,Magento_Review
-"Average Customer Rating:","Average Customer Rating:",module,Magento_Review
-"Your Review","Your Review",module,Magento_Review
-"Submitted on %1","Submitted on %1",module,Magento_Review
-"Back to My Reviews","Back to My Reviews",module,Magento_Review
-"Ratings Review Summary","Ratings Review Summary",module,Magento_Review
-"Be the first to review this product","Be the first to review this product",module,Magento_Review
-"Write Your Own Review","Write Your Own Review",module,Magento_Review
-"* Required Fields","* Required Fields",module,Magento_Review
-"You\'re reviewing:","You\'re reviewing:",module,Magento_Review
-"Your Rating","Your Rating",module,Magento_Review
-"%1 %2","%1 %2",module,Magento_Review
-Summary,Summary,module,Magento_Review
-"Submit Review","Submit Review",module,Magento_Review
-"Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>",module,Magento_Review
-"Add Your Review","Add Your Review",module,Magento_Review
-"%1 Review(s)","%1 Review(s)",module,Magento_Review
-"Review by","Review by",module,Magento_Review
-"Posted on","Posted on",module,Magento_Review
-"Back to Main Product Info","Back to Main Product Info",module,Magento_Review
-"Average Customer Rating","Average Customer Rating",module,Magento_Review
-"Product Rating:","Product Rating:",module,Magento_Review
-"Product Review (submitted on %1):","Product Review (submitted on %1):",module,Magento_Review
-"Back to Product Reviews","Back to Product Reviews",module,Magento_Review
-"Page not found.","Page not found.",module,Magento_Rss
-Feed,Feed,module,Magento_Rss
-"Miscellaneous Feeds","Miscellaneous Feeds",module,Magento_Rss
-"Get Feed","Get Feed",module,Magento_Rss
-Apply,Apply,module,Magento_Rule
-"Please choose a valid discount amount.","Please choose a valid discount amount.",module,Magento_Rule
-"End Date must follow Start Date.","End Date must follow Start Date.",module,Magento_Rule
-"Please specify a website.","Please specify a website.",module,Magento_Rule
-"Please specify Customer Groups.","Please specify Customer Groups.",module,Magento_Rule
-to,to,module,Magento_Rule
-by,by,module,Magento_Rule
-"Please choose an action to add.","Please choose an action to add.",module,Magento_Rule
-"Perform following actions","Perform following actions",module,Magento_Rule
-is,is,module,Magento_Rule
-"is not","is not",module,Magento_Rule
-"equals or greater than","equals or greater than",module,Magento_Rule
-"equals or less than","equals or less than",module,Magento_Rule
-"greater than","greater than",module,Magento_Rule
-"less than","less than",module,Magento_Rule
-contains,contains,module,Magento_Rule
-"does not contain","does not contain",module,Magento_Rule
-"is one of","is one of",module,Magento_Rule
-"is not one of","is not one of",module,Magento_Rule
-"Please choose a condition to add.","Please choose a condition to add.",module,Magento_Rule
-Add,Add,module,Magento_Rule
-Remove,Remove,module,Magento_Rule
-ALL,ALL,module,Magento_Rule
-ANY,ANY,module,Magento_Rule
-TRUE,TRUE,module,Magento_Rule
-FALSE,FALSE,module,Magento_Rule
-"If %1 of these conditions are %2:","If %1 of these conditions are %2:",module,Magento_Rule
-"Conditions Combination","Conditions Combination",module,Magento_Rule
-"Attribute Set","Attribute Set",module,Magento_Rule
-Category,Category,module,Magento_Rule
-"Open Chooser","Open Chooser",module,Magento_Rule
-"Unknown condition operator","Unknown condition operator",module,Magento_Rule
-"There is no information about associated entity type ""%1"".","There is no information about associated entity type ""%1"".",module,Magento_Rule
-"Cart Price Rules","Cart Price Rules",module,Magento_SalesRule
-"Add New Rule","Add New Rule",module,Magento_SalesRule
-"Save and Continue Edit","Save and Continue Edit",module,Magento_SalesRule
-"Edit Rule '%1'","Edit Rule '%1'",module,Magento_SalesRule
-"New Rule","New Rule",module,Magento_SalesRule
-"Rule Information","Rule Information",module,Magento_SalesRule
-Actions,Actions,module,Magento_SalesRule
-"Pricing Structure Rules","Pricing Structure Rules",module,Magento_SalesRule
-Apply,Apply,module,Magento_SalesRule
-"Percent of product price discount","Percent of product price discount",module,Magento_SalesRule
-"Fixed amount discount","Fixed amount discount",module,Magento_SalesRule
-"Fixed amount discount for whole cart","Fixed amount discount for whole cart",module,Magento_SalesRule
-"Buy X get Y free (discount amount is Y)","Buy X get Y free (discount amount is Y)",module,Magento_SalesRule
-"Discount Amount","Discount Amount",module,Magento_SalesRule
-"Maximum Qty Discount is Applied To","Maximum Qty Discount is Applied To",module,Magento_SalesRule
-"Discount Qty Step (Buy X)","折扣數量梯級（買入X）",module,Magento_SalesRule
-"Apply to Shipping Amount","適用於送貨價格",module,Magento_SalesRule
-"Discard subsequent rules","丟棄後續規則",module,Magento_SalesRule
-Yes,是,module,Magento_SalesRule
-No,否,module,Magento_SalesRule
-"Apply the rule only to cart items matching the following conditions (leave blank for all items).","只對符合以下條件的購物車項目應用該規則（留空代表所有項目）.",module,Magento_SalesRule
-"Apply To","適用於",module,Magento_SalesRule
+"Manage Ratings",管理評級,module,Magento_Review
+"Add New Rating",添加新的評級,module,Magento_Review
+"Save Rating",保存評級,module,Magento_Review
+"Delete Rating",刪除評級,module,Magento_Review
+"Edit Rating #%1","編輯評分 #%1",module,Magento_Review
+"New Rating",新的評分,module,Magento_Review
+"Rating Title",評分標題,module,Magento_Review
+"Default Value",默認值,module,Magento_Review
+"Rating Visibility",評分的可見性,module,Magento_Review
+"Is Active",處於活動狀態,module,Magento_Review
+"Sort Order",排序,module,Magento_Review
+"Rating Information",評分信息,module,Magento_Review
+"Product Reviews",產品評論,module,Magento_Review
+"Pending product review(s)",掛起的產品請稍後再試,module,Magento_Review
+"Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","產品: <a href=""%1""target="" _blank"">%2</a> <br/>",module,Magento_Review
+"Summary of review: %1 <br/>","摘要的審查: %1 <br/>",module,Magento_Review
+"Review: %1 <br/>","評論: %1 <br/>",module,Magento_Review
+"Store: %1 <br/>","存儲: %1 <br/>",module,Magento_Review
+"Click <a href=""%1"">here</a> to see the review.","單擊<a href=""%1""> 這裡</a> 來見到的檢討。 ",module,Magento_Review
+"Product: ""%1"" reviewed by: %2","產品:""%1""由審查: %2",module,Magento_Review
+"Pending Reviews RSS","待定評論 RSS",module,Magento_Review
+"Reviews %1","點評 %1",module,Magento_Review
+Reviews,點評,module,Magento_Review
+"The review has been deleted.",審查已被刪除。 ,module,Magento_Review
+"Something went wrong deleting this review.",出了錯刪去這一審查。 ,module,Magento_Review
+"Customer Reviews",客戶評論,module,Magento_Review
+"Edit Review",編輯審閱,module,Magento_Review
+"We can't retrieve the product ID.","我們無法檢索產品 id。",module,Magento_Review
+"Please select review(s).",請選擇請稍後再試。 ,module,Magento_Review
+"A total of %1 record(s) have been deleted.","已經刪除 %1的記錄",module,Magento_Review
+"Something went wrong while deleting these records.",在刪除這些記錄時，出了錯。 ,module,Magento_Review
+"A total of %1 record(s) have been updated.","已經更新 %1的記錄",module,Magento_Review
+"Something went wrong while updating these review(s).",在更新這些請稍後再試時出了錯。 ,module,Magento_Review
+"You saved the review.",你保存的審查。 ,module,Magento_Review
+"Something went wrong while saving this review.",保存此審查時出了錯。 ,module,Magento_Review
+"The review was removed by another user or does not exist.",檢討由另一個用戶刪除或不存在。 ,module,Magento_Review
+"You deleted the rating.",你刪除的評級。 ,module,Magento_Review
+Ratings,評級,module,Magento_Review
+"You saved the rating.",你保存的評級。 ,module,Magento_Review
+"My Product Reviews",我的產品評論,module,Magento_Review
+"You submitted your review for moderation.",您提交你審查為適度。 ,module,Magento_Review
+"We can't post your review right now.",我們現在不能發表您的評論。 ,module,Magento_Review
+"Storage key was not set",未設置存儲鍵,module,Magento_Review
+Approved,已批准,module,Magento_Review
+Pending,待付款,module,Magento_Review
+"Not Approved",未獲批准,module,Magento_Review
+"Please enter a review summary.",請輸入回顧性總結。 ,module,Magento_Review
+"Please enter a nickname.",請輸入暱稱。 ,module,Magento_Review
+"Please enter a review.",請輸入一次審查。 ,module,Magento_Review
+"Rating isn't Available",評級不是可用,module,Magento_Review
+"Please specify a rating title for a store, or we'll just use the default value.",請指定一個評級標題為一家商店，或者我們只是將使用默認值。 ,module,Magento_Review
+"Assigned Options",指派的選項,module,Magento_Review
+"Option Title:",新選項,module,Magento_Review
+"Product Name",產品名稱,module,Magento_Review
+Rating,評分,module,Magento_Review
+Actions,動作,module,Magento_Review
+"See Details",查看具體信息,module,Magento_Review
+"You have submitted no reviews.",你沒有提交評論。 ,module,Magento_Review
+Back,後退,module,Magento_Review
+"My Recent Reviews",我最近的評論,module,Magento_Review
+"View All",查看全部,module,Magento_Review
+"Average Customer Rating:",平均客戶評級:,module,Magento_Review
+"Your Review",您的評論,module,Magento_Review
+"Submitted on %1","在 %1 上提交",module,Magento_Review
+"Back to My Reviews",回到我的評論,module,Magento_Review
+"Ratings Review Summary",分級審查摘要,module,Magento_Review
+"Be the first to review this product",成為第一個審查此產品,module,Magento_Review
+"Write Your Own Review",編寫您自己的評論,module,Magento_Review
+"* Required Fields",*必要字段,module,Magento_Review
+"You're reviewing:",您正在查看:,module,Magento_Review
+"Your Ra​​ting",您的評級,module,Magento_Review
+Summary,用戶中心,module,Magento_Review
+"Submit Review",提交的評論,module,Magento_Review
+"Add Your Review",添加您的評論,module,Magento_Review
+"%1 Review(s)","%1 請稍後再試",module,Magento_Review
+"Review by",通過審查,module,Magento_Review
+"Posted on",張貼在,module,Magento_Review
+"Back to Main Product Info",回到主產品信息,module,Magento_Review
+"Average Customer Rating",平均客戶評級,module,Magento_Review
+"Product Rating:",產品評級:,module,Magento_Review
+"Product Review (submitted on %1):","產品審查 (提交的關於 %1):",module,Magento_Review
+"Back to Product Reviews",回到產品評論,module,Magento_Review
+"Page not found.",找不到網頁。 ,module,Magento_Rss
+Feed,"RSS 訂閱源",module,Magento_Rss
+"Miscellaneous Feeds",雜項的飼料,module,Magento_Rss
+"Get Feed",得到飼料,module,Magento_Rss
+Apply,應用,module,Magento_Rule
+"Please choose a valid discount amount.","沒有關於實體類型“% 1”的相關信息",module,Magento_Rule
+"End Date must follow Start Date.",結束日期必須晚於開始日期。 ,module,Magento_Rule
+"Please specify a website.",請指定的網站。 ,module,Magento_Rule
+"Please specify Customer Groups.",請指定客戶組。 ,module,Magento_Rule
+to,至,module,Magento_Rule
+by,通過,module,Magento_Rule
+"Please choose an action to add.",請選擇要添加的操作。 ,module,Magento_Rule
+"Perform following actions",執行下列操作,module,Magento_Rule
+is,非,module,Magento_Rule
+"is not",不是,module,Magento_Rule
+"equals or greater than",等於或小於,module,Magento_Rule
+"equals or less than",等於或小於,module,Magento_Rule
+"greater than",大於,module,Magento_Rule
+"less than",小於,module,Magento_Rule
+contains,包含,module,Magento_Rule
+"does not contain",不包含,module,Magento_Rule
+"is one of",小於,module,Magento_Rule
+"is not one of",不是的,module,Magento_Rule
+"Please choose a condition to add.",請選擇要添加的條件,module,Magento_Rule
+Add,添加,module,Magento_Rule
+Remove,刪除,module,Magento_Rule
+ALL,所有,module,Magento_Rule
+ANY,任何,module,Magento_Rule
+TRUE,真正,module,Magento_Rule
+FALSE,假,module,Magento_Rule
+"If %1​​ of these conditions are %2:","如果這些條件 %1 %2:",module,Magento_Rule
+"Conditions Combination",條件組合,module,Magento_Rule
+"Attribute Set",屬性集,module,Magento_Rule
+Category,類別,module,Magento_Rule
+"Open Chooser",打開選擇器,module,Magento_Rule
+"Unknown condition operator",未知的條件運算符,module,Magento_Rule
+"There is no information about associated entity type ""%1"".","有是沒有關聯的實體類型""%1""有關的信息。",module,Magento_Rule
+"Cart Price Rules",購物車價格規則,module,Magento_SalesRule
+"Add New Rule",添加新規則,module,Magento_SalesRule
+Delete,刪除,module,Magento_SalesRule
+Reset,重置,module,Magento_SalesRule
+"Save and Continue Edit",保存並繼續編輯,module,Magento_SalesRule
+Save,保存,module,Magento_SalesRule
+Actions,動作,module,Magento_SalesRule
+"Apply To",應用給,module,Magento_SalesRule
 Conditions,條件,module,Magento_SalesRule
-"Apply the rule only if the following conditions are met (leave blank for all products).","只有在滿足以下條件的規則時應用（留空代表所有產品）.",module,Magento_SalesRule
-"Manage Coupon Codes","管理優惠券代碼",module,Magento_SalesRule
-"Coupons Information","優惠券信息",module,Magento_SalesRule
-"Coupon Qty","優惠券數量",module,Magento_SalesRule
-"Code Length","代碼長度",module,Magento_SalesRule
-"Excluding prefix, suffix and separators.","Excluding prefix, suffix and separators.",module,Magento_SalesRule
-"Code Format","Code Format",module,Magento_SalesRule
-"Code Prefix","Code Prefix",module,Magento_SalesRule
-"Code Suffix","Code Suffix",module,Magento_SalesRule
-"Dash Every X Characters","Dash Every X Characters",module,Magento_SalesRule
-"If empty no separation.","If empty no separation.",module,Magento_SalesRule
-Generate,Generate,module,Magento_SalesRule
-"Coupon Code","Coupon Code",module,Magento_SalesRule
-Created,Created,module,Magento_SalesRule
-Uses,Uses,module,Magento_SalesRule
-"Times Used","Times Used",module,Magento_SalesRule
-CSV,CSV,module,Magento_SalesRule
-"Excel XML","Excel XML",module,Magento_SalesRule
-Delete,Delete,module,Magento_SalesRule
-"Are you sure you want to delete the selected coupon(s)?","Are you sure you want to delete the selected coupon(s)?",module,Magento_SalesRule
-Labels,Labels,module,Magento_SalesRule
-"Default Label","Default Label",module,Magento_SalesRule
-"Default Rule Label for All Store Views","Default Rule Label for All Store Views",module,Magento_SalesRule
-"Store View Specific Labels","Store View Specific Labels",module,Magento_SalesRule
-"General Information","General Information",module,Magento_SalesRule
-"Rule Name","Rule Name",module,Magento_SalesRule
-Description,Description,module,Magento_SalesRule
-Status,Status,module,Magento_SalesRule
-Active,Active,module,Magento_SalesRule
-Inactive,Inactive,module,Magento_SalesRule
-Websites,Websites,module,Magento_SalesRule
-"Customer Groups","Customer Groups",module,Magento_SalesRule
-Coupon,Coupon,module,Magento_SalesRule
-"Use Auto Generation","Use Auto Generation",module,Magento_SalesRule
-"If you select and save the rule you will be able to generate multiple coupon codes.","If you select and save the rule you will be able to generate multiple coupon codes.",module,Magento_SalesRule
-"Uses per Coupon","Uses per Coupon",module,Magento_SalesRule
-"Uses per Customer","Uses per Customer",module,Magento_SalesRule
-"Usage limit enforced for logged in customers only.","Usage limit enforced for logged in customers only.",module,Magento_SalesRule
-From,From,module,Magento_SalesRule
-To,To,module,Magento_SalesRule
-Priority,Priority,module,Magento_SalesRule
-"Public In RSS Feed","Public In RSS Feed",module,Magento_SalesRule
-"Cart Price Rule","Cart Price Rule",module,Magento_SalesRule
-ID,ID,module,Magento_SalesRule
-Rule,Rule,module,Magento_SalesRule
-Start,Start,module,Magento_SalesRule
-End,End,module,Magento_SalesRule
-"%1 - Discounts and Coupons","%1 - Discounts and Coupons",module,Magento_SalesRule
-Coupons/Discounts,Coupons/Discounts,module,Magento_SalesRule
-Promotions,Promotions,module,Magento_SalesRule
-"You deleted the rule.","You deleted the rule.",module,Magento_SalesRule
-"We can't delete the rule right now. Please review the log and try again.","We can't delete the rule right now. Please review the log and try again.",module,Magento_SalesRule
-"We can't find a rule to delete.","We can't find a rule to delete.",module,Magento_SalesRule
-"This rule no longer exists.","This rule no longer exists.",module,Magento_SalesRule
-"Edit Rule","Edit Rule",module,Magento_SalesRule
-"New Cart Price Rule","New Cart Price Rule",module,Magento_SalesRule
-"Rule is not defined","Rule is not defined",module,Magento_SalesRule
-"Invalid data provided","Invalid data provided",module,Magento_SalesRule
-"%1 coupon(s) have been generated.","%1 coupon(s) have been generated.",module,Magento_SalesRule
-"Something went wrong while generating coupons. Please review the log and try again.","Something went wrong while generating coupons. Please review the log and try again.",module,Magento_SalesRule
-Catalog,Catalog,module,Magento_SalesRule
-"The wrong rule is specified.","The wrong rule is specified.",module,Magento_SalesRule
-"You saved the rule.","You saved the rule.",module,Magento_SalesRule
-"Something went wrong while saving the rule data. Please review the error log.","Something went wrong while saving the rule data. Please review the error log.",module,Magento_SalesRule
-Alphanumeric,Alphanumeric,module,Magento_SalesRule
-Alphabetical,Alphabetical,module,Magento_SalesRule
-Numeric,Numeric,module,Magento_SalesRule
-"We cannot create the requested Coupon Qty. Please check your settings and try again.","We cannot create the requested Coupon Qty. Please check your settings and try again.",module,Magento_SalesRule
-"Specified rule does not allow coupons","Specified rule does not allow coupons",module,Magento_SalesRule
-"Specified rule only allows auto generated coupons","Specified rule only allows auto generated coupons",module,Magento_SalesRule
-"Specified rule does not allow auto generated coupons","Specified rule does not allow auto generated coupons",module,Magento_SalesRule
-"Error occurred when saving coupon: %1","Error occurred when saving coupon: %1",module,Magento_SalesRule
-"Discount (%1)","Discount (%1)",module,Magento_SalesRule
-Discount,Discount,module,Magento_SalesRule
-"Coupon with the same code","Coupon with the same code",module,Magento_SalesRule
-"No Coupon","No Coupon",module,Magento_SalesRule
-"Specific Coupon","Specific Coupon",module,Magento_SalesRule
-Auto,Auto,module,Magento_SalesRule
-"Can't acquire coupon.","Can't acquire coupon.",module,Magento_SalesRule
-"Update the Product","Update the Product",module,Magento_SalesRule
-"Special Price","Special Price",module,Magento_SalesRule
-"To Fixed Value","To Fixed Value",module,Magento_SalesRule
-"To Percentage","To Percentage",module,Magento_SalesRule
-"By Fixed value","By Fixed value",module,Magento_SalesRule
-"By Percentage","By Percentage",module,Magento_SalesRule
-"Update product\'s %1 %2: %3","Update product\'s %1 %2: %3",module,Magento_SalesRule
-Subtotal,Subtotal,module,Magento_SalesRule
-"Total Items Quantity","Total Items Quantity",module,Magento_SalesRule
-"Total Weight","Total Weight",module,Magento_SalesRule
-"Payment Method","Payment Method",module,Magento_SalesRule
-"Shipping Method","Shipping Method",module,Magento_SalesRule
-"Shipping Postcode","Shipping Postcode",module,Magento_SalesRule
-"Shipping Region","Shipping Region",module,Magento_SalesRule
-"Shipping State/Province","Shipping State/Province",module,Magento_SalesRule
-"Shipping Country","Shipping Country",module,Magento_SalesRule
-"Product attribute combination","Product attribute combination",module,Magento_SalesRule
-"Products subselection","Products subselection",module,Magento_SalesRule
-"Conditions combination","Conditions combination",module,Magento_SalesRule
-"Cart Attribute","Cart Attribute",module,Magento_SalesRule
-"Quantity in cart","Quantity in cart",module,Magento_SalesRule
-"Price in cart","Price in cart",module,Magento_SalesRule
-"Row total in cart","Row total in cart",module,Magento_SalesRule
-"Conditions Combination","Conditions Combination",module,Magento_SalesRule
-"Cart Item Attribute","Cart Item Attribute",module,Magento_SalesRule
-"Product Attribute","Product Attribute",module,Magento_SalesRule
-FOUND,FOUND,module,Magento_SalesRule
-"NOT FOUND","NOT FOUND",module,Magento_SalesRule
-"If an item is %1 in the cart with %2 of these conditions true:","If an item is %1 in the cart with %2 of these conditions true:",module,Magento_SalesRule
-"total quantity","total quantity",module,Magento_SalesRule
-"total amount","total amount",module,Magento_SalesRule
-is,is,module,Magento_SalesRule
-"is not","is not",module,Magento_SalesRule
-"equals or greater than","equals or greater than",module,Magento_SalesRule
-"equals or less than","equals or less than",module,Magento_SalesRule
-"greater than","greater than",module,Magento_SalesRule
-"less than","less than",module,Magento_SalesRule
-"is one of","is one of",module,Magento_SalesRule
-"is not one of","is not one of",module,Magento_SalesRule
-"If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:","If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:",module,Magento_SalesRule
+"Apply the rule only if the following conditions are met (leave blank for all products).","僅在滿足以下條件時應用規則 (留空所有產品)。",module,Magento_SalesRule
+"Manage Coupon Codes",管理優惠券代碼,module,Magento_SalesRule
+"Coupon Qty",優惠券數量,module,Magento_SalesRule
+"Code Length",每x個字符加橫線,module,Magento_SalesRule
+"Excluding prefix, suffix and separators.","不包括前綴、 後綴和分隔符。",module,Magento_SalesRule
+"Code Format",代碼格式,module,Magento_SalesRule
+"Code Prefix",代碼前綴,module,Magento_SalesRule
+"Code Suffix",代碼後綴,module,Magento_SalesRule
+"Dash Every X Characters","衝每 X 個字符",module,Magento_SalesRule
+"If empty no separation.",如果空沒有分離。 ,module,Magento_SalesRule
+Generate,生成,module,Magento_SalesRule
+"Coupon Code",優惠劵,module,Magento_SalesRule
+Created,創建,module,Magento_SalesRule
+Uses,應用,module,Magento_SalesRule
+No,否,module,Magento_SalesRule
+Yes,是,module,Magento_SalesRule
+"Times Used",使用時間,module,Magento_SalesRule
+CSV,"Excel XML",module,Magento_SalesRule
+"Excel XML","XML Excel",module,Magento_SalesRule
+"Are you sure you want to delete the selected coupon(s)?","確實要刪除所選的 coupon(s) 嗎?",module,Magento_SalesRule
+Labels,標籤,module,Magento_SalesRule
+"Store View Specific Labels",店鋪視圖指定的標籤,module,Magento_SalesRule
+Rule,規則名稱,module,Magento_SalesRule
+Start,開始,module,Magento_SalesRule
+End,結束,module,Magento_SalesRule
+Status,狀態,module,Magento_SalesRule
+"%1 - Discounts and Coupons",%1-折扣和優惠,module,Magento_SalesRule
+Coupons/Discounts,優惠券/折扣,module,Magento_SalesRule
+Promotions,促銷活動,module,Magento_SalesRule
+"You deleted the rule.",規則已保存。 ,module,Magento_SalesRule
+"We can't delete the rule right now. Please review the log and try again.",我們現在不能刪除該規則。請查看日誌並再試一次。 ,module,Magento_SalesRule
+"We can't find a rule to delete.",我們找不到要刪除的規則。 ,module,Magento_SalesRule
+"This rule no longer exists.",該規則已不存在。 ,module,Magento_SalesRule
+"Edit Rule",修改規則,module,Magento_SalesRule
+"New Rule",新規則,module,Magento_SalesRule
+"New Cart Price Rule",新車價格規則,module,Magento_SalesRule
+"Rule is not defined",沒有定義規則,module,Magento_SalesRule
+"Invalid data provided",提供無效數據,module,Magento_SalesRule
+"%1 coupon(s) have been generated.","%1 coupon(s) 已生成。",module,Magento_SalesRule
+"Something went wrong while generating coupons. Please review the log and try again.",在生成優惠券時出了錯。請查看日誌並再試一次。 ,module,Magento_SalesRule
+Catalog,目錄,module,Magento_SalesRule
+"The wrong rule is specified.",指定了錯誤的規則。 ,module,Magento_SalesRule
+"You saved the rule.",你保存的規則。 ,module,Magento_SalesRule
+"Something went wrong while saving the rule data. Please review the error log.",保存規則數據時出了錯。請查看錯誤日誌。 ,module,Magento_SalesRule
+Alphanumeric,字母表,module,Magento_SalesRule
+Alphabetical,字母表,module,Magento_SalesRule
+Numeric,數字,module,Magento_SalesRule
+"We cannot create the requested Coupon Qty. Please check your settings and try again.",我們不能創建請求的優惠券數量請檢查您的設置，然後重試。 ,module,Magento_SalesRule
+"Specified rule does not allow coupons",指定的規則不允許優惠券,module,Magento_SalesRule
+"Specified rule only allows auto generated coupons",指定的規則只允許自動生成優惠券,module,Magento_SalesRule
+"Specified rule does not allow auto generated coupons",指定的規則不允許自動生成優惠券,module,Magento_SalesRule
+"Error occurred when saving coupon: %1","保存優惠券時出現錯誤: %1",module,Magento_SalesRule
+"Discount (%1)","折扣 (%1)",module,Magento_SalesRule
+Discount,折扣,module,Magento_SalesRule
+"Coupon with the same code",優惠券使用相同的代碼,module,Magento_SalesRule
+"No Coupon",沒有優惠券,module,Magento_SalesRule
+"Specific Coupon",具體的優惠券,module,Magento_SalesRule
+Auto,自動,module,Magento_SalesRule
+"Can't acquire coupon.",無法獲取優惠券。 ,module,Magento_SalesRule
+"Update the Product",產品更新,module,Magento_SalesRule
+"Special Price",特殊價格,module,Magento_SalesRule
+"To Fixed Value",為固定值,module,Magento_SalesRule
+"To Percentage",百分比,module,Magento_SalesRule
+"By Fixed value",按固定值,module,Magento_SalesRule
+"By Percentage",按百分比,module,Magento_SalesRule
+"Update product's %1 %2: %3","更新產品的 %1 %2: %3",module,Magento_SalesRule
+Subtotal,小計,module,Magento_SalesRule
+"Total Items Quantity",總的項目數量,module,Magento_SalesRule
+"Total Weight",總重量,module,Magento_SalesRule
+"Payment Method",支付方式,module,Magento_SalesRule
+"Shipping Method",運送方式,module,Magento_SalesRule
+"Shipping Postcode",航運郵編,module,Magento_SalesRule
+"Shipping Region",航運區域,module,Magento_SalesRule
+"Shipping State/Province",航運自治區,module,Magento_SalesRule
+"Shipping Country",航運大國,module,Magento_SalesRule
+"Product attribute combination",產品屬性組合,module,Magento_SalesRule
+"Products subselection",產品部分選定,module,Magento_SalesRule
+"Conditions combination",條件組合,module,Magento_SalesRule
+"Cart Attribute",購物車屬性,module,Magento_SalesRule
+"Quantity in cart",購物車中的數量,module,Magento_SalesRule
+"Price in cart",購物車中的價格,module,Magento_SalesRule
+"Row total in cart",總的購物車中的行,module,Magento_SalesRule
+"Conditions Combination",條件組合,module,Magento_SalesRule
+"Cart Item Attribute",購物車項目屬性,module,Magento_SalesRule
+"Product Attribute",產品屬性,module,Magento_SalesRule
+FOUND,發現,module,Magento_SalesRule
+"NOT FOUND",找不到,module,Magento_SalesRule
+"If an item is %1 in the cart with %2 of these conditions true:","如果一個項目是 %1 與 %2 的這些條件真車中:",module,Magento_SalesRule
+"total quantity",總數量,module,Magento_SalesRule
+"total amount",總金額,module,Magento_SalesRule
+is,非,module,Magento_SalesRule
+"is not",不是,module,Magento_SalesRule
+"equals or greater than",等於或小於,module,Magento_SalesRule
+"equals or less than",等於或小於,module,Magento_SalesRule
+"greater than",大於,module,Magento_SalesRule
+"less than",小於,module,Magento_SalesRule
+"is one of",小於,module,Magento_SalesRule
+"is not one of",不是的,module,Magento_SalesRule
+"If %1​​ %2 %3 for a subselection of items in cart matching %4 of these conditions:","如果選定項目中的%1 %2 %3 購物車匹配%4 的這些條件:",module, Magento_SalesRule
 "Specified rule does not allow automatic coupon generation","Specified rule does not allow automatic coupon generation",module,Magento_SalesRule
 "Error occurred when generating coupons: %1","Error occurred when generating coupons: %1",module,Magento_SalesRule
 "Some coupons are invalid.","Some coupons are invalid.",module,Magento_SalesRule
@@ -5129,49 +5116,44 @@ All,All,module,Magento_Sitemap
 "Current store is not active.","當前商店不活躍.",module,Magento_Store
 "Requested store is inactive","要求商店不活躍",module,Magento_Store
 "Requested store is not found","請求商店沒有找到",module,Magento_Store
-"Environment emulation nesting is not allowed.","Environment emulation nesting is not allowed.",module,Magento_Store
-"Only default scope allowed","Only default scope allowed",module,Magento_Store
-"Invalid scope object","Invalid scope object",module,Magento_Store
-"Store with the same code","Store with the same code",module,Magento_Store
-"Website with the same code","Website with the same code",module,Magento_Store
-"Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.",module,Magento_Store
-"Name is required","Name is required",module,Magento_Store
-"The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.",module,Magento_Store
-"Store is inactive","Store is inactive",module,Magento_Store
-"Default store is inactive","Default store is inactive",module,Magento_Store
-"All Store Views","All Store Views",module,Magento_Store
-"-- Please Select --","-- Please Select --",module,Magento_Store
-Admin,Admin,module,Magento_Store
-"More than one default website is defined","More than one default website is defined",module,Magento_Store
-"Default website is not defined","Default website is not defined",module,Magento_Store
-"Your Language:","Your Language:",module,Magento_Store
-"Your Language","Your Language",module,Magento_Store
-Language,Language,module,Magento_Store
-"Select Store","Select Store",module,Magento_Store
-"Swatch Helper: not valid parameter for product instantiation","Swatch Helper: not valid parameter for product instantiation",module,Magento_Swatches
-"Admin is a required field in the each row","Admin is a required field in the each row",module,Magento_Swatches
-"Update Product Preview Image","Update Product Preview Image",module,Magento_Swatches
-"Filtering by this attribute will update the product image on catalog page","Filtering by this attribute will update the product image on catalog page",module,Magento_Swatches
-"Use Product Image for Swatch if Possible","Use Product Image for Swatch if Possible",module,Magento_Swatches
-"Allows use fallback logic for replacing swatch image with product swatch or base image","Allows use fallback logic for replacing swatch image with product swatch or base image",module,Magento_Swatches
-"Visual Swatch","Visual Swatch",module,Magento_Swatches
-"Text Swatch","Text Swatch",module,Magento_Swatches
-"Manage Swatch (values of your attribute)","Manage Swatch (values of your attribute)",module,Magento_Swatches
-"Is Default","Is Default",module,Magento_Swatches
-"Add Swatch","Add Swatch",module,Magento_Swatches
-"Sort Option","Sort Option",module,Magento_Swatches
-Delete,Delete,module,Magento_Swatches
-Swatch,Swatch,module,Magento_Swatches
-"Step 2: Attribute Values","Step 2: Attribute Values",module,Magento_Swatches
-"Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.",module,Magento_Swatches
-"Sort Variations","Sort Variations",module,Magento_Swatches
-Options,Options,module,Magento_Swatches
-"Select All","Select All",module,Magento_Swatches
-"Deselect All","Deselect All",module,Magento_Swatches
-"Remove Attribute","Remove Attribute",module,Magento_Swatches
-"Save Option","Save Option",module,Magento_Swatches
-"Remove Option","Remove Option",module,Magento_Swatches
-"Create New Value","Create New Value",module,Magento_Swatches
+"Environment emulation nesting is not allowed.",不允許環境仿真嵌套。 ,module,Magento_Store
+"Invalid scope object",無效的範圍對象,module,Magento_Store
+"Store with the same code",使用相同的代碼存儲,module,Magento_Store
+"Website with the same code",使用相同代碼的網站,module,Magento_Store
+"Name is required",名稱是必需的,module,Magento_Store
+"Store is inactive",存儲處於非活動狀態,module,Magento_Store
+"Default store is inactive",默認存儲處於非活動狀態,module,Magento_Store
+"All Store Views",所有商店界面,module,Magento_Store
+"-- Please Select --","-- 請選擇 --",module,Magento_Store
+Admin,管理員,module,Magento_Store
+"Default website is not defined",未定義默認網站,module,Magento_Store
+"More than one default website is defined",定義了多個默認網站,module,Magento_Store
+"Your Language:",您的語言：,module,Magento_Store
+"Your Language",您的語言：,module,Magento_Store
+Language,語言,module,Magento_Store
+"Select Store",選擇存儲,module,Magento_Store
+"Admin is a required field in the each row",管理員是每行必填的字段,module,Magento_Swatches
+"Update Product Preview Image",更新產品預覽圖像,module,Magento_Swatches
+"Filtering by this attribute will update the product image on catalog page",通過此屬性篩選將更新目錄頁上的產品圖像,module,Magento_Swatches
+"Use Product Image for Swatch if Possible",如果可能的話使用色板產品形象,module,Magento_Swatches
+"Allows use fallback logic for replacing swatch image with product swatch or base image",允許使用回退邏輯色板圖像替換產品色板或基地形象,module,Magento_Swatches
+"Visual Swatch",視覺的色板,module,Magento_Swatches
+"Text Swatch",文本色板,module,Magento_Swatches
+"Is Default",為默認值,module,Magento_Swatches
+Swatch,色板,module,Magento_Swatches
+"Add Swatch",添加色板,module,Magento_Swatches
+"Sort Option",排序選項,module,Magento_Swatches
+Delete,刪除,module,Magento_Swatches
+Clear,清空,module,Magento_Swatches
+"Step 2: Attribute Values","第 2 步: 屬性值",module,Magento_Swatches
+"Sort Variations",排序變化,module,Magento_Swatches
+Options,選項,module,Magento_Swatches
+"Select All",選擇全部,module,Magento_Swatches
+"Deselect All",取消選擇所有,module,Magento_Swatches
+"Remove Attribute",刪除屬性,module,Magento_Swatches
+"Save Option",保存選項,module,Magento_Swatches
+"Remove Option",刪除選項,module,Magento_Swatches
+"Create New Value",創造新的價值,module,Magento_Swatches
 Code,Code,module,Magento_TaxImportExport
 Country,Country,module,Magento_TaxImportExport
 State,State,module,Magento_TaxImportExport
@@ -6201,57 +6183,57 @@ Delete,刪除,module,Magento_ProductVideo
 Ok,Ok,module,Magento_Sales
 "We could not detect a size.","We could not detect a size.",module,Magento_Theme
 "We don\'t recognize this file extension.","We don\'t recognize this file extension.",module,Magento_Theme
-"Go to Details Page","Go to Details Page",module,Magento_Ui
-"Please enter more or equal than {0} symbols.","Please enter more or equal than {0} symbols.",module,Magento_Ui
-"Please enter less or equal than {0} symbols.","Please enter less or equal than {0} symbols.",module,Magento_Ui
-"Please enter {0} words or less.","Please enter {0} words or less.",module,Magento_Ui
-"Please enter at least {0} words.","Please enter at least {0} words.",module,Magento_Ui
-"Please enter between {0} and {1} words.","Please enter between {0} and {1} words.",module,Magento_Ui
-"Letters or punctuation only please","Letters or punctuation only please",module,Magento_Ui
-"Letters, numbers, spaces or underscores only please","Letters, numbers, spaces or underscores only please",module,Magento_Ui
-"Letters only please","Letters only please",module,Magento_Ui
-"No white space please","No white space please",module,Magento_Ui
-"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx",module,Magento_Ui
-"A positive or negative non-decimal number please","A positive or negative non-decimal number please",module,Magento_Ui
-"The specified vehicle identification number (VIN) is invalid.","The specified vehicle identification number (VIN) is invalid.",module,Magento_Ui
-"Please enter a correct date","Please enter a correct date",module,Magento_Ui
-"Vul hier een geldige datum in.","Vul hier een geldige datum in.",module,Magento_Ui
-"Please enter a valid time, between 00:00 and 23:59","Please enter a valid time, between 00:00 and 23:59",module,Magento_Ui
-"Please enter a valid time, between 00:00 am and 12:00 pm","Please enter a valid time, between 00:00 am and 12:00 pm",module,Magento_Ui
-"Please specify a valid phone number","Please specify a valid phone number",module,Magento_Ui
-"Please specify a valid mobile number","Please specify a valid mobile number",module,Magento_Ui
-"Please enter at least {0} characters","Please enter at least {0} characters",module,Magento_Ui
-"Please enter a valid credit card number.","Please enter a valid credit card number.",module,Magento_Ui
-"Please enter a valid IP v4 address.","Please enter a valid IP v4 address.",module,Magento_Ui
-"Please enter a valid IP v6 address.","Please enter a valid IP v6 address.",module,Magento_Ui
-"Invalid format.","Invalid format.",module,Magento_Ui
-"HTML tags are not allowed.","HTML tags are not allowed.",module,Magento_Ui
-"Please select an option.","Please select an option.",module,Magento_Ui
-"Empty Value.","Empty Value.",module,Magento_Ui
-"Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.","Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.",module,Magento_Ui
-"Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.",module,Magento_Ui
-"Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.",module,Magento_Ui
-"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.",module,Magento_Ui
-"Please enter a valid fax number (Ex: 123-456-7890).","Please enter a valid fax number (Ex: 123-456-7890).",module,Magento_Ui
-"Please enter a valid email address (Ex: johndoe@domain.com).","Please enter a valid email address (Ex: johndoe@domain.com).",module,Magento_Ui
-"Please enter 6 or more characters. Leading or trailing spaces will be ignored.","Please enter 6 or more characters. Leading or trailing spaces will be ignored.",module,Magento_Ui
-"Please enter 7 or more characters, using both numeric and alphabetic.","Please enter 7 or more characters, using both numeric and alphabetic.",module,Magento_Ui
-"Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Please enter a valid URL. Protocol is required (http://, https:// or ftp://).",module,Magento_Ui
-"Please enter a valid URL. For example http://www.example.com or www.example.com.","Please enter a valid URL. For example http://www.example.com or www.example.com.",module,Magento_Ui
-"Please enter a valid XML-identifier (Ex: something_1, block5, id-4).","Please enter a valid XML-identifier (Ex: something_1, block5, id-4).",module,Magento_Ui
-"Please enter a valid social security number (Ex: 123-45-6789).","Please enter a valid social security number (Ex: 123-45-6789).",module,Magento_Ui
-"Please enter a valid zip code (Ex: 90602 or 90602-1234).","Please enter a valid zip code (Ex: 90602 or 90602-1234).",module,Magento_Ui
-"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.",module,Magento_Ui
-"Please enter a valid $ amount. For example $100.00.","Please enter a valid $ amount. For example $100.00.",module,Magento_Ui
-"Please enter a number 0 or greater in this field.","Please enter a number 0 or greater in this field.",module,Magento_Ui
-"Please enter a number greater than 0 in this field.","Please enter a number greater than 0 in this field.",module,Magento_Ui
-"Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).",module,Magento_Ui
-"Please enter a valid number in this field.","Please enter a valid number in this field.",module,Magento_Ui
-"The value is not within the specified range.","The value is not within the specified range.",module,Magento_Ui
-"Please use letters only (a-z or A-Z) in this field.","Please use letters only (a-z or A-Z) in this field.",module,Magento_Ui
-"Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.",module,Magento_Ui
-"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.","Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.",module,Magento_Ui
-"Please enter a valid date.","Please enter a valid date.",module,Magento_Ui
+"Go to Details Page",轉到詳細信息頁,module,Magento_Ui
+"Please enter more or equal than {0} symbols.","請輸入多於或等於比 {0} 符號。",module,Magento_Ui
+"Please enter less or equal than {0} symbols.","請輸入多於或等於比 {0} 符號。",module,Magento_Ui
+"Please enter {0} words or less.","請輸入 {0} 單詞或更少。",module,Magento_Ui
+"Please enter at least {0} words.","請輸入至少 {0} 字。",module,Magento_Ui
+"Please enter between {0} and {1} words.","請輸入介於 {0} 和 {1} 的詞。",module,Magento_Ui
+"Letters or punctuation only please",字母或標點符號只能取悅,module,Magento_Ui
+"Letters, numbers, spaces or underscores only please","字母、 數字、 空格或請只強調",module,Magento_Ui
+"Letters only please",請只信,module,Magento_Ui
+"No white space please",沒有白空間請,module,Magento_Ui
+"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","您的郵政編碼必須在範圍 902xx-xxxx 到 905-xx-xxxx",module,Magento_Ui
+"A positive or negative non-decimal number please",一個積極或消極的非十進制數請,module,Magento_Ui
+"The specified vehicle identification number (VIN) is invalid.","指定的車輛識別碼 (VIN) 是無效的。",module,Magento_Ui
+"Please enter a correct date",請輸入正確的日期,module,Magento_Ui
+"Vul hier een geldige datum in.","Vul hier een geldige 基準中。",module,Magento_Ui
+"Please enter a valid time, between 00:00 and 23:59","請輸入一個有效的時間，00:00 至 23:59",module,Magento_Ui
+"Please enter a valid time, between 00:00 am and 12:00 pm","請輸入一個有效的時間，00:00 至 12:0 下午",module,Magento_Ui
+"Please specify a valid phone number",請指定一個有效的電話號碼,module,Magento_Ui
+"Please specify a valid mobile number",請指定一個有效的手機號碼,module,Magento_Ui
+"Please enter at least {0} characters","請輸入至少 3 個字符。",module,Magento_Ui
+"Please enter a valid credit card number.",請輸入有效的信用卡號碼。 ,module,Magento_Ui
+"Please enter a valid IP v4 address.","請輸入一個有效的 IP v4 地址。",module,Magento_Ui
+"Please enter a valid IP v6 address.","請輸入一個有效的 IP v4 地址。",module,Magento_Ui
+"Invalid format.",無效的格式,module,Magento_Ui
+"HTML tags are not allowed.","不允許使用 HTML 標記。",module,Magento_Ui
+"Please select an option.",請選擇一個選項。 ,module,Magento_Ui
+"Empty Value.",空值。 ,module,Magento_Ui
+"Please use only letters (az or AZ), numbers (0-9) or spaces only in this field.","請在此字段中使用唯一的字母(a 到z 或A 到Z)，數字(0- 9) 或空格。",module,Magento_Ui
+"Please use only letters (az or AZ), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","請只使用字母(a 到z 或A 到Z )，數字(0-9) 或下劃線(_) 在這一領域和第一個字符應該是一封信。",module,Magento_Ui
+"Please use only letters (az or AZ), numbers (0-9), spaces and ""#"" in this field.","請只使用字母(a 到z 或A 到Z)，數字(0- 9)，空格和""#""在這一領域。",module,Magento_Ui
+"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","請輸入有效的電話號碼。例如(123) 456-7890 或123-456-7890。",module ,Magento_Ui
+"Please enter a valid fax number (Ex: 123-456-7890).","請輸入有效的傳真號碼 (Ex: 123-456-7890)。",module,Magento_Ui
+"Please enter a valid email address (Ex: johndoe@domain.com).","請輸入一個有效的電子郵件地址 (Ex: johndoe@domain.com)。",module,Magento_Ui
+"Please enter 7 or more characters, using both numeric and alphabetic.","請輸入 7 或更多個字符，使用數字和字母。",module,Magento_Ui
+"Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","請輸入一個有效的URL。協議是需要(http://、 https://或ftp: / /)。",module,Magento_Ui
+"Please enter a valid URL. For example http://www.example.com or www.example.com.","請輸入一個有效的URL。例如http://www.example.com 或www.example. com。",module,Magento_Ui
+"Please enter a valid XML-identifier (Ex: something_1, block5, id-4).","請輸入一個有效的 XML 標識符 (Ex: something_1，block5，id-4)。",module,Magento_Ui
+"Please enter a valid social security number (Ex: 123-45-6789).","請輸入一個有效的社會安全號碼 (Ex: 123-45-6789)。",module,Magento_Ui
+"Please enter a valid zip code (Ex: 90602 or 90602-1234).","請輸入一個有效的郵政編碼 (Ex: 90602 或 90602-1234年)。",module,Magento_Ui
+"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","請使用此日期格式: dd/mm/yyyy。例如2006/3/17 為2006 年3 月17。",module,Magento_Ui
+"Please enter a valid $ amount. For example $100.00.","請輸入有效的美元金額。例如 100.00 美元。",module,Magento_Ui
+"Please enter a number 0 or greater in this field.",請在該字段中輸入有效數字。 ,module,Magento_Ui
+"Please enter a number greater than 0 in this field.","請在此字段中輸入大於 0 的數字。",module,Magento_Ui
+"Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","請輸入一個有效的CSS 長度(Ex: 100px，77pt，20em，.5ex 或50%)。 ",module,Magento_Ui
+"Please enter a valid number in this field.",請在此字段中輸入一個有效的數字。 ,module,Magento_Ui
+"The value is not within the specified range.",值不是在指定的範圍之內。 ,module,Magento_Ui
+"Please use letters only (a-z or A-Z) in this field.","請僅使用字母 (a 到 z 或 A 到 Z) 在這一領域。",module,Magento_Ui
+"Please use only letters (az), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","請使用唯一字母(az)，數字(0-9)或下劃線(_) 在這一領域，和第一個字符應該是一封信。",module,Magento_Ui
+"Please use only letters (az or AZ) or numbers (0-9) in this field. No spaces or other characters are allowed.","請在此字段中使用只有字母(a 到z 或A 到Z) 或數字(0-9)。允許不能有空格或其他字符。",module,Magento_Ui
+"Please enter a valid date.",請輸入一個有效的日期。 ,module,Magento_Ui
+"Please enter a valid URL Key (Ex: ""example-page""
 "Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").","Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").",module,Magento_Ui
 "Please enter a valid zip code.","Please enter a valid zip code.",module,Magento_Ui
 "Please select State/Province.","Please select State/Province.",module,Magento_Ui
@@ -6453,43 +6435,55 @@ Type,Type,module,Magento_Backup
 Download,Download,module,Magento_Backup
 Action,Action,module,Magento_Backup
 Rollback,Rollback,module,Magento_Backup
-Braintree,Braintree,module,Magento_Braintree
-&nbsp;,&nbsp;,module,Magento_Braintree
-"Enable this Solution","Enable this Solution",module,Magento_Braintree
-"Enable PayPal through Braintree","Enable PayPal through Braintree",module,Magento_Braintree
-"Basic Braintree Settings","Basic Braintree Settings",module,Magento_Braintree
-Title,Title,module,Magento_Braintree
-Environment,Environment,module,Magento_Braintree
-"Payment Action","Payment Action",module,Magento_Braintree
-"Merchant Account ID","Merchant Account ID",module,Magento_Braintree
-"Merchant ID","Merchant ID",module,Magento_Braintree
-"Public Key","Public Key",module,Magento_Braintree
-"Private Key","Private Key",module,Magento_Braintree
-"Advanced Braintree Settings","Advanced Braintree Settings",module,Magento_Braintree
-Debug,Debug,module,Magento_Braintree
-"Capture action","Capture action",module,Magento_Braintree
-"New Order Status","New Order Status",module,Magento_Braintree
-"Use Vault","Use Vault",module,Magento_Braintree
-"Allow Duplicate Cards","Allow Duplicate Cards",module,Magento_Braintree
-"CVV Verification","CVV Verification",module,Magento_Braintree
-"Credit Card Types","Credit Card Types",module,Magento_Braintree
-"Enable Credit Card auto-detection on Storefront","Enable Credit Card auto-detection on Storefront",module,Magento_Braintree
-"Advanced Fraud Protection","Advanced Fraud Protection",module,Magento_Braintree
-"Your Kount ID","Your Kount ID",module,Magento_Braintree
-"Use Cache","Use Cache",module,Magento_Braintree
-"Sort Order","Sort Order",module,Magento_Braintree
-"Country Specific Settings","Country Specific Settings",module,Magento_Braintree
-"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_Braintree
-"Payment from Specific Countries","Payment from Specific Countries",module,Magento_Braintree
-"Country Specific Credit Card Types","Country Specific Credit Card Types",module,Magento_Braintree
-"PayPal through Braintree","PayPal through Braintree",module,Magento_Braintree
-"Override Merchant Name","Override Merchant Name",module,Magento_Braintree
-"Display on Shopping Cart","Display on Shopping Cart",module,Magento_Braintree
-"Require Customer's Billing Address","Require Customer's Billing Address",module,Magento_Braintree
-"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Allow to Edit Shipping Address Entered During Checkout on PayPal Side",module,Magento_Braintree
-"3D Secure Verification Settings","3D Secure Verification Settings",module,Magento_Braintree
-"3D Secure Verification","3D Secure Verification",module,Magento_Braintree
-"Edit My Credit Cards","Edit My Credit Cards",module,Magento_Braintree
+Braintree,布倫特里,module,Magento_Braintree
+"Enable this Solution",啟用此解決方案,module,Magento_Braintree
+"Enable PayPal through Braintree",啟用通過布倫特里貝寶,module,Magento_Braintree
+"Basic Braintree Settings","基本Braintree 設置",module,Magento_Braintree
+Title,標題,module,Magento_Braintree
+Environment,環境,module,Magento_Braintree
+"Payment Action",支付行為,module,Magento_Braintree
+"Merchant ID",商家ID,module,Magento_Braintree
+"Public Key",公共密鑰,module,Magento_Braintree
+"Private Key",密鑰,module,Magento_Braintree
+"Advanced Braintree Settings","先進的Braintree 設置",module,Magento_Braintree
+"Vault Title",保密支付標題,module,Magento_Braintree
+"Merchant Account ID","商人帳戶 ID",module,Magento_Braintree
+"Advanced Fraud Protection",先進的防欺詐保護,module,Magento_Braintree
+"Kount Merchant ID",Kount自動欺詐交易檢查服務賬號ID,module,Magento_Braintree
+Debug,調試,module,Magento_Braintree
+"CVV Verification",CVV驗證,module,Magento_Braintree
+"Credit Card Types",信用卡類型,module,Magento_Braintree
+"Sort Order",排序,module,Magento_Braintree
+"Country Specific Settings",國家/地區特定的設置,module,Magento_Braintree
+"Payment from Applicable Countries",來自特定國家的付款,module,Magento_Braintree
+"Payment from Specific Countries",具體國家的付款,module,Magento_Braintree
+"Country Specific Credit Card Types",國家特定的信用卡類型,module,Magento_Braintree
+"PayPal through Braintree",布倫特里通過貝寶,module,Magento_Braintree
+"Override Merchant Name",重寫商戶名稱,module,Magento_Braintree
+"Require Customer's Billing Address",需要客戶的帳單地址,module,Magento_Braintree
+"Allow to Edit Shipping Address Entered During Checkout on PayPal Side",允許編輯航運貝寶一邊在結帳時輸入地址,module,Magento_Braintree
+"Display on Shopping Cart",在購物車上的顯示,module,Magento_Braintree
+"3D Secure Verification Settings","3D 安全驗證設置",module,Magento_Braintree
+"3D Secure Verification","3D 安全驗證",module,Magento_Braintree
+"Threshold Amount",閾值金額,module,Magento_Braintree
+"Verify for Applicable Countries",為適用的國家驗證,module,Magento_Braintree
+"Verify for Specific Countries",為特定的國家驗證,module,Magento_Braintree
+"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","將篩選器應用才能得到結果。只有前100條記錄將顯示在網格中，您將能夠下載完整版本的.csv 格式報告。",module,Magento_Braintree
+Select...,選擇...,module,Magento_Braintree
+Status,狀態,module,Magento_Braintree
+"Transaction Type",交易類型,module,Magento_Braintree
+"Payment Type",支付方式,module,Magento_Braintree
+"PayPal Payment ID","貝寶PayPal付款 ID",module,Magento_Braintree
+"Created At",創建於,module,Magento_Braintree
+"Transaction ID","交易記錄 ID",module,Magento_Braintree
+"Order ID",訂單編號：,module,Magento_Braintree
+Type,類型,module,Magento_Braintree
+Amount,數額,module,Magento_Braintree
+"Settlement Code",結算編碼,module,Magento_Braintree
+"Settlement Response Text",結算響應文本,module,Magento_Braintree
+"Refund Ids","退款 Id",module,Magento_Braintree
+"Settlement Batch ID",結算批處理編號ID,module,Magento_Braintree
+Currency,貨幣,module,Magento_Braintree
 CAPTCHA,CAPTCHA,module,Magento_Captcha
 "Enable CAPTCHA in Admin","Enable CAPTCHA in Admin",module,Magento_Captcha
 Font,Font,module,Magento_Captcha
@@ -6564,141 +6558,132 @@ Template,Template,module,Magento_CatalogWidget
 "Cache Lifetime (Seconds)","Cache Lifetime (Seconds)",module,Magento_CatalogWidget
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.",module,Magento_CatalogWidget
 Conditions,Conditions,module,Magento_CatalogWidget
-Small,Small,module,Magento_Catalog
+Small,小,module,Magento_Catalog
 Main,Main,module,Magento_Catalog
-Thumbnail,Thumbnail,module,Magento_Catalog
+Thumbnail,產品縮圖,module,Magento_Catalog
 "Custom image","Custom image",module,Magento_Catalog
-"Product Fields Auto-Generation","Product Fields Auto-Generation",module,Magento_Catalog
-"Mask for SKU","Mask for SKU",module,Magento_Catalog
-"Use {{name}} as Product Name placeholder","Use {{name}} as Product Name placeholder",module,Magento_Catalog
-"Mask for Meta Title","Mask for Meta Title",module,Magento_Catalog
-"Mask for Meta Keywords","Mask for Meta Keywords",module,Magento_Catalog
-"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","Use {{name}} as Product Name or {{sku}} as Product SKU placeholders",module,Magento_Catalog
-"Mask for Meta Description","Mask for Meta Description",module,Magento_Catalog
-"Use {{name}} and {{description}} as Product Name and Product Description placeholders","Use {{name}} and {{description}} as Product Name and Product Description placeholders",module,Magento_Catalog
-Storefront,Storefront,module,Magento_Catalog
-"List Mode","List Mode",module,Magento_Catalog
-"Products per Page on Grid Allowed Values","Products per Page on Grid Allowed Values",module,Magento_Catalog
-Comma-separated.,Comma-separated.,module,Magento_Catalog
-"Products per Page on Grid Default Value","Products per Page on Grid Default Value",module,Magento_Catalog
-"Must be in the allowed values list","Must be in the allowed values list",module,Magento_Catalog
-"Products per Page on List Allowed Values","Products per Page on List Allowed Values",module,Magento_Catalog
-"Products per Page on List Default Value","Products per Page on List Default Value",module,Magento_Catalog
-"Use Flat Catalog Category","Use Flat Catalog Category",module,Magento_Catalog
-"Use Flat Catalog Product","Use Flat Catalog Product",module,Magento_Catalog
-"Product Listing Sort by","Product Listing Sort by",module,Magento_Catalog
-"Allow All Products per Page","Allow All Products per Page",module,Magento_Catalog
-"Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Whether to show ""All"" option in the ""Show X Per Page"" dropdown",module,Magento_Catalog
-"Allow Dynamic Media URLs in Products and Categories","Allow Dynamic Media URLs in Products and Categories",module,Magento_Catalog
-"E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.",module,Magento_Catalog
-"Product Image Placeholders","Product Image Placeholders",module,Magento_Catalog
-"Search Engine Optimization","Search Engine Optimization",module,Magento_Catalog
-"Page Title Separator","Page Title Separator",module,Magento_Catalog
-"Use Canonical Link Meta Tag For Categories","Use Canonical Link Meta Tag For Categories",module,Magento_Catalog
-"Use Canonical Link Meta Tag For Products","Use Canonical Link Meta Tag For Products",module,Magento_Catalog
-"Catalog Price Scope","Catalog Price Scope",module,Magento_Catalog
-"This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").","This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").",module,Magento_Catalog
-"Category Top Navigation","Category Top Navigation",module,Magento_Catalog
-"Maximal Depth","Maximal Depth",module,Magento_Catalog
-"Date & Time Custom Options","Date & Time Custom Options",module,Magento_Catalog
-"Use JavaScript Calendar","Use JavaScript Calendar",module,Magento_Catalog
-"Date Fields Order","Date Fields Order",module,Magento_Catalog
-"Time Format","Time Format",module,Magento_Catalog
-"Year Range","Year Range",module,Magento_Catalog
-"Please use a four-digit year format.","Please use a four-digit year format.",module,Magento_Catalog
-"Product Image Watermarks","Product Image Watermarks",module,Magento_Catalog
-"Watermark Default Size","Watermark Default Size",module,Magento_Catalog
-"Watermark Opacity, Percent","Watermark Opacity, Percent",module,Magento_Catalog
-Watermark,Watermark,module,Magento_Catalog
-"Watermark Position","Watermark Position",module,Magento_Catalog
-"Use Static URLs for Media Content in WYSIWYG for Catalog","Use Static URLs for Media Content in WYSIWYG for Catalog",module,Magento_Catalog
-"This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.",module,Magento_Catalog
-"Top Level Category","Top Level Category",module,Magento_Catalog
-"Product Flat Data","Product Flat Data",module,Magento_Catalog
-"Reorganize EAV product structure to flat structure","Reorganize EAV product structure to flat structure",module,Magento_Catalog
-"Category Flat Data","Category Flat Data",module,Magento_Catalog
-"Reorganize EAV category structure to flat structure","Reorganize EAV category structure to flat structure",module,Magento_Catalog
-"Indexed category/products association","Indexed category/products association",module,Magento_Catalog
-"Product Categories","Product Categories",module,Magento_Catalog
-"Indexed product/categories association","Indexed product/categories association",module,Magento_Catalog
-"Product Price","Product Price",module,Magento_Catalog
-"Index product prices","Index product prices",module,Magento_Catalog
-"Product EAV","Product EAV",module,Magento_Catalog
-"Index product EAV","Index product EAV",module,Magento_Catalog
-"Catalog New Products List","Catalog New Products List",module,Magento_Catalog
-"List of Products that are set as New","List of Products that are set as New",module,Magento_Catalog
-"Display Type","Display Type",module,Magento_Catalog
-"All products - recently added products, New products - products marked as new","All products - recently added products, New products - products marked as new",module,Magento_Catalog
-"All products","All products",module,Magento_Catalog
-"New products","New products",module,Magento_Catalog
-"Display Page Control","Display Page Control",module,Magento_Catalog
-"Number of Products per Page","Number of Products per Page",module,Magento_Catalog
-"Number of Products to Display","Number of Products to Display",module,Magento_Catalog
-Template,Template,module,Magento_Catalog
-"New Products Grid Template","New Products Grid Template",module,Magento_Catalog
-"New Products List Template","New Products List Template",module,Magento_Catalog
-"New Products Images and Names Template","New Products Images and Names Template",module,Magento_Catalog
-"New Products Names Only Template","New Products Names Only Template",module,Magento_Catalog
-"New Products Images Only Template","New Products Images Only Template",module,Magento_Catalog
-"Cache Lifetime (Seconds)","Cache Lifetime (Seconds)",module,Magento_Catalog
-"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.",module,Magento_Catalog
-"Catalog Product Link","Catalog Product Link",module,Magento_Catalog
-"Link to a Specified Product","Link to a Specified Product",module,Magento_Catalog
-"Select Product...","Select Product...",module,Magento_Catalog
-"Anchor Custom Text","Anchor Custom Text",module,Magento_Catalog
-"If empty, we'll use the product name here.","If empty, we'll use the product name here.",module,Magento_Catalog
-"Anchor Custom Title","Anchor Custom Title",module,Magento_Catalog
-"Product Link Block Template","Product Link Block Template",module,Magento_Catalog
-"Product Link Inline Template","Product Link Inline Template",module,Magento_Catalog
-"Catalog Category Link","Catalog Category Link",module,Magento_Catalog
-"Link to a Specified Category","Link to a Specified Category",module,Magento_Catalog
-"Select Category...","Select Category...",module,Magento_Catalog
-"If empty, we'll use the category name here.","If empty, we'll use the category name here.",module,Magento_Catalog
-"Category Link Block Template","Category Link Block Template",module,Magento_Catalog
-"Category Link Inline Template","Category Link Inline Template",module,Magento_Catalog
+"Product Fields Auto-Generation",字段自動生成產品,module,Magento_Catalog
+"Mask for SKU","SKU 的掩碼",module,Magento_Catalog
+"Use {{name}} as Product Name placeholder","使用 {{name}} 作為產品名稱的佔位符",module,Magento_Catalog
+"Mask for Meta Title","掩碼 Meta 標題",module,Magento_Catalog
+"Mask for Meta Keywords","Meta 關鍵字掩碼",module,Magento_Catalog
+"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","使用 {{name}} 作為產品名稱或 {{sku}} 作為產品 SKU 佔位符",module,Magento_Catalog
+"Mask for Meta Description","Meta 描述掩碼",module,Magento_Catalog
+"Use {{name}} and {{description}} as Product Name and Product Description placeholders","使用 {{name}} 和 {{description}} 作為產品名稱和產品描述佔位符",module,Magento_Catalog
+Storefront,前端,module,Magento_Catalog
+"List Mode",列表模式,module,Magento_Catalog
+"Products per Page on Grid Allowed Values",每頁網格產品允許值,module,Magento_Catalog
+Comma-separated.,以逗號分隔。 ,module,Magento_Catalog
+"Products per Page on Grid Default Value",每頁網格產品默認值,module,Magento_Catalog
+"Must be in the allowed values list",必須在允許的值列表中,module,Magento_Catalog
+"Products per Page on List Allowed Values",每頁列表產品允許值,module,Magento_Catalog
+"Products per Page on List Default Value",每頁列表產品默認值,module,Magento_Catalog
+"Use Flat Catalog Category",使用平面目錄類別,module,Magento_Catalog
+"Use Flat Catalog Product",使用平面目錄產品,module,Magento_Catalog
+"Product Listing Sort by",產品列表排序按,module,Magento_Catalog
+"Allow All Products per Page",允許每頁中的所有產品,module,Magento_Catalog
+"Whether to show ""All"" option in the ""Show X Per Page"" dropdown","是否顯示在""每頁顯示 X""下拉列表中的""全部""選項",module,Magento_Catalog
+"Allow Dynamic Media URLs in Products and Categories","允許動態媒體 Url 中的產品和類別",module,Magento_Catalog
+"Eg {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","例如{{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}。解析影響的動態指令目錄性能。",module,Magento_Catalog
+"Product Image Placeholders",產品圖像佔位符,module,Magento_Catalog
+"Search Engine Optimization",搜索引擎的優化,module,Magento_Catalog
+"Page Title Separator",頁面標題分隔符。 ,module,Magento_Catalog
+"Use Canonical Link Meta Tag For Categories",使用標準連接元標籤的類別,module,Magento_Catalog
+"Use Canonical Link Meta Tag For Products",為產品使用標準連接元標籤,module,Magento_Catalog
+"Catalog Price Scope",目錄價格範圍,module,Magento_Catalog
+"This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").","這定義基礎貨幣範圍(""Currency Setup"" > ""Currency Options "" > ""Base Currency"")。",module,Magento_Catalog
+"Category Top Navigation",類別頂部導航,module,Magento_Catalog
+"Maximal Depth",最大深度,module,Magento_Catalog
+"Date & Time Custom Options",日期及時間的自定義選項,module,Magento_Catalog
+"Use JavaScript Calendar","使用 JavaScript 日曆",module,Magento_Catalog
+"Date Fields Order",日期字段排序。 ,module,Magento_Catalog
+"Time Format",時間格式,module,Magento_Catalog
+"Year Range",年的範圍內,module,Magento_Catalog
+"Please use a four-digit ye​​ar format.",請使用四位數年份格式。 ,module,Magento_Catalog
+"Use Static URLs for Media Content in WYSIWYG for Catalog","使用靜態 Url 的媒體內容所見即所得為目錄",module,Magento_Catalog
+"This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","這僅適用於目錄的產品和類別。媒體內容將作為靜態URL 插入編輯器。如果系統設置的基準URL 的變化，不會更新媒體內容。",module,Magento_Catalog
+"Top Level Category",最高層次的範疇,module,Magento_Catalog
+"Product Flat Data",產品平面數據,module,Magento_Catalog
+"Reorganize EAV product structure to flat structure","重新整理 EAV 產品結構為平面結構",module,Magento_Catalog
+"Category Flat Data",類別平面數據,module,Magento_Catalog
+"Reorganize EAV category structure to flat structure","重新整理 EAV 分類結構為平面結構",module,Magento_Catalog
+"Category Products",類別產品,module,Magento_Catalog
+"Indexed category/products association",索引的類別產品協會,module,Magento_Catalog
+"Product Categories",產品類別,module,Magento_Catalog
+"Indexed product/categories association",索引的產品協會,module,Magento_Catalog
+"Product Price",產品價格,module,Magento_Catalog
+"Index product prices",索引產品價格,module,Magento_Catalog
+"Product EAV","EAV 產品",module,Magento_Catalog
+"Index product EAV","索引產品 EAV",module,Magento_Catalog
+"Catalog New Products List",新的產品目錄,module,Magento_Catalog
+"List of Products that are set as New",設置為新的產品的列表,module,Magento_Catalog
+"Display Type",顯示類型,module,Magento_Catalog
+"All products - recently added products, New products - products marked as new",所有產品-最近添加的產品，新產品-標記為新的產品,module,Magento_Catalog
+"All products",所有產品,module,Magento_Catalog
+"New products",新產品,module,Magento_Catalog
+"Display Page Control",如果沒有設置，默認為86400。為了實是更新，請清空HTML塊緩存輸出,module,Magento_Catalog
+"Number of Products per Page",每頁顯示的產品數量,module,Magento_Catalog
+"Number of Products to Display",顯示產品的數量,module,Magento_Catalog
+Template,模板,module,Magento_Catalog
+"New Products Grid Template",新產品網格模板,module,Magento_Catalog
+"New Products List Template",新產品列表模板,module,Magento_Catalog
+"New Products Images and Names Template",新產品圖片和名稱模板,module,Magento_Catalog
+"New Products Names Only Template",新產品名稱唯一模板,module,Magento_Catalog
+"New Products Images Only Template",新產品圖像只有模板,module,Magento_Catalog
+"Cache Lifetime (Seconds)","緩存生存期 (秒)",module,Magento_Catalog
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","由 86400 默認情況下，如果不是設置。若要立即刷新，請清除塊 HTML 輸出緩存。",module,Magento_Catalog
+"Catalog Product Link",目錄產品鏈接,module,Magento_Catalog
+"Link to a Specified Product",鏈接到指定的產品,module,Magento_Catalog
+"Select Product...",選擇產品...,module,Magento_Catalog
+"Anchor Custom Text",自定義文本錨點,module,Magento_Catalog
+"If empty, we'll use the product name here.",如果為空，我們將在這裡使用的產品名稱。 ,module,Magento_Catalog
+"Anchor Custom Title",自定義標題錨點,module,Magento_Catalog
+"Product Link Block Template",產品鏈接塊模板,module,Magento_Catalog
+"Product Link Inline Template",產品鏈接內聯模板,module,Magento_Catalog
+"Catalog Category Link",目錄類別鏈接,module,Magento_Catalog
+"Link to a Specified Category",鏈接到一個指定的類別,module,Magento_Catalog
+"Select Category...",選擇類別...,module,Magento_Catalog
+"If empty, we'll use the category name here.",如果為空，我們將在這裡使用的類別名稱。 ,module,Magento_Catalog
+"Category Link Block Template",分類鏈接塊模板,module,Magento_Catalog
+"Category Link Inline Template",類別鏈接內聯模板,module,Magento_Catalog
+Set,設置名稱,module,Magento_Catalog
 Set,Set,module,Magento_Catalog
-"All Store Views","All Store Views",module,Magento_Catalog
-"Delete items","Delete items",module,Magento_Catalog
-"Delete selected items?","Delete selected items?",module,Magento_Catalog
-"Change status","Change status",module,Magento_Catalog
-Enable,Enable,module,Magento_Catalog
-Disable,Disable,module,Magento_Catalog
-"Update attributes","Update attributes",module,Magento_Catalog
-none,none,module,Magento_Catalog
-Overview,Overview,module,Magento_Catalog
-Details,Details,module,Magento_Catalog
-"Enable Terms and Conditions","Enable Terms and Conditions",module,Magento_CheckoutAgreements
-"Checkout Options","Checkout Options",module,Magento_Checkout
-"Enable Onepage Checkout","Enable Onepage Checkout",module,Magento_Checkout
-"Allow Guest Checkout","Allow Guest Checkout",module,Magento_Checkout
-"Require Customer To Be Logged In To Checkout","Require Customer To Be Logged In To Checkout",module,Magento_Checkout
-"Quote Lifetime (days)","Quote Lifetime (days)",module,Magento_Checkout
-"After Adding a Product Redirect to Shopping Cart","After Adding a Product Redirect to Shopping Cart",module,Magento_Checkout
-"My Cart Link","My Cart Link",module,Magento_Checkout
-"Display Cart Summary","Display Cart Summary",module,Magento_Checkout
-"Shopping Cart Sidebar","Shopping Cart Sidebar",module,Magento_Checkout
-"Display Shopping Cart Sidebar","Display Shopping Cart Sidebar",module,Magento_Checkout
-"Maximum Display Recently Added Item(s)","Maximum Display Recently Added Item(s)",module,Magento_Checkout
-"Payment Failed Emails","Payment Failed Emails",module,Magento_Checkout
-"Payment Failed Email Sender","Payment Failed Email Sender",module,Magento_Checkout
-"Payment Failed Email Receiver","Payment Failed Email Receiver",module,Magento_Checkout
-"Payment Failed Template","Payment Failed Template",module,Magento_Checkout
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Checkout
-"Send Payment Failed Email Copy To","Send Payment Failed Email Copy To",module,Magento_Checkout
-"Separate by "","".","Separate by "","".",module,Magento_Checkout
-"Send Payment Failed Email Copy Method","Send Payment Failed Email Copy Method",module,Magento_Checkout
-Shipping,Shipping,module,Magento_Checkout
-"Order Total","Order Total",module,Magento_Checkout
-"Shipping Address","Shipping Address",module,Magento_Checkout
-"Save Address","Save Address",module,Magento_Checkout
-Cancel,Cancel,module,Magento_Checkout
-"We'll send your order confirmation here.","We'll send your order confirmation here.",module,Magento_Checkout
-"For delivery questions.","For delivery questions.",module,Magento_Checkout
-Payment,Payment,module,Magento_Checkout
-"Cart Subtotal","Cart Subtotal",module,Magento_Checkout
-"Not yet calculated","Not yet calculated",module,Magento_Checkout
-"We received your order!","We received your order!",module,Magento_Checkout
-"Thank you for your purchase!","Thank you for your purchase!",module,Magento_Checkout
+"All Store Views",所有商店界面,module,Magento_Catalog
+"Delete items",刪除項目,module,Magento_Catalog
+"Delete selected items?",刪除所選的項目嗎?,module,Magento_Catalog
+"Change status",更改狀態,module,Magento_Catalog
+Enable,啟用,module,Magento_Catalog
+Disable,禁用,module,Magento_Catalog
+"Update attributes",更新屬性,module,Magento_Catalog
+none,沒有,module,Magento_Catalog
+Overview,概述,module,Magento_Catalog
+Details,詳情,module,Magento_Catalog
+"Enable Terms and Conditions",啟用的條款和條件,module,Magento_CheckoutAgreements
+"Checkout Options",結賬選項,module,Magento_Checkout
+"Enable Onepage Checkout",使用同一頁面結帳,module,Magento_Checkout
+"Allow Guest Checkout",允許遊客結帳,module,Magento_Checkout
+"Quote Lifetime (days)","引述有效期 (天)",module,Magento_Checkout
+"After Adding a Product Redirect to Shopping Cart",將產品重定向添加到購物車後,module,Magento_Checkout
+"My Cart Link",我購物車鏈接,module,Magento_Checkout
+"Display Cart Summary",顯示購物車摘要,module,Magento_Checkout
+"Shopping Cart Sidebar",購物車側邊欄,module,Magento_Checkout
+"Display Shopping Cart Sidebar",顯示購物車側邊欄,module,Magento_Checkout
+"Maximum Display Recently Added Item(s)",最大顯示最近添加的項目,module,Magento_Checkout
+"Payment Failed Emails",支付失敗的電子郵件,module,Magento_Checkout
+"Payment Failed Email Sender",支付失敗郵件發件人,module,Magento_Checkout
+"Payment Failed Email Receiver",支付失敗郵件接收者,module,Magento_Checkout
+"Payment Failed Template",支付失敗模板,module,Magento_Checkout
+"Email template chosen based on theme fallback when ""Default"" option is selected.",電子郵件模板選擇基於主題的回退時，選擇“默認”選項。 ,module,Magento_Checkout
+"Send Payment Failed Email Copy To",發送付款失敗郵件的複件到,module,Magento_Checkout
+"Separate by "","".","單獨的""，""。",module,Magento_Checkout
+"Send Payment Failed Email Copy Method",發送支付失敗郵件副本的方法,module,Magento_Checkout
+Summary,摘要,module,Magento_Checkout
+"Order Total",訂單金額,module,Magento_Checkout
+"We'll send your order confirmation here.",在這裡，我們會給您的訂單確認。 ,module,Magento_Checkout
+Payment,付款,module,Magento_Checkout
+"Not yet calculated",尚未計算,module,Magento_Checkout
+"We received your order!",我們收到您的訂單!,module,Magento_Checkout
+"Thank you for your purchase!",感謝您的購買！ ,module,Magento_Checkout
 "CMS Home Page","CMS Home Page",module,Magento_Cms
 "CMS No Route Page","CMS No Route Page",module,Magento_Cms
 "CMS No Cookies Page","CMS No Cookies Page",module,Magento_Cms
@@ -6739,27 +6724,25 @@ Enable,Enable,module,Magento_Cms
 "Field 3.1","Field 3.1",module,Magento_Config
 "Field 3.1.1","Field 3.1.1",module,Magento_Config
 "Field 4","Field 4",module,Magento_Config
-"Configurable Product Image","Configurable Product Image",module,Magento_ConfigurableProduct
-Select...,Select...,module,Magento_ConfigurableProduct
-Status,Status,module,Magento_ConfigurableProduct
-ID,ID,module,Magento_ConfigurableProduct
-Thumbnail,Thumbnail,module,Magento_ConfigurableProduct
-"Attribute Code","Attribute Code",module,Magento_ConfigurableProduct
-"Attribute Label","Attribute Label",module,Magento_ConfigurableProduct
-Required,Required,module,Magento_ConfigurableProduct
-System,System,module,Magento_ConfigurableProduct
-Visible,Visible,module,Magento_ConfigurableProduct
-Scope,Scope,module,Magento_ConfigurableProduct
-Searchable,Searchable,module,Magento_ConfigurableProduct
-Comparable,Comparable,module,Magento_ConfigurableProduct
-Contacts,Contacts,module,Magento_Contact
-"Contact Us","Contact Us",module,Magento_Contact
-"Enable Contact Us","Enable Contact Us",module,Magento_Contact
-"Email Options","Email Options",module,Magento_Contact
-"Send Emails To","Send Emails To",module,Magento_Contact
-"Email Sender","Email Sender",module,Magento_Contact
-"Email Template","Email Template",module,Magento_Contact
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Contact
+"Configurable Product Image",可配置的產品圖像,module,Magento_ConfigurableProduct
+Select...,選擇。 。 。 ,module,Magento_ConfigurableProduct
+Thumbnail,縮略圖,module,Magento_ConfigurableProduct
+"Attribute Code",屬性代碼,module,Magento_ConfigurableProduct
+"Attribute Label",屬性標籤,module,Magento_ConfigurableProduct
+Required,必填,module,Magento_ConfigurableProduct
+System,系統,module,Magento_ConfigurableProduct
+Visible,可比較,module,Magento_ConfigurableProduct
+Scope,範圍,module,Magento_ConfigurableProduct
+Searchable,可搜索,module,Magento_ConfigurableProduct
+Comparable,可比性,module,Magento_ConfigurableProduct
+Contacts,聯繫人,module,Magento_Contact
+"Contact Us",聯繫我們,module,Magento_Contact
+"Enable Contact Us",啟用與我們取得聯繫,module,Magento_Contact
+"Email Options",電子郵件選項,module,Magento_Contact
+"Send Emails To",發送電子郵件到,module,Magento_Contact
+"Email Sender",電子郵件發件人,module,Magento_Contact
+"Email Template",郵件模板,module,Magento_Contact
+"Email template chosen based on theme fallback when ""Default"" option is selected.",電子郵件模板選擇基於主題的回退時，選擇“默認”選項。 ,module,Magento_Contact
 "Default Cookie Settings","Default Cookie Settings",module,Magento_Cookie
 "Cookie Lifetime","Cookie Lifetime",module,Magento_Cookie
 "Cookie Path","Cookie Path",module,Magento_Cookie
@@ -7066,45 +7049,45 @@ General,General,module,Magento_NewRelicReporting
 "This is located by navigating to Settings from the New Relic APM website","This is located by navigating to Settings from the New Relic APM website",module,Magento_NewRelicReporting
 Cron,Cron,module,Magento_NewRelicReporting
 "Enable Cron","Enable Cron",module,Magento_NewRelicReporting
-"Subscription Options","Subscription Options",module,Magento_Newsletter
-"Allow Guest Subscription","Allow Guest Subscription",module,Magento_Newsletter
-"Need to Confirm","Need to Confirm",module,Magento_Newsletter
-"Confirmation Email Sender","Confirmation Email Sender",module,Magento_Newsletter
-"Confirmation Email Template","Confirmation Email Template",module,Magento_Newsletter
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Newsletter
-"Success Email Sender","Success Email Sender",module,Magento_Newsletter
-"Success Email Template","Success Email Template",module,Magento_Newsletter
-"Unsubscription Email Sender","Unsubscription Email Sender",module,Magento_Newsletter
-"Unsubscription Email Template","Unsubscription Email Template",module,Magento_Newsletter
-"We found no problems.","We found no problems.",module,Magento_Newsletter
-Subscriber,Subscriber,module,Magento_Newsletter
-"Queue Start Date","Queue Start Date",module,Magento_Newsletter
-"Queue Subject","Queue Subject",module,Magento_Newsletter
-"Error Code","Error Code",module,Magento_Newsletter
-"Error Text","Error Text",module,Magento_Newsletter
-"Queue Start","Queue Start",module,Magento_Newsletter
-"Queue End","Queue End",module,Magento_Newsletter
-Status,Status,module,Magento_Newsletter
-Processed,Processed,module,Magento_Newsletter
-Recipients,Recipients,module,Magento_Newsletter
-Unsubscribe,Unsubscribe,module,Magento_Newsletter
-Delete,Delete,module,Magento_Newsletter
-CSV,CSV,module,Magento_Newsletter
-"Excel XML","Excel XML",module,Magento_Newsletter
-Email,Email,module,Magento_Newsletter
-Type,Type,module,Magento_Newsletter
-Guest,Guest,module,Magento_Newsletter
-Customer,Customer,module,Magento_Newsletter
-"Customer First Name","Customer First Name",module,Magento_Newsletter
-"Customer Last Name","Customer Last Name",module,Magento_Newsletter
-"Not Activated","Not Activated",module,Magento_Newsletter
-Subscribed,Subscribed,module,Magento_Newsletter
-Unsubscribed,Unsubscribed,module,Magento_Newsletter
-Unconfirmed,Unconfirmed,module,Magento_Newsletter
-"Web Site","Web Site",module,Magento_Newsletter
-Store,Store,module,Magento_Newsletter
-"Store View","Store View",module,Magento_Newsletter
-"Newsletter Subscriptions","Newsletter Subscriptions",module,Magento_Newsletter
+"Subscription Options",訂閱選項,module,Magento_Newsletter
+"Allow Guest Subscription",允許客人訂閱,module,Magento_Newsletter
+"Need to Confirm",需要確認,module,Magento_Newsletter
+"Confirmation Email Sender",確認電子郵件發件人,module,Magento_Newsletter
+"Confirmation Email Template",確認電子郵件模板,module,Magento_Newsletter
+"Email template chosen based on theme fallback when ""Default"" option is selected.",電子郵件模板選擇基於主題的回退時，選擇“默認”選項。 ,module,Magento_Newsletter
+"Success Email Sender",成功的電子郵件發件人,module,Magento_Newsletter
+"Success Email Template",成功的電子郵件模板,module,Magento_Newsletter
+"Unsubscription Email Sender",未獲客戶退訂電子郵件發件人,module,Magento_Newsletter
+"Unsubscription Email Template",未獲客戶退訂電子郵件模板,module,Magento_Newsletter
+"We found no problems.",我們沒有發現問題。 ,module,Magento_Newsletter
+Subscriber,訂閱用戶,module,Magento_Newsletter
+"Queue Start Date",隊列開始日期,module,Magento_Newsletter
+"Queue Subject",隊列問題,module,Magento_Newsletter
+"Error Code",錯誤代碼,module,Magento_Newsletter
+"Error Text",錯誤文本,module,Magento_Newsletter
+"Queue Start",隊列開始,module,Magento_Newsletter
+"Queue End",隊列結束,module,Magento_Newsletter
+Status,狀態,module,Magento_Newsletter
+Processed,已處理,module,Magento_Newsletter
+Recipients,收件人,module,Magento_Newsletter
+Unsubscribe,取消訂閱,module,Magento_Newsletter
+Delete,刪除,module,Magento_Newsletter
+CSV,"Excel XML",module,Magento_Newsletter
+"Excel XML","XML Excel",module,Magento_Newsletter
+Email,郵箱,module,Magento_Newsletter
+Type,類型,module,Magento_Newsletter
+Guest,訪客,module,Magento_Newsletter
+Customer,客戶,module,Magento_Newsletter
+"Customer First Name",客戶名字,module,Magento_Newsletter
+"Customer Last Name",客戶姓氏,module,Magento_Newsletter
+"Not Activated",未激活,module,Magento_Newsletter
+Subscribed,訂閱,module,Magento_Newsletter
+Unsubscribed,取消訂閱,module,Magento_Newsletter
+Unconfirmed,未經證實的,module,Magento_Newsletter
+"Web Site",網站,module,Magento_Newsletter
+Store,商店,module,Magento_Newsletter
+"Store View",商店界面,module,Magento_Newsletter
+"Newsletter Subscriptions",訂閱,module,Magento_Newsletter
 "Check / Money Order","Check / Money Order",module,Magento_OfflinePayments
 Enabled,Enabled,module,Magento_OfflinePayments
 "New Order Status","New Order Status",module,Magento_OfflinePayments
@@ -7882,28 +7865,28 @@ Product,Product,module,Magento_Widget
 "Select Product...","Select Product...",module,Magento_Widget
 Conditions,Conditions,module,Magento_Widget
 "Widget ID","Widget ID",module,Magento_Widget
-"Share Options","Share Options",module,Magento_Wishlist
-"Email Sender","Email Sender",module,Magento_Wishlist
-"Email Template","Email Template",module,Magento_Wishlist
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Wishlist
-"Max Emails Allowed to be Sent","Max Emails Allowed to be Sent",module,Magento_Wishlist
-"Email Text Length Limit","Email Text Length Limit",module,Magento_Wishlist
-"General Options","General Options",module,Magento_Wishlist
-Enabled,Enabled,module,Magento_Wishlist
-"My Wish List Link","My Wish List Link",module,Magento_Wishlist
-"Display Wish List Summary","Display Wish List Summary",module,Magento_Wishlist
-"Enable RSS","Enable RSS",module,Magento_Wishlist
-"No Items Found","No Items Found",module,Magento_Wishlist
-"Product Name","Product Name",module,Magento_Wishlist
-"User Description","User Description",module,Magento_Wishlist
-Quantity,Quantity,module,Magento_Wishlist
-"Add Locale","Add Locale",module,Magento_Wishlist
-"Add Date","Add Date",module,Magento_Wishlist
-"Days in Wish List","Days in Wish List",module,Magento_Wishlist
-Action,Action,module,Magento_Wishlist
-Configure,Configure,module,Magento_Wishlist
-Delete,Delete,module,Magento_Wishlist
-"Product Details and Comment","Product Details and Comment",module,Magento_Wishlist
+"Share Options",分享設置,module,Magento_Wishlist
+"Email Sender",電子郵件發件人,module,Magento_Wishlist
+"Email Template",郵件模板,module,Magento_Wishlist
+"Email template chosen based on theme fallback when ""Default"" option is selected.",電子郵件模板選擇基於主題的回退時，選擇“默認”選項。 ,module,Magento_Wishlist
+"Max Emails Allowed to be Sent",最大允許發送電子郵件發送,module,Magento_Wishlist
+"Email Text Length Limit",電子郵件文本長度限制,module,Magento_Wishlist
+"General Options",一般選擇,module,Magento_Wishlist
+Enabled,啟動,module,Magento_Wishlist
+"My Wish List Link",我的願望列錶鍊接,module,Magento_Wishlist
+"Display Wish List Summary",顯示的收藏列表摘要,module,Magento_Wishlist
+"Enable RSS","啟動 RSS",module,Magento_Wishlist
+"No Items Found",找不到項目,module,Magento_Wishlist
+"Product Name",產品名稱,module,Magento_Wishlist
+"User Description",用戶說明,module,Magento_Wishlist
+Quantity,數量,module,Magento_Wishlist
+"Add Locale",收藏的天數,module,Magento_Wishlist
+"Add Date",添加日期,module,Magento_Wishlist
+"Days in Wish List",天在願望清單,module,Magento_Wishlist
+Action,操作,module,Magento_Wishlist
+Configure,配置,module,Magento_Wishlist
+Delete,刪除,module,Magento_Wishlist
+"Product Details and Comment",產品詳細信息和評論,module,Magento_Wishlist
 Summary,Summary,theme,frontend/Magento/blank
 "Account Dashboard","Account Dashboard",theme,frontend/Magento/blank
 "Account Information","Account Information",theme,frontend/Magento/blank
