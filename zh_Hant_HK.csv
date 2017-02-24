@@ -6888,7 +6888,7 @@ Addresses,地址,module,Magento_Customer
 "Edit Account Information",編輯帳戶信息,module,Magento_Customer
 "Password forgotten",密碼忘記了,module,Magento_Customer
 "My Dashboard",我的儀表板,module,Magento_Customer
-"You are signed out",你已註銷,module,Magento_Customer
+"You are signed out",你已登出,module,Magento_Customer
 "Front-end development workflow","Front-end development workflow",module,Magento_Developer
 "Workflow type","Workflow type",module,Magento_Developer
 "Not available in production mode","Not available in production mode",module,Magento_Developer
