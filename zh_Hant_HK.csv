@@ -128,7 +128,7 @@ Shipping,送貨,module,Magento_Backend
 "User Name","用戶名稱",module,Magento_Backend
 "First Name","名字",module,Magento_Backend
 "Last Name","姓",module,Magento_Backend
-Email,電郵,module,Magento_Backend
+"Email","電郵",module,Magento_Backend
 "User Email","用戶電郵",module,Magento_Backend
 "New Password","新密碼",module,Magento_Backend
 "Password Confirmation","確認密碼",module,Magento_Backend
@@ -910,7 +910,7 @@ Websites,網站,module,Magento_Catalog
 "There are no customers for this alert.","這個警報沒有客戶.",module,Magento_Catalog
 "First Name","名字",module,Magento_Catalog
 "Last Name","姓",module,Magento_Catalog
-Email,電郵,module,Magento_Catalog
+"Email","電郵",module,Magento_Catalog
 "Subscribe Date","訂閱日期",module,Magento_Catalog
 "Last Notified","最後通知",module,Magento_Catalog
 "Send Count","發送數目",module,Magento_Catalog
@@ -1754,16 +1754,16 @@ Actions,操作,module,Magento_ConfigurableProduct
 "Remove Product","刪除產品",module,Magento_ConfigurableProduct
 "Create Product Configurations","創建產品配置",module,Magento_ConfigurableProduct
 "Choose Affected Attribute Set","選擇受影響的屬性集",module,Magento_ConfigurableProduct
-Confirm,確認,module,Magento_ConfigurableProduct
-Cancel,取消,module,Magento_ConfigurableProduct
+"Confirm","確認",module,Magento_ConfigurableProduct
+"Cancel","取消",module,Magento_ConfigurableProduct
 "Page not found.","找不到網頁.",module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","感謝您聯繫我們，及你的意見和問題與。我們會很快回覆您.",module,Magento_Contact
 "We can't process your request right now. Sorry, that's all we know.","我們現在無法處理您的請求。對不起.",module,Magento_Contact
 "* Required Fields","* 必填字段",module,Magento_Contact
 "Write Us","寫信給我們",module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","給我們留言，我們會盡快給您盡快.",module,Magento_Contact
-Name,名稱,module,Magento_Contact
-Email,電子郵件,module,Magento_Contact
+"Name","名稱",module,Magento_Contact
+"Email","電子郵件",module,Magento_Contact
 "Phone Number","電話號碼",module,Magento_Contact
 "What’s on your mind?","你在想什麼?",module,Magento_Contact
 Submit,提交,module,Magento_Contact
@@ -2138,18 +2138,18 @@ Country,國家,module,Magento_Customer
 "Use as my default shipping address","使用作為我的默認送貨地址",module,Magento_Customer
 "Save Address","保存地址",module,Magento_Customer
 "Go back","返回",module,Magento_Customer
-"Please enter your email below and we will send you the confirmation link.","請在下面輸入您的電子郵件，我們將給您發送確認鏈接.",module,Magento_Customer
-Email,電郵,module,Magento_Customer
+"Please enter your email below and we will send you the confirmation "link".","請在下面輸入您的電子郵件，我們將給您發送確認鏈接.",module,Magento_Customer
+"Email","電郵",module,Magento_Customer
 "Send confirmation link","發送確認鏈接",module,Magento_Customer
 "Back to Sign In","返回登錄",module,Magento_Customer
 "Current Password","當前密碼",module,Magento_Customer
 "New Password","新密碼",module,Magento_Customer
 "Confirm New Password","確認新密碼",module,Magento_Customer
-Save,保存,module,Magento_Customer
+"Save","保存",module,Magento_Customer
 "Please enter your email address below to receive a password reset link.","請在下面輸入您的電子郵件地址來接收密碼重置鏈接.",module,Magento_Customer
-Submit,提交,module,Magento_Customer
+"Submit","提交",module,Magento_Customer
 "Registered Customers","註冊客戶",module,Magento_Customer
-"If you have an account, sign in with your email address.","如果你有一個帳戶，請用您的電子郵件地址登入.",module,Magento_Customer
+"If you have an account, sign in with your email address.","如果已有帳戶，請用您的電子郵件地址登入.",module,Magento_Customer
 "Password","密碼",module,Magento_Customer
 "Login","登入",module,Magento_Customer
 "Forgot Your Password?","忘記密碼?",module,Magento_Customer
@@ -2163,7 +2163,7 @@ Submit,提交,module,Magento_Customer
 "Set a New Password","設置新密碼",module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","您已登出，並會在5秒內轉到主頁.",module,Magento_Customer
 "New Customers","新客戶",module,Magento_Customer
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","創建帳戶有很多好處：結賬速度更快，保持多個地址，跟踪訂單及更多.",module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","創建帳戶可令你的結賬速度更快，保持多個地址，跟踪訂單及更多好處.",module,Magento_Customer
 Gender,性別,module,Magento_Customer
 Name,名稱,module,Magento_Customer
 "Tax/VAT number","稅/增值稅號",module,Magento_Customer
