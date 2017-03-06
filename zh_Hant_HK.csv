@@ -2048,7 +2048,7 @@ Email,郵箱,module,Magento_Customer
 Save,保存,module,Magento_Customer
 "Please enter your email address below to receive a password reset link.",請輸入您的電子郵件地址來接收密碼重置鏈接。 ,module,Magento_Customer
 "Reset My Password",重置我的密碼,module,Magento_Customer
-"Registered Customers",客戶加入日期,module,Magento_Customer
+"Registered Customers",已登記客戶,module,Magento_Customer
 "If you have an account, sign in with your email address.",如果你有一個帳戶，使用您的電子郵件地址登錄。 ,module,Magento_Customer
 Password,密碼,module,Magento_Customer
 "Forgot Your Password?",您忘記密碼了嗎?,module,Magento_Customer
