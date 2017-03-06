@@ -2061,7 +2061,7 @@ Password,密碼,module,Magento_Customer
 "Create an Account",創建帳戶,module,Magento_Customer
 "Set a New Password",設置新的密碼,module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","你已退出，在 5 秒鐘後將轉到我們的主頁。",module,Magento_Customer
-"New Customers",請在該字段中輸入大於或等於1的數字,module,Magento_Customer
+"New Customers",新客戶,module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","創建帳戶有很多好處: 更快地查閱，保持多個地址，跟踪訂單和更多。", module,Magento_Customer
 Gender,性別,module,Magento_Customer
 Name,名字,module,Magento_Customer
