@@ -7659,4 +7659,6 @@ Delete,刪除,module,Magento_Wishlist
 "Visit My Reward Points Section","跳至的的紅利點數",module,Mirasvit_Rewards
 "Transactions History","消費記錄",module,Mirasvit_Rewards
 "There are no Transactions.","你沒有消費記錄",module,Mirasvit_Rewards
-"Reward Points","紅利點數",module,Mirasvit_Rewards
+"Reward Points","紅利點數",module,Mirasvit_Rewards"Insufficient funds in the account","帳戶餘額不足",module,Magedelight_Cybersourcesa
+"Insufficient funds in the account","帳戶餘額不足",module,Magedelight_Cybersourcesa
+"General system failure","系統處理失敗，請稍後再試",module,Magedelight_Cybersourcesa
