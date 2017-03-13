@@ -295,7 +295,7 @@ System,系統,module,Magento_Backend
 Order,訂單,module,Magento_Backend
 "Order #%1","訂單 #%1",module,Magento_Backend
 "Access denied",訪問被拒絕,module,Magento_Backend
-"Please try to sign out and sign in again.",請嘗試註銷並重新登錄。 ,module,Magento_Backend
+"Please try to sign out and sign in again.",請嘗試登出並重新登錄。 ,module,Magento_Backend
 "If you continue to receive this message, please contact the store owner.",如果您繼續收到此消息，請聯繫店主。 ,module,Magento_Backend
 "You need more permissions to access this.",你需要更多的權限來執行此操作。 ,module,Magento_Backend
 "Welcome, please sign in",歡迎，請登錄,module,Magento_Backend
@@ -1730,7 +1730,7 @@ System,系統,module,Magento_CurrencySymbol
 "You don't subscribe to our newsletter.",您沒有訂閱我們的時事通訊。 ,module,Magento_Customer
 "You have not set a default shipping address.",您沒有設置默認的送貨地址。 ,module,Magento_Customer
 "You have not set a default billing address.",您沒有設置默認的帳單地址。 ,module,Magento_Customer
-"Address Book",通訊簿,module,Magento_Customer
+"Address Book",通訊錄,module,Magento_Customer
 "Edit Address",更改賬單地址,module,Magento_Customer
 "Add New Address",添加新地址,module,Magento_Customer
 region,地區,module,Magento_Customer
@@ -2015,10 +2015,10 @@ or,或者,module,Magento_Customer
 "Change Billing Address",更改賬單地址,module,Magento_Customer
 "You have no default billing address in your address book.",你有沒有默認的帳單地址簿中的地址。 ,module,Magento_Customer
 "Change Shipping Address",更改送貨地址,module,Magento_Customer
-"You have no default shipping address in your address book.",你有沒有缺省的送貨地址在您的通訊簿。 ,module,Magento_Customer
+"You have no default shipping address in your address book.",你有沒有缺省的送貨地址在您的通訊錄。 ,module,Magento_Customer
 "Additional Address Entries",額外的地址條目,module,Magento_Customer
 "Delete Address",刪除地址,module,Magento_Customer
-"You have no other address entries in your address book.",你有沒有其他的地址條目在您的通訊簿。 ,module,Magento_Customer
+"You have no other address entries in your address book.",你有沒有其他的地址條目在您的通訊錄。 ,module,Magento_Customer
 "* Required Fields",*必要字段,module,Magento_Customer
 Company,地址,module,Magento_Customer
 "Phone Number",電話號碼,module,Magento_Customer
@@ -2048,7 +2048,7 @@ Email,郵箱,module,Magento_Customer
 Save,保存,module,Magento_Customer
 "Please enter your email address below to receive a password reset link.",請輸入您的電子郵件地址來接收密碼重置鏈接。 ,module,Magento_Customer
 "Reset My Password",重置我的密碼,module,Magento_Customer
-"Registered Customers",客戶加入日期,module,Magento_Customer
+"Registered Customers",已登記客戶,module,Magento_Customer
 "If you have an account, sign in with your email address.",如果你有一個帳戶，使用您的電子郵件地址登錄。 ,module,Magento_Customer
 Password,密碼,module,Magento_Customer
 "Forgot Your Password?",您忘記密碼了嗎?,module,Magento_Customer
@@ -2061,11 +2061,17 @@ Password,密碼,module,Magento_Customer
 "Create an Account",創建帳戶,module,Magento_Customer
 "Set a New Password",設置新的密碼,module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","你已退出，在 5 秒鐘後將轉到我們的主頁。",module,Magento_Customer
-"New Customers",請在該字段中輸入大於或等於1的數字,module,Magento_Customer
+"New Customers",新客戶,module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","創建帳戶有很多好處: 更快地查閱，保持多個地址，跟踪訂單和更多。", module,Magento_Customer
-Gender,性別,module,Magento_Customer
-Name,名字,module,Magento_Customer
+"Gender","性別",module,Magento_Customer
+"Name","名字",module,Magento_Customer
 "Tax/VAT number","增值稅/VAT 號碼",module,Magento_Customer
+"No Password","無密碼",module,Magento_Customer
+"Weak","弱",module,Magento_Customer
+"Medium","中等",module,Magento_Customer
+"Strong","強",module,Magento_Customer
+"Very Stong","非常強",module,Magento_Customer
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","長度最少必須等於式大於%1，空格將會被忽視。",module,Magento_Customer
 "Cannot switch into given mode ""%1""",不能切換到給定的模式“%1”,module,Magento_Deploy
 "Format for IDE '%1' is not supported","不支持格式為 IDE '%1'",module,Magento_Developer
 "Client side less compilation",放空則允許從任何位置訪問。 ,module,Magento_Developer
@@ -3465,7 +3471,7 @@ Updated:,更新:,module,Magento_Paypal
 "Payment Method:",支付方式:,module,Magento_Paypal
 "Order #","訂單 #",module,Magento_Paypal
 Date,日期,module,Magento_Paypal
-"Ship To",船到,module,Magento_Paypal
+"Ship To",運送至,module,Magento_Paypal
 "Order Status",訂單狀態,module,Magento_Paypal
 "View Order",查看訂單,module,Magento_Paypal
 "Back to Billing Agreements",回到計費協定,module,Magento_Paypal
@@ -3552,7 +3558,7 @@ Title:,標題：,module,Magento_ProductVideo
 "The requested Payment Method is not available.",付款方法不可用。 ,module,Magento_Quote
 "We found an invalid request for adding product to quote.",我們發現一個無效的請求添加產品報價。 ,module,Magento_Quote
 "This is the wrong quote item id to update configuration.","這是要更新配置的錯誤報價項目 id。",module,Magento_Quote
-"This shipping method is not available. To use this shipping method, please contact us.",這種運輸方法不可用。若要使用此航運的方法，請聯繫我們。 ,module,Magento_Quote
+"This shipping method is not available. To use this shipping method, please contact us.",這種運送方法不可用。若要使用此運送的方法，請聯繫我們。 ,module,Magento_Quote
 "The address model is not defined.",未定義地址模型。 ,module,Magento_Quote
 "Grand Total",總額,module,Magento_Quote
 "Shipping & Handling (%1)","航運及處理 (%1)",module,Magento_Quote
@@ -6742,6 +6748,7 @@ ZIP,郵編,module,Magento_Customer
 "Billing Lastname",姓氏計費,module,Magento_Customer
 "First Name",名字,module,Magento_Customer
 "Last Name",姓氏,module,Magento_Customer
+"Change Email",更改電郵,module,Magento_Customer
 "Last Activity",最後一次活動,module,Magento_Customer
 Type,類型,module,Magento_Customer
 "Customer Information",客戶信息,module,Magento_Customer
@@ -6753,7 +6760,7 @@ Addresses,地址,module,Magento_Customer
 "Edit Account Information",編輯帳戶信息,module,Magento_Customer
 "Password forgotten",密碼忘記了,module,Magento_Customer
 "My Dashboard",我的帳戶資料,module,Magento_Customer
-"You are signed out",你已註銷,module,Magento_Customer
+"You are signed out",你已登出,module,Magento_Customer
 "Frontend Development Workflow",前端開發流程,module,Magento_Developer
 "Workflow type",流程類型,module,Magento_Developer
 "Not available in production mode",在產品模式下不可用,module,Magento_Developer
@@ -7171,7 +7178,7 @@ User,用戶,module,Magento_Paypal
 "Persistence Lifetime (seconds)","持久性生存期 (秒)",module,Magento_Persistent
 "Enable ""Remember Me""","啟用""記住我""",module,Magento_Persistent
 """Remember Me"" Default Value","""記住我""的默認值",module,Magento_Persistent
-"Clear Persistence on Sign Out",清除上註銷的持久性,module,Magento_Persistent
+"Clear Persistence on Sign Out",清除上登出的持久性,module,Magento_Persistent
 "Persist Shopping Cart",堅持購物車,module,Magento_Persistent
 "Product Alerts",產品警報,module,Magento_ProductAlert
 "Allow Alert When Product Price Changes",當產品價格發生更改時，允許警報,module,Magento_ProductAlert
@@ -7643,7 +7650,7 @@ Quantity,數量,module,Magento_Wishlist
 Action,操作,module,Magento_Wishlist
 Configure,配置,module,Magento_Wishlist
 Delete,刪除,module,Magento_Wishlist
-"Product Details and Comment",產品詳細信息和評論,module,Magento_Wishlist
+"Product Details and Comment",產品詳細信息和評論,module,Magento_Wishlist"Product Details and Comment",產品詳細信息和評論,module,Magento_Wishlist"Product Details and Comment",產品詳細信息和評論,module,Magento_Wishlist
 "Share with Friends","分享給朋友",module,Mirasvit_Rewards
 "Share the referal link in the social media and get points!","分享你的推薦鏈接於社交媒體，從而賺取紅利點數",module,Mirasvit_Rewards
 "Check this out!","快來看看!",module,Mirasvit_Rewards
@@ -7658,7 +7665,8 @@ Delete,刪除,module,Magento_Wishlist
 "Visit My Reward Points Section","跳至的的紅利點數",module,Mirasvit_Rewards
 "Transactions History","消費記錄",module,Mirasvit_Rewards
 "There are no Transactions.","你沒有消費記錄",module,Mirasvit_Rewards
-"Reward Points","紅利點數",module,Mirasvit_Rewards
+"Checkout now and earn <b>%1</b> for this order.","立即結帳，將可得到 <b>%1</b>.",module,Mirasvit_Rewards
+"Reward Points","紅利點數",module,Mirasvit_Rewards"Insufficient funds in the account","帳戶餘額不足",module,Magedelight_Cybersourcesa
 "Insufficient funds in the account","帳戶餘額不足",module,Magedelight_Cybersourcesa
 "General system failure","系統處理失敗，請稍後再試",module,Magedelight_Cybersourcesa
 "Go To Product","前往產品",module,WeltPixel_Quickview
