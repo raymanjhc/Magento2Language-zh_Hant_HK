@@ -7662,3 +7662,9 @@ Delete,刪除,module,Magento_Wishlist
 "Insufficient funds in the account","帳戶餘額不足",module,Magedelight_Cybersourcesa
 "General system failure","系統處理失敗，請稍後再試",module,Magedelight_Cybersourcesa
 "Go To Product","前往產品",module,WeltPixel_Quickview
+"My Membership Area","會員專區",module,Magestore_Membership
+"My Packages","我的會籍",module,Magestore_Membership
+"Expired Date","到期日",module,Magestore_Membership
+"Purchased Product Qty","已買產品數量",module,Magestore_Membership
+"Saved Total","已節省",module,Magestore_Membership
+"Renew Now","現在更新",module,Magestore_Membership
