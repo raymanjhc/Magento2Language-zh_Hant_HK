@@ -2071,7 +2071,8 @@ Password,密碼,module,Magento_Customer
 "Medium","中等",module,Magento_Customer
 "Strong","強",module,Magento_Customer
 "Very Stong","非常強",module,Magento_Customer
-"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","長度最少必須等於式大於%1，空格將會被忽視。",module,Magento_Customer
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","長度最少必須等於或大於%1，空格將會被忽視。",module,Magento_Customer
+"This is a required field.","必須填寫",module,Magento_Customer
 "Cannot switch into given mode ""%1""",不能切換到給定的模式“%1”,module,Magento_Deploy
 "Format for IDE '%1' is not supported","不支持格式為 IDE '%1'",module,Magento_Developer
 "Client side less compilation",放空則允許從任何位置訪問。 ,module,Magento_Developer
