@@ -946,7 +946,7 @@ Products,產品展示,module,Magento_Catalog
 "You cleared the comparison list.",你清除了比較列表。 ,module,Magento_Catalog
 "Something went wrong clearing the comparison list.",什麼地方出毛病結算比較列表。 ,module,Magento_Catalog
 "You removed product %1 from the comparison list.","您從比較列表中刪除產品 %1。",module,Magento_Catalog
-"1 item","產品 %1",module,Magento_Catalog
+"1 item","1 項目",module,Magento_Catalog
 "%1 items","%1 項目",module,Magento_Catalog
 "Invalid attribute %1","無效屬性 %1",module,Magento_Catalog
 Grid,%1及以上,module,Magento_Catalog
@@ -5689,7 +5689,7 @@ Page,頁面,module,Magento_Widget
 "The requested Wish List doesn't exist.",請求的願望列表不存在。 ,module,Magento_Wishlist
 "We can't create the Wish List right now.",我們不能創造收藏清單現在。 ,module,Magento_Wishlist
 "%1 items","%1 項目",module,Magento_Wishlist
-"1 item","產品 %1",module,Magento_Wishlist
+"1 item","1 項目",module,Magento_Wishlist
 Comment,評論,module,Magento_Wishlist
 "Display number of items in wish list",在願望清單中顯示項目的數,module,Magento_Wishlist
 "Display item quantities",顯示物料數量,module,Magento_Wishlist
