@@ -2889,7 +2889,7 @@ Total,總額,module,Magento_Multishipping
 "Select Addresses",選擇地址,module,Magento_Multishipping
 "Shipping Information",運輸方式,module,Magento_Multishipping
 "Billing Information",訂單總覽,module,Magento_Multishipping
-"Place Order",對不起，暫無報價可供此訂單現在。 ,module,Magento_Multishipping
+"Place Order","提交訂單",module,Magento_Multishipping
 "Order Success",訂單成功,module,Magento_Multishipping
 "Default Billing",默認賬單,module,Magento_Multishipping
 "Default Shipping",默認發貨,module,Magento_Multishipping
@@ -3494,7 +3494,7 @@ Edit,編輯,module,Magento_Paypal
 "Edit Payment Information",編輯付款信息,module,Magento_Paypal
 "Items in Your Shopping Cart",您的購物車中的商品,module,Magento_Paypal
 "Edit Shopping Cart",編輯購物車,module,Magento_Paypal
-"Place Order",對不起，暫無報價可供此訂單現在。 ,module,Magento_Paypal
+"Place Order","提交訂單",module,Magento_Paypal
 "Submitting order information...",提交訂單信息。 。 。 ,module,Magento_Paypal
 Item,產品,module,Magento_Paypal
 Price,價格,module,Magento_Paypal
@@ -5754,11 +5754,11 @@ Remove,刪除,theme,frontend/Magento/luma
 "Shop By",清除全部,theme,frontend/Magento/luma
 "Clear All",清除全部,theme,frontend/Magento/luma
 "Shopping Options",配送方式選擇,theme,frontend/Magento/luma
-"Place Order",下訂單,module,Magento_Authorizenet
+"Place Order","提交訂單",module,Magento_Authorizenet
 "Credit Card Information",信用卡信息,module,Magento_Braintree
 "What is this?",這是什麼？ ,module,Magento_Braintree
 "Save for later use.",保存供以後使用。 ,module,Magento_Braintree
-"Place Order",對不起，暫無報價可供此訂單現在。 ,module,Magento_Braintree
+"Place Order","提交訂單",,module,Magento_Braintree
 "Attention: Captcha is case sensitive.","注意: 驗證碼是區分大小寫。",module,Magento_Captcha
 "Payment Transaction Failed Reminder",付款交易記錄失敗提醒,module,Magento_Checkout
 "Payment Transaction Failed",付款交易記錄失敗,module,Magento_Checkout
@@ -5797,9 +5797,21 @@ Remove,刪除,module,Magento_Checkout
 "Payment Information",支付信息,module,Magento_Checkout
 "No Payment method available.",沒有可用的付款方法。 ,module,Magento_Checkout
 "You can track your order status by creating an account.",通過創建一個帳戶跟踪您的訂單狀態。 ,module,Magento_Checkout
-"Place Order",對不起，暫無報價可供此訂單現在。 ,module,Magento_Checkout
-"Forgot an Item?",消除一個商品嗎?,module,Magento_Checkout
-"Edit Your Cart",編輯您的購物車,module,Magento_Checkout
+"Place Order","提交訂單",module,Magento_Checkout
+"Forgot an item?","忘了增加貨物吗?",module,Magento_Checkout
+"Purchase over $2000.0 for free shipping.(Downtown Only)","購物滿$2000將可享有免費送貨(偏遠地區除外)!",module,Magento_Checkout
+"Please specify the shipping address to see available options.","請選填寫地址，然後選擇運送方法。",module,Magento_Checkout
+"EF Locker","順便智能櫃",module,Magento_Checkout
+"SF Store","順豐站",module,Magento_Checkout
+"Service Type","服務種類",module,Magento_Checkout
+"Reset","重設",module,Magento_Checkout
+"District","地區",module,Magento_Checkout
+"Village / Town","城市",module,Magento_Checkout
+"S.F express Store","順豐中心",module,Magento_Checkout
+"Outside Hong Kong","香港以外地址",module,Magento_Checkout
+"Hong Kong Address","香港地址",module,Magento_Checkout
+"Delivery Methods","運送方法",module,Magento_Checkout
+"Edit your cart",編輯您的購物車,module,Magento_Checkout
 "Ship Here",送貨到這裡,module,Magento_Checkout
 "Ship To:",送貨到:,module,Magento_Checkout
 edit,編輯,module,Magento_Checkout
@@ -5861,9 +5873,9 @@ Delete,刪除,module,Magento_GiftMessage
 "To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:",要開始接收時事通訊，必須首先通過點擊下面的鏈接確認您的訂閱:,module,Magento_Newsletter
 "You have been successfully subscribed to our newsletter.",您已成功訂閱我們的時事通訊。 ,module,Magento_Newsletter
 "You have been unsubscribed from the newsletter.",你已經取消訂閱新聞通訊。 ,module,Magento_Newsletter
-"Place Order",對不起，暫無報價可供此訂單現在。 ,module,Magento_OfflinePayments
-"Place Order",提交訂單,module,Magento_Payment
-"Forgot an Item?",忘了一個項目嗎?,module,Magento_Payment
+"Place Order","提交訂單",module,Magento_OfflinePayments
+"Place Order","提交訂單",module,Magento_Payment
+"Forgot an item?","忘了增加貨物吗?",module,Magento_Payment
 "Edit Your Cart",編輯您的購物車,module,Magento_Payment
 "Sign a billing agreement to streamline further purchases with PayPal.",簽署一項協議，簡化使用Paypal支付的流程。 ,module,Magento_Paypal
 "Continue to PayPal",使用Paypal繼續,module,Magento_Paypal
