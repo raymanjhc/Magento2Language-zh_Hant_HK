@@ -7667,7 +7667,15 @@ Delete,刪除,module,Magento_Wishlist
 "Transactions History","消費記錄",module,Mirasvit_Rewards
 "There are no Transactions.","你沒有消費記錄",module,Mirasvit_Rewards
 "Checkout now and earn <b>%1</b> for this order.","立即結帳，將可得到 <b>%1</b>.",module,Mirasvit_Rewards
-"Reward Points","紅利點數",module,Mirasvit_Rewards"Insufficient funds in the account","帳戶餘額不足",module,Magedelight_Cybersourcesa
+"You received %1 for signing up","注冊成功，得到%1",module,Mirasvit_Rewards
+"You received %1 for sending this product","分享成功，得到%1",module,Mirasvit_Rewards
+"You received %1 for sign up for newsletter","訂閱成功，得到%1",module,Mirasvit_Rewards
+"You will receive %1 after approving of this tag","標簽核准後，將得到%1",module,Mirasvit_Rewards
+"You will receive %1 after approving of this review","評論核准後，將得到%1",module,Mirasvit_Rewards
+"You received %1 for sign up of referral customer.","介紹的朋友成功登記，得到%1",module,Mirasvit_Rewards
+"You received %1 for order of referral customer.","介紹的朋友成功購物，得到%1",module,Mirasvit_Rewards
+"Happy birthday! You received %1.","祝你生日快樂，送給你%1",module,Mirasvit_Rewards
+"Reward Points","紅利點數",module,Mirasvit_Rewards
 "Insufficient funds in the account","帳戶餘額不足",module,Magedelight_Cybersourcesa
 "General system failure","系統處理失敗，請稍後再試",module,Magedelight_Cybersourcesa
 "Go To Product","前往產品",module,WeltPixel_Quickview
