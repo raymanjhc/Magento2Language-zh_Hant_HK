@@ -7687,6 +7687,11 @@ Delete,刪除,module,Magento_Wishlist
 "You received %1 for sign up of referral customer.","介紹的朋友成功登記，得到%1",module,Mirasvit_Rewards
 "You received %1 for order of referral customer.","介紹的朋友成功購物，得到%1",module,Mirasvit_Rewards
 "Happy birthday! You received %1.","祝你生日快樂，送給你%1",module,Mirasvit_Rewards
+"%1 was applied.","%1 已使用。",module,Mirasvit_Rewards
+"Minimum number is %1.","最少 %1。",module,Mirasvit_Rewards
+"Maximum number is %1.","最多 is %1。",module,Mirasvit_Rewards
+"%1 was canceled.","%1 已取消。",module,Mirasvit_Rewards
+"Cannot apply %1.","無法使用 %1.",module,Mirasvit_Rewards
 "Points Summary","點數總結",module,Mirasvit_Rewards
 "You have <b>%1</b> in your account.","你帳號共有 <b>%1</b> 。",module,Mirasvit_Rewards
 "You have","你帳號共有",module,Mirasvit_Rewards
