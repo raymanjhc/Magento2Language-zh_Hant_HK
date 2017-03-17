@@ -7706,6 +7706,15 @@ Delete,刪除,module,Magento_Wishlist
 "Apply","使用",module,Mirasvit_Rewards
 "Cancel Points","取消使用點數",module,Mirasvit_Rewards
 "Cancel","取消",module,Mirasvit_Rewards
+"You Earn","購取",module,Mirasvit_Rewards
+"You Spend","使用",module,Mirasvit_Rewards
+"Customer signs up in store","客戶注冊帳號",module,Mirasvit_Rewards
+"Customer emails product's link to a friend","客戶發送產品連結給朋友",module,Mirasvit_Rewards
+"Newsletter sign up","訂閱通訊",module,Mirasvit_Rewards
+"Customer adds tag to a product","客戶為產品加標簽",module,Mirasvit_Rewards
+"Customer writes a product's review","客戶編寫產品評論",module,Mirasvit_Rewards
+"Customer has a birthday","客戶生日"
+"Customer is not active for long time","客戶不再活躍"
 "Insufficient funds in the account","帳戶餘額不足",module,Magedelight_Cybersourcesa
 "General system failure","系統處理失敗，請稍後再試",module,Magedelight_Cybersourcesa
 "Go To Product","前往產品",module,WeltPixel_Quickview
