@@ -1268,7 +1268,7 @@ Next,下一個,module,Magento_Catalog
 "More Choices:",更多的選擇:,module,Magento_Catalog
 "Check items to add to the cart or",檢查物品添加到購物車或,module,Magento_Catalog
 "select all",全選,module,Magento_Catalog
-"Items %1-%2 of %3","項目 %1%2 的 %3",module,Magento_Catalog
+"Items %1-%2 of %3","項目 %1-%2 共 %3",module,Magento_Catalog
 "%1 Item","%1 項目",module,Magento_Catalog
 "%1 Items","%1 項目",module,Magento_Catalog
 Show,顯示,module,Magento_Catalog
