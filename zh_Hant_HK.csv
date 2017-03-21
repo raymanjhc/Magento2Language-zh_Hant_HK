@@ -7725,3 +7725,147 @@ Delete,刪除,module,Magento_Wishlist
 "Saved Total","已節省",module,Magestore_Membership
 "Renew Now","現在更新",module,Magestore_Membership
 "You do not sign up to any packages.","你並沒有會籍。",module,Magestore_Membership
+"Add","加入",module,Mirasvit_Search
+"Match Expression","匹配表達式",module,Mirasvit_Search
+"Replace Expression","取代表達式",module,Mirasvit_Search
+"Replace Char","取代字符",module,Mirasvit_Search
+"Word","字段",module,Mirasvit_Search
+"Find word","尋找字段",module,Mirasvit_Search
+"Replace with","取代為",module,Mirasvit_Search
+"Add New Search Index","加入新的搜尋索引",module,Mirasvit_Search
+"Save Search Index","儲存搜尋索引",module,Mirasvit_Search
+"Save and Continue Edit","儲存並繼續更改",module,Mirasvit_Search
+"Ignored Pages","忽視的頁面",module,Mirasvit_Search
+"Database Connection","數據庫連接",module,Mirasvit_Search
+"Database Connection Name","數據庫連接名稱",module,Mirasvit_Search
+"Table Prefix","Table Prefix",module,Mirasvit_Search
+Options,Options,module,Mirasvit_Search
+"Search by parent categories names","Search by parent categories names",module,Mirasvit_Search
+"Search by child products (for bundle, configurable products)","Search by child products (for bundle, configurable products)",module,Mirasvit_Search
+"Search by product id","Search by product id",module,Mirasvit_Search
+"Search by custom options","Search by custom options",module,Mirasvit_Search
+"Push ""out of stock"" products to the end","Push ""out of stock"" products to the end",module,Mirasvit_Search
+"Url Template","Url Template",module,Mirasvit_Search
+Attributes,Attributes,module,Mirasvit_Search
+"General Information","General Information",module,Mirasvit_Search
+Title,Title,module,Mirasvit_Search
+Index,"索引",module,Mirasvit_Search
+Position,"位置",module,Mirasvit_Search
+Status,"狀態",module,Mirasvit_Search
+Enabled,Enabled,module,Mirasvit_Search
+Disabled,Disabled,module,Mirasvit_Search
+"Search Index Information","Search Index Information",module,Mirasvit_Search
+"Searchable Attributes","Searchable Attributes",module,Mirasvit_Search
+"Additional Options","Additional Options",module,Mirasvit_Search
+ID,ID,module,Mirasvit_Search
+Type,"類型",module,Mirasvit_Search
+Action,Action,module,Mirasvit_Search
+Reindex,Reindex,module,Mirasvit_Search
+Ready,Ready,module,Mirasvit_Search
+"Reindex Required","Reindex Required",module,Mirasvit_Search
+"Search Indexes","Search Indexes",module,Mirasvit_Search
+"Manage Synonyms","Manage Synonyms",module,Mirasvit_Search
+"Manage Stopwords","Manage Stopwords",module,Mirasvit_Search
+Settings,Settings,module,Mirasvit_Search
+"Dictionary of stopwords","Dictionary of stopwords",module,Mirasvit_Search
+"Add New Stopword","Add New Stopword",module,Mirasvit_Search
+"Import Dictionary","Import Dictionary",module,Mirasvit_Search
+Stopword,Stopword,module,Mirasvit_Search
+Store,Store,module,Mirasvit_Search
+Delete,Delete,module,Mirasvit_Search
+"Are you sure?","Are you sure?",module,Mirasvit_Search
+Import,Import,module,Mirasvit_Search
+Dictionary,Dictionary,module,Mirasvit_Search
+"Dictionary of synonyms","Dictionary of synonyms",module,Mirasvit_Search
+"Add New Synonym","Add New Synonym",module,Mirasvit_Search
+Term,Term,module,Mirasvit_Search
+Synonyms,Synonyms,module,Mirasvit_Search
+"Use comma as separator","Use comma as separator",module,Mirasvit_Search
+"Child block %1 not exists","Child block %1 not exists",module,Mirasvit_Search
+"The search index has been deleted.","The search index has been deleted.",module,Mirasvit_Search
+"This search index no longer exists.","This search index no longer exists.",module,Mirasvit_Search
+"Edit Search Index ""%1""","Edit Search Index ""%1""",module,Mirasvit_Search
+"New Search Index","New Search Index",module,Mirasvit_Search
+"Reindex successfully completed.","Reindex successfully completed.",module,Mirasvit_Search
+"You saved the search index.","You saved the search index.",module,Mirasvit_Search
+"The stopword has been deleted.","The stopword has been deleted.",module,Mirasvit_Search
+"This stopword no longer exists.","This stopword no longer exists.",module,Mirasvit_Search
+"Imported %1 stopword(s).","Imported %1 stopword(s).",module,Mirasvit_Search
+"Stopword ""%1""","Stopword ""%1""",module,Mirasvit_Search
+"New Stopword","New Stopword",module,Mirasvit_Search
+"Import Stopwords","Import Stopwords",module,Mirasvit_Search
+"Please select stopword(s).","Please select stopword(s).",module,Mirasvit_Search
+"A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",module,Mirasvit_Search
+"You saved the stopword.","You saved the stopword.",module,Mirasvit_Search
+"The synonym has been deleted.","The synonym has been deleted.",module,Mirasvit_Search
+"This synonym no longer exists.","This synonym no longer exists.",module,Mirasvit_Search
+"Imported %1 synonym(s).","Imported %1 synonym(s).",module,Mirasvit_Search
+"Synonyms for ""%1""","Synonyms for ""%1""",module,Mirasvit_Search
+"New Synonym","New Synonym",module,Mirasvit_Search
+"Import Synonyms","Import Synonyms",module,Mirasvit_Search
+"Please select synonym(s).","Please select synonym(s).",module,Mirasvit_Search
+"You saved the synonym.","You saved the synonym.",module,Mirasvit_Search
+"Expression does not contain field '%1'","Expression does not contain field '%1'",module,Mirasvit_Search
+"Invalid regular expression: ""%1"".","Invalid regular expression: ""%1"".",module,Mirasvit_Search
+"Built-in Sphinx Search Engine","Built-in Sphinx Search Engine",module,Mirasvit_Search
+"External Sphinx Search Engine","External Sphinx Search Engine",module,Mirasvit_Search
+"Enabled (*word*)","Enabled (*word*)",module,Mirasvit_Search
+"Enabled at end (word*)","Enabled at end (word*)",module,Mirasvit_Search
+"Enabled at start (*word)","Enabled at start (*word)",module,Mirasvit_Search
+"Instance for '%1' not found","Instance for '%1' not found",module,Mirasvit_Search
+"Wordpress Blog","Wordpress Blog",module,Mirasvit_Search
+External,External,module,Mirasvit_Search
+"Post Title","Post Title",module,Mirasvit_Search
+"Post Content","Post Content",module,Mirasvit_Search
+"Post Excerpt","Post Excerpt",module,Mirasvit_Search
+Category,Category,module,Mirasvit_Search
+Magento,Magento,module,Mirasvit_Search
+Name,Name,module,Mirasvit_Search
+Description,Description,module,Mirasvit_Search
+"Page Title","Page Title",module,Mirasvit_Search
+"Meta Keywords","Meta Keywords",module,Mirasvit_Search
+"Meta Description","Meta Description",module,Mirasvit_Search
+Product,Product,module,Mirasvit_Search
+"Cms Page","Cms Page",module,Mirasvit_Search
+Content,Content,module,Mirasvit_Search
+"Content Heading","Content Heading",module,Mirasvit_Search
+"Line #%1: ","Line #%1: ",module,Mirasvit_Search
+"Stopword ""%1"" can contain only one word.","Stopword ""%1"" can contain only one word.",module,Mirasvit_Search
+"Stopword contains an invalid character: ""%1"".","Stopword contains an invalid character: ""%1"".",module,Mirasvit_Search
+"The length of synonym must be greater than 1.","The length of synonym must be greater than 1.",module,Mirasvit_Search
+"Synonym ""%1"" can contain only one word.","Synonym ""%1"" can contain only one word.",module,Mirasvit_Search
+"The page you requested was not found, but we have searched for relevant content.","找不到你要搜尋的頁面, 但我們已為你搜尋相關的內容。",module,Mirasvit_Search
+"Add after","Add after",module,Mirasvit_Search
+Attribute,Attribute,module,Mirasvit_Search
+Weight,Weight,module,Mirasvit_Search
+"Add Attribute","Add Attribute",module,Mirasvit_Search
+"1 - minimum weight, 10 - maximum weight","1 - minimum weight, 10 - maximum weight",module,Mirasvit_Search
+"%1 (%2)","%1 (%2)",module,Mirasvit_Search
+"Sphinx Search","Sphinx Search",module,Mirasvit_Search
+"Search Engine Configuration","Search Engine Configuration",module,Mirasvit_Search
+"Search Engine","Search Engine",module,Mirasvit_Search
+"Search Settings","Search Settings",module,Mirasvit_Search
+"Wildcard search","Wildcard search",module,Mirasvit_Search
+"Enable redirect from 404 to search results","Enable redirect from 404 to search results",module,Mirasvit_Search
+"Redirect if Single Result","Redirect if Single Result",module,Mirasvit_Search
+"Enable Google Sitelinks Search","Enable Google Sitelinks Search",module,Mirasvit_Search
+"Enable search terms highlighting","Enable search terms highlighting",module,Mirasvit_Search
+"Display Related Search Terms","Display Related Search Terms",module,Mirasvit_Search
+"Max number of items in the result","Max number of items in the result",module,Mirasvit_Search
+"Wildcard Exceptions","Wildcard Exceptions",module,Mirasvit_Search
+"Replace words in search query","Replace words in search query",module,Mirasvit_Search
+"""Not"" words","""Not"" words",module,Mirasvit_Search
+"Long Tail Expressions","Long Tail Expressions",module,Mirasvit_Search
+"Multi-Store Search Results","Multi-Store Search Results",module,Mirasvit_Search
+"Enable Multi-Store Search Results","Enable Multi-Store Search Results",module,Mirasvit_Search
+Stores,Stores,module,Mirasvit_Search
+Dictionary successfully processed.,module,Mirasvit_Search
+"Your search '<strong>%1</strong>' did not match any products.","你的搜索 '<strong>%1</strong>' 沒有找到產品。",module,Mirasvit_Misspell
+"Did you mean:","你是否要找:",module,Mirasvit_Misspell
+"Showing results using some of your search terms","Showing results using some of your search terms",module,Mirasvit_Misspell
+"Search Spell Correction","Search Spell Correction",module,Mirasvit_Misspell
+"Enable spell correction","Enable spell correction",module,Mirasvit_Misspell
+"Enable fallback search","Enable fallback search",module,Mirasvit_Misspell
+"Search Spell-Correction","Search Spell-Correction",module,Mirasvit_Misspell
+"Rebuild search spell-correction words index","Rebuild search spell-correction words index",module,Mirasvit_Misspell
+"Please select other tab to see more results","請選擇其他類型以瀏覧其他結果。",module,Mirasvit_Misspell
