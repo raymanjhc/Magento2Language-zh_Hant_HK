@@ -4682,16 +4682,35 @@ Delete,刪除,module,Magento_Search
 View/Edit,查看/編輯,module,Magento_Search
 "Search entire store here...",在這裡搜索整個商店...,module,Magento_Search
 "There are no search terms available.",沒有搜索條件。 ,module,Magento_Search
-"Account Activity",帳戶活動,module,Magento_Security
-"All other open sessions for this account were terminated.",此帳戶所有其他打開的會話將被終止。 ,module,Magento_Security
-"Your account is temporarily disabled.",您的帳戶被暫時禁用。 ,module,Magento_Security
-"Your current session has been expired.",你當前的會話已過期。 ,module,Magento_Security
+"Account Activity","帳戶活動",module,Magento_Security
+"All other open sessions for this account were terminated.","此帳戶所有其他打開的會話將被終止",module,Magento_Security
+"We couldn't logout because of an error.","發生錯誤，沒法登出。",module,Magento_Security
+"Someone logged into this account from another device or browser. Your current session is terminated.","其他人己在其他機器或瀏覧器登入這個帳號，你將被登出。",module,Magento_Security
+"Your current session is terminated by another user of this account.","你被強制登出這個帳號",module,Magento_Security
+"Your account is temporarily disabled.","您的帳戶被暫時禁用。",module,Magento_Security
+"Your current session has been expired.","你當前的會話已過期",module,Magento_Security
 "By IP and Email","通過 IP 和電子郵件",module,Magento_Security
-"By IP","通過 IP",module,Magento_Security
-"By Email",通過電子郵件,module,Magento_Security
-None,無,module,Magento_Security
-"some error",一些錯誤,module,Magento_Security
+"By IP","以 IP",module,Magento_Security
+"By Email","通過電子郵件",module,Magento_Security
+"None","無",module,Magento_Security
+"Too many password reset requests. Please wait and try again or contact %1.","重設密碼次數過多，請過會兒再試或聯絡 %1",module,Magento_Security
+"Incorrect Security Checker class. It has to implement SecurityCheckerInterface","Incorrect Security Checker class. It has to implement SecurityCheckerInterface",module,Magento_Security
+"some error","一些錯誤",module,Magento_Security
+"We couldn\'t logout because of an error.","發生錯誤，沒法登出。",module,Magento_Security
+"This administrator account is open in more than one location. Note that other locations might be different browsers or sessions on the same computer.","This administrator account is open in more than one location. Note that other locations might be different browsers or sessions on the same computer.",module,Magento_Security
+"Concurrent session information:","Concurrent session information:",module,Magento_Security
 "IP Address","IP 地址",module,Magento_Security
+"Time of session start","Time of session start",module,Magento_Security
+"Are you sure that you want to log out all other sessions?","Are you sure that you want to log out all other sessions?",module,Magento_Security
+"Log out all other sessions","Log out all other sessions",module,Magento_Security
+"This computer is using IP address %1.","This computer is using IP address %1.",module,Magento_Security
+"Admin Account Sharing","Admin Account Sharing",module,Magento_Security
+"If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.","If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.",module,Magento_Security
+"Password Reset Protection Type","Password Reset Protection Type",module,Magento_Security
+"Max Number of Password Reset Requests","Max Number of Password Reset Requests",module,Magento_Security
+"Limit the number of password reset request per hour. Use 0 to disable.","Limit the number of password reset request per hour. Use 0 to disable.",module,Magento_Security
+"Min Time Between Password Reset Requests","Min Time Between Password Reset Requests",module,Magento_Security
+"Delay in minutes between password reset requests. Use 0 to disable.","Delay in minutes between password reset requests. Use 0 to disable.",module,Magento_Security
 "Page not found.",找不到網頁。 ,module,Magento_SendFriend
 "You can't send messages more than %1 times an hour.",限制發送,module,Magento_SendFriend
 "The link to a friend was sent.",被送到一位朋友的鏈接。 ,module,Magento_SendFriend
