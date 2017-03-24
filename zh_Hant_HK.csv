@@ -123,7 +123,7 @@ Shipping,運費,module,Magento_Backend
 "User Name",用戶名稱,module,Magento_Backend
 "First Name",名字,module,Magento_Backend
 "Last Name",姓氏,module,Magento_Backend
-Email,電子郵件,module,Magento_Backend
+Email,電郵,module,Magento_Backend
 "User Email",用戶電子郵件,module,Magento_Backend
 "New Password",新密碼,module,Magento_Backend
 "Password Confirmation",密碼確認,module,Magento_Backend
@@ -828,7 +828,7 @@ Websites,網站,module,Magento_Catalog
 "There are no customers for this alert.",沒有客戶此警報。 ,module,Magento_Catalog
 "First Name",名字,module,Magento_Catalog
 "Last Name",姓氏,module,Magento_Catalog
-Email,郵箱,module,Magento_Catalog
+Email,電郵,module,Magento_Catalog
 "Subscribe Date",訂閱日期,module,Magento_Catalog
 "Last Notified",最後通知,module,Magento_Catalog
 "Send Count",發送計數,module,Magento_Catalog
@@ -1377,7 +1377,7 @@ Error!,錯誤!,module,Magento_Checkout
 "Wrong minimum amount.",錯誤的最小金額。 ,module,Magento_Checkout
 Message,信息,module,Magento_Checkout
 "<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1" "onclick=""this.target='_blank'""class=""print""> 打印收據</a>",module,Magento_Checkout
-"Apply Discount Code",使用打折代碼,module,Magento_Checkout
+"Apply Discount Code","確認使用優惠券?",module,Magento_Checkout
 "Enter discount code",請輸入打折代碼,module,Magento_Checkout
 "Apply Discount",使用打折,module,Magento_Checkout
 "Cancel Coupon",取消優惠券,module,Magento_Checkout
@@ -1671,7 +1671,7 @@ Cancel,保存,module,Magento_ConfigurableProduct
 "Write Us",給我們寫信,module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.",我們記筆記，我們會盡可能快地回到你。 ,module,Magento_Contact
 Name,名字,module,Magento_Contact
-Email,郵箱,module,Magento_Contact
+Email,電郵,module,Magento_Contact
 "Phone Number",電話號碼,module,Magento_Contact
 "What’s on your mind?",您的想法是什麼?,module,Magento_Contact
 Submit,提交,module,Magento_Contact
@@ -1821,7 +1821,7 @@ Download,下載,module,Magento_Customer
 "There was an error detecting Customer Group.",檢測客戶組時出錯。 ,module,Magento_Customer
 "Validate VAT Number",驗證增值稅號碼,module,Magento_Customer
 "Customer Login",客戶登錄,module,Magento_Customer
-"Create New Customer Account",創建新的客戶帳戶,module,Magento_Customer
+"Create New Customer Account",註冊成為會員,module,Magento_Customer
 "Date of Birth",出生日期,module,Magento_Customer
 "Bad request.",請求有誤。 ,module,Magento_Customer
 "This confirmation key is invalid or has expired.",此確認密鑰無效或已過期。 ,module,Magento_Customer
@@ -2039,7 +2039,7 @@ Country,國家,module,Magento_Customer
 "Save Address",保存地址,module,Magento_Customer
 "Go back",返回,module,Magento_Customer
 "Please enter your email below and we will send you the confirmation link.",請輸入您的電子郵件下面，我們將發送您的確認鏈接。 ,module,Magento_Customer
-Email,郵箱,module,Magento_Customer
+Email,電郵,module,Magento_Customer
 "Send confirmation link",發送確認鏈接,module,Magento_Customer
 "Back to Sign In",回去簽到,module,Magento_Customer
 "Current Password",當前密碼,module,Magento_Customer
@@ -2054,15 +2054,15 @@ Password,密碼,module,Magento_Customer
 "Forgot Your Password?",您忘記密碼了嗎?,module,Magento_Customer
 "Subscription option",訂閱選項,module,Magento_Customer
 "General Subscription",一般的訂閱,module,Magento_Customer
-"Sign Up for Newsletter",校刊訂閱,module,Magento_Customer
+"Sign Up for Newsletter",訂閱最新優惠等資訊,module,Magento_Customer
 "Address Information",地址信息,module,Magento_Customer
-"Sign-in Information",登錄信息,module,Magento_Customer
+"Sign-in Information",會員登入信息,module,Magento_Customer
 "Confirm Password",確認密碼,module,Magento_Customer
-"Create an Account",創建帳戶,module,Magento_Customer
+"Create an Account",註冊會員,module,Magento_Customer
 "Set a New Password",設置新的密碼,module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","你已退出，在 5 秒鐘後將轉到我們的主頁。",module,Magento_Customer
 "New Customers",新客戶,module,Magento_Customer
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","創建帳戶有很多好處: 更快地查閱，保持多個地址，跟踪訂單和更多。", module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","註冊成為會員後可更快地查閱和追蹤訂單。", module,Magento_Customer
 "Gender","性別",module,Magento_Customer
 "Name","名字",module,Magento_Customer
 "Tax/VAT number","增值稅/VAT 號碼",module,Magento_Customer
@@ -2071,7 +2071,7 @@ Password,密碼,module,Magento_Customer
 "Medium","中等",module,Magento_Customer
 "Strong","強",module,Magento_Customer
 "Very Stong","非常強",module,Magento_Customer
-"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","長度最少必須等於或大於%1，空格將會被忽視。",module,Magento_Customer
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","密碼必須至少有 %1 個字元。",module,Magento_Customer
 "This is a required field.","必須填寫",module,Magento_Customer
 "Cannot switch into given mode ""%1""",不能切換到給定的模式“%1”,module,Magento_Deploy
 "Format for IDE '%1' is not supported","不支持格式為 IDE '%1'",module,Magento_Developer
@@ -2269,7 +2269,7 @@ System,系統,module,Magento_Eav
 None,無,module,Magento_Eav
 "Decimal Number",十進制數,module,Magento_Eav
 "Integer Number",整數,module,Magento_Eav
-Email,郵箱,module,Magento_Eav
+Email,電郵,module,Magento_Eav
 Letters,字母,module,Magento_Eav
 "Letters (a-z, A-Z) or Numbers (0-9)","字母 (a 到 z、 A 到 Z) 或數字 (0-9)",module,Magento_Eav
 "Text Field",文本區,module,Magento_Eav
@@ -2710,7 +2710,7 @@ Save,保存,module,Magento_Integration
 "Integration Info",集成信息,module,Magento_Integration
 General,基本的,module,Magento_Integration
 Name,名字,module,Magento_Integration
-Email,郵箱,module,Magento_Integration
+Email,電郵,module,Magento_Integration
 "Callback URL","回調 URL",module,Magento_Integration
 "Enter URL where Oauth credentials can be sent when using Oauth for token exchange. We strongly recommend using https://.","輸入URL 使用Oauth 令牌交換時，可以發送位置Oauth 憑據。我們強烈建議使用https:/ /。",module,Magento_Integration
 "Identity link URL","標識鏈接 URL",module,Magento_Integration
@@ -2866,7 +2866,7 @@ Price,價格,module,Magento_Msrp
 "Review Order - %1",复核訂單-%1,module,Magento_Multishipping
 Total,總額,module,Magento_Multishipping
 "Total for this address",共為此地址的,module,Magento_Multishipping
-"Shipping Methods",送貨方式,module,Magento_Multishipping
+"Shipping Methods",運送方法,module,Magento_Multishipping
 "Edit Address",更改賬單地址,module,Magento_Multishipping
 "Edit Billing Address",編輯帳單地址,module,Magento_Multishipping
 "Edit Shipping Address",編輯送貨地址,module,Magento_Multishipping
@@ -2889,7 +2889,7 @@ Total,總額,module,Magento_Multishipping
 "Select Addresses",選擇地址,module,Magento_Multishipping
 "Shipping Information",運輸方式,module,Magento_Multishipping
 "Billing Information",訂單總覽,module,Magento_Multishipping
-"Place Order","提交訂單",module,Magento_Multishipping
+"Place Order","下單並確認付款",module,Magento_Multishipping
 "Order Success",訂單成功,module,Magento_Multishipping
 "Default Billing",默認賬單,module,Magento_Multishipping
 "Default Shipping",默認發貨,module,Magento_Multishipping
@@ -3124,7 +3124,7 @@ No,否,module,Magento_Payment
 "What is this?",這是什麼？ ,module,Magento_Payment
 "Credit Card Information",信用卡信息,module,Magento_Payment
 "Billing Agreements",結算協議,module,Magento_Paypal
-Email,郵箱,module,Magento_Paypal
+Email,電郵,module,Magento_Paypal
 "First Name",名字,module,Magento_Paypal
 "Last Name",姓氏,module,Magento_Paypal
 "Reference ID","引用 ID",module,Magento_Paypal
@@ -3494,7 +3494,7 @@ Edit,編輯,module,Magento_Paypal
 "Edit Payment Information",編輯付款信息,module,Magento_Paypal
 "Items in Your Shopping Cart",您的購物車中的商品,module,Magento_Paypal
 "Edit Shopping Cart",編輯購物車,module,Magento_Paypal
-"Place Order","提交訂單",module,Magento_Paypal
+"Place Order","下單並確認付款",module,Magento_Paypal
 "Submitting order information...",提交訂單信息。 。 。 ,module,Magento_Paypal
 Item,產品,module,Magento_Paypal
 Price,價格,module,Magento_Paypal
@@ -3683,7 +3683,7 @@ Carrier/Method,載體的方法,module,Magento_Reports
 Rate,費率,module,Magento_Reports
 "Tax Amount",稅額,module,Magento_Reports
 "Abandoned carts",被遺棄的車,module,Magento_Reports
-Email,郵箱,module,Magento_Reports
+Email,電郵,module,Magento_Reports
 Products,產品展示,module,Magento_Reports
 Quantity,數量,module,Magento_Reports
 "Applied Coupon",應用的優惠券,module,Magento_Reports
@@ -4438,7 +4438,7 @@ title,標題,module,Magento_Sales
 City,城市,module,Magento_Sales
 Company,地址,module,Magento_Sales
 Country,國家,module,Magento_Sales
-Email,郵箱,module,Magento_Sales
+Email,電郵,module,Magento_Sales
 "First Name",名字,module,Magento_Sales
 "Last Name",姓氏,module,Magento_Sales
 State/Province,州/省,module,Magento_Sales
@@ -4736,7 +4736,7 @@ Exception.,異常。 ,module,Magento_SendFriend
 "Remove Recipent",刪除語氣,module,Magento_SendFriend
 Remove,刪除,module,Magento_SendFriend
 Name,名字,module,Magento_SendFriend
-Email,郵箱,module,Magento_SendFriend
+Email,電郵,module,Magento_SendFriend
 "* Required Fields",*必要字段,module,Magento_SendFriend
 Sender,發送方,module,Magento_SendFriend
 Message,信息,module,Magento_SendFriend
@@ -5384,7 +5384,7 @@ Roles,角色,module,Magento_User
 "User Name",用戶名稱,module,Magento_User
 "First Name",名字,module,Magento_User
 "Last Name",姓氏,module,Magento_User
-Email,郵箱,module,Magento_User
+Email,電郵,module,Magento_User
 Status,狀態,module,Magento_User
 Active,活動,module,Magento_User
 Inactive,未激活,module,Magento_User
@@ -5461,7 +5461,7 @@ Forced,強迫,module,Magento_User
 "Your password has expired; please contact your administrator.",您的密碼已過期;請聯繫您的管理員聯繫。 ,module,Magento_User
 "Password Help",密碼幫助,module,Magento_User
 "Enter your email address. You will receive an email with a link to reset your password.","請輸入您的電子郵件地址。 您將收到一封電子郵件的鏈接重置您的密碼。",module, Magento_User
-"Email address",電子郵件地址,module,Magento_User
+"Email address",電郵地址,module,Magento_User
 "Retrieve Password",取回密碼,module,Magento_User
 "Back to Sign in",回去簽到,module,Magento_User
 "Forgot your password?",您忘記密碼了嗎?,module,Magento_User
@@ -5773,11 +5773,11 @@ Remove,刪除,theme,frontend/Magento/luma
 "Shop By",清除全部,theme,frontend/Magento/luma
 "Clear All",清除全部,theme,frontend/Magento/luma
 "Shopping Options",配送方式選擇,theme,frontend/Magento/luma
-"Place Order","提交訂單",module,Magento_Authorizenet
+"Place Order","下單並確認付款",module,Magento_Authorizenet
 "Credit Card Information",信用卡信息,module,Magento_Braintree
 "What is this?",這是什麼？ ,module,Magento_Braintree
 "Save for later use.",保存供以後使用。 ,module,Magento_Braintree
-"Place Order","提交訂單",,module,Magento_Braintree
+"Place Order","下單並確認付款",,module,Magento_Braintree
 "Attention: Captcha is case sensitive.","注意: 驗證碼是區分大小寫。",module,Magento_Captcha
 "Payment Transaction Failed Reminder",付款交易記錄失敗提醒,module,Magento_Checkout
 "Payment Transaction Failed",付款交易記錄失敗,module,Magento_Checkout
@@ -5792,10 +5792,10 @@ Total:,總數:,module,Magento_Checkout
 "Payment Method:",支付方式:,module,Magento_Checkout
 "Date & Time:",日期時間：,module,Magento_Checkout
 "Sign In",登錄,module,Magento_Checkout
-"Email Address",電子郵件地址,module,Magento_Checkout
+"Email Address",電郵地址,module,Magento_Checkout
 Password,密碼,module,Magento_Checkout
 "Forgot Your Password?",忘記密碼？ ,module,Magento_Checkout
-"My billing and shipping address are the same",我的帳單和發貨使用相同地址,module,Magento_Checkout
+"My billing and shipping address are the same",送貨地址和帳單地址一樣,module,Magento_Checkout
 Update,更新,module,Magento_Checkout
 Cancel,保存,module,Magento_Checkout
 "Save in address book",保存到地址簿,module,Magento_Checkout
@@ -5804,19 +5804,19 @@ Cancel,保存,module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.",您已經有賬號了，可以登錄或繼續使用遊客賬號,module,Magento_Checkout
 Login,登錄,module,Magento_Checkout
 Close,關閉,module,Magento_Checkout
-item,項目,module,Magento_Checkout
-items,項目,module,Magento_Checkout
-"Go to Checkout",去結帳,module,Magento_Checkout
+item,件,module,Magento_Checkout
+items,件,module,Magento_Checkout
+"Go to Checkout",立即結帳,module,Magento_Checkout
 "Recently added item(s)",最近添加的商品,module,Magento_Checkout
-"View and edit cart",查看和編輯購物車,module,Magento_Checkout
+"View and edit cart",查看和修改購物清單,module,Magento_Checkout
 "See Details",查看詳細信息,module,Magento_Checkout
 "Options Details",選項詳細信息,module,Magento_Checkout
 Remove,刪除,module,Magento_Checkout
-"Cart Subtotal",購物車小計,module,Magento_Checkout
+"Cart Subtotal",購物車總額,module,Magento_Checkout
 "Payment Information",支付信息,module,Magento_Checkout
 "No Payment method available.",沒有可用的付款方法。 ,module,Magento_Checkout
 "You can track your order status by creating an account.",通過創建一個帳戶跟踪您的訂單狀態。 ,module,Magento_Checkout
-"Place Order","提交訂單",module,Magento_Checkout
+"Place Order","下單並確認付款",module,Magento_Checkout
 "Forgot an item?","忘了增加貨物吗?",module,Magento_Checkout
 "Purchase over $2000.0 for free shipping.(Downtown Only)","購物滿$2000將可享有免費送貨(偏遠地區除外)!",module,Magento_Checkout
 "Please specify the shipping address to see available options.","請選填寫地址，然後選擇運送方法。",module,Magento_Checkout
@@ -5836,16 +5836,16 @@ Remove,刪除,module,Magento_Checkout
 edit,編輯,module,Magento_Checkout
 "Shipping Address",送貨地址,module,Magento_Checkout
 "New Address",從您的地址簿選擇發貨地址，或輸入新地址。 ,module,Magento_Checkout
-"Shipping Methods",送貨方式,module,Magento_Checkout
+"Shipping Methods",運送方法,module,Magento_Checkout
 "Select Method",選擇方法,module,Magento_Checkout
 "Method Title",方法標題,module,Magento_Checkout
 "Carrier Title",承運人名字,module,Magento_Checkout
 Next,下一個,module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time",抱歉，這個訂單目前沒有報價,module,Magento_Checkout
-"Order Summary",訂單匯總,module,Magento_Checkout
+"Order Summary",帳單總結,module,Magento_Checkout
 "Item in Cart",購物裡的商品,module,Magento_Checkout
 "Items in Cart",購物裡的商品,module,Magento_Checkout
-"View Details",查看詳細信息,module,Magento_Checkout
+"View Details",查看詳情,module,Magento_Checkout
 "Name: %name","名稱: %name",module,Magento_Contact
 "Email: %email","電子郵件: %email",module,Magento_Contact
 "Phone Number: %telephone","電話號碼: %telephone",module,Magento_Contact
@@ -5875,7 +5875,7 @@ Password:,密碼:,module,Magento_Customer
 "Track order history",跟踪訂單歷史記錄,module,Magento_Customer
 "Check out faster",更快地查閱,module,Magento_Customer
 "Checkout out using your account",使用您的帳戶結帳,module,Magento_Customer
-"Email Address",電子郵件地址,module,Magento_Customer
+"Email Address",電郵地址,module,Magento_Customer
 "Currency Update Warnings",貨幣更新警告,module,Magento_Directory
 Footer,頁腳,module,Magento_Email
 "Thank you, %store_name","謝謝你 %store_name",module,Magento_Email
@@ -5892,15 +5892,15 @@ Delete,刪除,module,Magento_GiftMessage
 "To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:",要開始接收時事通訊，必須首先通過點擊下面的鏈接確認您的訂閱:,module,Magento_Newsletter
 "You have been successfully subscribed to our newsletter.",您已成功訂閱我們的時事通訊。 ,module,Magento_Newsletter
 "You have been unsubscribed from the newsletter.",你已經取消訂閱新聞通訊。 ,module,Magento_Newsletter
-"Place Order","提交訂單",module,Magento_OfflinePayments
-"Place Order","提交訂單",module,Magento_Payment
+"Place Order","下單並確認付款",module,Magento_OfflinePayments
+"Place Order","下單並確認付款",module,Magento_Payment
 "Forgot an item?","忘了增加貨物吗?",module,Magento_Payment
 "Edit Your Cart",編輯您的購物車,module,Magento_Payment
 "Sign a billing agreement to streamline further purchases with PayPal.",簽署一項協議，簡化使用Paypal支付的流程。 ,module,Magento_Paypal
 "Continue to PayPal",使用Paypal繼續,module,Magento_Paypal
 "Product alerts cron warnings","產品警報 cron 警告",module,Magento_ProductAlert
 "%name,",%名稱，,module,Magento_ProductAlert
-"Apply Discount Code",應用折扣代碼,module,Magento_SalesRule
+"Apply Discount Code","確認使用優惠券?",module,Magento_SalesRule
 "Enter discount code",請輸入折扣代碼,module,Magento_SalesRule
 "Apply Discount",應用折扣,module,Magento_SalesRule
 "%name,",%名稱，,module,Magento_Sales
@@ -7013,7 +7013,7 @@ Unsubscribe,取消訂閱,module,Magento_Newsletter
 Delete,刪除,module,Magento_Newsletter
 CSV,"Excel XML",module,Magento_Newsletter
 "Excel XML","XML Excel",module,Magento_Newsletter
-Email,郵箱,module,Magento_Newsletter
+Email,電郵,module,Magento_Newsletter
 Type,類型,module,Magento_Newsletter
 Guest,訪客,module,Magento_Newsletter
 Customer,客戶,module,Magento_Newsletter
@@ -7076,7 +7076,7 @@ Import,導入,module,Magento_OfflineShipping
 "TTL for public content","TTL 為公開內容的",module,Magento_PageCache
 "Page Cache",頁面緩存,module,Magento_PageCache
 "Full page caching",整頁緩存,module,Magento_PageCache
-"Payment Methods",付款方式,module,Magento_Payment
+"Payment Methods",付費方法,module,Magento_Payment
 "Merchant Location",商家位置,module,Magento_Paypal
 "Merchant Country",商戶國家,module,Magento_Paypal
 "If not specified, Default Country from General Config will be used",如果未指定，將使用默認的國家，從一般配置,module,Magento_Paypal
@@ -7444,7 +7444,7 @@ City,城市,module,Magento_Shipping
 "Shipping Policy Parameters",航運政策參數,module,Magento_Shipping
 "Apply custom Shipping Policy",應用自定義的航運政策,module,Magento_Shipping
 "Shipping Policy",航運政策,module,Magento_Shipping
-"Shipping Methods",送貨方式,module,Magento_Shipping
+"Shipping Methods",運送方法,module,Magento_Shipping
 "Categories Options",類別選項,module,Magento_Sitemap
 Frequency,頻率,module,Magento_Sitemap
 Priority,優先級,module,Magento_Sitemap
