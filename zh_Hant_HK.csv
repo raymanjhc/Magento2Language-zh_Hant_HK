@@ -1246,7 +1246,7 @@ Role,職能,module,Magento_Catalog
 "Regular Price",定期的價格,module,Magento_Catalog
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","買%2 每個%1 和<strong class=""benefit""> save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module, Magento_Catalog
 "Buy %1 for %2 each","購買每個 %2 的 %1",module,Magento_Catalog
-"Shop By",清除全部,module,Magento_Catalog
+"Shop By","分類篩選",module,Magento_Catalog
 "Shopping Options",購物的選項,module,Magento_Catalog
 "Compare Products",比較產品,module,Magento_Catalog
 "Print This Page",打印此頁,module,Magento_Catalog
@@ -2813,7 +2813,7 @@ items,項目,module,Magento_LayeredNavigation
 Previous,上一個,module,Magento_LayeredNavigation
 Remove,刪除,module,Magento_LayeredNavigation
 "Remove This Item",刪除該內容,module,Magento_LayeredNavigation
-"Shop By",清除全部,module,Magento_LayeredNavigation
+"Shop By","分類篩選",module,Magento_LayeredNavigation
 "Clear All",全部清除,module,Magento_LayeredNavigation
 "Shopping Options",購物的選項,module,Magento_LayeredNavigation
 Partners,合作夥伴,module,Magento_Marketplace
@@ -5772,7 +5772,7 @@ Back,後退,module,Magento_Wishlist
 Previous,上一個,theme,frontend/Magento/luma
 Remove,刪除,theme,frontend/Magento/luma
 "Remove This Item",刪除該內容,theme,frontend/Magento/luma
-"Shop By",清除全部,theme,frontend/Magento/luma
+"Shop By","分類篩選",theme,frontend/Magento/luma
 "Clear All",清除全部,theme,frontend/Magento/luma
 "Shopping Options",配送方式選擇,theme,frontend/Magento/luma
 "Place Order","下單並確認付款",module,Magento_Authorizenet
@@ -7685,6 +7685,9 @@ Action,操作,module,Magento_Wishlist
 Configure,配置,module,Magento_Wishlist
 Delete,刪除,module,Magento_Wishlist
 "Product Details and Comment",產品詳細信息和評論,module,Magento_Wishlist"Product Details and Comment",產品詳細信息和評論,module,Magento_Wishlist"Product Details and Comment",產品詳細信息和評論,module,Magento_Wishlist
+"Check this out! %1","快來看看! %1",module,Mirasvit_Rewards
+"Checkout now and earn <b>%1</b> for this order.","現在結帳可於得到 <b>%1</b>.",module,Mirasvit_Rewards
+"Applies only to registered customers, may vary when logged in.","只適用於己登記的客戶, 登入後有可能有轉變.",module,Mirasvit_Rewards
 "Share with Friends","分享給朋友",module,Mirasvit_Rewards
 "Share the referal link in the social media and get points!","分享以下的連結給好友，齊齊賺取積分獎賞",module,Mirasvit_Rewards
 "Check this out!","快來看看!",module,Mirasvit_Rewards
