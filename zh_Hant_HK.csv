@@ -2021,7 +2021,7 @@ or,或者,module,Magento_Customer
 "Delete Address",刪除地址,module,Magento_Customer
 "You have no other address entries in your address book.",你並沒有儲存其他的地址。 ,module,Magento_Customer
 "* Required Fields",*必要字段,module,Magento_Customer
-Company,公司,module,Magento_Customer
+Company,公司名稱,module,Magento_Customer
 "Phone Number",電話號碼,module,Magento_Customer
 Fax,傳真,module,Magento_Customer
 Address,地址,module,Magento_Customer
@@ -4437,7 +4437,7 @@ title,標題,module,Magento_Sales
 "The total model should be extended from \Magento\Sales\Model\Order\Total\AbstractTotal.","總模型應該從 \Magento\Sales\Model\Order\Total\AbstractTotal 擴展。",module,Magento_Sales
 "We cannot determine the field name.",我們不能確定字段名稱。 ,module,Magento_Sales
 City,城市,module,Magento_Sales
-Company,公司,module,Magento_Sales
+Company,公司名稱,module,Magento_Sales
 Country,國家,module,Magento_Sales
 Email,電郵,module,Magento_Sales
 "First Name",名字,module,Magento_Sales
