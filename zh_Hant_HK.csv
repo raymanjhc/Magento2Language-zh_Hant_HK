@@ -1321,7 +1321,7 @@ Manually,手動,module,Magento_CheckoutAgreements
 "Invalid method: %1",支付失敗郵件副本發送方式,module,Magento_Checkout
 City,城市,module,Magento_Checkout
 Country,國家,module,Magento_Checkout
-State/Province,州/省,module,Magento_Checkout
+State/Province,地區,module,Magento_Checkout
 "Zip/Postal Code",郵編,module,Magento_Checkout
 "My Cart (1 item)","我的購物車 (1 項)",module,Magento_Checkout
 "My Cart (%1 items)","我的購物車 (%1 項目)",module,Magento_Checkout
@@ -1910,7 +1910,7 @@ Customers,客戶,module,Magento_Customer
 "Please enter the phone number.",請輸入電話號碼。 ,module,Magento_Customer
 "Please enter the zip/postal code.",請輸入郵政編碼。 ,module,Magento_Customer
 "Please enter the country.",請輸入該國。 ,module,Magento_Customer
-"Please enter the state/province.",請輸入省/市/自治區。 ,module,Magento_Customer
+"Please enter the state/province.",請輸入地區。 ,module,Magento_Customer
 """%1"" is a required value.",“%1”的長度必須等於或小於%2個字符。 ,module,Magento_Customer
 Global,全球,module,Magento_Customer
 "Per Website",每個網站,module,Magento_Customer
@@ -2029,7 +2029,7 @@ Address,地址,module,Magento_Customer
 "Street Address %1","街道地址 %1",module,Magento_Customer
 "VAT Number",增值稅號碼,module,Magento_Customer
 City,城市,module,Magento_Customer
-State/Province,州/省,module,Magento_Customer
+State/Province,地區,module,Magento_Customer
 "Please select a region, state or province.",請選擇一個地區，州或省。 ,module,Magento_Customer
 "Zip/Postal Code",郵編,module,Magento_Customer
 Country,國家,module,Magento_Customer
@@ -2128,7 +2128,7 @@ Documents,文件,module,Magento_Dhl
 "Unable to retrieve shipping label",無法檢索發貨標籤,module,Magento_Dhl
 "Non documents",非文件,module,Magento_Dhl
 None,無,module,Magento_Dhl
-State/Province,州/省,module,Magento_Directory
+State/Province,地區,module,Magento_Directory
 "--Please Select--","-- 請選擇 --",module,Magento_Directory
 lbs,磅,module,Magento_Directory
 kgs,公斤,module,Magento_Directory
@@ -4343,7 +4343,7 @@ Guest,訪客,module,Magento_Sales
 "Please enter the phone number.",請輸入電話號碼。 ,module,Magento_Sales
 "Please enter the zip/postal code.",請輸入郵政編碼。 ,module,Magento_Sales
 "Please enter the country.",請輸入國家。 ,module,Magento_Sales
-"Please enter the state/province.",請輸入省/市/自治區。 ,module,Magento_Sales
+"Please enter the state/province.",請輸入地區。 ,module,Magento_Sales
 "Requested entity doesn't exist",請求的實體不存在,module,Magento_Sales
 "Could not delete order address",不能刪除訂單地址,module,Magento_Sales
 "Could not save order address",不能保存訂單地址,module,Magento_Sales
@@ -4442,7 +4442,7 @@ Country,國家,module,Magento_Sales
 Email,電郵,module,Magento_Sales
 "First Name",名字,module,Magento_Sales
 "Last Name",姓氏,module,Magento_Sales
-State/Province,州/省,module,Magento_Sales
+State/Province,地區,module,Magento_Sales
 "Street Address",街道地址,module,Magento_Sales
 "Phone Number",電話號碼,module,Magento_Sales
 "Zip/Postal Code",郵編,module,Magento_Sales
@@ -5766,7 +5766,8 @@ Back,後退,module,Magento_Wishlist
 "Last Added Items",最後添加的項,module,Magento_Wishlist
 "Remove This Item",刪除該內容,module,Magento_Wishlist
 "Go to Wish List",去希望列表,module,Magento_Wishlist
-"You have no items in your wish list.",你有願望列表中沒有的項目。 ,module,Magento_Wishlist
+"You have no items in your wish list.",你有願望列表中沒有的項目。,module,Magento_Wishlist
+"%1 has been added to your Wish List.","%1 已加到你的願望列表中",module,Magento_Wishlist
 "Now Shopping by",現在購物用,theme,frontend/Magento/luma
 Previous,上一個,theme,frontend/Magento/luma
 Remove,刪除,theme,frontend/Magento/luma
@@ -6087,7 +6088,7 @@ Ok,OK,module,Magento_Sales
 "Please enter a valid date.",請輸入一個有效的日期。 ,module,Magento_Ui
 "Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").","請輸入一個有效的URL 密鑰(Ex:""示例頁面""、""示例-page.html""或""anotherlevel/示例-頁"")。",module,Magento_Ui
 "Please enter a valid zip code.",請輸入一個有效的郵政編碼。 ,module,Magento_Ui
-"Please select State/Province.",請選擇省/市/自治區。 ,module,Magento_Ui
+"Please select State/Province.",請選擇地區。 ,module,Magento_Ui
 "Please enter issue number or start date for switch/solo card type.",請輸入問題編號或開關/獨奏卡類型的開始日期。 ,module,Magento_Ui
 "This is a required field.",這是必填的字段。 ,module,Magento_Ui
 "Please enter positive number in this field.",請在此字段中輸入正數。 ,module,Magento_Ui
@@ -7894,3 +7895,4 @@ Dictionary successfully processed.,module,Mirasvit_Search
 "Search Spell-Correction","Search Spell-Correction",module,Mirasvit_Misspell
 "Rebuild search spell-correction words index","Rebuild search spell-correction words index",module,Mirasvit_Misspell
 "Please select other tab to see more results","請選擇其他類型以瀏覧其他結果。",module,Mirasvit_Misspell
+"All Brands","全部品牌",module,Ves_Brand
