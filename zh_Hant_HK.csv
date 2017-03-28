@@ -2690,7 +2690,7 @@ Continue,繼續,module,Magento_ImportExport
 "Update on Save",更新保存,module,Magento_Indexer
 "Reindex required",重新建立索引需要,module,Magento_Indexer
 Ready,準備好了,module,Magento_Indexer
-Processing,處理,module,Magento_Indexer
+Processing,處理中,module,Magento_Indexer
 Never,永不,module,Magento_Indexer
 "Index Management",索引管理,module,Magento_Indexer
 "Please select indexers.",請選擇索引器。 ,module,Magento_Indexer
@@ -4465,7 +4465,7 @@ State/Province,地區,module,Magento_Sales
 "VAT Request Identifier",增值稅請求標識符,module,Magento_Sales
 "VAT Request Date",增值稅請求日期,module,Magento_Sales
 "Pending Payment",待付款,module,Magento_Sales
-Processing,處理,module,Magento_Sales
+Processing,處理中,module,Magento_Sales
 "On Hold",等待審核,module,Magento_Sales
 Complete,完成,module,Magento_Sales
 Closed,已關閉,module,Magento_Sales
@@ -5215,7 +5215,7 @@ Remove,刪除,module,Magento_Theme
 "Local Storage seems to be disabled in your browser.",本地存儲似乎在您的瀏覽器中禁用。 ,module,Magento_Theme
 "For the best experience on our site, be sure to turn on Local Storage in your browser.",在我們的網站上獲得最佳體驗，請務必打開本地存儲在您的瀏覽器。 ,module,Magento_Theme
 "This is demo store. No orders will be fulfilled.",這是演示店鋪。沒有訂單將會完成。 ,module,Magento_Theme
-"Items %1 to %2 of %3 total","項目 %1 到 %2 %3 總",module,Magento_Theme
+"Items %1 to %2 of %3 total","項目 %1 到 %2 共%3 ",module,Magento_Theme
 "%1 Item","%1 項目",module,Magento_Theme
 "%1 Item(s)","%1 項目 (s)",module,Magento_Theme
 Page,頁面,module,Magento_Theme
@@ -7854,7 +7854,7 @@ External,External,module,Mirasvit_Search
 "Post Title","Post Title",module,Mirasvit_Search
 "Post Content","Post Content",module,Mirasvit_Search
 "Post Excerpt","Post Excerpt",module,Mirasvit_Search
-Category,Category,module,Mirasvit_Search
+Category,類別,module,Mirasvit_Search
 Magento,Magento,module,Mirasvit_Search
 Name,Name,module,Mirasvit_Search
 Description,Description,module,Mirasvit_Search
