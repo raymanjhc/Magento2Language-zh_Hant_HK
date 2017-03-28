@@ -4686,8 +4686,8 @@ View/Edit,查看/編輯,module,Magento_Search
 "Account Activity","帳戶活動",module,Magento_Security
 "All other open sessions for this account were terminated.","此帳戶所有其他打開的會話將被終止",module,Magento_Security
 "We couldn't logout because of an error.","發生錯誤，沒法登出。",module,Magento_Security
-"Someone logged into this account from another device or browser. Your current session is terminated.","其他人己在其他機器或瀏覧器登入這個帳號，你將被登出。",module,Magento_Security
-"Your current session is terminated by another user of this account.","你被強制登出這個帳號",module,Magento_Security
+"Someone logged into this account from another device or browser. Your current session is terminated.","其他人己在其他機器或瀏覧器登入這個帳戶，你將被登出。",module,Magento_Security
+"Your current session is terminated by another user of this account.","你被強制登出這個帳戶",module,Magento_Security
 "Your account is temporarily disabled.","您的帳戶被暫時禁用。",module,Magento_Security
 "Your current session has been expired.","你當前的會話已過期",module,Magento_Security
 "By IP and Email","通過 IP 和電子郵件",module,Magento_Security
@@ -6980,7 +6980,7 @@ General,基本的,module,Magento_NewRelicReporting
 "Insights API URL","API 的見解 URL",module,Magento_NewRelicReporting
 "Use %s to replace the account ID in the URL","使用 %s 來替換在 URL 中的帳戶 ID",module,Magento_NewRelicReporting
 "New Relic Account ID","新文物帳戶 ID",module,Magento_NewRelicReporting
-"""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","要註冊一個New Relic帳號嗎？<a href=""http://www.newrelic.com/magento"" target=""_blank"">點擊這裡</a>",module,Magento_NewRelicReporting
+"""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","要註冊一個New Relic帳戶嗎？<a href=""http://www.newrelic.com/magento"" target=""_blank"">點擊這裡</a>",module,Magento_NewRelicReporting
 "New Relic Application ID","新的遺留應用程序 ID",module,Magento_NewRelicReporting
 "This can commonly be found at the end of the URL when viewing the APM after ""/applications/""","這通常可以在URL 的末尾發現後""/ 應用程序/""查看APM 時",module ,Magento_NewRelicReporting
 "New Relic API Key","新文物 API 密鑰",module,Magento_NewRelicReporting
@@ -7723,7 +7723,7 @@ Delete,刪除,module,Magento_Wishlist
 "Cannot apply %1.","無法使用 %1.",module,Mirasvit_Rewards
 "Points Summary","累計積分獎賞",module,Mirasvit_Rewards
 "You have <b>%1</b> in your account.","共有 <b>%1</b> 。",module,Mirasvit_Rewards
-"You have","你帳號共有",module,Mirasvit_Rewards
+"You have","你帳戶共有",module,Mirasvit_Rewards
 "Reward Points","積分獎賞",module,Mirasvit_Rewards
 "You have <b>%1</b> available.","共有 <b>%1</b> 可用.",module,Mirasvit_Rewards
 "Enter amount of points to spend:","請輸入要用的點數:",module,Mirasvit_Rewards
@@ -7737,15 +7737,22 @@ Delete,刪除,module,Magento_Wishlist
 "Cancel","取消",module,Mirasvit_Rewards
 "You Earn","賺取",module,Mirasvit_Rewards
 "You Spend","使用",module,Mirasvit_Rewards
-"Customer signs up in store","客戶注冊帳號",module,Mirasvit_Rewards
+"Customer signs up in store","客戶注冊帳戶",module,Mirasvit_Rewards
 "Customer emails product's link to a friend","客戶發送產品連結給朋友",module,Mirasvit_Rewards
 "Newsletter sign up","訂閱通訊",module,Mirasvit_Rewards
 "Customer adds tag to a product","客戶為產品加標簽",module,Mirasvit_Rewards
 "Customer writes a product's review","客戶編寫產品評論",module,Mirasvit_Rewards
-"Customer has a birthday","客戶生日"
-"Customer is not active for long time","客戶不再活躍"
+"Customer has a birthday","客戶生日",module,Mirasvit_Rewards
+"Customer is not active for long time","客戶不再活躍",module,Mirasvit_Rewards
+"%1 has been added.","%1 已加入你的帳戶.",module,Mirasvit_Rewards
+"%1 has been deducted.","%1 已由你的帳戶減去.",module,Mirasvit_Rewards
+"You earned %1 and spent %2 for this order.","這張訂單你得到 %1 和用了 %2.",module,Mirasvit_Rewards
+"You spent %1 for this order.","這張訂單你用了 %1.",module,Mirasvit_Rewards
+"You earned %1 for this order.","這張訂單你得到 %1.",module,Mirasvit_Rewards
+"Earned points will be enrolled to your account after we finish processing your order.","得到的點數會於我們處理完你的訂單後加到你的帳戶.",module,Mirasvit_Rewards
 "Insufficient funds in the account","帳戶餘額不足",module,Magedelight_Cybersourcesa
 "General system failure","系統處理失敗，請稍後再試",module,Magedelight_Cybersourcesa
+"Payment was canceled.","付款已取消",module,Magedelight_Cybersourcesa
 "Go To Product","前往產品",module,WeltPixel_Quickview
 "My Membership Area","會員專區",module,Magestore_Membership
 "My Packages","我的會籍",module,Magestore_Membership
