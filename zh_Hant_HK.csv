@@ -1411,6 +1411,7 @@ Loading...,加載.....,module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.",我們馬上給您發訂單確認的詳細信息和跟踪信息。 ,module,Magento_Checkout
 "Discount Total",折扣總和,module,Magento_Checkout
 "Discount Total",折扣總和,module,Magento_SalesRule
+"Coupon Used",使用折扣,module,Magento_SalesRule
 "Static Blocks",靜態塊,module,Magento_Cms
 "Add New Block",添加新的模塊,module,Magento_Cms
 Back,後退,module,Magento_Cms
@@ -5911,7 +5912,7 @@ Delete,刪除,module,Magento_GiftMessage
 "Apply Discount Code","確認使用優惠券?",module,Magento_SalesRule
 "Enter discount code",請輸入折扣代碼,module,Magento_SalesRule
 "Apply Discount",應用折扣,module,Magento_SalesRule
-"Cancel Coupon",取消折扣,module,Magento_SalesRule
+"Cancel coupon",取消折扣,module,Magento_SalesRule
 "%name,",%名稱，,module,Magento_Sales
 "Thank you for your order from %store_name.","謝謝您的訂單從 %store_name。",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","通過<a href=""%account_url""> 登錄到您的帳戶</a>，可以檢查您的訂單狀態。",module,Magento_Sales
