@@ -4491,7 +4491,7 @@ Notified,已通知。 ,module,Magento_Sales
 "Not Notified",不通知,module,Magento_Sales
 "No Payment Methods",沒有付款方法,module,Magento_Sales
 "Order Comments",訂單的評論,module,Magento_Sales
-"Apply Coupon Code",適用的優惠券代碼,module,Magento_Sales
+"Cancel Coupon",適用的優惠券代碼,module,Magento_Sales
 Apply,應用,module,Magento_Sales
 "Remove Coupon Code",刪除優惠券代碼,module,Magento_Sales
 Remove,刪除,module,Magento_Sales
@@ -5911,6 +5911,7 @@ Delete,刪除,module,Magento_GiftMessage
 "Apply Discount Code","確認使用優惠券?",module,Magento_SalesRule
 "Enter discount code",請輸入折扣代碼,module,Magento_SalesRule
 "Apply Discount",應用折扣,module,Magento_SalesRule
+"Cancel Coupon",取消折扣,module,Magento_SalesRule
 "%name,",%名稱，,module,Magento_Sales
 "Thank you for your order from %store_name.","謝謝您的訂單從 %store_name。",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","通過<a href=""%account_url""> 登錄到您的帳戶</a>，可以檢查您的訂單狀態。",module,Magento_Sales
