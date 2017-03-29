@@ -4491,7 +4491,7 @@ Notified,已通知。 ,module,Magento_Sales
 "Not Notified",不通知,module,Magento_Sales
 "No Payment Methods",沒有付款方法,module,Magento_Sales
 "Order Comments",訂單的評論,module,Magento_Sales
-"Cancel Coupon",適用的優惠券代碼,module,Magento_Sales
+"Apply Coupon Code",適用的優惠券代碼,module,Magento_Sales
 Apply,應用,module,Magento_Sales
 "Remove Coupon Code",刪除優惠券代碼,module,Magento_Sales
 Remove,刪除,module,Magento_Sales
