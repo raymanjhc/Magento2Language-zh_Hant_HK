@@ -1409,6 +1409,8 @@ Loading...,加載.....,module,Magento_Checkout
 "Your order number is: %1.","您的訂單編號是: %1。",module,Magento_Checkout
 "Your order # is: <span>%1</span>.","您的訂單號是: <span>%1</span>。",module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.",我們馬上給您發訂單確認的詳細信息和跟踪信息。 ,module,Magento_Checkout
+"Discount Total",折扣總和,module,Magento_Checkout
+"Discount Total",折扣總和,module,Magento_SalesRule
 "Static Blocks",靜態塊,module,Magento_Cms
 "Add New Block",添加新的模塊,module,Magento_Cms
 Back,後退,module,Magento_Cms
@@ -5825,6 +5827,7 @@ Remove,刪除,module,Magento_Checkout
 "Forgot an item?","忘了增加貨物吗?",module,Magento_Checkout
 "Purchase over $2000.0 for free shipping.(Downtown Only)","購物滿$2000將可享有免費送貨(偏遠地區除外)!",module,Magento_Checkout
 "Please specify the shipping address to see available options.","請選填寫地址，然後選擇運送方法。",module,Magento_Checkout
+"I have read and agreed to the Terms & Conditions.","我已閱讀並同意條款和條件。",module,Magento_Checkout
 "EF Locker","順便智能櫃",module,Magento_Checkout
 "SF Store","順豐站",module,Magento_Checkout
 "Service Type","服務種類",module,Magento_Checkout
