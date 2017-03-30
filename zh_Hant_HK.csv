@@ -5222,7 +5222,7 @@ Remove,刪除,module,Magento_Theme
 "This is demo store. No orders will be fulfilled.",這是演示店鋪。沒有訂單將會完成。 ,module,Magento_Theme
 "Items %1 to %2 of %3 total","項目 %1 到 %2 共%3 ",module,Magento_Theme
 "%1 Item","%1 項目",module,Magento_Theme
-"%1 Item(s)","%1 項目 (s)",module,Magento_Theme
+"%1 Item(s)","%1 項目",module,Magento_Theme
 Page,頁面,module,Magento_Theme
 Previous,上一個,module,Magento_Theme
 "You're currently reading page",您當前正在閱讀頁,module,Magento_Theme
@@ -5886,6 +5886,7 @@ Password:,密碼:,module,Magento_Customer
 "Check out faster",更快地查閱,module,Magento_Customer
 "Checkout out using your account",使用您的帳戶結帳,module,Magento_Customer
 "Email Address",電郵地址,module,Magento_Customer
+"Change Email and Password","更改電郵及密碼",module,Magento_Customer
 "Currency Update Warnings",貨幣更新警告,module,Magento_Directory
 Footer,頁腳,module,Magento_Email
 "Thank you, %store_name","謝謝你 %store_name",module,Magento_Email
@@ -7759,6 +7760,10 @@ Delete,刪除,module,Magento_Wishlist
 "You spent %1 for this order.","這張訂單你用了 %1.",module,Mirasvit_Rewards
 "You earned %1 for this order.","這張訂單你得到 %1.",module,Mirasvit_Rewards
 "Earned points will be enrolled to your account after we finish processing your order.","得到的點數會於我們處理完你的訂單後加到你的帳戶.",module,Mirasvit_Rewards
+"Earned %1 for the order #%2.","訂單 。",module,Mirasvit_Rewards
+"Cancel earned %1 for the order #%2.","取消訂單 #%2 取消了 %1。",module,Mirasvit_Rewards
+"Spent %1 for the order #%2.","於訂單 #%2 使用了 %1。",module,Mirasvit_Rewards
+"Restore spent %1 for the order #%2.","訂單 #%2 返回了%1。",module,Mirasvit_Rewards
 "Insufficient funds in the account","帳戶餘額不足",module,Magedelight_Cybersourcesa
 "General system failure","系統處理失敗，請稍後再試",module,Magedelight_Cybersourcesa
 "Payment was canceled.","付款已取消",module,Magedelight_Cybersourcesa
