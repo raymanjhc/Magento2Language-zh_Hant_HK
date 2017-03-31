@@ -694,7 +694,7 @@ Relevance,相關性,module,Magento_CatalogSearch
 "up to %1","可到 %1",module,Magento_CatalogSearch
 Category,類別,module,Magento_CatalogSearch
 "%1 and above","%1 及以上",module,Magento_CatalogSearch
-"%1 - %2",1%-%2,module,Magento_CatalogSearch
+"%1 - %2",%1-%2,module,Magento_CatalogSearch
 "Sorry, something went wrong. You can find out more in the error log.",抱歉，出問題了。你可以在錯誤日誌中找到更多的信息。 ,module,Magento_CatalogSearch
 Product,產品,module,Magento_CatalogSearch
 "Search Settings",搜索設置,module,Magento_CatalogSearch
@@ -1411,6 +1411,8 @@ Loading...,加載.....,module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.",我們馬上給您發訂單確認的詳細信息和跟踪信息。 ,module,Magento_Checkout
 "Discount Total",折扣總和,module,Magento_Checkout
 "Discount Total",折扣總和,module,Magento_SalesRule
+"Coupon Discount",優惠劵,module,Magento_SalesRule
+"Reward Point Used",使用積分,module,Magento_SalesRule
 "Coupon Used",使用折扣,module,Magento_SalesRule
 "Static Blocks",靜態塊,module,Magento_Cms
 "Add New Block",添加新的模塊,module,Magento_Cms
