@@ -1008,7 +1008,7 @@ Center,居中,module,Magento_Catalog
 "Must be category model instance or its id.","必須是類別模型實例或其 id。",module,Magento_Catalog
 "The attribute model is not defined.",未定義的屬性模型。 ,module,Magento_Catalog
 Category,類別,module,Magento_Catalog
-"%1 - %2",1%-%2,module,Magento_Catalog
+"%1 - %2",%1-%2,module,Magento_Catalog
 "%1 was not found in algorithms","算法中找不到 %1",module,Magento_Catalog
 "%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 不延長 \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 並不延伸 \Magento\Catalog\Model\Layer\Filter\AbstractFilter",module,Magento_Catalog
