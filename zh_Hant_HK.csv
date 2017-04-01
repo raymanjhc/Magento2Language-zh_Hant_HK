@@ -7769,6 +7769,7 @@ Delete,刪除,module,Magento_Wishlist
 "Insufficient funds in the account","帳戶餘額不足",module,Magedelight_Cybersourcesa
 "General system failure","系統處理失敗，請稍後再試",module,Magedelight_Cybersourcesa
 "Payment was canceled.","付款已取消",module,Magedelight_Cybersourcesa
+"Not Paid","未付款",module,Magedelight_Cybersourcesa
 "Go To Product","前往產品",module,WeltPixel_Quickview
 "My Membership Area","會員專區",module,Magestore_Membership
 "My Packages","我的會籍",module,Magestore_Membership
