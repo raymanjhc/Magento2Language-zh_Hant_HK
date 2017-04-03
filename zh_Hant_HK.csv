@@ -2077,7 +2077,7 @@ Password,密碼,module,Magento_Customer
 "Weak","弱",module,Magento_Customer
 "Medium","中等",module,Magento_Customer
 "Strong","強",module,Magento_Customer
-"Very Stong","非常強",module,Magento_Customer
+"Very Strong","非常強",module,Magento_Customer
 "Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","密碼必須至少有 %1 個字元。",module,Magento_Customer
 "This is a required field.","必須填寫",module,Magento_Customer
 "Cannot switch into given mode ""%1""",不能切換到給定的模式“%1”,module,Magento_Deploy
