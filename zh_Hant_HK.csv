@@ -5827,7 +5827,7 @@ Remove,刪除,module,Magento_Checkout
 "No Payment method available.",沒有可用的付款方法。 ,module,Magento_Checkout
 "You can track your order status by creating an account.",通過創建一個帳戶跟踪您的訂單狀態。 ,module,Magento_Checkout
 "Place Order","下單並確認付款",module,Magento_Checkout
-"Forgot an item?","忘了增加貨物吗?",module,Magento_Checkout
+"Forgot an item?","忘了增加貨物嗎?",module,Magento_Checkout
 "Purchase over $2000.0 for free shipping.(Downtown Only)","購物滿$2000將可享有免費送貨(偏遠地區除外)!",module,Magento_Checkout
 "Please specify the shipping address to see available options.","請選填寫地址，然後選擇運送方法。",module,Magento_Checkout
 "I have read and agreed to the Terms & Conditions.","我已閱讀並同意條款和條件。",module,Magento_Checkout
@@ -5907,7 +5907,7 @@ Delete,刪除,module,Magento_GiftMessage
 "You have been unsubscribed from the newsletter.",你已經取消訂閱新聞通訊。 ,module,Magento_Newsletter
 "Place Order","下單並確認付款",module,Magento_OfflinePayments
 "Place Order","下單並確認付款",module,Magento_Payment
-"Forgot an item?","忘了增加貨物吗?",module,Magento_Payment
+"Forgot an item?","忘了增加貨物嗎?",module,Magento_Payment
 "Edit Your Cart",編輯您的購物車,module,Magento_Payment
 "Sign a billing agreement to streamline further purchases with PayPal.",簽署一項協議，簡化使用Paypal支付的流程。 ,module,Magento_Paypal
 "Continue to PayPal",使用Paypal繼續,module,Magento_Paypal
