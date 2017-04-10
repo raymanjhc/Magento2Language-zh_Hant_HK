@@ -2036,7 +2036,7 @@ Address,地址,module,Magento_Customer
 "VAT Number",增值稅號碼,module,Magento_Customer
 City,城市,module,Magento_Customer
 State/Province,地區,module,Magento_Customer
-"Please select a region, state or province.",請選擇一個地區。 ,module,Magento_Customer
+"Please select a region, state or province.",請選擇一個地區。,module,Magento_Customer
 "Zip/Postal Code",郵編,module,Magento_Customer
 Country,國家,module,Magento_Customer
 "It's a default billing address.",它是默認的帳單地址。 ,module,Magento_Customer
@@ -2150,7 +2150,7 @@ WARNING:,警告：,module,Magento_Directory
 "Please correct the country code: %1.","請正確的國家/地區代碼: %1。",module,Magento_Directory
 "Country and Format Type combination should be unique",應該是唯一的國家和格式類型組合,module,Magento_Directory
 "Please correct the rates received",請更正收取的差餉,module,Magento_Directory
-"Please select a region, state or province.",請選擇一個地區，州或省。 ,module,Magento_Directory
+"Please select a region, state or province.",請選擇一個地區。,module,Magento_Directory
 Currency,貨幣,module,Magento_Directory
 "Your current currency is: %1.","您當前的貨幣是: %1。",module,Magento_Directory
 Continue,繼續,module,Magento_Directory
