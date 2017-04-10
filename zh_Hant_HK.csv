@@ -1403,7 +1403,7 @@ Edit,編輯,module,Magento_Checkout
 "Excl. Tax",不包括消費稅,module,Magento_Checkout
 Loading...,加載.....,module,Magento_Checkout
 "Order #","訂單編號",module,Magento_Checkout
-"Proceed to Checkout",去結帳,module,Magento_Checkout
+"Proceed to Checkout",結帳,module,Magento_Checkout
 "Product Name",產品名稱,module,Magento_Checkout
 "Incl. Tax",含稅,module,Magento_Checkout
 "Your order number is: %1.","您的訂單編號是: %1。",module,Magento_Checkout
@@ -1828,7 +1828,7 @@ Download,下載,module,Magento_Customer
 "There was an error detecting Customer Group.",檢測客戶組時出錯。 ,module,Magento_Customer
 "Validate VAT Number",驗證增值稅號碼,module,Magento_Customer
 "Customer Login",登錄賬戶,module,Magento_Customer
-"Create New Customer Account",註冊成為會員,module,Magento_Customer
+"Create New Customer Account",註冊成為基本會員,module,Magento_Customer
 "Date of Birth",出生日期,module,Magento_Customer
 "Bad request.",請求有誤。 ,module,Magento_Customer
 "This confirmation key is invalid or has expired.",此確認密鑰無效或已過期。 ,module,Magento_Customer
@@ -2036,7 +2036,7 @@ Address,地址,module,Magento_Customer
 "VAT Number",增值稅號碼,module,Magento_Customer
 City,城市,module,Magento_Customer
 State/Province,地區,module,Magento_Customer
-"Please select a region, state or province.",請選擇一個地區，州或省。 ,module,Magento_Customer
+"Please select a region, state or province.",請選擇一個地區。 ,module,Magento_Customer
 "Zip/Postal Code",郵編,module,Magento_Customer
 Country,國家,module,Magento_Customer
 "It's a default billing address.",它是默認的帳單地址。 ,module,Magento_Customer
@@ -2061,9 +2061,9 @@ Password,密碼,module,Magento_Customer
 "Forgot Your Password?",您忘記密碼了嗎?,module,Magento_Customer
 "Subscription option",訂閱選項,module,Magento_Customer
 "General Subscription",確認訂閱,module,Magento_Customer
-"Sign Up for Newsletter",訂閱最新優惠等資訊,module,Magento_Customer
+"Sign Up for Newsletter",訂閱最新的優惠資訊,module,Magento_Customer
 "Address Information",地址信息,module,Magento_Customer
-"Sign-in Information",會員登入信息,module,Magento_Customer
+"Sign-in Information",會員登入資料,module,Magento_Customer
 "Confirm Password",確認密碼,module,Magento_Customer
 "Create an Account",註冊會員,module,Magento_Customer
 "Set a New Password",設置新的密碼,module,Magento_Customer
@@ -5801,7 +5801,7 @@ Total:,總數:,module,Magento_Checkout
 "Shipping Method:",送貨方法：,module,Magento_Checkout
 "Payment Method:",支付方式:,module,Magento_Checkout
 "Date & Time:",日期時間：,module,Magento_Checkout
-"Sign In",登錄,module,Magento_Checkout
+"Sign In","注冊/登入",module,Magento_Checkout
 "Email Address",電郵地址,module,Magento_Checkout
 Password,密碼,module,Magento_Checkout
 "Forgot Your Password?",忘記密碼？ ,module,Magento_Checkout
@@ -5830,6 +5830,8 @@ Remove,刪除,module,Magento_Checkout
 "Forgot an item?","忘了增加貨物嗎?",module,Magento_Checkout
 "Purchase over $2000.0 for free shipping.(Downtown Only)","購物滿$2000將可享有免費送貨(偏遠地區除外)!",module,Magento_Checkout
 "Please specify the shipping address to see available options.","請選填寫地址，然後選擇運送方法。",module,Magento_Checkout
+"Some products are only suitable for delivery services (including: trolleys, trolley kits, school chair, dining chair, car safety seats, bed, play mats, etc.), please pay attention to the product page.","部份貨品只適用於送貨服務（包括：手推車、手推車套裝、學行椅、餐椅、汽車安全座椅、睡床、遊玩地墊等），敬請留意產品頁面。",module,Magento_Checkout
+"Please carefully choose the shipping method and clearly fill in the delivery address, otherwise it will delay the entire delivery process and affect the delivery time.","請小心選擇運送方法及清楚填寫送貨地址，否則將耽誤整個送貨流程及影響送貨時間。",module,Magento_Checkout
 "I have read and agreed to the Terms & Conditions.","我已閱讀並同意條款和條件。",module,Magento_Checkout
 "EF Locker","順便智能櫃",module,Magento_Checkout
 "SF Store","順豐站",module,Magento_Checkout
@@ -7698,7 +7700,6 @@ Configure,配置,module,Magento_Wishlist
 Delete,刪除,module,Magento_Wishlist
 "Product Details and Comment",產品詳細信息和評論,module,Magento_Wishlist"Product Details and Comment",產品詳細信息和評論,module,Magento_Wishlist"Product Details and Comment",產品詳細信息和評論,module,Magento_Wishlist
 "Check this out! %1","快來看看! %1",module,Mirasvit_Rewards
-"Checkout now and earn <b>%1</b> for this order.","現在結帳可於得到 <b>%1</b>.",module,Mirasvit_Rewards
 "Applies only to registered customers, may vary when logged in.","只適用於己登記的客戶, 登入後有可能有轉變.",module,Mirasvit_Rewards
 "Share with Friends","分享給朋友",module,Mirasvit_Rewards
 "Share the referal link in the social media and get points!","分享以下的連結給好友，齊齊賺取積分獎賞",module,Mirasvit_Rewards
@@ -7719,7 +7720,7 @@ Delete,刪除,module,Magento_Wishlist
 "Visit My Reward Points Section","跳至的的紅利點數",module,Mirasvit_Rewards
 "Transactions History","消費記錄",module,Mirasvit_Rewards
 "There are no Transactions.","你沒有消費記錄",module,Mirasvit_Rewards
-"Checkout now and earn <b>%1</b> for this order.","立即結帳，將可得到 <b>%1</b>.",module,Mirasvit_Rewards
+"Checkout now and earn <b>%1</b> for this order.","立即結帳，將可獲到 <b>%1</b>.",module,Mirasvit_Rewards
 "You received %1 for signing up","恭喜你成功註冊並獲得%1﹗",module,Mirasvit_Rewards
 "You received %1 for sending this product","分享成功，得到%1",module,Mirasvit_Rewards
 "You received %1 for sign up for newsletter","訂閱成功，得到%1",module,Mirasvit_Rewards
