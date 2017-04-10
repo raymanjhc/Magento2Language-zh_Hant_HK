@@ -5801,7 +5801,8 @@ Total:,總數:,module,Magento_Checkout
 "Shipping Method:",送貨方法：,module,Magento_Checkout
 "Payment Method:",支付方式:,module,Magento_Checkout
 "Date & Time:",日期時間：,module,Magento_Checkout
-"Sign In","注冊/登入",module,Magento_Checkout
+"Sign In",登入,module,Magento_Checkout
+"Sign Up/Sign In","注冊/登入",module,Magento_Customer
 "Email Address",電郵地址,module,Magento_Checkout
 Password,密碼,module,Magento_Checkout
 "Forgot Your Password?",忘記密碼？ ,module,Magento_Checkout
