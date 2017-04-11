@@ -1828,7 +1828,7 @@ Download,下載,module,Magento_Customer
 "The customer would belong to Customer Group %s.","客戶將屬於客戶組 %s。",module,Magento_Customer
 "There was an error detecting Customer Group.",檢測客戶組時出錯。 ,module,Magento_Customer
 "Validate VAT Number",驗證增值稅號碼,module,Magento_Customer
-"Customer Login",登錄賬戶,module,Magento_Customer
+"Customer Login",登入賬戶,module,Magento_Customer
 "Create New Customer Account",註冊成為基本會員,module,Magento_Customer
 "Date of Birth",出生日期,module,Magento_Customer
 "Bad request.",請求有誤。 ,module,Magento_Customer
@@ -2071,6 +2071,7 @@ Password,密碼,module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","你已退出，在 5 秒鐘後將轉到我們的主頁。",module,Magento_Customer
 "New Customers",新客戶,module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","註冊成為會員後可更快地查閱和追蹤訂單。", module,Magento_Customer
+"Creating an account can check and track orders anytime.","註冊成為會員可隨時查閱和追蹤訂單。",module,Magento_Customer
 "Gender","性別",module,Magento_Customer
 "Name","名字",module,Magento_Customer
 "Tax/VAT number","增值稅/VAT 號碼",module,Magento_Customer
@@ -6083,7 +6084,7 @@ Ok,OK,module,Magento_Sales
 "Please use only letters (az or AZ), numbers (0-9), spaces and ""#"" in this field.","請只使用字母(a 到z 或A 到Z)，數字(0- 9)，空格和""#""在這一領域。",module,Magento_Ui
 "Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","請輸入有效的電話號碼。例如(123) 456-7890 或123-456-7890。",module ,Magento_Ui
 "Please enter a valid fax number (Ex: 123-456-7890).","請輸入有效的傳真號碼 (Ex: 123-456-7890)。",module,Magento_Ui
-"Please enter a valid email address (Ex: johndoe@domain.com).","請輸入一個有效的電子郵件地址 (Ex: johndoe@domain.com)。",module,Magento_Ui
+"Please enter a valid email address (Ex: johndoe@domain.com).","請輸入一個有效的電郵地址（E.g. chantaiman123@eugenebaby.com）。",module,Magento_Ui
 "Please enter 7 or more characters, using both numeric and alphabetic.","請輸入 7 或更多個字符，使用數字和字母。",module,Magento_Ui
 "Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","請輸入一個有效的URL。協議是需要(http://、 https://或ftp: / /)。",module,Magento_Ui
 "Please enter a valid URL. For example http://www.example.com or www.example.com.","請輸入一個有效的URL。例如http://www.example.com 或www.example. com。",module,Magento_Ui
