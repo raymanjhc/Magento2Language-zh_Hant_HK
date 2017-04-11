@@ -7816,7 +7816,7 @@ Disabled,Disabled,module,Mirasvit_Search
 "Additional Options","Additional Options",module,Mirasvit_Search
 ID,編號,module,Mirasvit_Search
 Type,"類型",module,Mirasvit_Search
-Action,Action,module,Mirasvit_Search
+"Action","操作",module,Mirasvit_Search
 Reindex,Reindex,module,Mirasvit_Search
 Ready,Ready,module,Mirasvit_Search
 "Reindex Required","Reindex Required",module,Mirasvit_Search
