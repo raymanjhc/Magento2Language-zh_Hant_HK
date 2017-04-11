@@ -4203,7 +4203,7 @@ Information,信息,module,Magento_Sales
 "Order Information",訂單信息,module,Magento_Sales
 "Order Invoices",訂單發票,module,Magento_Sales
 Shipments,發貨,module,Magento_Sales
-"Order Shipments",訂單裝運,module,Magento_Sales
+"Order Shipments",送貨訂單,module,Magento_Sales
 Transactions,交易記錄,module,Magento_Sales
 "Order View",訂單查看,module,Magento_Sales
 Any,任何,module,Magento_Sales
@@ -4437,7 +4437,7 @@ Tax,稅,module,Magento_Sales
 title,標題,module,Magento_Sales
 "The PDF total model %1 must be or extend \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.","PDF 總模型%1 必須或延長\Magento\Sales\Model\Order\Pdf\Total\ DefaultTotal。",module,Magento_Sales
 "We cannot register an existing shipment",我們不能註冊現有裝運,module,Magento_Sales
-"Please enter a tracking number.",請輸入一個跟踪號碼。 ,module,Magento_Sales
+"Please enter a tracking number.",請輸入一個物流追蹤編號。 ,module,Magento_Sales
 "Could not delete shipment",不能刪除裝運,module,Magento_Sales
 "Could not save shipment",不能保存裝運,module,Magento_Sales
 "The last status can't be unassigned from its current state.",上次狀態無法從其當前狀態未分配。 ,module,Magento_Sales
@@ -4759,7 +4759,7 @@ Back,後退,module,Magento_SendFriend
 "You are trying to add a quantity for some products that doesn't match the quantity that was shipped.",您試圖添加一些產品的數量不匹配被運的數量。 ,module,Magento_Shipping
 "Products should be added to package(s)",產品應添加到程序包,module,Magento_Shipping
 "The value that you entered is not valid.",您輸入的值不是有效的。 ,module,Magento_Shipping
-"Add Tracking Number",添加跟踪號碼,module,Magento_Shipping
+"Add Tracking Number",添加物流追蹤編號,module,Magento_Shipping
 "Custom Value",跟踪貨運,module,Magento_Shipping
 Add,添加,module,Magento_Shipping
 "Send Tracking Information",發送跟踪信息,module,Magento_Shipping
@@ -4778,10 +4778,10 @@ Print,打印,module,Magento_Shipping
 "Please enter a comment.",請輸入評論內容。 ,module,Magento_Shipping
 "Cannot add new comment.",不能添加新的註釋。 ,module,Magento_Shipping
 "Please specify a carrier.",請指定承運人。 ,module,Magento_Shipping
-"Please enter a tracking number.",請輸入一個跟踪號碼。 ,module,Magento_Shipping
+"Please enter a tracking number.",請輸入一個物流追蹤編號。 ,module,Magento_Shipping
 Shipments,發貨,module,Magento_Shipping
-"We can't initialize shipment for adding tracking number.",我們不能初始化裝運添加跟踪號碼。 ,module,Magento_Shipping
-"Cannot add tracking number.",不能添加跟踪號碼。 ,module,Magento_Shipping
+"We can't initialize shipment for adding tracking number.",我們不能初始化裝運添加物流追蹤編號。 ,module,Magento_Shipping
+"Cannot add tracking number.",不能添加物流追蹤編號。 ,module,Magento_Shipping
 "You created the shipping label.",您創建的航運標籤。 ,module,Magento_Shipping
 "An error occurred while creating shipping label.",創建航運標籤時出錯。 ,module,Magento_Shipping
 "You sent the shipment.",你發送的裝運。 ,module,Magento_Shipping
@@ -4790,14 +4790,14 @@ Shipments,發貨,module,Magento_Shipping
 "New Shipment",新的裝運,module,Magento_Shipping
 "We don't recognize or support the file extension in this shipment: %1.","我們無法識別或不支持的文件擴展名，這批貨: %1。",module,Magento_Shipping
 "We can't initialize shipment for delete tracking number.",我們不能初始化裝運刪除運單號。 ,module,Magento_Shipping
-"We can't delete tracking number.",我們不能刪除跟踪號碼。 ,module,Magento_Shipping
+"We can't delete tracking number.",我們不能刪除物流追蹤編號。 ,module,Magento_Shipping
 "We can't load track with retrieving identifier right now.",我們不能加載跟踪記錄與現在檢索標識符。 ,module,Magento_Shipping
 "We can't save the shipment right now.",我們現在無法保存發貨信息。 ,module,Magento_Shipping
 "The shipment has been created.",已創建裝運。 ,module,Magento_Shipping
 "Cannot save shipment.",無法保存裝運。 ,module,Magento_Shipping
 "The order no longer exists.",該訂單不存在。 ,module,Magento_Shipping
-"Cannot do shipment for the order separately from invoice.",發票不能做為訂單裝運。 ,module,Magento_Shipping
-"Cannot do shipment for the order.",不能做為訂單裝運。 ,module,Magento_Shipping
+"Cannot do shipment for the order separately from invoice.",送貨不能與發票分開。 ,module,Magento_Shipping
+"Cannot do shipment for the order.",不能送貨。 ,module,Magento_Shipping
 "There are no shipping labels related to selected shipments.",有有關選定貨物沒有運輸標籤。 ,module,Magento_Shipping
 "Page not found.",找不到網頁。 ,module,Magento_Shipping
 "Tracking Information",跟踪信息,module,Magento_Shipping
@@ -4888,7 +4888,7 @@ Action,操作,module,Magento_Shipping
 "Print All Shipments",打印所有出貨,module,Magento_Shipping
 "Shipment #",送貨單號,module,Magento_Shipping
 "Print Shipment",打印裝運,module,Magento_Shipping
-"Tracking Number(s):",跟踪號碼:,module,Magento_Shipping
+"Tracking Number(s):",物流追蹤編號:,module,Magento_Shipping
 "Order tracking",訂單跟踪,module,Magento_Shipping
 "Tracking Number:",追踪號碼,module,Magento_Shipping
 Carrier:,運營商,module,Magento_Shipping
@@ -5932,7 +5932,7 @@ Delete,刪除,module,Magento_GiftMessage
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","你訂單#%increment_id 已更新的狀態為<strong>%order_status</strong>。",module, Magento_Sales
 "Your Invoice #%invoice_id for Order #%order_id","為訂單 #%order_id 你發票 #%invoice_id",module,Magento_Sales
 "%customer_name,",%customer_name，,module,Magento_Sales
-"Once your package ships we will send you a tracking number.",一旦你包船我們將向您發送一個跟踪號碼。 ,module,Magento_Sales
+"Once your package ships we will send you a tracking number.",一旦你包船我們將向您發送一個物流追蹤編號。 ,module,Magento_Sales
 "Your Order <span class=""no-link"">#%increment_id</span>","您的訂單<span class=""no-link""> #%increment_id</span>",module ,Magento_Sales
 "Placed on <span class=""no-link"">%created_at</span>","放在 <span class=""no-link"">%created_at</span>",module,Magento_Sales
 "Once your package ships we will send an email with a link to track your order.",一旦你的包船我們將發送一封電子郵件的鏈接來跟踪您的訂單。 ,module,Magento_Sales
@@ -5987,7 +5987,7 @@ Password:,密碼:,theme,frontend/Magento/luma
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","你訂單#%increment_id 已更新的狀態為<strong>%order_status</strong>。",theme, frontend/Magento/luma
 "Your Invoice #%invoice_id for Order #%order_id","為訂單 #%order_id 你發票 #%invoice_id",theme,frontend/Magento/luma
 "%customer_name,",%customer_name，,theme,frontend/Magento/luma
-"Once your package ships we will send you a tracking number.",一旦你包船我們將向您發送一個跟踪號碼。 ,theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.",一旦你包船我們將向您發送一個物流追蹤編號。 ,theme,frontend/Magento/luma
 "Your Order <span class=""no-link"">#%increment_id</span>","您的訂單<span class=""no-link""> #%increment_id</span>",theme ,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","放在<span class=""no-link"">%created_at</span>",theme,frontend/ Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.",下面是您發貨確認信息。再次感謝您為您的業務。 ,theme,frontend/Magento/luma
