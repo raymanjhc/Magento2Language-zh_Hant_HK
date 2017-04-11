@@ -1410,6 +1410,7 @@ Loading...,加載.....,module,Magento_Checkout
 "Your order # is: <span>%1</span>.","您的訂單號是: <span>%1</span>。",module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.",我們馬上給您發訂單確認的詳細信息和跟踪信息。 ,module,Magento_Checkout
 "Discount Total",折扣總和,module,Magento_Checkout
+"Are you sure you would like to remove this item from the shopping cart?","你碓定要將產品移除嗎？",module,Magento_Checkout
 "Discount Total",折扣總和,module,Magento_SalesRule
 "Coupon Discount",優惠劵,module,Magento_SalesRule
 "Reward Point Used",使用積分,module,Magento_SalesRule
@@ -5860,7 +5861,6 @@ Next,下一個,module,Magento_Checkout
 "Item in Cart",購物裡的商品,module,Magento_Checkout
 "Items in Cart",購物裡的商品,module,Magento_Checkout
 "View Details",查看詳情,module,Magento_Checkout
-"Are you sure you would like to remove this item from the shopping cart?","你碓定要將產品移除嗎？",module,Magento_Checkout
 "Name: %name","名稱: %name",module,Magento_Contact
 "Email: %email","電子郵件: %email",module,Magento_Contact
 "Phone Number: %telephone","電話號碼: %telephone",module,Magento_Contact
