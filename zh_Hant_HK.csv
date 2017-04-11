@@ -7780,6 +7780,7 @@ Delete,刪除,module,Magento_Wishlist
 "Saved Total","已節省",module,Magestore_Membership
 "Renew Now","現在更新",module,Magestore_Membership
 "You do not sign up to any packages.","你並沒有會籍。",module,Magestore_Membership
+"VIPPackage","會籍",module,Magestore_Membership
 "Add","加入",module,Mirasvit_Search
 "Match Expression","匹配表達式",module,Mirasvit_Search
 "Replace Expression","取代表達式",module,Mirasvit_Search
