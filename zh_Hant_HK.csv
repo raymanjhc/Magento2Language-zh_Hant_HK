@@ -1408,7 +1408,7 @@ Loading...,加載.....,module,Magento_Checkout
 "Incl. Tax",含稅,module,Magento_Checkout
 "Your order number is: %1.","您的訂單編號是: %1。",module,Magento_Checkout
 "Your order # is: <span>%1</span>.","您的訂單號是: <span>%1</span>。",module,Magento_Checkout
-"We'll email you an order confirmation with details and tracking info.",我們馬上給您發訂單確認的詳細信息和跟踪信息。 ,module,Magento_Checkout
+"We'll email you an order confirmation with details and tracking info.",我們會盡快處理閣下的訂單，請到「我的訂單」中查閱訂單狀態。 ,module,Magento_Checkout
 "Discount Total",折扣總和,module,Magento_Checkout
 "Are you sure you would like to remove this item from the shopping cart?","碓定要將此產品從購物車中移除？",module,Magento_Checkout
 "Discount Total",折扣總和,module,Magento_SalesRule
@@ -7760,13 +7760,13 @@ Delete,刪除,module,Magento_Wishlist
 "Customer writes a product's review","客戶編寫產品評論",module,Mirasvit_Rewards
 "Customer has a birthday","客戶生日",module,Mirasvit_Rewards
 "Customer is not active for long time","客戶不再活躍",module,Mirasvit_Rewards
-"%1 has been added.","%1 已加入你的帳戶.",module,Mirasvit_Rewards
-"%1 has been deducted.","%1 已由你的帳戶減去.",module,Mirasvit_Rewards
-"You earned %1 and spent %2 for this order.","這張訂單你得到 %1 和用了 %2.",module,Mirasvit_Rewards
-"You spent %1 for this order.","這張訂單你用了 %1.",module,Mirasvit_Rewards
-"You earned %1 for this order.","這張訂單你得到 %1.",module,Mirasvit_Rewards
-"Earned points will be enrolled to your account after we finish processing your order.","得到的點數會於我們處理完你的訂單後加到你的帳戶.",module,Mirasvit_Rewards
-"Earned %1 for the order #%2.","訂單 。",module,Mirasvit_Rewards
+"%1 has been added.","%1 已加入你的帳戶。",module,Mirasvit_Rewards
+"%1 has been deducted.","%1 已由你的帳戶減去。",module,Mirasvit_Rewards
+"You earned %1 and spent %2 for this order.","這張訂單你得到 %1 和用了 %2。",module,Mirasvit_Rewards
+"You spent %1 for this order.","這張訂單你用了 %1。",module,Mirasvit_Rewards
+"You earned %1 for this order.","這張訂單你得到 %1。",module,Mirasvit_Rewards
+"Earned points will be enrolled to your account after we finish processing your order.","得到的點數會於我們處理完你的訂單後加到你的帳戶。",module,Mirasvit_Rewards
+"Earned %1 for the order #%2.","訂單 #%2 共賺取了 %1。",module,Mirasvit_Rewards
 "Cancel earned %1 for the order #%2.","取消訂單 #%2 取消了 %1。",module,Mirasvit_Rewards
 "Spent %1 for the order #%2.","於訂單 #%2 使用了 %1。",module,Mirasvit_Rewards
 "Restore spent %1 for the order #%2.","訂單 #%2 返回了%1。",module,Mirasvit_Rewards
@@ -7918,6 +7918,27 @@ Weight,Weight,module,Mirasvit_Search
 "Enable Multi-Store Search Results","Enable Multi-Store Search Results",module,Mirasvit_Search
 Stores,Stores,module,Mirasvit_Search
 Dictionary successfully processed.,module,Mirasvit_Search
+Products,"產品",module,Mirasvit_SearchAutocomplete
+"Popular suggestions","熱門推介",module,Mirasvit_SearchAutocomplete
+"Show all %1 results →","顯示全部 %1 結果 →",module,Mirasvit_SearchAutocomplete
+"Sorry, nothing found for ""%1"".","對不起, ""%1"" 找不到東西。",module,Mirasvit_SearchAutocomplete
+"Searchable content","可搜尋的內䆟",module,Mirasvit_SearchAutocomplete
+Search,"搜尋",module,Mirasvit_SearchAutocomplete
+"Search Autocomplete","搜尋自動推介",module,Mirasvit_SearchAutocomplete
+"General Configuration","General Configuration",module,Mirasvit_SearchAutocomplete
+"Minimum number of characters to search","Minimum number of characters to search",module,Mirasvit_SearchAutocomplete
+"The delay before start finding","The delay before start finding",module,Mirasvit_SearchAutocomplete
+">In milliseconds, e.g. 500 means 0.5 of second",">In milliseconds, e.g. 500 means 0.5 of second",module,Mirasvit_SearchAutocomplete
+"Products Settings","Products Settings",module,Mirasvit_SearchAutocomplete
+"Show Price","Show Price",module,Mirasvit_SearchAutocomplete
+"Show Thumbnail","Show Thumbnail",module,Mirasvit_SearchAutocomplete
+"Show Rating","Show Rating",module,Mirasvit_SearchAutocomplete
+"Show Description","Show Description",module,Mirasvit_SearchAutocomplete
+Appearance,Appearance,module,Mirasvit_SearchAutocomplete
+"Additional CSS Styles","Additional CSS Styles",module,Mirasvit_SearchAutocomplete
+"Hot Searches","熱門搜尋",module,Mirasvit_SearchAutocomplete
+"Show Hot Searches","顯示熱門搜尋",module,Mirasvit_SearchAutocomplete
+"Comma separated search queries. Leave empty for show most popular queries.","Comma separated search queries. Leave empty for show most popular queries.",module,Mirasvit_SearchAutocomplete
 "Your search '<strong>%1</strong>' did not match any products.","你的搜索 '<strong>%1</strong>' 沒有找到產品。",module,Mirasvit_Misspell
 "Did you mean:","你是否要找:",module,Mirasvit_Misspell
 "Showing results using some of your search terms","Showing results using some of your search terms",module,Mirasvit_Misspell
