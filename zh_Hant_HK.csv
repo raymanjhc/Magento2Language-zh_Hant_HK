@@ -529,7 +529,7 @@ From,從,module,Magento_Bundle
 To,至,module,Magento_Bundle
 "Buy %1 with %2 discount each","買 %1 與 %2 折扣每個",module,Magento_Bundle
 "Go back to product details",返回到產品詳細信息,module,Magento_Bundle
-"Customize and Add to Cart",自定義並添加到購物車,module,Magento_Bundle
+"Customize and Add to Cart",自定義並加入購物車,module,Magento_Bundle
 "* Required Fields",*必需填寫,module,Magento_Bundle
 "Your Customization",您的自定義,module,Magento_Bundle
 Availability,庫存,module,Magento_Bundle
@@ -711,10 +711,10 @@ name,名字,module,Magento_CatalogSearch
 "Conditions Combination",條件組合,module,Magento_CatalogWidget
 "Product Attribute",產品屬性,module,Magento_CatalogWidget
 "Please choose a condition to add.",請選擇要添加的條件,module,Magento_CatalogWidget
-"Add to Cart",添加到購物車,module,Magento_CatalogWidget
+"Add to Cart",加入購物車,module,Magento_CatalogWidget
 "In stock",有貨,module,Magento_CatalogWidget
 "Out of stock",缺貨,module,Magento_CatalogWidget
-"Add to Wish List",添加到收藏夾,module,Magento_CatalogWidget
+"Add to Wish List",加入喜愛清單,module,Magento_CatalogWidget
 "Add to Compare",添加並比較,module,Magento_CatalogWidget
 Root,根,module,Magento_Catalog
 Delete,刪除,module,Magento_Catalog
@@ -1057,7 +1057,7 @@ Disabled,禁用,module,Magento_Catalog
 "The configuration item option instance in options group is incorrect.",在選項組中的配置項目選項實例是不正確的。 ,module,Magento_Catalog
 "The configuration item instance in options group is incorrect.",在選項組中的配置項目實例是不正確的。 ,module,Magento_Catalog
 "The BuyRequest instance in options group is incorrect.",在選項組中的購買請求實例是不正確的。 ,module,Magento_Catalog
-"We can't add the product to the cart because of an option validation issue.",我們不能因為選項驗證問題，將產品添加到購物車。 ,module,Magento_Catalog
+"We can't add the product to the cart because of an option validation issue.",我們不能因為選項驗證問題，將產品加入購物車。 ,module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType","%1 並不延伸 \Magento\Catalog\Model\Product\Option\Type\DefaultType",module,Magento_Catalog
 "The file options format is not valid.",文件選項格式不是有效的。 ,module,Magento_Catalog
 px.,全部展開,module,Magento_Catalog
@@ -1252,10 +1252,10 @@ Role,職能,module,Magento_Catalog
 "Compare Products",比較產品,module,Magento_Catalog
 "Print This Page",打印此頁,module,Magento_Catalog
 "Remove Product",刪除產品,module,Magento_Catalog
-"Add to Cart",添加到購物車,module,Magento_Catalog
+"Add to Cart",加入購物車,module,Magento_Catalog
 "In stock",有貨,module,Magento_Catalog
 "Out of stock",缺貨,module,Magento_Catalog
-"Add to Wish List",添加到收藏夾,module,Magento_Catalog
+"Add to Wish List",加入喜愛清單,module,Magento_Catalog
 "You have no items to compare.",你有沒有要比較的項目。 ,module,Magento_Catalog
 "Remove This Item",刪除該內容,module,Magento_Catalog
 Compare,比較,module,Magento_Catalog
@@ -1267,7 +1267,7 @@ Next,下一個,module,Magento_Catalog
 "Add to Compare",添加並比較,module,Magento_Catalog
 "We found other products you might like!",我們發現你可能會喜歡其他產品!,module,Magento_Catalog
 "More Choices:",更多的選擇:,module,Magento_Catalog
-"Check items to add to the cart or",檢查物品添加到購物車或,module,Magento_Catalog
+"Check items to add to the cart or",檢查加入購物車的物品或,module,Magento_Catalog
 "select all",全選,module,Magento_Catalog
 "Items %1-%2 of %3","項目 %1-%2 共 %3",module,Magento_Catalog
 "%1 Item","%1 項目",module,Magento_Catalog
@@ -1606,7 +1606,7 @@ Summary,用戶中心,module,Magento_ConfigurableProduct
 "Option values are not specified.",不指定選項的值。 ,module,Magento_ConfigurableProduct
 "Value index is not specified for an option.",值索引未指定選項。 ,module,Magento_ConfigurableProduct
 "Product with id ""%1"" does not contain required attribute ""%2"".","與id""%1""產品不包含所需的屬性""%2""。",module ,Magento_ConfigurableProduct
-"You can't add the item to shopping cart.",無法將該項目添加到購物車。 ,module,Magento_ConfigurableProduct
+"You can't add the item to shopping cart.",無法將該項目加入購物車。 ,module,Magento_ConfigurableProduct
 "You need to choose options for your item.",你需要選擇你的項目的選擇。 ,module,Magento_ConfigurableProduct
 "Some product variations fields are not valid.",一些產品變化字段不是有效的。 ,module,Magento_ConfigurableProduct
 "Configuration must have specified attributes",配置必須具有指定的屬性,module,Magento_ConfigurableProduct
@@ -1799,7 +1799,7 @@ Never,永不,module,Magento_Customer
 "Deleted Stores",已刪除存儲區,module,Magento_Customer
 "Add Locale",收藏的天數,module,Magento_Customer
 "Add Date",添加日期,module,Magento_Customer
-"Days in Wish List",天在願望清單,module,Magento_Customer
+"Days in Wish List",天在喜愛清單,module,Magento_Customer
 No,否,module,Magento_Customer
 Yes,是,module,Magento_Customer
 "Delete File",刪除文件,module,Magento_Customer
@@ -2869,7 +2869,7 @@ Database,數據庫,module,Magento_MediaStorage
 "You will see the order total before you submit the order.",在您提交訂單前，您將看到訂單總額。 ,module,Magento_Msrp
 Price,價格,module,Magento_Msrp
 "Actual Price",實際價格,module,Magento_Msrp
-"Add to Cart",添加到購物車,module,Magento_Msrp
+"Add to Cart",加入購物車,module,Magento_Msrp
 "Change Billing Address",更改賬單地址,module,Magento_Multishipping
 "Ship to Multiple Addresses",選擇發貨方式,module,Magento_Multishipping
 "Billing Information - %1",計費信息-%1,module,Magento_Multishipping
@@ -3707,8 +3707,8 @@ Customers,客戶,module,Magento_Reports
 Carts,購物車,module,Magento_Reports
 Name,名字,module,Magento_Reports
 "Wish Lists",願望單,module,Magento_Reports
-"Wish List Purchase",願望清單購買,module,Magento_Reports
-"Wish List vs. Regular Order","願望清單 vs 常規順序",module,Magento_Reports
+"Wish List Purchase",喜愛清單購買,module,Magento_Reports
+"Wish List vs. Regular Order","喜愛清單 vs 常規順序",module,Magento_Reports
 "Times Deleted",刪除的次數,module,Magento_Reports
 "Index type is not valid",索引類型無效,module,Magento_Reports
 Reports,報告,module,Magento_Reports
@@ -3758,18 +3758,18 @@ Bestsellers,無法刷新全部統計,module,Magento_Reports
 Error,錯誤,module,Magento_Reports
 "Show By",通過顯示,module,Magento_Reports
 "Select Date",選擇日期,module,Magento_Reports
-"Number of Wish Lists: %1","願望清單的數量: %1",module,Magento_Reports
-"Number of items bought from a Wish List: %1","從一個願望清單購買的商品數量: %1",module,Magento_Reports
+"Number of Wish Lists: %1","喜愛清單的數量: %1",module,Magento_Reports
+"Number of items bought from a Wish List: %1","從一個喜愛清單購買的商品數量: %1",module,Magento_Reports
 "Number of times Wish Lists have been shared (emailed): %1","次數已共享的願望列表 (通過電子郵件發送): %1",module,Magento_Reports
-"Number of Wish List referrals: %1","願望清單轉介的數目: %1",module,Magento_Reports
-"Number of Wish List conversions: %1","願望清單轉換號碼: %1",module,Magento_Reports
+"Number of Wish List referrals: %1","喜愛清單轉介的數目: %1",module,Magento_Reports
+"Number of Wish List conversions: %1","喜愛清單轉換號碼: %1",module,Magento_Reports
 "Show Report For:",顯示的報表:,module,Magento_Reports
 "All Websites",所有網站,module,Magento_Reports
 "Recently Viewed",最近瀏覽過的,module,Magento_Reports
-"Add to Cart",添加到購物車,module,Magento_Reports
+"Add to Cart",加入購物車,module,Magento_Reports
 "In stock",有貨,module,Magento_Reports
 "Out of stock",缺貨,module,Magento_Reports
-"Add to Wish List",添加到收藏夾,module,Magento_Reports
+"Add to Wish List",加入喜愛清單,module,Magento_Reports
 "Add to Compare",添加並比較,module,Magento_Reports
 "Recently Compared",最近比較,module,Magento_Reports
 "Learn More",了解更多,module,Magento_Reports
@@ -4330,7 +4330,7 @@ Sales,銷售,module,Magento_Sales
 "You entered incorrect data. Please try again.",您輸入了不正確的數據。請再試一次。 ,module,Magento_Sales
 Home,首頁,module,Magento_Sales
 "Go to Home Page",前往主頁,module,Magento_Sales
-"We can't find this wish list.",我們找不到這個願望清單。 ,module,Magento_Sales
+"We can't find this wish list.",我們找不到這個喜愛清單。 ,module,Magento_Sales
 "We could not add a product to cart by the ID ""%1"".","我們不能添加產品到購物車按 ID""%1""。",module,Magento_Sales
 "There is an error in one of the option rows.",還有一個選項行中的錯誤。 ,module,Magento_Sales
 "Please specify order items.",請指定訂單項。 ,module,Magento_Sales
@@ -4644,7 +4644,7 @@ Close,關閉,module,Magento_Sales
 "Recent Orders",最近的訂單,module,Magento_Sales
 "View All",查看全部,module,Magento_Sales
 "Gift Message for This Order",此訂單的禮物留言,module,Magento_Sales
-"Add to Cart",添加到購物車,module,Magento_Sales
+"Add to Cart",加入購物車,module,Magento_Sales
 Search,搜索,module,Magento_Sales
 "Search Term",搜索詞,module,Magento_Search
 Results,結果,module,Magento_Search
@@ -5695,25 +5695,25 @@ Page,頁面,module,Magento_Widget
 "Page not found.",找不到網頁。 ,module,Magento_Wishlist
 "We can't specify a product.",我們不能指定產品。 ,module,Magento_Wishlist
 "We can't add the item to Wish List right now: %1.","我們現在無法願望列表中添加項目: %1。",module,Magento_Wishlist
-"We can't add the item to Wish List right now.",我們現在無法將該項目添加到願望清單。 ,module,Magento_Wishlist
+"We can't add the item to Wish List right now.",我們現在無法將該項目添加到喜愛清單。 ,module,Magento_Wishlist
 "You added %1 to your shopping cart.","您已添加 %1 到您的購物車",module,Magento_Wishlist
 "This product(s) is out of stock.",本產品已無存貨。 ,module,Magento_Wishlist
-"We can't add the item to the cart right now.",我們現在無法將該項目添加到購物車。 ,module,Magento_Wishlist
+"We can't add the item to the cart right now.",我們現在無法將該項目加入購物車。 ,module,Magento_Wishlist
 "We can't load the Wish List item right now.",我們現在無法加載的願望列表項。 ,module,Magento_Wishlist
 "We can't configure the product right now.",我們現在不能配置該產品。 ,module,Magento_Wishlist
 "The requested cart item doesn't exist.",不存在請求的車項目。 ,module,Magento_Wishlist
-"%1 has been moved to your wish list.","%1 已進入你的願望清單。",module,Magento_Wishlist
-"We can't move the item to the wish list.",我們不能將項目移至願望清單。 ,module,Magento_Wishlist
-"We can't delete the item from Wish List right now because of an error: %1.","我們不能刪除該項目從願望清單現在由於出錯: %1。",module,Magento_Wishlist
+"%1 has been moved to your wish list.","%1 已進入你的喜愛清單。",module,Magento_Wishlist
+"We can't move the item to the wish list.",我們不能將項目移至喜愛清單。 ,module,Magento_Wishlist
+"We can't delete the item from Wish List right now because of an error: %1.","我們不能刪除該項目從喜愛清單現在由於出錯: %1。",module,Magento_Wishlist
 "We can't delete the item from the Wish List right now.",我們現在不能從願望列表中刪除該項目。 ,module,Magento_Wishlist
 "Message length must not exceed %1 symbols","消息長度不能超過 %1 符號",module,Magento_Wishlist
 "Please enter an email address.",請輸入電子郵件地址。 ,module,Magento_Wishlist
-"This wish list can be shared %1 more times.","這願望清單可以共享的 %1 更多倍。",module,Magento_Wishlist
+"This wish list can be shared %1 more times.","這喜愛清單可以共享的 %1 更多倍。",module,Magento_Wishlist
 "Please enter a valid email address.",請輸入有效的電子郵件地址。 ,module,Magento_Wishlist
 "Your wish list has been shared.",已共享您的期望列表。 ,module,Magento_Wishlist
 "We can't delete item from Wish List right now.",我們現在不能從願望列表中刪除項目。 ,module,Magento_Wishlist
 "Can't save description %1","無法保存描述 %1",module,Magento_Wishlist
-"Can't update wish list",不能更新的願望清單,module,Magento_Wishlist
+"Can't update wish list",不能更新的喜愛清單,module,Magento_Wishlist
 "%1 has been updated in your Wish List.","%1 已更新您的願望列表中。",module,Magento_Wishlist
 "We can't update your Wish List right now.",我們現在無法更新您的期望列表。 ,module,Magento_Wishlist
 "The requested Wish List doesn't exist.",請求的願望列表不存在。 ,module,Magento_Wishlist
@@ -5721,22 +5721,22 @@ Page,頁面,module,Magento_Widget
 "%1 items","%1 項目",module,Magento_Wishlist
 "1 item","1 項目",module,Magento_Wishlist
 Comment,內容,module,Magento_Wishlist
-"Display number of items in wish list",在願望清單中顯示項目的數,module,Magento_Wishlist
+"Display number of items in wish list",在喜愛清單中顯示項目的數,module,Magento_Wishlist
 "Display item quantities",顯示物料數量,module,Magento_Wishlist
 "An item option with code %1 already exists.",具有代碼%1的產品選項已存在,module,Magento_Wishlist
-"We can't specify a wish list.",我們不能指定一個願望清單。 ,module,Magento_Wishlist
+"We can't specify a wish list.",我們不能指定一個喜愛清單。 ,module,Magento_Wishlist
 "Cannot specify product.",不能指定產品。 ,module,Magento_Wishlist
 "Product is not salable.",產品不是暢銷的。 ,module,Magento_Wishlist
 "Invalid item option format.",無效的項目選項的格式。 ,module,Magento_Wishlist
 "%1 for ""%2"".","%1 為""%2""的。",module,Magento_Wishlist
 "We can't add this item to your shopping cart right now.",我們這個項目不能添加到您的購物車現在。 ,module,Magento_Wishlist
-"We couldn't add the following product(s) to the shopping cart: %1.","我們不能將下面的產品添加到購物車: %1。",module,Magento_Wishlist
-"We can't update the Wish List right now.",我們現在不能更新願望清單。 ,module,Magento_Wishlist
+"We couldn't add the following product(s) to the shopping cart: %1.","我們不能將下面的產品加入購物車: %1。",module,Magento_Wishlist
+"We can't update the Wish List right now.",我們現在不能更新喜愛清單。 ,module,Magento_Wishlist
 "%1 product(s) have been added to shopping cart: %2.","%1 的收藏夾",module,Magento_Wishlist
 Comment:,評論:,module,Magento_Wishlist
 "We cannot retrieve the Wish List.",我們無法檢索的願望列表。 ,module,Magento_Wishlist
 "%1's Wishlist","%1 的收藏",module,Magento_Wishlist
-"We can't specify a wish list item.",我們不能指定一個願望清單項目。 ,module,Magento_Wishlist
+"We can't specify a wish list item.",我們不能指定一個喜愛清單項目。 ,module,Magento_Wishlist
 "The product does not exist.",產品不存在。 ,module,Magento_Wishlist
 "Test Phrase",測試短語,module,Magento_Wishlist
 message,信息,module,Magento_Wishlist
@@ -5745,14 +5745,14 @@ error-message,錯誤消息,module,Magento_Wishlist
 "Product Exception.",產品的異常。 ,module,Magento_Wishlist
 "Localized Exception.",本地化例外。 ,module,Magento_Wishlist
 "Are you sure you want to remove this item?",你確定要刪除這個項目嗎？ ,module,Magento_Wishlist
-"Share Wish List",分享的願望清單,module,Magento_Wishlist
-"Add All to Cart",全部添加到購物車,module,Magento_Wishlist
-"Update Wish List",更新的願望清單,module,Magento_Wishlist
+"Share Wish List",分享喜愛清單,module,Magento_Wishlist
+"Add All to Cart",全部加入購物車,module,Magento_Wishlist
+"Update Wish List",更新喜愛清單,module,Magento_Wishlist
 "Move to Wishlist",移動到收藏,module,Magento_Wishlist
-"Add to Wish List",添加到收藏夾,module,Magento_Wishlist
+"Add to Wish List",加入喜愛清單,module,Magento_Wishlist
 "View Product",查看產品,module,Magento_Wishlist
 Qty,數量,module,Magento_Wishlist
-"Add to Cart",添加到購物車,module,Magento_Wishlist
+"Add to Cart",加入購物車,module,Magento_Wishlist
 Availability,庫存,module,Magento_Wishlist
 "In stock",有貨,module,Magento_Wishlist
 "Out of stock",缺貨,module,Magento_Wishlist
@@ -5760,7 +5760,7 @@ Edit,編輯,module,Magento_Wishlist
 "Remove Item",刪除項目,module,Magento_Wishlist
 "Remove item",刪除項目,module,Magento_Wishlist
 "Add to Compare",添加並比較,module,Magento_Wishlist
-"This Wish List has no Items",這願望清單已沒有項目,module,Magento_Wishlist
+"This Wish List has no Items",這喜愛清單已沒有項目,module,Magento_Wishlist
 "See Details",查看具體信息,module,Magento_Wishlist
 "Options Details",選項詳細信息,module,Magento_Wishlist
 "RSS link to %1's wishlist","RSS 鏈接到 %1 的收藏",module,Magento_Wishlist
@@ -5771,7 +5771,7 @@ Back,後退,module,Magento_Wishlist
 "* Required Fields",*必需填寫,module,Magento_Wishlist
 "Sharing Information",該產品缺貨,module,Magento_Wishlist
 "Email addresses, separated by commas",以逗號分隔的電子郵件地址,module,Magento_Wishlist
-"Check here to link an RSS feed to your Wish List.","在這裡請檢查鏈接的 RSS 飼料你願望清單。",module,Magento_Wishlist
+"Check here to link an RSS feed to your Wish List.","在這裡請檢查鏈接的 RSS 飼料你喜愛清單。",module,Magento_Wishlist
 "Last Added Items",最後添加的項,module,Magento_Wishlist
 "Remove This Item",刪除該內容,module,Magento_Wishlist
 "Go to Wish List",去希望列表,module,Magento_Wishlist
@@ -5953,7 +5953,7 @@ Filters,篩選,module,Magento_Ui
 "If you requested this change, reset your password here:",如果您要求此更改，重置您的密碼在這裡:,module,Magento_User
 "If you did not make this request, you can ignore this email and your password will remain the same.",如果你並沒有提出這一請求，您可以忽略這封電子郵件，您的密碼將保持不變。 ,module,Magento_User
 "Thank you,",謝謝,module,Magento_User
-"%customer_name wants to share this Wish List from %store_name with you:","%customer_name 想要與你分享從 %store_name 這個願望清單:",module,Magento_Wishlist
+"%customer_name wants to share this Wish List from %store_name with you:","%customer_name 想要與你分享從 %store_name 這個喜愛清單:",module,Magento_Wishlist
 "Message from %customer_name:","來自 %customer_name 的消息:",module,Magento_Wishlist
 "View all Wish List items",查看所有願望列表項,module,Magento_Wishlist
 "%name,",%名稱，,theme,frontend/Magento/luma
@@ -6592,7 +6592,7 @@ Details,詳情,module,Magento_Catalog
 "Enable Onepage Checkout",使用同一頁面結帳,module,Magento_Checkout
 "Allow Guest Checkout",允許遊客結帳,module,Magento_Checkout
 "Quote Lifetime (days)","引述有效期 (天)",module,Magento_Checkout
-"After Adding a Product Redirect to Shopping Cart",將產品重定向添加到購物車後,module,Magento_Checkout
+"After Adding a Product Redirect to Shopping Cart",將產品加入購物車後將重定向到購物車頁面,module,Magento_Checkout
 "My Cart Link",我購物車鏈接,module,Magento_Checkout
 "Display Cart Summary",顯示購物車摘要,module,Magento_Checkout
 "Shopping Cart Sidebar",購物車側邊欄,module,Magento_Checkout
@@ -7696,7 +7696,7 @@ Enabled,啟動,module,Magento_Wishlist
 Quantity,數量,module,Magento_Wishlist
 "Add Locale",收藏的天數,module,Magento_Wishlist
 "Add Date",添加日期,module,Magento_Wishlist
-"Days in Wish List",天在願望清單,module,Magento_Wishlist
+"Days in Wish List",天在喜愛清單,module,Magento_Wishlist
 Action,操作,module,Magento_Wishlist
 Configure,配置,module,Magento_Wishlist
 Delete,刪除,module,Magento_Wishlist
