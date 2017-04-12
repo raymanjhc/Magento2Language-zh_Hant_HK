@@ -946,8 +946,8 @@ Products,產品展示,module,Magento_Catalog
 "You cleared the comparison list.",你清除了比較列表。 ,module,Magento_Catalog
 "Something went wrong clearing the comparison list.",什麼地方出毛病結算比較列表。 ,module,Magento_Catalog
 "You removed product %1 from the comparison list.","您從比較列表中刪除產品 %1。",module,Magento_Catalog
-"1 item","1 項目",module,Magento_Catalog
-"%1 items","%1 項目",module,Magento_Catalog
+"1 item","1 件產品",module,Magento_Catalog
+"%1 items","%1 件產品",module,Magento_Catalog
 "Invalid attribute %1","無效屬性 %1",module,Magento_Catalog
 Grid,%1及以上,module,Magento_Catalog
 List,列表,module,Magento_Catalog
@@ -1269,9 +1269,9 @@ Next,下一個,module,Magento_Catalog
 "More Choices:",更多的選擇:,module,Magento_Catalog
 "Check items to add to the cart or",檢查加入購物車的物品或,module,Magento_Catalog
 "select all",全選,module,Magento_Catalog
-"Items %1-%2 of %3","項目 %1-%2 共 %3",module,Magento_Catalog
-"%1 Item","%1 項目",module,Magento_Catalog
-"%1 Items","%1 項目",module,Magento_Catalog
+"Items %1-%2 of %3","產品 %1-%2 共 %3",module,Magento_Catalog
+"%1 Item","%1 件產品",module,Magento_Catalog
+"%1 Items","%1 件產品",module,Magento_Catalog
 Show,顯示,module,Magento_Catalog
 "per page",每頁,module,Magento_Catalog
 "Sort By",按排序,module,Magento_Catalog
@@ -1324,8 +1324,8 @@ City,城市,module,Magento_Checkout
 Country,國家,module,Magento_Checkout
 State/Province,地區,module,Magento_Checkout
 "Zip/Postal Code",郵編,module,Magento_Checkout
-"My Cart (1 item)","我的購物車 (1 項)",module,Magento_Checkout
-"My Cart (%1 items)","我的購物車 (%1 項目)",module,Magento_Checkout
+"My Cart (1 item)","我的購物車 (1 件產品)",module,Magento_Checkout
+"My Cart (%1 items)","我的購物車 (%1 件產品)",module,Magento_Checkout
 "My Cart",我的購物車,module,Magento_Checkout
 "For delivery questions.",為交貨問題。 ,module,Magento_Checkout
 "Customer is already registered",客戶已註冊,module,Magento_Checkout
@@ -5718,8 +5718,8 @@ Page,頁面,module,Magento_Widget
 "We can't update your Wish List right now.",我們現在無法更新您的期望列表。 ,module,Magento_Wishlist
 "The requested Wish List doesn't exist.",請求的願望列表不存在。 ,module,Magento_Wishlist
 "We can't create the Wish List right now.",我們不能創造收藏清單現在。 ,module,Magento_Wishlist
-"%1 items","%1 項目",module,Magento_Wishlist
-"1 item","1 項目",module,Magento_Wishlist
+"%1 items","%1 件產品",module,Magento_Wishlist
+"1 item","1 件產品",module,Magento_Wishlist
 Comment,內容,module,Magento_Wishlist
 "Display number of items in wish list",在喜愛清單中顯示項目的數,module,Magento_Wishlist
 "Display item quantities",顯示物料數量,module,Magento_Wishlist
