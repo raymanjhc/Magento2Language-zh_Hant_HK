@@ -723,7 +723,7 @@ Save,儲存,module,Magento_Catalog
 "Use All Available Attributes",使用所有可用的屬性,module,Magento_Catalog
 Name,名字,module,Magento_Catalog
 Price,價格,module,Magento_Catalog
-Position,位置,module,Magento_Catalog
+Position,排序,module,Magento_Catalog
 "Add Subcategory",添加子類別,module,Magento_Catalog
 "Add Root Category",添加根類別,module,Magento_Catalog
 Day,天,module,Magento_Catalog
@@ -1007,7 +1007,7 @@ Center,居中,module,Magento_Catalog
 "Please correct the category.",請更正該類別。 ,module,Magento_Catalog
 "Must be category model instance or its id.","必須是類別模型實例或其 id。",module,Magento_Catalog
 "The attribute model is not defined.",未定義的屬性模型。 ,module,Magento_Catalog
-Category,類別,module,Magento_Catalog
+Category,產品類別,module,Magento_Catalog
 "%1 - %2",%1-%2,module,Magento_Catalog
 "%1 was not found in algorithms","算法中找不到 %1",module,Magento_Catalog
 "%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 不延長 \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface",module,Magento_Catalog
@@ -2825,6 +2825,7 @@ Remove,刪除,module,Magento_LayeredNavigation
 "Filter By","分類篩選",module,Magento_LayeredNavigation
 "Clear All",全部清除,module,Magento_LayeredNavigation
 "Shopping Options",購物的選項,module,Magento_LayeredNavigation
+"Menu - ","目錄 - ",module,Magento_LayeredNavigation
 Partners,合作夥伴,module,Magento_Marketplace
 "Magento Marketplace","Magento 市場",module,Magento_Marketplace
 "Platinum Partners",白金合作夥伴,module,Magento_Marketplace
