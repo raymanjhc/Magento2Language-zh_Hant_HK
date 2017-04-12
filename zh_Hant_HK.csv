@@ -1783,7 +1783,7 @@ Order,訂單,module,Magento_Customer
 Purchased,已購買,module,Magento_Customer
 "Bill-to Name",收件人姓名,module,Magento_Customer
 "Ship-to Name",Ship-to名稱,module,Magento_Customer
-"Order Total",合共,module,Magento_Customer
+"Order Total",付款金額,module,Magento_Customer
 "Purchase Point",購買點,module,Magento_Customer
 "Customer View",客戶視圖,module,Magento_Customer
 "There are no items in customer's shopping cart.",客戶的購物車中沒有項目。 ,module,Magento_Customer
@@ -2037,7 +2037,7 @@ Address,地址,module,Magento_Customer
 "VAT Number",增值稅號碼,module,Magento_Customer
 City,城市,module,Magento_Customer
 State/Province,地區,module,Magento_Customer
-"Please select a region, state or province.",請選擇一個地區。,module,Magento_Customer
+"Please select a region, state or province.",請選擇一個地區,module,Magento_Customer
 "Zip/Postal Code",郵編,module,Magento_Customer
 Country,國家,module,Magento_Customer
 "It's a default billing address.",它是默認的賬單地址。 ,module,Magento_Customer
@@ -2081,7 +2081,7 @@ Password,密碼,module,Magento_Customer
 "Strong","強",module,Magento_Customer
 "Very Strong","非常強",module,Magento_Customer
 "Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","密碼必須至少有 %1 個字元。",module,Magento_Customer
-"This is a required field.","必須填寫",module,Magento_Customer
+"This is a required field.","*必須填寫。",module,Magento_Customer
 "Cannot switch into given mode ""%1""",不能切換到給定的模式“%1”,module,Magento_Deploy
 "Format for IDE '%1' is not supported","不支持格式為 IDE '%1'",module,Magento_Developer
 "Client side less compilation",放空則允許從任何位置訪問。 ,module,Magento_Developer
@@ -2152,7 +2152,7 @@ WARNING:,警告：,module,Magento_Directory
 "Please correct the country code: %1.","請正確的國家/地區代碼: %1。",module,Magento_Directory
 "Country and Format Type combination should be unique",應該是唯一的國家和格式類型組合,module,Magento_Directory
 "Please correct the rates received",請更正收取的差餉,module,Magento_Directory
-"Please select a region, state or province.",請選擇一個地區。,module,Magento_Directory
+"Please select a region, state or province.",請選擇一個地區,module,Magento_Directory
 Currency,貨幣,module,Magento_Directory
 "Your current currency is: %1.","您當前的貨幣是: %1。",module,Magento_Directory
 Continue,繼續,module,Magento_Directory
@@ -2899,7 +2899,7 @@ Total,總額,module,Magento_Multishipping
 "Select Addresses",選擇地址,module,Magento_Multishipping
 "Shipping Information",運輸方式,module,Magento_Multishipping
 "Billing Information",訂單總覽,module,Magento_Multishipping
-"Place Order","下單並確認付款",module,Magento_Multishipping
+"Place Order","確認付款",module,Magento_Multishipping
 "Order Success",訂單成功,module,Magento_Multishipping
 "Default Billing",默認賬單,module,Magento_Multishipping
 "Default Shipping",默認發貨,module,Magento_Multishipping
@@ -3151,7 +3151,7 @@ Order,訂單,module,Magento_Paypal
 Purchased,已購買,module,Magento_Paypal
 "Bill-to Name",收件人姓名,module,Magento_Paypal
 "Ship-to Name",Ship-to名稱,module,Magento_Paypal
-"Order Total",合共,module,Magento_Paypal
+"Order Total",付款金額,module,Magento_Paypal
 "Purchase Point",購買點,module,Magento_Paypal
 "Billing Agreement View",計費協議視圖,module,Magento_Paypal
 "View Transaction Details",查看交易記錄詳細信息,module,Magento_Paypal
@@ -3504,7 +3504,7 @@ Edit,編輯,module,Magento_Paypal
 "Edit Payment Information",編輯付款信息,module,Magento_Paypal
 "Items in Your Shopping Cart",您的購物車中的商品,module,Magento_Paypal
 "Edit Shopping Cart",編輯購物車,module,Magento_Paypal
-"Place Order","下單並確認付款",module,Magento_Paypal
+"Place Order","確認付款",module,Magento_Paypal
 "Submitting order information...",提交訂單信息。 。 。 ,module,Magento_Paypal
 Item,產品,module,Magento_Paypal
 Price,價格,module,Magento_Paypal
@@ -4502,7 +4502,7 @@ Apply,應用,module,Magento_Sales
 Remove,刪除,module,Magento_Sales
 "Address Information",地址信息,module,Magento_Sales
 "Payment &amp; Shipping Information",付款和發貨信息,module,Magento_Sales
-"Order Total",合共,module,Magento_Sales
+"Order Total",付款金額,module,Magento_Sales
 "Order Currency:",訂單幣種:,module,Magento_Sales
 "Same As Billing Address",與賬單地址相同,module,Magento_Sales
 "Select from existing customer addresses:",從現有的客戶地址中選擇:,module,Magento_Sales
@@ -4883,7 +4883,7 @@ Action,操作,module,Magento_Shipping
 "Shipping and Tracking Information",運輸和跟踪信息,module,Magento_Shipping
 "Track this shipment",跟踪這批貨,module,Magento_Shipping
 "Items Shipped",物品裝運,module,Magento_Shipping
-"Order Total",合共,module,Magento_Shipping
+"Order Total",付款金額,module,Magento_Shipping
 "Shipment History",裝運的歷史,module,Magento_Shipping
 "Qty Shipped",已發貨數量,module,Magento_Shipping
 "Print All Shipments",打印所有出貨,module,Magento_Shipping
@@ -5785,11 +5785,11 @@ Remove,刪除,theme,frontend/Magento/luma
 "Filter By","分類篩選",theme,frontend/Magento/luma
 "Clear All",清除全部,theme,frontend/Magento/luma
 "Shopping Options",配送方式選擇,theme,frontend/Magento/luma
-"Place Order","下單並確認付款",module,Magento_Authorizenet
+"Place Order","確認付款",module,Magento_Authorizenet
 "Credit Card Information",信用卡信息,module,Magento_Braintree
 "What is this?",這是什麼？ ,module,Magento_Braintree
 "Save for later use.",保存供以後使用。 ,module,Magento_Braintree
-"Place Order","下單並確認付款",,module,Magento_Braintree
+"Place Order","確認付款",,module,Magento_Braintree
 "Attention: Captcha is case sensitive.","注意: 驗證碼是區分大小寫。",module,Magento_Captcha
 "Payment Transaction Failed Reminder",付款交易記錄失敗提醒,module,Magento_Checkout
 "Payment Transaction Failed",付款交易記錄失敗,module,Magento_Checkout
@@ -5825,12 +5825,12 @@ items,件,module,Magento_Checkout
 "See Details",查看詳細信息,module,Magento_Checkout
 "Options Details",選項詳細信息,module,Magento_Checkout
 Remove,刪除,module,Magento_Checkout
-"Cart Subtotal",購物車總額,module,Magento_Checkout
+"Cart Subtotal",合共,module,Magento_Checkout
 "Payment Information",支付信息,module,Magento_Checkout
 "No Payment method available.",沒有可用的付款方法。 ,module,Magento_Checkout
 "You can track your order status by creating an account.",通過創建一個帳戶跟踪您的訂單狀態。 ,module,Magento_Checkout
-"Place Order","下單並確認付款",module,Magento_Checkout
-"Forgot an item?","忘了增加貨物嗎?",module,Magento_Checkout
+"Place Order","確認付款",module,Magento_Checkout
+"Forgot an item?","還要添加貨品嗎？",module,Magento_Checkout
 "Purchase over $2000.0 for free shipping.(Downtown Only)","購物滿$2000將可享有免費送貨(偏遠地區除外)!",module,Magento_Checkout
 "Please specify the shipping address to see available options.","請選填寫地址，然後選擇運送方法。",module,Magento_Checkout
 "Some products are only suitable for delivery services (including: trolleys, trolley kits, school chair, dining chair, car safety seats, bed, play mats, etc.), please pay attention to the product page.","部份貨品只適用於送貨服務（包括：手推車、手推車套裝、學行椅、餐椅、汽車安全座椅、睡床、遊玩地墊等），敬請留意產品頁面。",module,Magento_Checkout
@@ -5851,14 +5851,14 @@ Remove,刪除,module,Magento_Checkout
 "Ship To:",送貨到:,module,Magento_Checkout
 edit,編輯,module,Magento_Checkout
 "Shipping Address",送貨地址,module,Magento_Checkout
-"New Address",從您的地址簿選擇發貨地址，或輸入新地址。 ,module,Magento_Checkout
+"New Address",在「送貨地址」中選擇，或輸入新地址。,module,Magento_Checkout
 "Shipping Methods",運送方法,module,Magento_Checkout
 "Select Method",選擇方法,module,Magento_Checkout
 "Method Title",方法標題,module,Magento_Checkout
 "Carrier Title",承運人名字,module,Magento_Checkout
 Next,下一個,module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time",抱歉，這個訂單目前沒有報價,module,Magento_Checkout
-"Order Summary",賬單總結,module,Magento_Checkout
+"Order Summary",訂單,module,Magento_Checkout
 "Item in Cart",購物裡的商品,module,Magento_Checkout
 "Items in Cart",購物裡的商品,module,Magento_Checkout
 "View Details",查看詳情,module,Magento_Checkout
@@ -5909,9 +5909,9 @@ Delete,刪除,module,Magento_GiftMessage
 "To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:",要開始接收時事通訊，必須首先通過點擊下面的鏈接確認您的訂閱:,module,Magento_Newsletter
 "You have been successfully subscribed to our newsletter.",您已成功訂閱我們的時事通訊。 ,module,Magento_Newsletter
 "You have been unsubscribed from the newsletter.",你已經取消訂閱新聞通訊。 ,module,Magento_Newsletter
-"Place Order","下單並確認付款",module,Magento_OfflinePayments
-"Place Order","下單並確認付款",module,Magento_Payment
-"Forgot an item?","忘了增加貨物嗎?",module,Magento_Payment
+"Place Order","確認付款",module,Magento_OfflinePayments
+"Place Order","確認付款",module,Magento_Payment
+"Forgot an item?","還要添加貨品嗎？",module,Magento_Payment
 "Edit Your Cart",編輯您的購物車,module,Magento_Payment
 "Sign a billing agreement to streamline further purchases with PayPal.",簽署一項協議，簡化使用Paypal支付的流程。 ,module,Magento_Paypal
 "Continue to PayPal",使用Paypal繼續,module,Magento_Paypal
@@ -6017,7 +6017,7 @@ Added,已添加,module,Magento_Catalog
 "Provided Zip/Postal Code seems to be invalid.",提供的郵政編碼似乎無效。 ,module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.",如果你覺的是正確的，可以忽略此通知。 ,module,Magento_Checkout
 "Review & Payments",審查及付款,module,Magento_Checkout
-Shipping,送貨,module,Magento_Checkout
+Shipping,運費,module,Magento_Checkout
 "Save Address",儲存地址,module,Magento_Checkout
 "We could not detect a size.",我們未能檢測到的大小。 ,module,Magento_Cms
 "Incl. Tax",含。稅,module,Magento_ConfigurableProduct
@@ -6107,7 +6107,7 @@ OK,確定,module,Magento_Checkout
 "Please enter a valid zip code.",請輸入一個有效的郵政編碼。 ,module,Magento_Ui
 "Please select State/Province.",請選擇地區。 ,module,Magento_Ui
 "Please enter issue number or start date for switch/solo card type.",請輸入問題編號或開關/獨奏卡類型的開始日期。 ,module,Magento_Ui
-"This is a required field.",這是必填的字段。 ,module,Magento_Ui
+"This is a required field.","*必須填寫。",module,Magento_Ui
 "Please enter positive number in this field.",請在此字段中輸入正數。 ,module,Magento_Ui
 "Please enter a valid value, ex: 10,20,30","請輸入一個有效的值，: 10,20,30",module,Magento_Ui
 Attention,注意,module,Magento_Ui
@@ -6608,7 +6608,7 @@ Details,詳情,module,Magento_Catalog
 "Separate by "","".","單獨的""，""。",module,Magento_Checkout
 "Send Payment Failed Email Copy Method",發送支付失敗郵件副本的方法,module,Magento_Checkout
 Summary,摘要,module,Magento_Checkout
-"Order Total",合共,module,Magento_Checkout
+"Order Total",付款金額,module,Magento_Checkout
 "We'll send your order confirmation here.",在這裡，我們會給您的訂單確認。 ,module,Magento_Checkout
 Payment,付款,module,Magento_Checkout
 "Not yet calculated",尚未計算,module,Magento_Checkout
@@ -7531,7 +7531,7 @@ CSV,"Excel XML",module,Magento_TaxImportExport
 State/Region,國家/地區,module,Magento_Tax
 Rate,費率,module,Magento_Tax
 "Subtotal Only",只有小計,module,Magento_Tax
-"Order Total",合共,module,Magento_Tax
+"Order Total",付款金額,module,Magento_Tax
 "Your credit card will be charged for",您的信用卡將被收費,module,Magento_Tax
 Empty,"產品 %1",module,Magento_Theme
 "1 column","1 列",module,Magento_Theme
@@ -7739,17 +7739,17 @@ Delete,刪除,module,Magento_Wishlist
 "Cannot apply %1.","無法使用 %1.",module,Mirasvit_Rewards
 "Points Summary","累計積分獎賞",module,Mirasvit_Rewards
 "You have <b>%1</b> in your account.","共有 <b>%1</b> 。",module,Mirasvit_Rewards
-"You have","你帳戶共有",module,Mirasvit_Rewards
+"You have","您共有",module,Mirasvit_Rewards
 "Reward Points","積分獎賞",module,Mirasvit_Rewards
-"You have <b>%1</b> available.","共有 <b>%1</b> 可用.",module,Mirasvit_Rewards
-"Enter amount of points to spend:","請輸入要用的點數:",module,Mirasvit_Rewards
-"Enter amount of points to spend","請輸入要用的點數",module,Mirasvit_Rewards
-"Use maximum %1","全部 %1 點數",module,Mirasvit_Rewards
-"Use maximum","全部點數",module,Mirasvit_Rewards
-"available.","可用.",module,Mirasvit_Rewards
-"Apply Points","使用點數",module,Mirasvit_Rewards
+"You have <b>%1</b> available.","共有 <b>%1</b> 可用。",module,Mirasvit_Rewards
+"Enter amount of points to spend:","請輸入要用的積分:",module,Mirasvit_Rewards
+"Enter amount of points to spend","請輸入要用的積分",module,Mirasvit_Rewards
+"Use maximum %1","使用全部積分：%1分",module,Mirasvit_Rewards
+"Use maximum","使用全部積分",module,Mirasvit_Rewards
+"available.","可用。",module,Mirasvit_Rewards
+"Apply Points","使用積分",module,Mirasvit_Rewards
 "Apply","使用",module,Mirasvit_Rewards
-"Cancel Points","取消使用點數",module,Mirasvit_Rewards
+"Cancel Points","取消積分使用",module,Mirasvit_Rewards
 "Cancel","取消",module,Mirasvit_Rewards
 "You Earn","賺取",module,Mirasvit_Rewards
 "You Spend","使用",module,Mirasvit_Rewards
