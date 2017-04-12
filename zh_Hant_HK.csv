@@ -3471,9 +3471,9 @@ Customer,客戶,module,Magento_Paypal
 "Updated At",更新,module,Magento_Paypal
 here,在這裡,module,Magento_Paypal
 "To use PayPal Payments Advanced, you must configure your PayPal Payments Advanced account on the PayPal website.",若要使用貝寶付款先進，必須在貝寶網站上配置您的貝寶付款高級帳戶。 ,module,Magento_Paypal
-"Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","一旦你登錄到您的PayPal 高級帳戶、 導航到服務設置-主辦結帳頁面-設置菜單和設置選項如下所述",module,Magento_Paypal
+"Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","一旦你登錄到您的PayPal 高級帳戶、 導航到服務設置-主辦結帳頁面-設置目錄和設置選項如下所述",module,Magento_Paypal
 "To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","若要使用 PayPal 轉賬鏈接，您必須在貝寶網站上配置您的 PayPal 轉賬鏈接帳戶。",module,Magento_Paypal
-"Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","一旦你登錄到您的PayPal 轉賬鏈接帳戶、 導航到服務設置-主辦結帳頁面-設置菜單和設置選項如下所述",module,Magento_Paypal
+"Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","一旦你登錄到您的PayPal 轉賬鏈接帳戶、 導航到服務設置-主辦結帳頁面-設置目錄和設置選項如下所述",module,Magento_Paypal
 "Agreement Information",協議信息,module,Magento_Paypal
 "Reference ID:","引用 ID:",module,Magento_Paypal
 Status:,狀態:,module,Magento_Paypal
@@ -6303,9 +6303,9 @@ Pagination,分頁,module,Magento_Backend
 "Pagination Frame Skip",分頁跳幀,module,Magento_Backend
 "If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.",如果當前幀的位置並不包括至上頁，它將呈現鏈接到當前位置加減此值。 ,module,Magento_Backend
 "Anchor Text for Previous",前一步的錨文本,module,Magento_Backend
-"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.",分頁菜單的上一個頁面鏈接替代顯示文字。如果為空，將使用默認箭頭圖像。 ,module,Magento_Backend
+"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.",分頁目錄的上一個頁面鏈接替代顯示文字。如果為空，將使用默認箭頭圖像。 ,module,Magento_Backend
 "Anchor Text for Next",下一步的錨文本,module,Magento_Backend
-"Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.",分頁菜單的上一個頁面鏈接的替代顯示文字。如果為空，將使用默認箭頭圖像。 ,module,Magento_Backend
+"Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.",分頁目錄的上一個頁面鏈接的替代顯示文字。如果為空，將使用默認箭頭圖像。 ,module,Magento_Backend
 "Theme Name",主題名稱,module,Magento_Backend
 Rollback,回滾,module,Magento_Backup
 "Scheduled Backup Settings",計劃的備份設置,module,Magento_Backup
@@ -6540,7 +6540,7 @@ Template,模板,module,Magento_Catalog
 Set,設置名稱,module,Magento_Catalog
 "Category Information",類別信息,module,Magento_Catalog
 "Enable Category",啟用類別,module,Magento_Catalog
-"Include in Menu",在菜單中包含,module,Magento_Catalog
+"Include in Menu",在目錄中包含,module,Magento_Catalog
 Content,內容,module,Magento_Catalog
 "Category Image",類別圖像,module,Magento_Catalog
 "Add CMS Block","添加 CMS 塊",module,Magento_Catalog
@@ -7947,6 +7947,6 @@ Appearance,Appearance,module,Mirasvit_SearchAutocomplete
 "Search Spell-Correction","Search Spell-Correction",module,Mirasvit_Misspell
 "Rebuild search spell-correction words index","Rebuild search spell-correction words index",module,Mirasvit_Misspell
 "Please select other tab to see more results","請選擇其他類型以瀏覧其他結果。",module,Mirasvit_Misspell
-"All Brands","全部品牌",module,Ves_Brand
+"All Brands","熱賣品牌",module,Ves_Brand
 "Read more","更多",module,Trive_Revo
 "Login successfully. Please wait...","登入成功，請稍後…",module,Mageplaza_Osc
