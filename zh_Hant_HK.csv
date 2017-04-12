@@ -589,8 +589,8 @@ Always,總是,module,Magento_Captcha
 "Invalid stock item id: %1. Should be null or numeric value greater than 0","無效的庫存項目 id: %1。應為 null 或數值型值大於 0",module,Magento_CatalogInventory
 "Invalid stock item id: %1. Assigned stock item id is %2","無效的庫存項目 id: %1。分配的庫存項 id 是 %2",module,Magento_CatalogInventory
 "The stock item for Product is not valid.",產品的庫存記錄不是有效的。 ,module,Magento_CatalogInventory
-"This product is out of stock.",本產品是缺貨。 ,module,Magento_CatalogInventory
-"Some of the products are out of stock.",部分產品已脫銷。 ,module,Magento_CatalogInventory
+"This product is out of stock.",此產品暫時缺貨。,module,Magento_CatalogInventory
+"Some of the products are out of stock.",購物車中部分產品暫時缺貨。,module,Magento_CatalogInventory
 "The stock item for Product in option is not valid.",庫存產品選項中的不是有效的。 ,module,Magento_CatalogInventory
 "Undefined product type",未定義的產品類型,module,Magento_CatalogInventory
 "%1 is not a correct comparison method.","%1 不是一個正確的比較方法。",module,Magento_CatalogInventory
@@ -1378,9 +1378,9 @@ Error!,錯誤!,module,Magento_Checkout
 "Wrong minimum amount.",錯誤的最小金額。 ,module,Magento_Checkout
 Message,信息,module,Magento_Checkout
 "<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1" "onclick=""this.target='_blank'""class=""print""> 打印收據</a>",module,Magento_Checkout
-"Apply Discount Code","確認使用優惠券?",module,Magento_Checkout
-"Enter discount code",請輸入打折代碼,module,Magento_Checkout
-"Apply Discount",使用打折,module,Magento_Checkout
+"Apply Discount Code","使用電子優惠碼？",module,Magento_Checkout
+"Enter discount code",請輸入電子優惠碼,module,Magento_Checkout
+"Apply Discount",使用優惠,module,Magento_Checkout
 "Cancel Coupon",取消優惠券,module,Magento_Checkout
 "Shopping Cart Items",購物車裡的產品,module,Magento_Checkout
 Item,產品,module,Magento_Checkout
@@ -1397,7 +1397,7 @@ Subtotal,小計,module,Magento_Checkout
 Edit,編輯,module,Magento_Checkout
 "Remove item",刪除項目,module,Magento_Checkout
 "You have no items in your shopping cart.",你的購物車中沒有任何物品。 ,module,Magento_Checkout
-"Click <a href=""%1"">here</a> to continue shopping.","單擊<a href=""%1""> 此處</a> 繼續購物。",module ,Magento_Checkout
+"Click <a href=""%1"">here</a> to continue shopping.","按<a href=""%1""> 此處</a> 繼續購物。",module ,Magento_Checkout
 "Estimate Tax",估計稅,module,Magento_Checkout
 "Estimate Shipping and Tax",估計運費和稅,module,Magento_Checkout
 "Excl. Tax",不包括消費稅,module,Magento_Checkout
@@ -1410,7 +1410,7 @@ Loading...,加載.....,module,Magento_Checkout
 "Your order # is: <span>%1</span>.","您的訂單號是: <span>%1</span>。",module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.",我們馬上給您發訂單確認的詳細信息和跟踪信息。 ,module,Magento_Checkout
 "Discount Total",折扣總和,module,Magento_Checkout
-"Are you sure you would like to remove this item from the shopping cart?","你碓定要將產品移除嗎？",module,Magento_Checkout
+"Are you sure you would like to remove this item from the shopping cart?","碓定要將此產品從購物車中移除？",module,Magento_Checkout
 "Discount Total",折扣總和,module,Magento_SalesRule
 "Coupon Discount",優惠劵,module,Magento_SalesRule
 "Reward Point Used",使用積分,module,Magento_SalesRule
@@ -1783,7 +1783,7 @@ Order,訂單,module,Magento_Customer
 Purchased,已購買,module,Magento_Customer
 "Bill-to Name",收件人姓名,module,Magento_Customer
 "Ship-to Name",Ship-to名稱,module,Magento_Customer
-"Order Total",訂單金額,module,Magento_Customer
+"Order Total",合共,module,Magento_Customer
 "Purchase Point",購買點,module,Magento_Customer
 "Customer View",客戶視圖,module,Magento_Customer
 "There are no items in customer's shopping cart.",客戶的購物車中沒有項目。 ,module,Magento_Customer
@@ -3151,7 +3151,7 @@ Order,訂單,module,Magento_Paypal
 Purchased,已購買,module,Magento_Paypal
 "Bill-to Name",收件人姓名,module,Magento_Paypal
 "Ship-to Name",Ship-to名稱,module,Magento_Paypal
-"Order Total",訂單金額,module,Magento_Paypal
+"Order Total",合共,module,Magento_Paypal
 "Purchase Point",購買點,module,Magento_Paypal
 "Billing Agreement View",計費協議視圖,module,Magento_Paypal
 "View Transaction Details",查看交易記錄詳細信息,module,Magento_Paypal
@@ -4502,7 +4502,7 @@ Apply,應用,module,Magento_Sales
 Remove,刪除,module,Magento_Sales
 "Address Information",地址信息,module,Magento_Sales
 "Payment &amp; Shipping Information",付款和發貨信息,module,Magento_Sales
-"Order Total",訂單金額,module,Magento_Sales
+"Order Total",合共,module,Magento_Sales
 "Order Currency:",訂單幣種:,module,Magento_Sales
 "Same As Billing Address",與賬單地址相同,module,Magento_Sales
 "Select from existing customer addresses:",從現有的客戶地址中選擇:,module,Magento_Sales
@@ -4883,7 +4883,7 @@ Action,操作,module,Magento_Shipping
 "Shipping and Tracking Information",運輸和跟踪信息,module,Magento_Shipping
 "Track this shipment",跟踪這批貨,module,Magento_Shipping
 "Items Shipped",物品裝運,module,Magento_Shipping
-"Order Total",訂單金額,module,Magento_Shipping
+"Order Total",合共,module,Magento_Shipping
 "Shipment History",裝運的歷史,module,Magento_Shipping
 "Qty Shipped",已發貨數量,module,Magento_Shipping
 "Print All Shipments",打印所有出貨,module,Magento_Shipping
@@ -5917,9 +5917,9 @@ Delete,刪除,module,Magento_GiftMessage
 "Continue to PayPal",使用Paypal繼續,module,Magento_Paypal
 "Product alerts cron warnings","產品警報 cron 警告",module,Magento_ProductAlert
 "%name,",%名稱，,module,Magento_ProductAlert
-"Apply Discount Code","確認使用優惠券?",module,Magento_SalesRule
-"Enter discount code",請輸入折扣代碼,module,Magento_SalesRule
-"Apply Discount",應用折扣,module,Magento_SalesRule
+"Apply Discount Code","使用電子優惠碼？",module,Magento_SalesRule
+"Enter discount code",請輸入電子優惠碼,module,Magento_SalesRule
+"Apply Discount",使用優惠,module,Magento_SalesRule
 "Cancel coupon",取消折扣,module,Magento_SalesRule
 "%name,",%名稱，,module,Magento_Sales
 "Thank you for your order from %store_name.","謝謝您的訂單從 %store_name。",module,Magento_Sales
@@ -6049,7 +6049,8 @@ Delete,刪除,module,Magento_ProductVideo
 "Images and Videos",圖像和視頻,module,Magento_ProductVideo
 "This won't take long . . .","這不會需要很長時間。 。 。",module,Magento_Rule
 "Add Products",添加產品,module,Magento_Sales
-Ok,OK,module,Magento_Sales
+Ok,確定,module,Magento_Sales
+OK,確定,module,Magento_Checkout
 "We could not detect a size.",我們未能檢測到的大小。 ,module,Magento_Theme
 "We don't recognize this file extension.",我們沒有認識到這種文件擴展名。 ,module,Magento_Theme
 "Go to Details Page",轉到詳細信息頁,module,Magento_Ui
@@ -6111,7 +6112,7 @@ Ok,OK,module,Magento_Sales
 "Please enter a valid value, ex: 10,20,30","請輸入一個有效的值，: 10,20,30",module,Magento_Ui
 Attention,注意,module,Magento_Ui
 Close,關閉,module,Magento_Ui
-Ok,OK,module,Magento_Ui
+Ok,確定,module,Magento_Ui
 Cancel,取消,module,Magento_Vault
 "Show Toolbar",顯示工具欄,module,Magento_AdminNotification
 "Show List",顯示列表,module,Magento_AdminNotification
@@ -6607,7 +6608,7 @@ Details,詳情,module,Magento_Catalog
 "Separate by "","".","單獨的""，""。",module,Magento_Checkout
 "Send Payment Failed Email Copy Method",發送支付失敗郵件副本的方法,module,Magento_Checkout
 Summary,摘要,module,Magento_Checkout
-"Order Total",訂單金額,module,Magento_Checkout
+"Order Total",合共,module,Magento_Checkout
 "We'll send your order confirmation here.",在這裡，我們會給您的訂單確認。 ,module,Magento_Checkout
 Payment,付款,module,Magento_Checkout
 "Not yet calculated",尚未計算,module,Magento_Checkout
@@ -7530,7 +7531,7 @@ CSV,"Excel XML",module,Magento_TaxImportExport
 State/Region,國家/地區,module,Magento_Tax
 Rate,費率,module,Magento_Tax
 "Subtotal Only",只有小計,module,Magento_Tax
-"Order Total",訂單金額,module,Magento_Tax
+"Order Total",合共,module,Magento_Tax
 "Your credit card will be charged for",您的信用卡將被收費,module,Magento_Tax
 Empty,"產品 %1",module,Magento_Theme
 "1 column","1 列",module,Magento_Theme
@@ -7702,7 +7703,7 @@ Configure,配置,module,Magento_Wishlist
 Delete,刪除,module,Magento_Wishlist
 "Product Details and Comment",產品詳細信息和評論,module,Magento_Wishlist"Product Details and Comment",產品詳細信息和評論,module,Magento_Wishlist"Product Details and Comment",產品詳細信息和評論,module,Magento_Wishlist
 "Check this out! %1","快來看看! %1",module,Mirasvit_Rewards
-"Applies only to registered customers, may vary when logged in.","只適用於己登記的客戶, 登入後有可能有轉變.",module,Mirasvit_Rewards
+"Applies only to registered customers, may vary when logged in.","請登入以確認可獲積分。",module,Mirasvit_Rewards
 "Share with Friends","分享給朋友",module,Mirasvit_Rewards
 "Share the referal link in the social media and get points!","分享以下的連結給好友，齊齊賺取積分獎賞",module,Mirasvit_Rewards
 "Check this out!","快來看看!",module,Mirasvit_Rewards
@@ -7722,7 +7723,7 @@ Delete,刪除,module,Magento_Wishlist
 "Visit My Reward Points Section","跳至的的紅利點數",module,Mirasvit_Rewards
 "Transactions History","消費記錄",module,Mirasvit_Rewards
 "There are no Transactions.","你沒有消費記錄",module,Mirasvit_Rewards
-"Checkout now and earn <b>%1</b> for this order.","立即結帳，將可獲到 <b>%1</b>.",module,Mirasvit_Rewards
+"Checkout now and earn <b>%1</b> for this order.","立即註冊成為基本會員，結帳後可獲到 <b>%1</b>。",module,Mirasvit_Rewards
 "You received %1 for signing up","恭喜你成功註冊並獲得%1﹗",module,Mirasvit_Rewards
 "You received %1 for sending this product","分享成功，得到%1",module,Mirasvit_Rewards
 "You received %1 for sign up for newsletter","訂閱成功，得到%1",module,Mirasvit_Rewards
