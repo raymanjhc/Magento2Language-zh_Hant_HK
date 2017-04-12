@@ -5777,7 +5777,7 @@ Back,後退,module,Magento_Wishlist
 "Go to Wish List",去希望列表,module,Magento_Wishlist
 "You have no items in your wish list.",你有願望列表中沒有的項目。,module,Magento_Wishlist
 "%1 has been added to your Wish List.","%1 已加到你的願望列表中",module,Magento_Wishlist
-"Now Shopping by",現在購物用,theme,frontend/Magento/luma
+"Now Shopping by","篩選條件",theme,frontend/Magento/luma
 Previous,上一個,theme,frontend/Magento/luma
 Remove,刪除,theme,frontend/Magento/luma
 "Remove This Item",刪除該內容,theme,frontend/Magento/luma
