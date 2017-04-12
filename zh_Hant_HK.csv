@@ -1408,7 +1408,7 @@ Loading...,加載.....,module,Magento_Checkout
 "Incl. Tax",含稅,module,Magento_Checkout
 "Your order number is: %1.","您的訂單編號是: %1。",module,Magento_Checkout
 "Your order # is: <span>%1</span>.","您的訂單號是: <span>%1</span>。",module,Magento_Checkout
-"We'll email you an order confirmation with details and tracking info.",我們會盡快處理閣下的訂單，請到「我的訂單」中查閱訂單狀態。 ,module,Magento_Checkout
+"We'll email you an order confirmation with details and tracking info.",我們會盡快處理閣下的訂單，請到「訂單紀錄」中查閱訂單狀態。 ,module,Magento_Checkout
 "Discount Total",折扣總和,module,Magento_Checkout
 "Are you sure you would like to remove this item from the shopping cart?","你碓定要將產品移除嗎？",module,Magento_Checkout
 "Discount Total",折扣總和,module,Magento_SalesRule
@@ -4227,7 +4227,7 @@ Key,密鑰,module,Magento_Sales
 Value,價值,module,Magento_Sales
 "We found an invalid entity model.",我們發現一個無效的實體模型。 ,module,Magento_Sales
 "Order # %1","訂單 #%1",module,Magento_Sales
-"Back to My Orders",回到我的訂單,module,Magento_Sales
+"Back to My Orders",回到訂單紀錄,module,Magento_Sales
 "View Another Order",查看另一個訂單,module,Magento_Sales
 "About Your Refund",關於您的退款,module,Magento_Sales
 "My Orders",訂單紀錄,module,Magento_Sales
@@ -4774,7 +4774,7 @@ Print,打印,module,Magento_Shipping
 "Show Packages",顯示包,module,Magento_Shipping
 "About Your Shipment",關於您的貨件,module,Magento_Shipping
 "Order # %1","訂單 #%1",module,Magento_Shipping
-"Back to My Orders",回到我的訂單,module,Magento_Shipping
+"Back to My Orders",回到訂單紀錄,module,Magento_Shipping
 "View Another Order",查看另一個訂單,module,Magento_Shipping
 "Please enter a comment.",請輸入評論內容。 ,module,Magento_Shipping
 "Cannot add new comment.",不能添加新的註釋。 ,module,Magento_Shipping
