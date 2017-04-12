@@ -1856,7 +1856,7 @@ Download,下載,module,Magento_Customer
 "If there is an account associated with %1 you will receive an email with a link to reset your password.","如果與%1 相關聯的帳戶，則您將收到電子郵件鏈接重置您的密碼。" ,module,Magento_Customer
 "My Account",我的賬戶,module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","此帳戶尚未確認。<a href=""%1""> 點擊這裡</a> 重新發送確認電子郵件。",module,Magento_Customer
-"Invalid login or password.",無效的登錄名或密碼。 ,module,Magento_Customer
+"Invalid login or password.",電郵地址或密碼錯誤。,module,Magento_Customer
 "An unspecified error occurred. Please contact us for assistance.",發生未知的錯誤。請援助，聯繫我們。 ,module,Magento_Customer
 "A login and a password are required.",登錄名和密碼是必需的。 ,module,Magento_Customer
 "New Password and Confirm New Password values didn't match.",新密碼和確認新密碼值不匹配。 ,module,Magento_Customer
@@ -2068,7 +2068,7 @@ Password,密碼,module,Magento_Customer
 "Confirm Password",確認密碼,module,Magento_Customer
 "Create an Account",註冊會員,module,Magento_Customer
 "Set a New Password",設置新的密碼,module,Magento_Customer
-"You have signed out and will go to our homepage in 5 seconds.","你已退出，在 5 秒鐘後將轉到我們的主頁。",module,Magento_Customer
+"You have signed out and will go to our homepage in 5 seconds.","您已登出，5秒後將會返回首頁。",module,Magento_Customer
 "New Customers",新客戶,module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","註冊成為會員後可更快地查閱和追蹤訂單。", module,Magento_Customer
 "Creating an account can check and track orders anytime.","註冊成為會員可隨時查閱和追蹤訂單。",module,Magento_Customer
@@ -7949,3 +7949,4 @@ Appearance,Appearance,module,Mirasvit_SearchAutocomplete
 "Please select other tab to see more results","請選擇其他類型以瀏覧其他結果。",module,Mirasvit_Misspell
 "All Brands","全部品牌",module,Ves_Brand
 "Read more","更多",module,Trive_Revo
+"Login successfully. Please wait...","登入成功，請稍後…",module,Mageplaza_Osc
