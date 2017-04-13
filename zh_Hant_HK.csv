@@ -1836,7 +1836,7 @@ Download,下載,module,Magento_Customer
 "There was an error confirming the account",確認該帳戶時出錯,module,Magento_Customer
 "If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","如果您是註冊的增值稅客戶，請點擊<a href=""%1""> 這裡</a>，輸入適當的增值稅計算您的送貨地址。",module,Magento_Customer
 "If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.","如果您是註冊的增值稅客戶，請點擊<a href=""%1""> 這裡</a>，您的賬單地址輸入適當的增值稅計算。",module,Magento_Customer
-"Thank you for registering with %1.","感謝您註冊與 %1。",module,Magento_Customer
+"Thank you for registering with %1.","感謝您註冊 %1。",module,Magento_Customer
 "Please check your email for confirmation key.",請檢查您的電子郵件確認鍵。 ,module,Magento_Customer
 "This email does not require confirmation.",這封電子郵件不要求確認。 ,module,Magento_Customer
 "Wrong email.","錯誤的 Email 格式",module,Magento_Customer
@@ -1978,7 +1978,7 @@ label,標籤,module,Magento_Customer
 Male,男性,module,Magento_Customer
 Female,女性,module,Magento_Customer
 "Not Specified",未指定,module,Magento_Customer
-"Thank you for registering with",感謝您註冊與,module,Magento_Customer
+"Thank you for registering with",感謝您註冊,module,Magento_Customer
 "enter your billing address for proper VAT calculation","您的賬單地址輸入適當的VAT 計算",module,Magento_Customer
 "enter your shipping address for proper VAT calculation","您的賬單地址輸入適當的VAT 計算",module,Magento_Customer
 "Please enter new password.",請輸入新密碼。 ,module,Magento_Customer
