@@ -3,8 +3,8 @@
 "Are you sure?",您確定嗎？ ,module,Magento_AdminNotification
 Remove,刪除,module,Magento_AdminNotification
 "Messages Inbox",消息收件箱,module,Magento_AdminNotification
-"You have %1 new system messages","你有 %1 新系統消息",module,Magento_AdminNotification
-"You have %1 new system message","你有 %1 新系統消息",module,Magento_AdminNotification
+"You have %1 new system messages","您有 %1 新系統消息",module,Magento_AdminNotification
+"You have %1 new system message","您有 %1 新系統消息",module,Magento_AdminNotification
 "Incoming Message",傳入消息,module,Magento_AdminNotification
 close,關閉,module,Magento_AdminNotification
 Notifications,通知消息,module,Magento_AdminNotification
@@ -26,7 +26,7 @@ minor,次要,module,Magento_AdminNotification
 notice,通知,module,Magento_AdminNotification
 "Wrong message type",錯誤消息類型,module,Magento_AdminNotification
 "Wrong notification ID specified.","指定的錯誤通知 ID。",module,Magento_AdminNotification
-"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a >.","{{base_url}} 不建議在生產環境中使用申報基地不安全'' URL / 基地安全網址。我們強烈建議您更改此值在你的Magento '' <a href=""%1 ""> 配置</a>。",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a >.","{{base_url}} 不建議在生產環境中使用申報基地不安全'' URL / 基地安全網址。我們強烈建議您更改此值在您的Magento '' <a href=""%1 ""> 配置</a>。",module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","請跳轉至<a href=""%1""> 緩存管理</a>並刷新緩存類型。",module,Magento_AdminNotification
 "We were unable to synchronize one or more media files. Please refer to the log file for details.",我們未能同步一個或多個媒體文件。請參閱日誌文件中的詳細信息。 ,module,Magento_AdminNotification
 "Synchronization of media storages has been completed.",媒體庫同步已完成。 ,module,Magento_AdminNotification
@@ -41,7 +41,7 @@ Close,關閉,module,Magento_AdminNotification
 "Entity type model '%1' is not found","實體型模式必須是一個實例 \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","實體模類型型必須是實例\Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module ,Magento_AdvancedPricingImportExport
 "There are no product types available for export",沒有可以導出的產品類型,module,Magento_AdvancedPricingImportExport
-"We can't find the role for the user you wanted.","出了錯，同時編制允許的資源列表。 “”你可以找到更多的例外日誌。",module,Magento_Authorization
+"We can't find the role for the user you wanted.","出了錯，同時編制允許的資源列表。 “”您可以找到更多的例外日誌。",module,Magento_Authorization
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.",編譯允許資源列表時出錯。可以從異常日誌查找更多可用信息。 ,module,Magento_Authorization
 "You created the order.",您已創建的訂單。 ,module,Magento_Authorizenet
 "Order saving error: %1","訂單保存錯誤: %1",module,Magento_Authorizenet
@@ -88,7 +88,7 @@ void,無效,module,Magento_Authorizenet
 "You entered an invalid Secret Key. Please refresh the page.",您輸入了無效的密鑰。請刷新此頁面。 ,module,Magento_Backend
 "Cache Storage Management",緩存存儲管理,module,Magento_Backend
 "Flush Magento Cache","刷新 Magento 緩存",module,Magento_Backend
-"The cache storage may contain additional data. Are you sure that you want to flush it?",緩存儲存可能包含其他數據。你確定要刷新它?,module,Magento_Backend
+"The cache storage may contain additional data. Are you sure that you want to flush it?",緩存儲存可能包含其他數據。您確定要刷新它?,module,Magento_Backend
 "Flush Cache Storage",刷新緩存存儲,module,Magento_Backend
 Invalidated,無效,module,Magento_Backend
 Orders,訂單,module,Magento_Backend
@@ -230,7 +230,7 @@ Submit,提交,module,Magento_Backend
 "The JavaScript/CSS cache has been cleaned.","JavaScript 和 CSS 緩存已清理。",module,Magento_Backend
 "An error occurred while clearing the JavaScript/CSS cache.","清除的 JavaScript 和 CSS 緩存時出錯。",module,Magento_Backend
 "The static files cache has been cleaned.",靜態文件緩存已清理。 ,module,Magento_Backend
-"You flushed the cache storage.",你已刷新緩存存儲。 ,module,Magento_Backend
+"You flushed the cache storage.",您已刷新緩存存儲。 ,module,Magento_Backend
 "The Magento cache storage has been flushed.","Magento 緩存存儲已被刷新。",module,Magento_Backend
 "Cache Management",緩存管理,module,Magento_Backend
 "%1 cache type(s) disabled.","%1 緩存類型禁用。",module,Magento_Backend
@@ -247,16 +247,16 @@ Dashboard,控制面板,module,Magento_Backend
 "Service unavailable: %1","服務不可用: %1",module,Magento_Backend
 Error,錯誤,module,Magento_Backend
 "Access Denied.",訪問被拒絕。 ,module,Magento_Backend
-"You need more permissions to do this.",你需要更多的權限來執行此操作。 ,module,Magento_Backend
+"You need more permissions to do this.",您需要更多的權限來執行此操作。 ,module,Magento_Backend
 "No search modules were registered",沒有註冊的搜索模塊,module,Magento_Backend
 "Please make sure that all global admin search modules are installed and activated.",請確保所有的全局管理員搜索模塊已安裝並激活。 ,module,Magento_Backend
-"You saved the account.",你已保存該帳戶。 ,module,Magento_Backend
+"You saved the account.",您已保存該帳戶。 ,module,Magento_Backend
 "An error occurred while saving account.",保存帳戶時出錯。 ,module,Magento_Backend
-"You deleted the design change.",你刪除設計更改。 ,module,Magento_Backend
+"You deleted the design change.",您刪除設計更改。 ,module,Magento_Backend
 "You can't delete the design change.",您不能刪除設計更改。 ,module,Magento_Backend
 "Store Design",店鋪設計,module,Magento_Backend
 "Edit Store Design Change",編輯店鋪設計更改,module,Magento_Backend
-"You saved the design change.",你保存的設計更改。 ,module,Magento_Backend
+"You saved the design change.",您保存的設計更改。 ,module,Magento_Backend
 System,系統,module,Magento_Backend
 "Manage Stores",管理店鋪,module,Magento_Backend
 "The database was backed up.",數據庫備份。 ,module,Magento_Backend
@@ -268,7 +268,7 @@ System,系統,module,Magento_Backend
 "Unable to delete the store. Please try again later.",無法刪除店鋪。請稍後再試。 ,module,Magento_Backend
 "This store view cannot be deleted.",不能刪除該店鋪視圖。 ,module,Magento_Backend
 "Store View",店鋪視圖,module,Magento_Backend
-"You deleted the store view.",你刪除了店鋪視圖。 ,module,Magento_Backend
+"You deleted the store view.",您刪除了店鋪視圖。 ,module,Magento_Backend
 "Unable to delete the store view. Please try again later.",無法刪除店鋪視圖。請稍後再試。 ,module,Magento_Backend
 "This website cannot be deleted.",不能刪除此站點。 ,module,Magento_Backend
 "You deleted the website.",您刪除該網站。 ,module,Magento_Backend
@@ -278,9 +278,9 @@ System,系統,module,Magento_Backend
 "The store does not exist",店鋪不存在,module,Magento_Backend
 "Store view doesn't exist",店鋪視圖不存在,module,Magento_Backend
 "Before modifying the store view code please make sure it is not used in index.php.","修改店鋪視圖代碼前請確保它沒有應用在 index.php 中。",module,Magento_Backend
-"You saved the website.",你已保存網站。 ,module,Magento_Backend
+"You saved the website.",您已保存網站。 ,module,Magento_Backend
 "An inactive store view cannot be saved as default store view",處於非活動狀態店鋪視圖不能保存為默認店鋪視圖,module,Magento_Backend
-"You saved the store.",你保存了店鋪。 ,module,Magento_Backend
+"You saved the store.",您保存了店鋪。 ,module,Magento_Backend
 "The default store cannot be disabled",不能禁用默認店鋪,module,Magento_Backend
 "You saved the store view.",您已保存的店鋪視圖。 ,module,Magento_Backend
 "Something went wrong while saving. Please review the error log.",保存時出錯。請查看錯誤日誌。 ,module,Magento_Backend
@@ -288,7 +288,7 @@ System,系統,module,Magento_Backend
 "Last 7 Days","最近 7 天",module,Magento_Backend
 "Current Month",當月,module,Magento_Backend
 "Authentication storage is incorrect.",身份驗證存儲不正確。 ,module,Magento_Backend
-"You did not sign in correctly or your account is temporarily disabled.",你不沒有正確登錄或您的帳戶被暫時禁用。 ,module,Magento_Backend
+"You did not sign in correctly or your account is temporarily disabled.",您不沒有正確登錄或您的帳戶被暫時禁用。 ,module,Magento_Backend
 "Authentication error occurred.",發生身份驗證錯誤。 ,module,Magento_Backend
 "Admin session lifetime must be less than or equal to 31536000 seconds (one year)","管理員會話生存期必須小於或等於 31536000 秒 （一年）",module,Magento_Backend
 "Admin session lifetime must be greater than or equal to 60 seconds","管理員會話生存期必須大於或等於 60 秒",module,Magento_Backend
@@ -297,7 +297,7 @@ Order,訂單,module,Magento_Backend
 "Access denied",訪問被拒絕,module,Magento_Backend
 "Please try to sign out and sign in again.",請嘗試登出並重新登錄。 ,module,Magento_Backend
 "If you continue to receive this message, please contact the store owner.",如果您繼續收到此消息，請聯繫店主。 ,module,Magento_Backend
-"You need more permissions to access this.",你需要更多的權限來執行此操作。 ,module,Magento_Backend
+"You need more permissions to access this.",您需要更多的權限來執行此操作。 ,module,Magento_Backend
 "Welcome, please sign in",歡迎，請登錄,module,Magento_Backend
 Username,用戶名,module,Magento_Backend
 "user name",用戶名稱,module,Magento_Backend
@@ -372,11 +372,11 @@ Loading...,"加載 。。。",module,Magento_Backend
 "Database and Media Backup",數據庫和備份媒體,module,Magento_Backup
 "Database Backup",數據庫備份,module,Magento_Backup
 "The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","歸檔文件可以壓縮與<a href=""%1"">%2< /a> 在Windows 系統上。",module,Magento_Backup
-"You need more permissions to activate maintenance mode right now.",你需要更多的權限，現在激活維護模式。 ,module,Magento_Backup
+"You need more permissions to activate maintenance mode right now.",您需要更多的權限，現在激活維護模式。 ,module,Magento_Backup
 "To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.","若要創建備份，請取消選擇""置於維護模式存儲""，或更新您的權限。" ,module,Magento_Backup
 "Something went wrong while putting your store into maintenance mode.",將您的存儲區置於維護模式時，出了錯。 ,module,Magento_Backup
-"You need more free space to create a backup.",你需要更多的可用空間來創建備份。 ,module,Magento_Backup
-"You need more permissions to create a backup.",你需要更多的權限來創建一個備份。 ,module,Magento_Backup
+"You need more free space to create a backup.",您需要更多的可用空間來創建備份。 ,module,Magento_Backup
+"You need more permissions to create a backup.",您需要更多的權限來創建一個備份。 ,module,Magento_Backup
 "We can't create the backup right now.",我們現在無法創建備份。 ,module,Magento_Backup
 Backups,備份,module,Magento_Backup
 System,系統,module,Magento_Backup
@@ -392,7 +392,7 @@ successful,成功,module,Magento_Backup
 "We can't find the backup file.",我們找不到備份文件。 ,module,Magento_Backup
 "We can't connect to the FTP right now.","我們現在無法連接到 FTP。",module,Magento_Backup
 "Failed to validate FTP.","驗證 FTP 失敗。",module,Magento_Backup
-"You need more permissions to perform a rollback.",你需要更多的權限，無法執行回退。 ,module,Magento_Backup
+"You need more permissions to perform a rollback.",您需要更多的權限，無法執行回退。 ,module,Magento_Backup
 "Failed to rollback.",無法回退。 ,module,Magento_Backup
 Database,數據庫,module,Magento_Backup
 "Database and Media",數據庫和媒體,module,Magento_Backup
@@ -410,7 +410,7 @@ Database,數據庫,module,Magento_Backup
 "Something went wrong while writing to the backup file ""%1"".","在寫入備份文件""%1""，出了錯。",module,Magento_Backup
 "We can't save the Cron expression.",我們不能保存貨幣表達式,module,Magento_Backup
 "You will lose any data created since the backup was made, including admin users, customers and orders.","您將丟失所有數據創建備份自從了以後，包括管理員用戶、 客戶和訂單。",module,Magento_Backup
-"Are you sure you want to continue?",你確定要繼續嗎?,module,Magento_Backup
+"Are you sure you want to continue?",您確定要繼續嗎?,module,Magento_Backup
 "This may take a few moments.",這可能需要幾分鐘。 ,module,Magento_Backup
 "Be sure your store is in maintenance mode during backup.",請確保您的存儲在備份過程中處於維護模式。 ,module,Magento_Backup
 "Backup Name",備份名稱,module,Magento_Backup
@@ -462,7 +462,7 @@ Fixed,百分之,module,Magento_Bundle
 "Add Products to Option",將產品添加到選項,module,Magento_Bundle
 Close,關閉,module,Magento_Bundle
 "Delete Option",數量：,module,Magento_Bundle
-"What are you looking for?",你在找什麼?,module,Magento_Bundle
+"What are you looking for?",您在找什麼?,module,Magento_Bundle
 Product,產品,module,Magento_Bundle
 Price,價格,module,Magento_Bundle
 Delete,刪除,module,Magento_Bundle
@@ -607,15 +607,15 @@ Always,總是,module,Magento_Captcha
 "Unable to remove Stock with id ""%1""","無法刪除編號id為 ""%1"" 的現貨庫存",module,Magento_CatalogInventory
 "Unable to save Stock Status",無法保存現貨庫存狀態,module,Magento_CatalogInventory
 "Unable to remove Stock Status for product %1","無法刪除現貨庫存狀態為 %1 的產品",module,Magento_CatalogInventory
-"Not all of your products are available in the requested quantity.",不是所有的你的產品有請求的數量。 ,module,Magento_CatalogInventory
+"Not all of your products are available in the requested quantity.",不是所有的您的產品有請求的數量。 ,module,Magento_CatalogInventory
 "Product with SKU ""%1"" does not exist","產品與 SKU""%1""不存在",module,Magento_CatalogInventory
 "The fewest you may purchase is %1.","您可以購買最少是 %1。",module,Magento_CatalogInventory
 "Please correct the quantity for some products.",請更正一些產品的數量。 ,module,Magento_CatalogInventory
 "The most you may purchase is %1.","您可以購買的大部分是 %1。",module,Magento_CatalogInventory
-"We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","我們沒有像很多""%1""作為你的要求，但是我們還回來訂單剩餘的%2。",module,Magento_CatalogInventory
+"We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","我們沒有像很多""%1""作為您的要求，但是我們還回來訂單剩餘的%2。",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","我們沒有""%1""在請求的數量，所以我們馬上就回來訂單剩餘的%2。",module,Magento_CatalogInventory
-"You can buy %1 only in quantities of %2 at a time.","你可以一次買只在數量的 %2 %1。",module,Magento_CatalogInventory
-"You can buy this product only in quantities of %1 at a time.","你可以一次買這種產品只在 %1 的數量。",module,Magento_CatalogInventory
+"You can buy %1 only in quantities of %2 at a time.","您可以一次買只在數量的 %2 %1。",module,Magento_CatalogInventory
+"You can buy this product only in quantities of %1 at a time.","您可以一次買這種產品只在 %1 的數量。",module,Magento_CatalogInventory
 "Decimal qty increments is not allowed.",不允許小數數量的增量。 ,module,Magento_CatalogInventory
 "Stock Status",現貨庫存狀態,module,Magento_CatalogInventory
 Quantity,數量,module,Magento_CatalogInventory
@@ -650,7 +650,7 @@ Promotions,促銷活動,module,Magento_CatalogRule
 "Edit Rule",修改規則,module,Magento_CatalogRule
 "New Rule",新規則,module,Magento_CatalogRule
 Catalog,目錄重寫,module,Magento_CatalogRule
-"You saved the rule.",你保存的規則。 ,module,Magento_CatalogRule
+"You saved the rule.",您保存的規則。 ,module,Magento_CatalogRule
 "Something went wrong while saving the rule data. Please review the error log.",保存規則數據時出了錯。請查看錯誤日誌。 ,module,Magento_CatalogRule
 Promo,促銷,module,Magento_CatalogRule
 "Unable to save rule %1","無法保存規則 %1",module,Magento_CatalogRule
@@ -675,7 +675,7 @@ Promo,促銷,module,Magento_CatalogRule
 "Conditions Combination",條件組合,module,Magento_CatalogRule
 "Product Attribute",產品屬性,module,Magento_CatalogRule
 "Updated rules applied.",應用的更新的規則。 ,module,Magento_CatalogRule
-"You disabled %1 Catalog Price Rules based on ""%2"" attribute.","你禁用的 %1 目錄價格規則，基於""%2""屬性。",module,Magento_CatalogRule
+"You disabled %1 Catalog Price Rules based on ""%2"" attribute.","您禁用的 %1 目錄價格規則，基於""%2""屬性。",module,Magento_CatalogRule
 Home,主頁,module,Magento_CatalogSearch
 "Go to Home Page",轉到主頁,module,Magento_CatalogSearch
 "Catalog Advanced Search",高級分類搜索,module,Magento_CatalogSearch
@@ -695,7 +695,7 @@ Relevance,相關性,module,Magento_CatalogSearch
 Category,類別,module,Magento_CatalogSearch
 "%1 and above","%1 及以上",module,Magento_CatalogSearch
 "%1 - %2",%1-%2,module,Magento_CatalogSearch
-"Sorry, something went wrong. You can find out more in the error log.",抱歉，出問題了。你可以在錯誤日誌中找到更多的信息。 ,module,Magento_CatalogSearch
+"Sorry, something went wrong. You can find out more in the error log.",抱歉，出問題了。您可以在錯誤日誌中找到更多的信息。 ,module,Magento_CatalogSearch
 Product,產品,module,Magento_CatalogSearch
 "Search Settings",搜索設置,module,Magento_CatalogSearch
 Search,搜索,module,Magento_CatalogSearch
@@ -746,7 +746,7 @@ Cancel,保存,module,Magento_Catalog
 "New Product Attribute",新的產品屬性,module,Magento_Catalog
 "Advanced Attribute Properties",高級的屬性,module,Magento_Catalog
 "Attribute Code",屬性代碼,module,Magento_Catalog
-"This is used internally. Make sure you don't use spaces or more than %1 symbols.",這是在內部使用。確保你不要使用空格或超過1%的符號。 ,module,Magento_Catalog
+"This is used internally. Make sure you don't use spaces or more than %1 symbols.",這是在內部使用。確保您不要使用空格或超過1%的符號。 ,module,Magento_Catalog
 "Default Value",默認值,module,Magento_Catalog
 "Unique Value",組ID為“%1”不存在。 ,module,Magento_Catalog
 "Unique Value (not shared with other products)","(不能與其他產品共享) 的獨特價值",module,Magento_Catalog
@@ -795,7 +795,7 @@ Comparable,可比性,module,Magento_Catalog
 "Add New",新加,module,Magento_Catalog
 Back,後退,module,Magento_Catalog
 Reset,重置,module,Magento_Catalog
-"You are about to delete all products in this attribute set. Are you sure you want to do that?",您將要刪除此屬性集合中的所有產品。你確定你想要這樣做?,module,Magento_Catalog
+"You are about to delete all products in this attribute set. Are you sure you want to do that?",您將要刪除此屬性集合中的所有產品。您確定您想要這樣做?,module,Magento_Catalog
 "New Set Name",新集的名稱,module,Magento_Catalog
 "Edit Attribute Set '%1'","編輯屬性集 '%1'",module,Magento_Catalog
 Empty,"產品 %1",module,Magento_Catalog
@@ -895,9 +895,9 @@ Categories,分類,module,Magento_Catalog
 "Category is not available for requested store.",類別不是可用於請求的存儲區。 ,module,Magento_Catalog
 "There was a category move error. %1",出現了一個類別移動錯誤。 %1,module,Magento_Catalog
 "There was a category move error.",出現了一個類別移動錯誤。 ,module,Magento_Catalog
-"You moved the category",你移動的類別,module,Magento_Catalog
+"You moved the category",您移動的類別,module,Magento_Catalog
 "Attribute ""%1"" is required.","""%1""屬性是必需的。",module,Magento_Catalog
-"You saved the category.",你保存的類別。 ,module,Magento_Catalog
+"You saved the category.",您保存的類別。 ,module,Magento_Catalog
 "Something went wrong while saving the category.",保存該類別時出了錯。 ,module,Magento_Catalog
 "Please select products for attributes update.",請選擇產品更新屬性。 ,module,Magento_Catalog
 "Please make sure to define SKU values for all processed products.","請務必定義所有加工產品的 SKU 值。",module,Magento_Catalog
@@ -908,7 +908,7 @@ Categories,分類,module,Magento_Catalog
 Catalog,目錄重寫,module,Magento_Catalog
 "Manage Product Attributes",管理產品屬性,module,Magento_Catalog
 "We can't delete the attribute.",我們不能刪除該屬性。 ,module,Magento_Catalog
-"You deleted the product attribute.",你刪除的產品屬性。 ,module,Magento_Catalog
+"You deleted the product attribute.",您刪除的產品屬性。 ,module,Magento_Catalog
 "We can't find an attribute to delete.",我們找不到要刪除的屬性。 ,module,Magento_Catalog
 "This attribute no longer exists.",此屬性不再存在。 ,module,Magento_Catalog
 "This attribute cannot be edited.",不能編輯此屬性。 ,module,Magento_Catalog
@@ -917,10 +917,10 @@ Catalog,目錄重寫,module,Magento_Catalog
 "Something went wrong while saving the attribute.",保存該屬性時，出了錯。 ,module,Magento_Catalog
 "Attribute code ""%1"" is invalid. Please use only letters (az), numbers (0-9) or underscore(_) in this field, first character should be a letter.","屬性代碼""% 1""不合法。該字段只能使用字母(az)，數字(0-9) 或下劃線(_)，第一個字符應該是字母。",module,Magento_Catalog
 "We can't update the attribute.",我們不能更新的屬性。 ,module,Magento_Catalog
-"You saved the product attribute.",你保存的產品屬性。 ,module,Magento_Catalog
+"You saved the product attribute.",您保存的產品屬性。 ,module,Magento_Catalog
 "An attribute with this code already exists.",這段代碼的屬性已經存在。 ,module,Magento_Catalog
 "An attribute with the same code (%1) already exists.","已經存在具有相同的代碼 (%1) 的屬性。",module,Magento_Catalog
-"You duplicated the product.",你複製的產品。 ,module,Magento_Catalog
+"You duplicated the product.",您複製的產品。 ,module,Magento_Catalog
 "This product doesn't exist.",此產品不存在。 ,module,Magento_Catalog
 "Invalid product id. Should be numeric value greater than 0","無效的產品 id。應為大於0的數值",module,Magento_Catalog
 Products,產品展示,module,Magento_Catalog
@@ -930,7 +930,7 @@ Products,產品展示,module,Magento_Catalog
 "A total of %1 record(s) have been updated.","已經更新 %1的記錄",module,Magento_Catalog
 "Something went wrong while updating the product(s) status.",更新產品狀態時出了錯。 ,module,Magento_Catalog
 "Unable to save product",無法保存產品,module,Magento_Catalog
-"You saved the product.",你保存的產品。 ,module,Magento_Catalog
+"You saved the product.",您保存的產品。 ,module,Magento_Catalog
 "SKU for product %1 has been changed to %2.","為產品 %1 SKU 已改為 %2。",module,Magento_Catalog
 "The image cannot be removed as it has been assigned to the other image role",圖像不能刪除，因為它已被分配給其他圖像作用,module,Magento_Catalog
 "New Attribute Set",新的屬性集,module,Magento_Catalog
@@ -940,10 +940,10 @@ Products,產品展示,module,Magento_Catalog
 "Manage Product Sets",管理產品集,module,Magento_Catalog
 "Manage Attribute Sets",管理屬性集,module,Magento_Catalog
 "This attribute set no longer exists.",此屬性設置不再存在。 ,module,Magento_Catalog
-"You saved the attribute set.",你保存的屬性集。 ,module,Magento_Catalog
+"You saved the attribute set.",您保存的屬性集。 ,module,Magento_Catalog
 "Something went wrong while saving the attribute set.",保存屬性集時出了錯。 ,module,Magento_Catalog
-"You added product %1 to the comparison list.","你添加產品 %1 到比較列表中。",module,Magento_Catalog
-"You cleared the comparison list.",你清除了比較列表。 ,module,Magento_Catalog
+"You added product %1 to the comparison list.","您添加產品 %1 到比較列表中。",module,Magento_Catalog
+"You cleared the comparison list.",您清除了比較列表。 ,module,Magento_Catalog
 "Something went wrong clearing the comparison list.",什麼地方出毛病結算比較列表。 ,module,Magento_Catalog
 "You removed product %1 from the comparison list.","您從比較列表中刪除產品 %1。",module,Magento_Catalog
 "1 item","1 件產品",module,Magento_Catalog
@@ -1063,12 +1063,12 @@ Disabled,禁用,module,Magento_Catalog
 px.,全部展開,module,Magento_Catalog
 "The file '%1' for '%2' has an invalid extension.","'%2' '%1' 的文件具有無效的擴展名。",module,Magento_Catalog
 "The maximum allowed image size for '%1' is %2x%3 px.","允許的最大圖像大小為 '%1' %2x%3 px。",module,Magento_Catalog
-"The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","'%1' 你上傳文件大於我們的服務器所允許的 %2 兆字節。",module,Magento_Catalog
+"The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","'%1' 您上傳文件大於我們的服務器所允許的 %2 兆字節。",module,Magento_Catalog
 "The file '%1' is empty. Please choose another one","'%1' 文件是空的。請選擇另一個",module,Magento_Catalog
 "The file '%1' is invalid. Please choose another one","文件 '%1' 是無效的。請選擇另一個",module,Magento_Catalog
 "File '%1' is not an image.","文件 '%1' 不是圖像。",module,Magento_Catalog
 "Validation failed. Required options were not filled or the file was not uploaded.",驗證失敗。不填充所需的選項或不上載文件。 ,module,Magento_Catalog
-"The file you uploaded is larger than %1 Megabytes allowed by server","你上傳的文件大於 %1 服務器所允許的兆字節",module,Magento_Catalog
+"The file you uploaded is larger than %1 Megabytes allowed by server","您上傳的文件大於 %1 服務器所允許的兆字節",module,Magento_Catalog
 "Option required.",所需的選項。 ,module,Magento_Catalog
 "The file is empty. Please choose another one",該文件是空的。請選擇另一個,module,Magento_Catalog
 "Some of the selected item options are not currently available.",選定的項選項中有一些不當前可用。 ,module,Magento_Catalog
@@ -1160,7 +1160,7 @@ Thumbnail,縮略圖,module,Magento_Catalog
 Actions,動作,module,Magento_Catalog
 "Schedule Update From",從更新安排,module,Magento_Catalog
 "Product in Websites",網站上的產品,module,Magento_Catalog
-"If your Magento site has multiple views, you can set the scope to apply to a specific view.","如果你的 Magento 網站有多個視圖，您可以設置適用於特定視圖的範圍。",module,Magento_Catalog
+"If your Magento site has multiple views, you can set the scope to apply to a specific view.","如果您的 Magento 網站有多個視圖，您可以設置適用於特定視圖的範圍。",module,Magento_Catalog
 name,名稱,module,Magento_Catalog
 "Copy Data from",複製數據來源於,module,Magento_Catalog
 "If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a >.","如果沒有自定義父類別，請使用默認的父類別。您可以在任何時候在<a href=""%1""target=""_blank""> 產品&gt; 類別</a >重新分配類別。",module,Magento_Catalog
@@ -1181,7 +1181,7 @@ Groups,團體,module,Magento_Catalog
 "Please enter a new group name.",請輸入一個新的組名稱。 ,module,Magento_Catalog
 "An attribute group named ""/name/"" already exists"".","屬性組名""/name/""已經存在""。",module,Magento_Catalog
 "Sorry, we're unable to complete this request.",對不起，我們無法完成這個請求。 ,module,Magento_Catalog
-"You can't remove attributes from this attribute set.",你不能移除此屬性集的屬性。 ,module,Magento_Catalog
+"You can't remove attributes from this attribute set.",您不能移除此屬性集的屬性。 ,module,Magento_Catalog
 "Custom Options",自定義選項,module,Magento_Catalog
 "This is a required option.",這是必需的選項。 ,module,Magento_Catalog
 "The field isn't complete.",該字段不是完整的。 ,module,Magento_Catalog
@@ -1256,7 +1256,7 @@ Role,職能,module,Magento_Catalog
 "In stock",有貨,module,Magento_Catalog
 "Out of stock",缺貨,module,Magento_Catalog
 "Add to Wish List",加入喜愛清單,module,Magento_Catalog
-"You have no items to compare.",你有沒有要比較的項目。 ,module,Magento_Catalog
+"You have no items to compare.",您有沒有要比較的項目。 ,module,Magento_Catalog
 "Remove This Item",刪除該內容,module,Magento_Catalog
 Compare,比較,module,Magento_Catalog
 "Clear All",全部清除,module,Magento_Catalog
@@ -1265,7 +1265,7 @@ Next,下一個,module,Magento_Catalog
 "We can't find products matching the selection.",我們找不到選擇匹配的產品。 ,module,Magento_Catalog
 "Learn More",了解更多,module,Magento_Catalog
 "Add to Compare",添加並比較,module,Magento_Catalog
-"We found other products you might like!",我們發現你可能會喜歡其他產品!,module,Magento_Catalog
+"We found other products you might like!",我們發現您可能會喜歡其他產品!,module,Magento_Catalog
 "More Choices:",更多的選擇:,module,Magento_Catalog
 "Check items to add to the cart or",檢查加入購物車的物品或,module,Magento_Catalog
 "select all",全選,module,Magento_Catalog
@@ -1306,11 +1306,11 @@ Sales,銷售,module,Magento_CheckoutAgreements
 "Checkout Conditions",簽出條件,module,Magento_CheckoutAgreements
 "Checkout Terms and Conditions",購買條款,module,Magento_CheckoutAgreements
 "This condition no longer exists.",這種情況不再存在。 ,module,Magento_CheckoutAgreements
-"You deleted the condition.",你刪除的條件。 ,module,Magento_CheckoutAgreements
+"You deleted the condition.",您刪除的條件。 ,module,Magento_CheckoutAgreements
 "Something went wrong while deleting this condition.",刪除此條件時出了錯。 ,module,Magento_CheckoutAgreements
 "Edit Condition",編輯條件,module,Magento_CheckoutAgreements
 "New Condition",新的條件,module,Magento_CheckoutAgreements
-"You saved the condition.",你保存的條件。 ,module,Magento_CheckoutAgreements
+"You saved the condition.",您保存的條件。 ,module,Magento_CheckoutAgreements
 "Something went wrong while saving this condition.",這種情況在保存時出了錯。 ,module,Magento_CheckoutAgreements
 Automatically,自動,module,Magento_CheckoutAgreements
 Manually,手動,module,Magento_CheckoutAgreements
@@ -1336,9 +1336,9 @@ State/Province,地區,module,Magento_Checkout
 "Out of stock",缺貨,module,Magento_Checkout
 "We can't find the quote item.",我們找不到引用項。 ,module,Magento_Checkout
 "We cannot configure the product.",我們不能配置該產品。 ,module,Magento_Checkout
-"You used coupon code ""%1"".","你使用優惠券代碼""%1""。",module,Magento_Checkout
+"You used coupon code ""%1"".","您使用優惠券代碼""%1""。",module,Magento_Checkout
 "The coupon code ""%1"" is not valid.",編輯項目參數,module,Magento_Checkout
-"You canceled the coupon code.",你取消的優惠券代碼。 ,module,Magento_Checkout
+"You canceled the coupon code.",您取消的優惠券代碼。 ,module,Magento_Checkout
 "We cannot apply the coupon code.",我們不能適用的優惠券代碼。 ,module,Magento_Checkout
 "We can't remove the item.",我們不能刪除該項目。 ,module,Magento_Checkout
 "%1 was updated in your shopping cart.","%1 已更新您的購物車中。",module,Magento_Checkout
@@ -1353,8 +1353,8 @@ Checkout,結帳,module,Magento_Checkout
 "%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 不延長 \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
 "We can't find the product.",我們找不到該產品,module,Magento_Checkout
 "The product does not exist.",產品不存在。 ,module,Magento_Checkout
-"We don't have some of the products you want.",我們不要有一些你想要的產品。 ,module,Magento_Checkout
-"We don't have as many of some products as you want.",如你所願，我們沒有那麼多一些產品。 ,module,Magento_Checkout
+"We don't have some of the products you want.",我們不要有一些您想要的產品。 ,module,Magento_Checkout
+"We don't have as many of some products as you want.",如您所願，我們沒有那麼多一些產品。 ,module,Magento_Checkout
 "Quantity was recalculated from %1 to %2","數量是重新計算從 %1 到 %2",module,Magento_Checkout
 "We adjusted product quantities to fit the required increments.",我們調整產品數量以適應所需的增量。 ,module,Magento_Checkout
 "This quote item does not exist.",這一報價項目不存在。 ,module,Magento_Checkout
@@ -1370,7 +1370,7 @@ Checkout,結帳,module,Magento_Checkout
 "Invalid shipping method",無效的運輸方法,module,Magento_Checkout
 "There are more than one shipping addresses.",有多個送貨地址。 ,module,Magento_Checkout
 "Sorry, guest checkout is not available.",對不起，客人結帳不是可用的。 ,module,Magento_Checkout
-"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","請點擊你的電子郵件確認連結或<a href=""%1"">點擊此處</a>重新送出確認連結。",module,Magento_Checkout
+"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","請點擊您的電子郵件確認連結或<a href=""%1"">點擊此處</a>重新送出確認連結。",module,Magento_Checkout
 "Load customer quote error",加載客戶報價單錯誤,module,Magento_Checkout
 "Error message!",錯誤消息!,module,Magento_Checkout
 Error!,錯誤!,module,Magento_Checkout
@@ -1396,7 +1396,7 @@ Subtotal,小計,module,Magento_Checkout
 "Edit item parameters",修改參數,module,Magento_Checkout
 Edit,編輯,module,Magento_Checkout
 "Remove item",刪除項目,module,Magento_Checkout
-"You have no items in your shopping cart.",你的購物車中沒有任何物品。 ,module,Magento_Checkout
+"You have no items in your shopping cart.",您的購物車中沒有任何物品。 ,module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","單擊<a href=""%1""> 此處</a> 繼續購物。",module ,Magento_Checkout
 "Estimate Tax",估計稅,module,Magento_Checkout
 "Estimate Shipping and Tax",估計運費和稅,module,Magento_Checkout
@@ -1410,7 +1410,7 @@ Loading...,加載.....,module,Magento_Checkout
 "Your order # is: <span>%1</span>.","您的訂單號是: <span>%1</span>。",module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.",我們會盡快處理閣下的訂單，請到「訂單紀錄」中查閱訂單狀態。 ,module,Magento_Checkout
 "Discount Total",折扣總和,module,Magento_Checkout
-"Are you sure you would like to remove this item from the shopping cart?","你碓定要將產品移除嗎？",module,Magento_Checkout
+"Are you sure you would like to remove this item from the shopping cart?","您碓定要將產品移除嗎？",module,Magento_Checkout
 "Discount Total",折扣總和,module,Magento_SalesRule
 "Coupon Discount",優惠劵,module,Magento_SalesRule
 "Reward Point Used",使用積分,module,Magento_SalesRule
@@ -1452,7 +1452,7 @@ Preview,預覽,module,Magento_Cms
 Home,首頁,module,Magento_Cms
 "Go to Home Page",前往主頁,module,Magento_Cms
 CMS,CMS頁面鏈接內聯摸板,module,Magento_Cms
-"You deleted the block.",你刪除的模塊。 ,module,Magento_Cms
+"You deleted the block.",您刪除的模塊。 ,module,Magento_Cms
 "We can't find a block to delete.",我們找不到要刪除的模塊。 ,module,Magento_Cms
 "This block no longer exists.",此模塊不再存在。 ,module,Magento_Cms
 "Edit Block",編輯模塊,module,Magento_Cms
@@ -1460,7 +1460,7 @@ CMS,CMS頁面鏈接內聯摸板,module,Magento_Cms
 Blocks,模塊,module,Magento_Cms
 "Please correct the data sent.",請更正發送的數據。 ,module,Magento_Cms
 "A total of %1 record(s) have been deleted.","已經刪除 %1的記錄",module,Magento_Cms
-"You saved the block.",你保存的模塊。 ,module,Magento_Cms
+"You saved the block.",您保存的模塊。 ,module,Magento_Cms
 "The page has been deleted.",該頁面已被刪除。 ,module,Magento_Cms
 "We can't find a page to delete.",我們找不到要刪除的頁面。 ,module,Magento_Cms
 "This page no longer exists.",本頁面不再存在。 ,module,Magento_Cms
@@ -1471,7 +1471,7 @@ Pages,頁面,module,Magento_Cms
 "A total of %1 record(s) have been disabled.","共有 %1 條記錄已被禁用。",module,Magento_Cms
 "A total of %1 record(s) have been enabled.","共有 %1 條記錄已被禁用。",module,Magento_Cms
 "Page Title",頁面標題,module,Magento_Cms
-"To apply changes you should fill in hidden required ""%1"" field","若要應用的更改你應該填寫隱藏所需的""%1""字段",module,Magento_Cms
+"To apply changes you should fill in hidden required ""%1"" field","若要應用的更改您應該填寫隱藏所需的""%1""字段",module,Magento_Cms
 "The directory %1 is not writable by server.","目錄 %1 不是由服務器可寫的。",module,Magento_Cms
 "Make sure that static block content does not reference the block itself.",請確保靜態塊內容未引用塊本身。 ,module,Magento_Cms
 "CMS Block with id ""%1"" does not exist.","CMS 塊與 id""%1""並不存在。",module,Magento_Cms
@@ -1496,7 +1496,7 @@ Exception,例外,module,Magento_Cms
 Edit,編輯,module,Magento_Cms
 Delete,刪除,module,Magento_Cms
 "Delete ${ $.$data.title }","刪除 ${ $.$data.title }",module,Magento_Cms
-"Are you sure you wan't to delete a ${ $.$data.title } record?","你確定你想刪除 ${ $.$data.title } 記錄?",module,Magento_Cms
+"Are you sure you wan't to delete a ${ $.$data.title } record?","您確定您想刪除 ${ $.$data.title } 記錄?",module,Magento_Cms
 "Delete ""${ $.$data.title }""","刪除""${ $.$data.title }""",module,Magento_Cms
 View,查看,module,Magento_Cms
 px.,全部展開,module,Magento_Cms
@@ -1607,7 +1607,7 @@ Summary,用戶中心,module,Magento_ConfigurableProduct
 "Value index is not specified for an option.",值索引未指定選項。 ,module,Magento_ConfigurableProduct
 "Product with id ""%1"" does not contain required attribute ""%2"".","與id""%1""產品不包含所需的屬性""%2""。",module ,Magento_ConfigurableProduct
 "You can't add the item to shopping cart.",無法將該項目加入購物車。 ,module,Magento_ConfigurableProduct
-"You need to choose options for your item.",你需要選擇你的項目的選擇。 ,module,Magento_ConfigurableProduct
+"You need to choose options for your item.",您需要選擇您的項目的選擇。 ,module,Magento_ConfigurableProduct
 "Some product variations fields are not valid.",一些產品變化字段不是有效的。 ,module,Magento_ConfigurableProduct
 "Configuration must have specified attributes",配置必須具有指定的屬性,module,Magento_ConfigurableProduct
 "Choose Affected Attribute Set",選擇受影響的屬性集,module,Magento_ConfigurableProduct
@@ -1676,7 +1676,7 @@ Cancel,保存,module,Magento_ConfigurableProduct
 "We can't process your request right now. Sorry, that's all we know.",我們現在無法處理您的請求。對不起，我們都知道。 ,module,Magento_Contact
 "* Required Fields",*必需填寫,module,Magento_Contact
 "Write Us",給我們寫信,module,Magento_Contact
-"Jot us a note and we’ll get back to you as quickly as possible.",我們記筆記，我們會盡可能快地回到你。 ,module,Magento_Contact
+"Jot us a note and we’ll get back to you as quickly as possible.",我們記筆記，我們會盡可能快地回到您。 ,module,Magento_Contact
 Name,名字,module,Magento_Contact
 Email,電郵,module,Magento_Contact
 "Phone Number",電話號碼,module,Magento_Contact
@@ -1685,7 +1685,7 @@ Submit,提交,module,Magento_Contact
 "Invalid domain name: %1","無效的域名: %1",module,Magento_Cookie
 "Invalid cookie lifetime: %1","無效的 cookie 的生命週期: %1",module,Magento_Cookie
 "Invalid cookie path","無效的 cookie 路徑",module,Magento_Cookie
-"We use cookies to make your experience better.","我們使用 cookie 來使你的體驗更好。",module,Magento_Cookie
+"We use cookies to make your experience better.","我們使用 cookie 來使您的體驗更好。",module,Magento_Cookie
 "To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","為了遵守新的 e-隱私指令，我們需要問您同意設置的 cookie。",module,Magento_Cookie
 "<a href=""%1"">Learn more</a>.","<a href=""%1""> 了解更多</a>。",module,Magento_Cookie
 "Allow Cookies","允許使用 Cookie",module,Magento_Cookie
@@ -1713,8 +1713,8 @@ Import,導入,module,Magento_CurrencySymbol
 "Please correct the input data for ""%1 => %2"" rate.","請更正""%1 => %2""率的輸入的數據。",module,Magento_CurrencySymbol
 "All valid rates have been saved.",所有有效的匯率已被保存。 ,module,Magento_CurrencySymbol
 System,系統,module,Magento_CurrencySymbol
-"You applied the custom currency symbols.",你應用了自定義的貨幣符號。 ,module,Magento_CurrencySymbol
-"You must first configure currency options before being able to see currency rates.",在看貨幣匯率之前你必須先配置貨幣選項,module,Magento_CurrencySymbol
+"You applied the custom currency symbols.",您應用了自定義的貨幣符號。 ,module,Magento_CurrencySymbol
+"You must first configure currency options before being able to see currency rates.",在看貨幣匯率之前您必須先配置貨幣選項,module,Magento_CurrencySymbol
 "Old rate:",舊率:,module,Magento_CurrencySymbol
 "Please specify a website.",請指定一個網站。 ,module,Magento_CustomerImportExport
 "Please specify an email.",請註明郵件。 ,module,Magento_CustomerImportExport
@@ -1745,8 +1745,8 @@ region,地區,module,Magento_Customer
 "Create Order",未指定項目,module,Magento_Customer
 "Save Customer",保存客戶,module,Magento_Customer
 "Delete Customer",刪除客戶,module,Magento_Customer
-"Reset Password",你的密碼重設鏈接已過期。 ,module,Magento_Customer
-"Are you sure you want to revoke the customer's tokens?",你確定你想要撤銷客戶的令牌?,module,Magento_Customer
+"Reset Password",您的密碼重設鏈接已過期。 ,module,Magento_Customer
+"Are you sure you want to revoke the customer's tokens?",您確定您想要撤銷客戶的令牌?,module,Magento_Customer
 "Force Sign-In",強制登錄,module,Magento_Customer
 "New Customer",新用戶,module,Magento_Customer
 "Save and Continue Edit",保存並繼續編輯,module,Magento_Customer
@@ -1841,14 +1841,14 @@ Download,下載,module,Magento_Customer
 "This email does not require confirmation.",這封電子郵件不要求確認。 ,module,Magento_Customer
 "Wrong email.","錯誤的 Email 格式",module,Magento_Customer
 "Your password reset link has expired.",您的密碼重置鏈接已過期。 ,module,Magento_Customer
-"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","請點擊你的電子郵件確認連結或<a href=""%1"">點擊此處</a>重新送出確認連結。",module,Magento_Customer
-"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.", "已存在此電子郵件地址的帳戶。如果你確信它是您的電子郵件地址，<a href=""%1""> 請單擊此處</a> 以獲取您的密碼和訪問您的帳戶。",module,Magento_Customer
+"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","請點擊您的電子郵件確認連結或<a href=""%1"">點擊此處</a>重新送出確認連結。",module,Magento_Customer
+"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.", "已存在此電子郵件地址的帳戶。如果您確信它是您的電子郵件地址，<a href=""%1""> 請單擊此處</a> 以獲取您的密碼和訪問您的帳戶。",module,Magento_Customer
 "We can't save the customer.",我們不能保存客戶。 ,module,Magento_Customer
 "Please make sure your passwords match.",請確保您的密碼相匹配。 ,module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","如果您是註冊的增值稅客戶，請<a href=""%1""> 點擊此處</a> 輸入您的運輸地址適當增值稅的計算。",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","如果您是註冊的增值稅客戶，請<a href=""%1""> 點擊此處</a> 輸入您的運輸地址適當增值稅的計算。",module,Magento_Customer
 "Account Information",個人信息,module,Magento_Customer
-"You saved the account information.",你保存的帳戶信息。 ,module,Magento_Customer
+"You saved the account information.",您保存的帳戶信息。 ,module,Magento_Customer
 "The password doesn't match this account.",密碼不匹配此帳戶。 ,module,Magento_Customer
 "Please correct the email address.",請正確的電子郵件地址。 ,module,Magento_Customer
 "We're unable to send the password reset email.",我們無法發送重新設置密碼的電子郵件。 ,module,Magento_Customer
@@ -1863,25 +1863,25 @@ Download,下載,module,Magento_Customer
 "Please enter a new password.",請輸入一個新密碼。 ,module,Magento_Customer
 "You updated your password.",您更新您的密碼。 ,module,Magento_Customer
 "Something went wrong while saving the new password.",保存新密碼時出了錯。 ,module,Magento_Customer
-"You deleted the address.",你刪除地址。 ,module,Magento_Customer
+"You deleted the address.",您刪除地址。 ,module,Magento_Customer
 "We can't delete the address right now.",我們現在不能刪除該地址。 ,module,Magento_Customer
 "You saved the address.",地址已經儲存。 ,module,Magento_Customer
 "We can't save the address.",我們不能儲存地址。 ,module,Magento_Customer
 "No customer ID defined.","沒有定義的客戶 ID。",module,Magento_Customer
 "Please correct the quote items and try again.",請更正報價項目，再試一次。 ,module,Magento_Customer
-"You have revoked the customer's tokens.",你已吊銷客戶的令牌。 ,module,Magento_Customer
+"You have revoked the customer's tokens.",您已吊銷客戶的令牌。 ,module,Magento_Customer
 "We can't find a customer to revoke.",我們找不到客戶撤銷。 ,module,Magento_Customer
-"You deleted the customer group.",你刪除客戶組。 ,module,Magento_Customer
+"You deleted the customer group.",您刪除客戶組。 ,module,Magento_Customer
 "The customer group no longer exists.",客戶組不再存在。 ,module,Magento_Customer
 Customers,客戶,module,Magento_Customer
 "New Group",新組,module,Magento_Customer
 "New Customer Groups",新的客戶群體,module,Magento_Customer
 "Edit Group",編輯組,module,Magento_Customer
 "Edit Customer Groups",編輯客戶組,module,Magento_Customer
-"You saved the customer group.",你保存的客戶組。 ,module,Magento_Customer
+"You saved the customer group.",您保存的客戶組。 ,module,Magento_Customer
 "Please select customer(s).",請選擇客戶。 ,module,Magento_Customer
 "Customer could not be deleted.",無法刪除客戶。 ,module,Magento_Customer
-"You deleted the customer.",你刪除的客戶。 ,module,Magento_Customer
+"You deleted the customer.",您刪除的客戶。 ,module,Magento_Customer
 "Something went wrong while editing the customer.",編輯客戶時出了錯。 ,module,Magento_Customer
 "Manage Customers",客戶管理,module,Magento_Customer
 "Please correct the data sent.",請更正發送的數據。 ,module,Magento_Customer
@@ -1889,7 +1889,7 @@ Customers,客戶,module,Magento_Customer
 "A total of %1 record(s) were deleted.","共有 %1 條記錄被刪除。",module,Magento_Customer
 "The customer will receive an email with a link to reset password.",客戶將收到一封電子郵件以將其重置密碼的鏈接。 ,module,Magento_Customer
 "Something went wrong while resetting customer password.",在重置用戶密碼時出了錯。 ,module,Magento_Customer
-"You saved the customer.",你保存的客戶。 ,module,Magento_Customer
+"You saved the customer.",您保存的客戶。 ,module,Magento_Customer
 "Something went wrong while saving the customer.",編輯客戶時出了錯。 ,module,Magento_Customer
 "Page not found.",找不到網頁。 ,module,Magento_Customer
 "Online Customers",在線客戶,module,Magento_Customer
@@ -1969,12 +1969,12 @@ label,標籤,module,Magento_Customer
 "PHP SOAP extension is required.","PHP SOAP 擴展是必需的。",module,Magento_Customer
 "VAT Number is valid.",VAT號碼無效。 ,module,Magento_Customer
 "Please enter a valid VAT number.","請輸入一個有效的 VAT 號碼。",module,Magento_Customer
-"Your VAT ID was successfully validated.","你VAT ID 被成功驗證。",module,Magento_Customer
-"You will be charged tax.",你將收取稅收。 ,module,Magento_Customer
-"You will not be charged tax.",不，你將收取稅收。 ,module,Magento_Customer
+"Your VAT ID was successfully validated.","您VAT ID 被成功驗證。",module,Magento_Customer
+"You will be charged tax.",您將收取稅收。 ,module,Magento_Customer
+"You will not be charged tax.",不，您將收取稅收。 ,module,Magento_Customer
 "The VAT ID entered (%1) is not a valid VAT ID.","輸入的VAT ID (%s) 不是一個有效VAT ID。",module,Magento_Customer
 "Your Tax ID cannot be validated.","無法驗證您的Tax ID。",module,Magento_Customer
-"If you believe this is an error, please contact us at %1","如果你認為這是錯誤的請致電 %1",module,Magento_Customer
+"If you believe this is an error, please contact us at %1","如果您認為這是錯誤的請致電 %1",module,Magento_Customer
 Male,男性,module,Magento_Customer
 Female,女性,module,Magento_Customer
 "Not Specified",未指定,module,Magento_Customer
@@ -1994,7 +1994,7 @@ Edit,編輯,module,Magento_Customer
 Visitor,遊客,module,Magento_Customer
 Customer,客戶,module,Magento_Customer
 "No item specified.",沒有指定的項。 ,module,Magento_Customer
-"Are you sure you want to remove this item?",你確定要刪除這個項目嗎？ ,module,Magento_Customer
+"Are you sure you want to remove this item?",您確定要刪除這個項目嗎？ ,module,Magento_Customer
 "Personal Information",個人信息,module,Magento_Customer
 "Last Logged In:",上次登錄:,module,Magento_Customer
 "Last Logged In (%1):","上次登錄在 (%1):",module,Magento_Customer
@@ -2021,12 +2021,12 @@ Newsletters,訂閱資訊,module,Magento_Customer
 or,或者,module,Magento_Customer
 "Default Addresses",通訊錄,module,Magento_Customer
 "Change Billing Address",更改賬單地址,module,Magento_Customer
-"You have no default billing address in your address book.",你有沒有默認的賬單地址簿中的地址。 ,module,Magento_Customer
+"You have no default billing address in your address book.",您有沒有默認的賬單地址簿中的地址。 ,module,Magento_Customer
 "Change Shipping Address",更改送貨地址,module,Magento_Customer
-"You have no default shipping address in your address book.",你有沒有缺省的送貨地址在您的通訊錄。 ,module,Magento_Customer
+"You have no default shipping address in your address book.",您有沒有缺省的送貨地址在您的通訊錄。 ,module,Magento_Customer
 "Additional Address Entries",其他地址,module,Magento_Customer
 "Delete Address",刪除地址,module,Magento_Customer
-"You have no other address entries in your address book.",你並沒有儲存其他的地址。 ,module,Magento_Customer
+"You have no other address entries in your address book.",您並沒有儲存其他的地址。 ,module,Magento_Customer
 "* Required Fields",*必要字段,module,Magento_Customer
 Company,公司名稱,module,Magento_Customer
 "Phone Number",電話號碼,module,Magento_Customer
@@ -2057,7 +2057,7 @@ Save,儲存,module,Magento_Customer
 "Please enter your email address below to receive a password reset link.",請輸入您的電子郵件地址來接收密碼重置鏈接。 ,module,Magento_Customer
 "Reset My Password",重置我的密碼,module,Magento_Customer
 "Registered Customers",已登記客戶,module,Magento_Customer
-"If you have an account, sign in with your email address.",如果你已登記成為會員，請使用電郵地址登入。 ,module,Magento_Customer
+"If you have an account, sign in with your email address.",如果您已登記成為會員，請使用電郵地址登入。 ,module,Magento_Customer
 Password,密碼,module,Magento_Customer
 "Forgot Your Password?",您忘記密碼了嗎?,module,Magento_Customer
 "Subscription option",訂閱資訊,module,Magento_Customer
@@ -2263,7 +2263,7 @@ Refunded,已退款,module,Magento_Downloadable
 "Default Label",默認標籤,module,Magento_Eav
 "Default label",默認標籤,module,Magento_Eav
 "Attribute Code",屬性代碼,module,Magento_Eav
-"This is used internally. Make sure you don't use spaces or more than %1 symbols.",這是在內部使用。確保你不要使用空格或超過1%的符號。 ,module,Magento_Eav
+"This is used internally. Make sure you don't use spaces or more than %1 symbols.",這是在內部使用。確保您不要使用空格或超過1%的符號。 ,module,Magento_Eav
 "Catalog Input Type for Store Owner",店主的目錄輸入的類型,module,Magento_Eav
 "Values Required",必須設定任務名,module,Magento_Eav
 "Default Value",默認值,module,Magento_Eav
@@ -2394,7 +2394,7 @@ label,標籤,module,Magento_Eav
 "Wrong attribute set ID","錯了屬性集 ID",module,Magento_Eav
 "Wrong attribute group ID","錯誤屬性組 ID",module,Magento_Eav
 "AttributeSet does not exist.","AttributeSet 不存在。",module,Magento_Eav
-hello,你好,module,Magento_Eav
+hello,您好,module,Magento_Eav
 "Some internal exception message.",一些內部異常消息。 ,module,Magento_Eav
 "The value of attribute not valid",屬性無效的值,module,Magento_Eav
 "Add New Template",添加新模板,module,Magento_Email
@@ -2419,7 +2419,7 @@ Reset,重置,module,Magento_Email
 "Template Styles",模板中的樣式,module,Magento_Email
 Preview,預覽,module,Magento_Email
 Unknown,未知,module,Magento_Email
-"You deleted the email template.",你刪除了電子郵件模板。 ,module,Magento_Email
+"You deleted the email template.",您刪除了電子郵件模板。 ,module,Magento_Email
 "The email template is currently being used.",當前正在使用的電子郵件模板。 ,module,Magento_Email
 "We can't delete email template data right now. Please review log and try again.",我們現在不能刪除電子郵件模板數據。請檢查日誌並再試一次。 ,module,Magento_Email
 "We can't find an email template to delete.",我們找不到要刪除的電子郵件模板。 ,module,Magento_Email
@@ -2431,7 +2431,7 @@ Unknown,未知,module,Magento_Email
 "Email Preview",電子郵件預覽,module,Magento_Email
 "An error occurred. The email template can not be opened for preview.",時出錯。不能預覽打開的電子郵件模板。 ,module,Magento_Email
 "This email template no longer exists.",此電子郵件模板不再存在。 ,module,Magento_Email
-"You saved the email template.",你保存的電子郵件模板。 ,module,Magento_Email
+"You saved the email template.",您保存的電子郵件模板。 ,module,Magento_Email
 "Area is already set",已經設置地區,module,Magento_Email
 "Design config must have area and store.",設計配置必須有地區和存儲。 ,module,Magento_Email
 "Base Unsecure URL","基本不安全 URL",module,Magento_Email
@@ -2472,10 +2472,10 @@ City,城市,module,Magento_Email
 Title,標題,module,Magento_Email
 "Load default template",加載默認模板,module,Magento_Email
 Template,模板,module,Magento_Email
-"Are you sure you want to strip tags?",你確定你想要去除標籤?,module,Magento_Email
+"Are you sure you want to strip tags?",您確定您想要去除標籤?,module,Magento_Email
 "Are you sure you want to delete this template?",是否確實要刪除此模板?,module,Magento_Email
 "The template did not load. Please review the log for details.",未加載該模板。請查看日誌的詳細信息。 ,module,Magento_Email
-"Change Encryption Key","這是你的新的加密密鑰：<span style=""font-family:monospace;"">%1</span>。' '一定要記下來，並保存好！ ",module,Magento_EncryptionKey
+"Change Encryption Key","這是您的新的加密密鑰：<span style=""font-family:monospace;"">%1</span>。' '一定要記下來，並保存好！ ",module,Magento_EncryptionKey
 "Encryption Key",加密密鑰,module,Magento_EncryptionKey
 "New Encryption Key",新的加密密鑰,module,Magento_EncryptionKey
 "The encryption key is used to protect passwords and other sensitive data.",加密密鑰用於保護密碼和其他敏感數據。 ,module,Magento_EncryptionKey
@@ -2546,19 +2546,19 @@ From,從,module,Magento_GiftMessage
 To,至,module,Magento_GiftMessage
 Message,信息,module,Magento_GiftMessage
 Cancel,保存,module,Magento_GiftMessage
-"Gift Options",請將此框留空，如果你不想留下禮物消息的整個訂單。 ,module,Magento_GiftMessage
+"Gift Options",請將此框留空，如果您不想留下禮物消息的整個訂單。 ,module,Magento_GiftMessage
 "Gift Message",禮品消息,module,Magento_GiftMessage
 "Do you have any gift items in your order?",您在您的訂單有任何礼品嗎?,module,Magento_GiftMessage
 "Add gift options",添加禮物選項,module,Magento_GiftMessage
 "Gift Options for the Entire Order",整個訂單的禮物選項,module,Magento_GiftMessage
-"Leave this box blank if you don't want to leave a gift message for the entire order.",將此框保留為空，如果你不想離開整個訂單的禮物留言。 ,module,Magento_GiftMessage
+"Leave this box blank if you don't want to leave a gift message for the entire order.",將此框保留為空，如果您不想離開整個訂單的禮物留言。 ,module,Magento_GiftMessage
 "Gift Options for Individual Items",個別項目的禮物選項,module,Magento_GiftMessage
 "<span>Item %1</span> of %2","<span>項目 %1</span> 的 %2",module,Magento_GiftMessage
-"Leave a box blank if you don't want to add a gift message for that item.",將框留空，如果你不想添加該項目的禮物留言。 ,module,Magento_GiftMessage
+"Leave a box blank if you don't want to add a gift message for that item.",將框留空，如果您不想添加該項目的禮物留言。 ,module,Magento_GiftMessage
 "Add Gift Options for the Entire Order",添加整個訂單的禮物選項,module,Magento_GiftMessage
-"You can leave this box blank if you don't want to add a gift message for this address.",您可以將此框留空，如果你不想要添加此地址的禮物留言。 ,module,Magento_GiftMessage
+"You can leave this box blank if you don't want to add a gift message for this address.",您可以將此框留空，如果您不想要添加此地址的禮物留言。 ,module,Magento_GiftMessage
 "Add gift options for Individual Items",添加單個項目的禮物選項,module,Magento_GiftMessage
-"You can leave this box blank if you don't want to add a gift message for the item.",您可以將此框留空，如果你不想要添加項目的禮物留言。 ,module,Magento_GiftMessage
+"You can leave this box blank if you don't want to add a gift message for the item.",您可以將此框留空，如果您不想要添加項目的禮物留言。 ,module,Magento_GiftMessage
 Dynamic,動態,module,Magento_GoogleAdwords
 Constant,轉換值,module,Magento_GoogleAdwords
 "Conversion Color value is not valid ""%1"". Please set hexadecimal 6-digit value.","轉換顏色值不是有效的""%1""。請設置6 位數的十六進制值。 ",module,Magento_GoogleAdwords
@@ -2664,7 +2664,7 @@ Status,狀態,module,Magento_ImportExport
 "This file does not contain any data.",此文件不包含任何數據。 ,module,Magento_ImportExport
 "Begin import of ""%1"" with ""%2"" behavior","開始導入的""%1""""%2""行為",module,Magento_ImportExport
 "The import was successful.",導出成功。 ,module,Magento_ImportExport
-"The file you uploaded has no extension.",你上傳的文件有沒有擴展名。 ,module,Magento_ImportExport
+"The file you uploaded has no extension.",您上傳的文件有沒有擴展名。 ,module,Magento_ImportExport
 "The source file moving process failed.",源文件移動過程失敗。 ,module,Magento_ImportExport
 "Begin data validation",開始數據驗證,module,Magento_ImportExport
 "Import data validation is complete.",導入數據驗證已完成。 ,module,Magento_ImportExport
@@ -2705,7 +2705,7 @@ Never,永不,module,Magento_Indexer
 "%1 indexer(s) are in ""Update by Schedule"" mode.","%1 indexer(s) 是在""更新的時間表""模式。",module,Magento_Indexer
 "We couldn't change indexer(s)' mode because of an error.","我們不能改變 indexer(s)' 由於錯誤的模式。",module,Magento_Indexer
 "%1 indexer(s) are in ""Update on Save"" mode.","%1 indexer(s) 是在""存儲更新""模式。",module,Magento_Indexer
-"One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a > is running.","一個或多個<a href=""%1""> 索引器無效</a>。請確保你的<a href=""%2""target=""_blank" "> Magento cron 作業</a> 正在運行。",module,Magento_Indexer
+"One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a > is running.","一個或多個<a href=""%1""> 索引器無效</a>。請確保您的<a href=""%2""target=""_blank" "> Magento cron 作業</a> 正在運行。",module,Magento_Indexer
 "State for the same indexer",國家為同一索引器的,module,Magento_Indexer
 "State for the same view",同一視圖的狀態,module,Magento_Indexer
 "Some Exception Message",一些異常消息,module,Magento_Indexer
@@ -2756,8 +2756,8 @@ Reauthorize,批准,module,Magento_Integration
 "You did not sign in correctly or your account is temporarily disabled.",登錄不正確或者您的賬號已禁用。 ,module,Magento_Integration
 "This user has no tokens.",此用戶已沒有標記。 ,module,Magento_Integration
 "The tokens could not be revoked.",標記不會被吊銷。 ,module,Magento_Integration
-"Sorry, something went wrong granting permissions. You can find out more in the exceptions log.",對不起，出了錯授予權限。你可以找出更多的異常日誌。 ,module,Magento_Integration
-"Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.",刪除角色和權限時出了錯。你可以找出更多的異常日誌。 ,module,Magento_Integration
+"Sorry, something went wrong granting permissions. You can find out more in the exceptions log.",對不起，出了錯授予權限。您可以找出更多的異常日誌。 ,module,Magento_Integration
+"Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.",刪除角色和權限時出了錯。您可以找出更多的異常日誌。 ,module,Magento_Integration
 "This customer has no tokens.",該客戶有沒有標記。 ,module,Magento_Integration
 Inactive,未激活,module,Magento_Integration
 Active,活動,module,Magento_Integration
@@ -2835,7 +2835,7 @@ Partners,合作夥伴,module,Magento_Marketplace
 "Partner search",合作夥伴搜索,module,Magento_Marketplace
 "Magento has a thriving ecosystem of technology partners to help merchants and brands deliver the best possible customer experiences. They are recognized as experts in eCommerce, search, email marketing, payments, tax, fraud, optimization and analytics, fulfillment, and more. Visit the Magento Partner Directory to see all of our trusted partners.","Magento 有欣欣向榮的生態系統的技術合作夥伴，幫助商家和品牌提供最佳的客戶體驗。他們被公認的在電子商務、 搜索、 電子郵件營銷、 支付、 稅收、 欺詐、 優化和分析、 實踐，和更多的專家。訪問Magento 合作夥伴目錄以查看所有我們可信賴的合作夥伴。",module,Magento_Marketplace
 "More Partners",更多的合作夥伴,module,Magento_Marketplace
-"Extensions and Themes are an essential component of the Magento Ecosystem. Please visit the Magento Marketplace to see the latest innovations that developers have created to enhance your Magento Store.","擴展和主題是Magento 生態系統的重要組成部分。請訪問Magento 市場上看到最新的創新，開發人員創建以提高你的Magento 商店。",module,Magento_Marketplace
+"Extensions and Themes are an essential component of the Magento Ecosystem. Please visit the Magento Marketplace to see the latest innovations that developers have created to enhance your Magento Store.","擴展和主題是Magento 生態系統的重要組成部分。請訪問Magento 市場上看到最新的創新，開發人員創建以提高您的Magento 商店。",module,Magento_Marketplace
 "Visit Magento Marketplaces","訪問 Magento 市場",module,Magento_Marketplace
 "Read More",閱讀更多,module,Magento_Marketplace
 "Partner Page",合作夥伴頁,module,Magento_Marketplace
@@ -2859,7 +2859,7 @@ Database,數據庫,module,Magento_MediaStorage
 "File with an extension ""%value%"" is protected and cannot be uploaded","""%value%""擴展名的文件受到保護，不能上傳",module,Magento_MediaStorage
 "Unable to create directory: %1","無法創建目錄: %1",module,Magento_MediaStorage
 "Unable to save file: %1","無法保存文件: %1",module,Magento_MediaStorage
-"To see product price, add this item to your cart. You can always remove it later.",若要查看產品價格，向您的購物車添加此項。你總是可以稍後移除它。 ,module,Magento_Msrp
+"To see product price, add this item to your cart. You can always remove it later.",若要查看產品價格，向您的購物車添加此項。您總是可以稍後移除它。 ,module,Magento_Msrp
 "See price before order confirmation.",確認訂單前顯示價格。 ,module,Magento_Msrp
 "On Gesture",在手勢上,module,Magento_Msrp
 "In Cart",購物車中,module,Magento_Msrp
@@ -2867,7 +2867,7 @@ Database,數據庫,module,Magento_MediaStorage
 "Use config",用戶配置,module,Magento_Msrp
 "Click for price",單擊獲取價格,module,Magento_Msrp
 "What's this?",這是什麼？ ,module,Magento_Msrp
-"Order total will be displayed before you submit the order",在你提交訂單之前，將顯示訂單總計,module,Magento_Msrp
+"Order total will be displayed before you submit the order",在您提交訂單之前，將顯示訂單總計,module,Magento_Msrp
 "You will see the order total before you submit the order.",在您提交訂單前，您將看到訂單總額。 ,module,Magento_Msrp
 Price,價格,module,Magento_Msrp
 "Actual Price",實際價格,module,Magento_Msrp
@@ -2971,7 +2971,7 @@ Message,信息,module,Magento_Newsletter
 "Newsletter Styles",新聞稿樣式,module,Magento_Newsletter
 Start,開始,module,Magento_Newsletter
 Pause,暫停,module,Magento_Newsletter
-"Do you really want to cancel the queue?",你真的想要取消隊列嗎?,module,Magento_Newsletter
+"Do you really want to cancel the queue?",您真的想要取消隊列嗎?,module,Magento_Newsletter
 Cancel,保存,module,Magento_Newsletter
 Resume,簡歷,module,Magento_Newsletter
 Preview,預覽,module,Magento_Newsletter
@@ -2997,14 +2997,14 @@ Sender,發送方,module,Magento_Newsletter
 "Template Type",模板類型,module,Magento_Newsletter
 Action,操作,module,Magento_Newsletter
 "Queue Newsletter",隊列通訊,module,Magento_Newsletter
-"We unsubscribed the people you identified.",我們取消訂閱你確定的人。 ,module,Magento_Newsletter
-"The problems you identified have been deleted.",你發現的問題已被刪除。 ,module,Magento_Newsletter
+"We unsubscribed the people you identified.",我們取消訂閱您確定的人。 ,module,Magento_Newsletter
+"The problems you identified have been deleted.",您發現的問題已被刪除。 ,module,Magento_Newsletter
 "Newsletter Problems Report",通訊問題報告,module,Magento_Newsletter
 "Newsletter Problem Reports",通訊問題報告,module,Magento_Newsletter
 "Newsletter Queue",通訊隊列,module,Magento_Newsletter
 "Edit Queue",編輯隊列,module,Magento_Newsletter
 "Please correct the newsletter template and try again.",請更正新聞稿模板，再試一次。 ,module,Magento_Newsletter
-"You saved the newsletter queue.",你保存通訊隊列。 ,module,Magento_Newsletter
+"You saved the newsletter queue.",您保存通訊隊列。 ,module,Magento_Newsletter
 "Newsletter Subscribers",時事通訊訂閱服務器,module,Magento_Newsletter
 Newsletter,已暫停,module,Magento_Newsletter
 Subscribers,訂閱用戶,module,Magento_Newsletter
@@ -3032,8 +3032,8 @@ Subscribers,訂閱用戶,module,Magento_Newsletter
 "Thank you for your subscription.",謝謝您的訂閱。 ,module,Magento_Newsletter
 "There was a problem with the subscription: %1","還有一個問題與訂閱: %1",module,Magento_Newsletter
 "Something went wrong with the subscription.",該訂閱出毛病了。 ,module,Magento_Newsletter
-"You unsubscribed.",你退訂。 ,module,Magento_Newsletter
-"Something went wrong while unsubscribing you.",取消訂閱你時出了錯。 ,module,Magento_Newsletter
+"You unsubscribed.",您退訂。 ,module,Magento_Newsletter
+"Something went wrong while unsubscribing you.",取消訂閱您時出了錯。 ,module,Magento_Newsletter
 Sent,已發送,module,Magento_Newsletter
 Cancelled,取消,module,Magento_Newsletter
 "Not Sent",未發送,module,Magento_Newsletter
@@ -3046,7 +3046,7 @@ Paused,已暫停,module,Magento_Newsletter
 "Choose Store View:",選擇商店界面:,module,Magento_Newsletter
 "Newsletter Message Preview",新聞快遞郵件預覽,module,Magento_Newsletter
 "Add to Queue",添加到隊列,module,Magento_Newsletter
-"Are you sure that you want to strip all tags?",你確定你想要去掉所有標記?,module,Magento_Newsletter
+"Are you sure that you want to strip all tags?",您確定您想要去掉所有標記?,module,Magento_Newsletter
 "Please enter a new template name.",請輸入一個新的模板名稱。 ,module,Magento_Newsletter
 "Are you sure you want to delete this template?",是否確實要刪除此模板?,module,Magento_Newsletter
 "Sign Up for Our Newsletter:",註冊我們的時事通訊:,module,Magento_Newsletter
@@ -3112,7 +3112,7 @@ Shipping,運費,module,Magento_Payment
 "The payment disallows storing objects.",付款不允許存儲對象。 ,module,Magento_Payment
 "We cannot retrieve the payment method code.",我們無法檢索的付款方法代碼。 ,module,Magento_Payment
 "We cannot retrieve the payment information object instance.",我們無法檢索付款信息對象實例。 ,module,Magento_Payment
-"You can't use the payment type you selected to make payments to the billing country.",您不能使用你選擇及時向該國賬單支付的付款類型。 ,module,Magento_Payment
+"You can't use the payment type you selected to make payments to the billing country.",您不能使用您選擇及時向該國賬單支付的付款類型。 ,module,Magento_Payment
 "The order action is not available.",訂單操作不可用。 ,module,Magento_Payment
 "The authorize action is not available.",授權操作不可用。 ,module,Magento_Payment
 "The capture action is not available.",抓捕行動不是可用的。 ,module,Magento_Payment
@@ -3161,7 +3161,7 @@ Purchased,已購買,module,Magento_Paypal
 "Transaction Information",交易信息,module,Magento_Paypal
 "PayPal Fee Information",貝寶收費信息,module,Magento_Paypal
 "PayPal Settlement Reports",PayPal處理報告,module,Magento_Paypal
-"We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","我們正在連接到貝寶 SFTP 服務器以檢索新的報告。你確定要繼續嗎?",module,Magento_Paypal
+"We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","我們正在連接到貝寶 SFTP 服務器以檢索新的報告。您確定要繼續嗎?",module,Magento_Paypal
 "Fetch Updates",獲取更新,module,Magento_Paypal
 button_label,按鈕名稱,module,Magento_Paypal
 Help,幫助,module,Magento_Paypal
@@ -3177,9 +3177,9 @@ Close,關閉,module,Magento_Paypal
 "Shipping Information",運輸方式,module,Magento_Paypal
 "Invalid block type",無效的模塊類型,module,Magento_Paypal
 "Please specify the correct billing agreement ID and try again.","請指定正確的賬單協議 ID，然後重試。",module,Magento_Paypal
-"You canceled the billing agreement.",你取消賬單協議。 ,module,Magento_Paypal
+"You canceled the billing agreement.",您取消賬單協議。 ,module,Magento_Paypal
 "We can't cancel the billing agreement.",我們不能取消賬單協議。 ,module,Magento_Paypal
-"You deleted the billing agreement.",你刪除賬單協議。 ,module,Magento_Paypal
+"You deleted the billing agreement.",您刪除賬單協議。 ,module,Magento_Paypal
 "We can't delete the billing agreement.",我們不能刪除賬單協議。 ,module,Magento_Paypal
 Reports,報告,module,Magento_Paypal
 Sales,銷售,module,Magento_Paypal
@@ -3204,17 +3204,17 @@ Sales,銷售,module,Magento_Paypal
 "We can't update shipping method.",我們不能更新的運輸方法。 ,module,Magento_Paypal
 "We can't start Express Checkout.",我們不能開始快速結賬。 ,module,Magento_Paypal
 "To check out, please sign in with your email address.",要簽出，請使用您的電子郵件地址登錄。 ,module,Magento_Paypal
-"Your payment has been declined. Please try again.",你的付款已經被拒絕，請重試,module,Magento_Paypal
+"Your payment has been declined. Please try again.",您的付款已經被拒絕，請重試,module,Magento_Paypal
 "Requested payment method does not match with order.",請求的付款方法與訂單不符。 ,module,Magento_Paypal
-"Would you like to sign a billing agreement to streamline further purchases with PayPal?",你想簽賬單的協議，以進一步精簡與貝寶購買嗎?,module,Magento_Paypal
+"Would you like to sign a billing agreement to streamline further purchases with PayPal?",您想簽賬單的協議，以進一步精簡與貝寶購買嗎?,module,Magento_Paypal
 "Error processing payment, please try again later.",錯誤處理付款，請稍後再試。 ,module,Magento_Paypal
 "Payment Gateway is unreachable at the moment. Please use another payment option.",目前，支付網關是遙不可及。請使用另一種付款方式。 ,module,Magento_Paypal
 "PayPal response hasn't required fields.",支付寶回應並沒有要求領域。 ,module,Magento_Paypal
 "Something went wrong while processing your order.",在處理您的訂單時，出了錯。 ,module,Magento_Paypal
 "PayPal gateway has rejected request. %1","支付寶網關拒絕了請求。% 1",module,Magento_Paypal
 "The PayPal gateway rejected the request. %1","支付寶網關拒絕了請求。% 1",module,Magento_Paypal
-"I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.",我很抱歉-但我們也不能夠處理您的付款。請嘗試另一種付款方式或與我們聯繫，以便我們可以協助你。 ,module,Magento_Paypal
-"I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.",我很抱歉-但我們不能夠完成您的交易。請與我們聯繫，以便我們可以協助你。 ,module,Magento_Paypal
+"I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.",我很抱歉-但我們也不能夠處理您的付款。請嘗試另一種付款方式或與我們聯繫，以便我們可以協助您。 ,module,Magento_Paypal
+"I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.",我很抱歉-但我們不能夠完成您的交易。請與我們聯繫，以便我們可以協助您。 ,module,Magento_Paypal
 "The payment method code is not set.",未設置付款方法代碼。 ,module,Magento_Paypal
 "The reference ID is not set.","未設置的參考 ID。",module,Magento_Paypal
 "Unable to save Billing Agreement:",無法保存收費協議:,module,Magento_Paypal
@@ -3268,7 +3268,7 @@ Never,永不,module,Magento_Paypal
 "A reversal has occurred on this transaction due to a chargeback by your customer.",由於您的客戶計費的這筆交易發生了逆轉。 ,module,Magento_Paypal
 "A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.",由於觸發退款保證您客戶的這筆交易發生了逆轉。 ,module,Magento_Paypal
 "A reversal has occurred on this transaction due to a complaint about the transaction from your customer.",從您的客戶交易投訴此交易發生了逆轉。 ,module,Magento_Paypal
-"A reversal has occurred on this transaction because you have given the customer a refund.",因為你給客戶退款這筆交易上出現逆轉。 ,module,Magento_Paypal
+"A reversal has occurred on this transaction because you have given the customer a refund.",因為您給客戶退款這筆交易上出現逆轉。 ,module,Magento_Paypal
 "Reversal of an adjustment.",逆轉的調整。 ,module,Magento_Paypal
 "Transaction reversal due to fraud detected by PayPal administrators.",由於支付寶管理人員檢測到的欺詐交易。 ,module,Magento_Paypal
 "Transaction reversal by PayPal administrators.",通過支付寶管理員的交易撤銷。 ,module,Magento_Paypal
@@ -3335,9 +3335,9 @@ CPF,中央公積金,module,Magento_Paypal
 "Note: %1","注: %1",module,Magento_Paypal
 "IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4","IPN""%1""。案例類型""%2""。用例ID ""%3""%4",module,Magento_Paypal
 "IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.","IPN""%1""。爭議已解決並關閉。%2 交易量%3。", module,Magento_Paypal
-"You notified customer about invoice #%1.","你通知客戶關於發票 #%1。",module,Magento_Paypal
+"You notified customer about invoice #%1.","您通知客戶關於發票 #%1。",module,Magento_Paypal
 "IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN""%1""。%2 交易量%3。交易記錄ID:""% 4""",module,Magento_Paypal
-"You notified customer about creditmemo #%1.","你通知客戶關於付款 #%1。",module,Magento_Paypal
+"You notified customer about creditmemo #%1.","您通知客戶關於付款 #%1。",module,Magento_Paypal
 "IPN ""%1""","IPN""%1""",module,Magento_Paypal
 "Payflow PNREF: #%1.","轉賬 PNREF: #%1。",module,Magento_Paypal
 "Unable to fetch transaction details.",無法獲取交易記錄詳細信息。 ,module,Magento_Paypal
@@ -3345,8 +3345,8 @@ CPF,中央公積金,module,Magento_Paypal
 "Transaction has been declined",交易記錄已被拒絕,module,Magento_Paypal
 "Error processing payment. Please try again later.",錯誤處理付款。請稍後再試。 ,module,Magento_Paypal
 "We cannot send the new order email.",我們不能發送新的訂單郵件。 ,module,Magento_Paypal
-"You cannot void a verification transaction.",你不能驗證交易記錄無效。 ,module,Magento_Paypal
-"You need an authorization transaction to void.",你需要到無效授權交易。 ,module,Magento_Paypal
+"You cannot void a verification transaction.",您不能驗證交易記錄無效。 ,module,Magento_Paypal
+"You need an authorization transaction to void.",您需要到無效授權交易。 ,module,Magento_Paypal
 "We can't issue a refund transaction because there is no capture transaction.",我們不能發出退款交易，因為沒有捕捉交易。 ,module,Magento_Paypal
 "We cannot create a target file for reading reports.",我們不能為創建一個目標文件閱讀報告。 ,module,Magento_Paypal
 "Report Date",報告日期,module,Magento_Paypal
@@ -3473,9 +3473,9 @@ Customer,客戶,module,Magento_Paypal
 "Updated At",更新,module,Magento_Paypal
 here,在這裡,module,Magento_Paypal
 "To use PayPal Payments Advanced, you must configure your PayPal Payments Advanced account on the PayPal website.",若要使用貝寶付款先進，必須在貝寶網站上配置您的貝寶付款高級帳戶。 ,module,Magento_Paypal
-"Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","一旦你登錄到您的PayPal 高級帳戶、 導航到服務設置-主辦結帳頁面-設置目錄和設置選項如下所述",module,Magento_Paypal
+"Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","一旦您登錄到您的PayPal 高級帳戶、 導航到服務設置-主辦結帳頁面-設置目錄和設置選項如下所述",module,Magento_Paypal
 "To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","若要使用 PayPal 轉賬鏈接，您必須在貝寶網站上配置您的 PayPal 轉賬鏈接帳戶。",module,Magento_Paypal
-"Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","一旦你登錄到您的PayPal 轉賬鏈接帳戶、 導航到服務設置-主辦結帳頁面-設置目錄和設置選項如下所述",module,Magento_Paypal
+"Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","一旦您登錄到您的PayPal 轉賬鏈接帳戶、 導航到服務設置-主辦結帳頁面-設置目錄和設置選項如下所述",module,Magento_Paypal
 "Agreement Information",協議信息,module,Magento_Paypal
 "Reference ID:","引用 ID:",module,Magento_Paypal
 Status:,狀態:,module,Magento_Paypal
@@ -3515,7 +3515,7 @@ Subtotal,小計,module,Magento_Paypal
 "Please update order data to get shipping methods and rates",請更新訂單數據以獲取運輸方法和費率,module,Magento_Paypal
 or,或者,module,Magento_Paypal
 "Checkout with PayPal",使用Paypal支付,module,Magento_Paypal
-"Please do not refresh the page until you complete payment.",請不要刷新頁面，直到你完成付款。 ,module,Magento_Paypal
+"Please do not refresh the page until you complete payment.",請不要刷新頁面，直到您完成付款。 ,module,Magento_Paypal
 "You will be required to enter your payment details after you place an order.",下訂單之後您需要輸入您的付款信息,module,Magento_Paypal
 Continue,繼續,module,Magento_Paypal
 "Additional Options",附加選項,module,Magento_Paypal
@@ -3523,7 +3523,7 @@ Continue,繼續,module,Magento_Paypal
 "Acceptance Mark",驗收標誌,module,Magento_Paypal
 "What is PayPal?","PayPal 是什麼?",module,Magento_Paypal
 "Sign a billing agreement to streamline further purchases with PayPal.",簽署一項協議，簡化使用Paypal支付的流程。 ,module,Magento_Paypal
-"Not you?",不是你嗎？ ,module,Magento_Persistent
+"Not you?",不是您嗎？ ,module,Magento_Persistent
 "Your shopping cart has been updated with new prices.",您的購物車已被新的價格更新。 ,module,Magento_Persistent
 "Welcome, %1!",歡迎您，%1!,module,Magento_Persistent
 "We cannot load the configuration from file %1.","我們不能從文件 %1 加載配置。",module,Magento_Persistent
@@ -3531,24 +3531,24 @@ Continue,繼續,module,Magento_Paypal
 "To check out, please sign in using your email address.",要簽出，請登錄使用您的電子郵件地址。 ,module,Magento_Persistent
 "Remember Me",記住我,module,Magento_Persistent
 "What's this?",這是什麼,module,Magento_Persistent
-"Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","勾選""記住我""來訪問這台計算機上您的購物車，即使你不在簽署。",module,Magento_Persistent
+"Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","勾選""記住我""來訪問這台計算機上您的購物車，即使您不在簽署。",module,Magento_Persistent
 "You saved the alert subscription.",您保存了訂閱的提醒。 ,module,Magento_ProductAlert
 "There are not enough parameters.",沒有足夠的參數。 ,module,Magento_ProductAlert
 "We can't update the alert subscription right now.",我們不能更新現在您訂閱的提醒。 ,module,Magento_ProductAlert
 "Alert subscription has been saved.",警報訂閱已被保存。 ,module,Magento_ProductAlert
-"You deleted the alert subscription.",你刪除您訂閱的提醒。 ,module,Magento_ProductAlert
+"You deleted the alert subscription.",您刪除您訂閱的提醒。 ,module,Magento_ProductAlert
 "We can't find the product.",我們找不到該產品,module,Magento_ProductAlert
-"You will no longer receive price alerts for this product.",你不會再收到該商品價格提醒。 ,module,Magento_ProductAlert
+"You will no longer receive price alerts for this product.",您不會再收到該商品價格提醒。 ,module,Magento_ProductAlert
 "Unable to update the alert subscription.",無法更新訂閱的提醒。 ,module,Magento_ProductAlert
-"You will no longer receive stock alerts for this product.",你不會再收到該商品庫存提醒。 ,module,Magento_ProductAlert
+"You will no longer receive stock alerts for this product.",您不會再收到該商品庫存提醒。 ,module,Magento_ProductAlert
 "The product was not found.",找不到產品。 ,module,Magento_ProductAlert
-"You will no longer receive stock alerts.",你不會再收到庫存變化的提醒。 ,module,Magento_ProductAlert
+"You will no longer receive stock alerts.",您不會再收到庫存變化的提醒。 ,module,Magento_ProductAlert
 "Invalid block type: %1","無效的塊類型: %1",module,Magento_ProductAlert
-"Price change alert! We wanted you to know that prices have changed for these products:",價格變化警報!我們想讓你知道價格換了這些產品:,module,Magento_ProductAlert
+"Price change alert! We wanted you to know that prices have changed for these products:",價格變化警報!我們想讓您知道價格換了這些產品:,module,Magento_ProductAlert
 Price:,價格:,module,Magento_ProductAlert
 "Click here to stop alerts for this product.",單擊此處停止這種產品的警報。 ,module,Magento_ProductAlert
 "Unsubscribe from all price alerts",退訂所有價格提醒,module,Magento_ProductAlert
-"In stock alert! We wanted you to know that these products are now available:",在股票的警報!我們想讓你知道這些產品現已可用:,module,Magento_ProductAlert
+"In stock alert! We wanted you to know that these products are now available:",在股票的警報!我們想讓您知道這些產品現已可用:,module,Magento_ProductAlert
 "Unsubscribe from all stock alerts",退訂所有股票警報,module,Magento_ProductAlert
 Url,網址,module,Magento_ProductVideo
 Title,標題,module,Magento_ProductVideo
@@ -3746,7 +3746,7 @@ Coupons,優惠券,module,Magento_Reports
 "Products in Carts",在車中的產品,module,Magento_Reports
 Statistics,統計數據,module,Magento_Reports
 "No report code is specified.",指定沒有報告代碼。 ,module,Magento_Reports
-"You refreshed lifetime statistics.",你刷新生存時間統計。 ,module,Magento_Reports
+"You refreshed lifetime statistics.",您刷新生存時間統計。 ,module,Magento_Reports
 "We can't refresh lifetime statistics.",我們不能刷新生存時間統計。 ,module,Magento_Reports
 "Recent statistics have been updated.",最近的統​​計數據進行了更新。 ,module,Magento_Reports
 "We can't refresh recent statistics.",我們不能刷新最近的統計數據。 ,module,Magento_Reports
@@ -3850,14 +3850,14 @@ Reviews,點評,module,Magento_Review
 "Something went wrong while deleting these records.",在刪除這些記錄時，出了錯。 ,module,Magento_Review
 "A total of %1 record(s) have been updated.","已經更新 %1的記錄",module,Magento_Review
 "Something went wrong while updating these review(s).",在更新這些請稍後再試時出了錯。 ,module,Magento_Review
-"You saved the review.",你保存的審查。 ,module,Magento_Review
+"You saved the review.",您保存的審查。 ,module,Magento_Review
 "Something went wrong while saving this review.",保存此審查時出了錯。 ,module,Magento_Review
 "The review was removed by another user or does not exist.",檢討由另一個用戶刪除或不存在。 ,module,Magento_Review
-"You deleted the rating.",你刪除的評級。 ,module,Magento_Review
+"You deleted the rating.",您刪除的評級。 ,module,Magento_Review
 Ratings,評級,module,Magento_Review
-"You saved the rating.",你保存的評級。 ,module,Magento_Review
+"You saved the rating.",您保存的評級。 ,module,Magento_Review
 "My Product Reviews",我的產品評論,module,Magento_Review
-"You submitted your review for moderation.",您提交你審查為適度。 ,module,Magento_Review
+"You submitted your review for moderation.",您提交您審查為適度。 ,module,Magento_Review
 "We can't post your review right now.",我們現在不能發表您的評論。 ,module,Magento_Review
 "Storage key was not set",未設置存儲鍵,module,Magento_Review
 Approved,已批准,module,Magento_Review
@@ -3874,7 +3874,7 @@ Pending,待付款,module,Magento_Review
 Rating,評分,module,Magento_Review
 Actions,動作,module,Magento_Review
 "See Details",查看具體信息,module,Magento_Review
-"You have submitted no reviews.",你沒有提交評論。 ,module,Magento_Review
+"You have submitted no reviews.",您沒有提交評論。 ,module,Magento_Review
 Back,後退,module,Magento_Review
 "My Recent Reviews",我最近的評論,module,Magento_Review
 "View All",查看全部,module,Magento_Review
@@ -3987,7 +3987,7 @@ Promotions,促銷活動,module,Magento_SalesRule
 "Something went wrong while generating coupons. Please review the log and try again.",在生成優惠券時出了錯。請查看日誌並再試一次。 ,module,Magento_SalesRule
 Catalog,目錄,module,Magento_SalesRule
 "The wrong rule is specified.",指定了錯誤的規則。 ,module,Magento_SalesRule
-"You saved the rule.",你保存的規則。 ,module,Magento_SalesRule
+"You saved the rule.",您保存的規則。 ,module,Magento_SalesRule
 "Something went wrong while saving the rule data. Please review the error log.",保存規則數據時出了錯。請查看錯誤日誌。 ,module,Magento_SalesRule
 Alphanumeric,字母表,module,Magento_SalesRule
 Alphabetical,字母表,module,Magento_SalesRule
@@ -4070,7 +4070,7 @@ Billing,賬單,module,Magento_Sales
 "Please correct the parent block for this block.",請更正此塊的父塊。 ,module,Magento_Sales
 "Submit Comment",分離段,module,Magento_Sales
 "Submit Order",提交訂單,module,Magento_Sales
-"Are you sure you want to cancel this order?",你確定你想要取消此訂單?,module,Magento_Sales
+"Are you sure you want to cancel this order?",您確定您想要取消此訂單?,module,Magento_Sales
 Cancel,保存,module,Magento_Sales
 "Billing Address",賬單地址,module,Magento_Sales
 "Payment Method",支付方式,module,Magento_Sales
@@ -4107,7 +4107,7 @@ Quantity,數量,module,Magento_Sales
 "Shipping Method",運送方式,module,Magento_Sales
 "Update Changes",更新更改,module,Magento_Sales
 "Shopping Cart",購物車,module,Magento_Sales
-"Are you sure you want to delete all items from shopping cart?",你確定你想要從購物車中刪除所有商品?,module,Magento_Sales
+"Are you sure you want to delete all items from shopping cart?",您確定您想要從購物車中刪除所有商品?,module,Magento_Sales
 "Clear Shopping Cart",沒有付款方式,module,Magento_Sales
 "Products in Comparison List",在比較列表中的產品,module,Magento_Sales
 "Recently Compared Products",最近查看過的產品,module,Magento_Sales
@@ -4135,7 +4135,7 @@ Refund,退款,module,Magento_Sales
 "Adjustment Refund",調整退款,module,Magento_Sales
 "Adjustment Fee",費用的調整,module,Magento_Sales
 "Send Email",發送郵件,module,Magento_Sales
-"Are you sure you want to send a credit memo email to customer?",你確定你想要寄給客戶他的信用備忘錄電子郵件?,module,Magento_Sales
+"Are you sure you want to send a credit memo email to customer?",您確定您想要寄給客戶他的信用備忘錄電子郵件?,module,Magento_Sales
 Void,創建於,module,Magento_Sales
 Print,打印,module,Magento_Sales
 "The credit memo email was sent.",信用備忘錄電子郵件已發送。 ,module,Magento_Sales
@@ -4146,7 +4146,7 @@ Print,打印,module,Magento_Sales
 "New Invoice for Order #%1","訂單 #%1 的新發票",module,Magento_Sales
 "Submit Invoice and Shipment",提交發票和裝運,module,Magento_Sales
 "Submit Invoice",提交發票,module,Magento_Sales
-"Are you sure you want to send an invoice email to customer?",你確定你想要寄給客戶他的發票電子郵件?,module,Magento_Sales
+"Are you sure you want to send an invoice email to customer?",您確定您想要寄給客戶他的發票電子郵件?,module,Magento_Sales
 "Credit Memo",信用備忘錄,module,Magento_Sales
 Capture,捕獲,module,Magento_Sales
 "The invoice email was sent.",發票電子郵件已發送。 ,module,Magento_Sales
@@ -4174,15 +4174,15 @@ Capture,捕獲,module,Magento_Sales
 "Total Refunded",退款總計,module,Magento_Sales
 "Total Due",應付款總額,module,Magento_Sales
 Edit,編輯,module,Magento_Sales
-"Are you sure you want to send an order email to customer?",你確定你想要向客戶發送訂單的電子郵件?,module,Magento_Sales
-"Are you sure you want to void the payment?",你確定你想要使付款無效?,module,Magento_Sales
+"Are you sure you want to send an order email to customer?",您確定您想要向客戶發送訂單的電子郵件?,module,Magento_Sales
+"Are you sure you want to void the payment?",您確定您想要使付款無效?,module,Magento_Sales
 Hold,保留,module,Magento_Sales
 hold,舉行,module,Magento_Sales
 Unhold,恢復,module,Magento_Sales
 unhold,恢復,module,Magento_Sales
-"Are you sure you want to accept this payment?",你確定你想要接受這種付款?,module,Magento_Sales
+"Are you sure you want to accept this payment?",您確定您想要接受這種付款?,module,Magento_Sales
 "Accept Payment",接受付款,module,Magento_Sales
-"Are you sure you want to deny this payment?",你確定你想要拒絕這種付款?,module,Magento_Sales
+"Are you sure you want to deny this payment?",您確定您想要拒絕這種付款?,module,Magento_Sales
 "Deny Payment",拒絕付款,module,Magento_Sales
 "Get Payment Update",獲取付款更新,module,Magento_Sales
 "Invoice and Ship",發票和運輸,module,Magento_Sales
@@ -4245,17 +4245,17 @@ Sales,銷售,module,Magento_Sales
 "This order no longer exists.",這項命令不再存在。 ,module,Magento_Sales
 "Please enter a comment.",請輸入評論內容。 ,module,Magento_Sales
 "We cannot add order history.",我們不能添加訂單歷史記錄。 ,module,Magento_Sales
-"You updated the order address.",你更新訂單地址。 ,module,Magento_Sales
+"You updated the order address.",您更新訂單地址。 ,module,Magento_Sales
 "We can't update the order address right now.",我們現在不能更新訂單地址。 ,module,Magento_Sales
 "You have not canceled the item.",您還沒有取消該項目。 ,module,Magento_Sales
-"You canceled the order.",你取消訂單。 ,module,Magento_Sales
+"You canceled the order.",您取消訂單。 ,module,Magento_Sales
 """%1"" coupon code was not applied. Do not apply discount is selected for item(s)","""%1""優惠券代碼不是適用的。不適用於為項目選擇的折扣", module,Magento_Sales
 """%1"" coupon code is not valid.","""%1""優惠券代碼是無效的。",module,Magento_Sales
 "The coupon code has been accepted.",優惠券代碼已被接受。 ,module,Magento_Sales
 "Quote item id is not received.","總計 %1 產品",module,Magento_Sales
 "Quote item is not loaded.",報價產品沒有裝載。 ,module,Magento_Sales
 "New Order",新秩序,module,Magento_Sales
-"You created the order.",你已經下單了,module,Magento_Sales
+"You created the order.",您已經下單了,module,Magento_Sales
 "Order saving error: %1","訂單保存錯誤: %1",module,Magento_Sales
 "Cannot add new comment.",不能添加新的註釋。 ,module,Magento_Sales
 "The credit memo has been canceled.",貸項通知單已被取消。 ,module,Magento_Sales
@@ -4269,14 +4269,14 @@ Sales,銷售,module,Magento_Sales
 "We can't update the item's quantity right now.",我們現在不能更新該商品的數量。 ,module,Magento_Sales
 "View Memo for #%1","查看備註為 #%1",module,Magento_Sales
 "View Memo",查看備註,module,Magento_Sales
-"You voided the credit memo.",你作廢貸項通知單。 ,module,Magento_Sales
+"You voided the credit memo.",您作廢貸項通知單。 ,module,Magento_Sales
 "We can't void the credit memo.",我們不能作廢貸項通知單。 ,module,Magento_Sales
 "The order no longer exists.",該訂單不存在。 ,module,Magento_Sales
 "We can't create credit memo for the order.",我們不能為訂單創建信用備忘錄。 ,module,Magento_Sales
 "Edit Order",編輯訂單,module,Magento_Sales
-"You sent the order email.",你發送訂單的電子郵件。 ,module,Magento_Sales
+"You sent the order email.",您發送訂單的電子郵件。 ,module,Magento_Sales
 "We can't send the email order right now.",我們現在無法發送電子郵件訂購。 ,module,Magento_Sales
-"You have not put the order on hold.",你還沒有把未付款的訂單掛起,module,Magento_Sales
+"You have not put the order on hold.",您還沒有把未付款的訂單掛起,module,Magento_Sales
 "You put the order on hold.",未付款的訂單掛起,module,Magento_Sales
 "You canceled the invoice.",您取消了發票。 ,module,Magento_Sales
 "Invoice canceling error",取消錯誤的發票,module,Magento_Sales
@@ -4293,11 +4293,11 @@ Sales,銷售,module,Magento_Sales
 "The invoice has been voided.",發票已經作廢。 ,module,Magento_Sales
 "Invoice voiding error",排除錯誤的發票,module,Magento_Sales
 "%1 order(s) cannot be canceled.","%1 訂單不能取消。",module,Magento_Sales
-"You cannot cancel the order(s).",你不能取消訂單。 ,module,Magento_Sales
+"You cannot cancel the order(s).",您不能取消訂單。 ,module,Magento_Sales
 "We canceled %1 order(s).","我們取消了 %1 訂單。",module,Magento_Sales
 "%1 order(s) were not put on hold.","%1 （未付款的）訂單沒有被掛起。",module,Magento_Sales
 "No order(s) were put on hold.",沒有訂單被暫時掛起。 ,module,Magento_Sales
-"You have put %1 order(s) on hold.","你已經掛起 %1 （未付款的）訂單。",module,Magento_Sales
+"You have put %1 order(s) on hold.","您已經掛起 %1 （未付款的）訂單。",module,Magento_Sales
 "%1 order(s) were not released from on hold status.","%1 訂單從掛起狀態恢復。",module,Magento_Sales
 "No order(s) were released from on hold status.",沒有訂單從掛起狀態獲釋。 ,module,Magento_Sales
 "%1 order(s) have been released from on hold status.","%1 訂單已經從掛起狀態被恢復。",module,Magento_Sales
@@ -4308,21 +4308,21 @@ Sales,銷售,module,Magento_Sales
 "Transaction has been voided/declined.",事務已被作廢有所下降。 ,module,Magento_Sales
 "There is no update for the transaction.",有是沒有交易記錄的更新。 ,module,Magento_Sales
 "We can't update the payment right now.",我們不能更新現在的付款。 ,module,Magento_Sales
-"You assigned the order status.",你分配的訂單狀態。 ,module,Magento_Sales
+"You assigned the order status.",您分配的訂單狀態。 ,module,Magento_Sales
 "Something went wrong while assigning the order status.",在分配訂單狀態時出了錯。 ,module,Magento_Sales
 "We can't find this order status.",我們找不到此訂單狀態。 ,module,Magento_Sales
 "Create New Order Status",創建新的訂單狀態,module,Magento_Sales
 "We found another order status with the same order status code.",我們發現另一個訂單狀態與同一訂單狀態代碼。 ,module,Magento_Sales
 "You saved the order status.",訂單狀態已保存,module,Magento_Sales
 "We can't add the order status right now.",我們現在不能添加訂單狀態。 ,module,Magento_Sales
-"You have unassigned the order status.",你有未分配的訂單狀態。 ,module,Magento_Sales
+"You have unassigned the order status.",您有未分配的訂單狀態。 ,module,Magento_Sales
 "Something went wrong while unassigning the order.",同時取消分配順序，出了錯。 ,module,Magento_Sales
 "Can't unhold order.",不能恢復秩序。 ,module,Magento_Sales
-"You released the order from holding status.",你發布的順序從控股地位。 ,module,Magento_Sales
+"You released the order from holding status.",您發布的順序從控股地位。 ,module,Magento_Sales
 "The order was not on hold.",命令不是擱置。 ,module,Magento_Sales
 "Exception occurred during order load",在順序加載過程中出現異常,module,Magento_Sales
 "Something went wrong while saving the gift message.",保存禮物留言時出了錯。 ,module,Magento_Sales
-"You saved the gift card message.",你保存禮物卡留言。 ,module,Magento_Sales
+"You saved the gift card message.",您保存禮物卡留言。 ,module,Magento_Sales
 "The payment has been voided.",付款已失效。 ,module,Magento_Sales
 "We can't void the payment right now.",我們不能無效現在的付款。 ,module,Magento_Sales
 "Please correct the transaction ID and try again.","請更正的交易記錄 ID，然後重試。",module,Magento_Sales
@@ -4340,7 +4340,7 @@ Home,首頁,module,Magento_Sales
 "Please specify a payment method.",請指定付款方式,module,Magento_Sales
 "This payment method is not available.",此付款方式不是可用的。 ,module,Magento_Sales
 "Validation is failed.",驗證失敗。 ,module,Magento_Sales
-"You did not email your customer. Please check your email settings.",你不沒有電子郵件，您的客戶。請檢查您的電子郵件設置。 ,module,Magento_Sales
+"You did not email your customer. Please check your email settings.",您不沒有電子郵件，您的客戶。請檢查您的電子郵件設置。 ,module,Magento_Sales
 "Identifying Fields required",確定所需字段,module,Magento_Sales
 "Id required","所需的 id",module,Magento_Sales
 "A hold action is not available.",保持操作不可用。 ,module,Magento_Sales
@@ -4415,7 +4415,7 @@ Authorization,發送至,module,Magento_Sales
 "We found an unsupported transaction type ""%1"".","我們發現不支持的交易記錄類型""%1""。",module,Magento_Sales
 "Please set a proper payment and order id.","請設置適當的付款和訂單 id。",module,Magento_Sales
 "Please enter a Transaction ID.","請輸入一個事務 id。",module,Magento_Sales
-"You can't do this without a transaction object.",你不能沒有一個事務對象。 ,module,Magento_Sales
+"You can't do this without a transaction object.",您不能沒有一個事務對象。 ,module,Magento_Sales
 "Sold to:",賣給:,module,Magento_Sales
 "Ship to:",送貨地址:,module,Magento_Sales
 "Payment Method:",支付方式:,module,Magento_Sales
@@ -4468,7 +4468,7 @@ State/Province,地區,module,Magento_Sales
 "Current Status: %1<br/>","當前狀態: %1 <br/>",module,Magento_Sales
 "Total: %1<br/>","總數: %1 <br/>",module,Magento_Sales
 "Order # %1 Notification(s)","訂單 # %1 由於",module,Magento_Sales
-"You can not cancel Credit Memo",你不可以取消的貸項通知單,module,Magento_Sales
+"You can not cancel Credit Memo",您不可以取消的貸項通知單,module,Magento_Sales
 "Could not cancel creditmemo",不能取消付款,module,Magento_Sales
 "We cannot register an existing credit memo.",我們不能註冊現有的貸項通知單。 ,module,Magento_Sales
 "We found an invalid quantity to invoice item ""%1"".","我們發現一個無效的數量，發票項目""%1""。",module,Magento_Sales
@@ -4510,9 +4510,9 @@ Remove,刪除,module,Magento_Sales
 "Select from existing customer addresses:",從現有的客戶地址中選擇:,module,Magento_Sales
 "Add New Address",添加新地址,module,Magento_Sales
 "Save in address book",保存到地址簿,module,Magento_Sales
-"You don't need to select a shipping address.",你不需要選擇送貨地址。 ,module,Magento_Sales
+"You don't need to select a shipping address.",您不需要選擇送貨地址。 ,module,Magento_Sales
 "Gift Message for the Entire Order",整個訂單的禮物留言,module,Magento_Sales
-"Leave this box blank if you don't want to leave a gift message for the entire order.",將此框保留為空，如果你不想離開整個訂單的禮物留言。 ,module,Magento_Sales
+"Leave this box blank if you don't want to leave a gift message for the entire order.",將此框保留為空，如果您不想離開整個訂單的禮物留言。 ,module,Magento_Sales
 "Row Subtotal",行小計,module,Magento_Sales
 Action,操作,module,Magento_Sales
 "No ordered items",沒有訂購項,module,Magento_Sales
@@ -4528,7 +4528,7 @@ Subtotal:,小計：,module,Magento_Sales
 "Click to change shipping method",單擊要更改的運輸方法。 ,module,Magento_Sales
 "Sorry, no quotes are available for this order.",對不起，沒有引號都可用此訂單。 ,module,Magento_Sales
 "Get shipping methods and rates",讓送貨方式及費率,module,Magento_Sales
-"You don't need to select a shipping method.",你不需要選擇送貨方式。 ,module,Magento_Sales
+"You don't need to select a shipping method.",您不需要選擇送貨方式。 ,module,Magento_Sales
 "Customer's Activities",客戶活動,module,Magento_Sales
 Refresh,刷新,module,Magento_Sales
 Item,產品,module,Magento_Sales
@@ -4568,7 +4568,7 @@ From:,從：,module,Magento_Sales
 To:,至：,module,Magento_Sales
 Message:,消息：,module,Magento_Sales
 "Shipping &amp; Handling",運費和手續費,module,Magento_Sales
-"Gift Options",請將此框留空，如果你不想留下禮物消息的整個訂單。 ,module,Magento_Sales
+"Gift Options",請將此框留空，如果您不想留下禮物消息的整個訂單。 ,module,Magento_Sales
 "Create Shipment",創建裝運,module,Magento_Sales
 "Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.",發票和裝運類型不匹配此訂單上的某些商品。您可以創建僅在創建發票後的裝運。 ,module,Magento_Sales
 %1,1%,module,Magento_Sales
@@ -4630,7 +4630,7 @@ Date,日期,module,Magento_Sales
 "Ship To",收件人,module,Magento_Sales
 Actions,動作,module,Magento_Sales
 "View Order",查看訂單,module,Magento_Sales
-"You have placed no orders.",你還沒有訂單。 ,module,Magento_Sales
+"You have placed no orders.",您還沒有訂單。 ,module,Magento_Sales
 "No shipping information available",沒有可用的航運信息,module,Magento_Sales
 "Print Order",列印,module,Magento_Sales
 "Print All Invoices",打印所有發票,module,Magento_Sales
@@ -4676,7 +4676,7 @@ Store,商店,module,Magento_Search
 "Redirect URL","重定向 URL",module,Magento_Search
 "ex. http://domain.com","如: http://domain.com",module,Magento_Search
 "Display in Suggested Terms",在顯示建議的措辭,module,Magento_Search
-"You deleted the search.",你刪除的搜索。 ,module,Magento_Search
+"You deleted the search.",您刪除的搜索。 ,module,Magento_Search
 "We can't find a search term to delete.",我們找不到一個搜索詞刪除。 ,module,Magento_Search
 "This search no longer exists.",該搜索已不存在。 ,module,Magento_Search
 "Edit Search",編輯搜索,module,Magento_Search
@@ -4686,7 +4686,7 @@ Reports,報告,module,Magento_Search
 "Search Terms Report",搜索字詞報告,module,Magento_Search
 "You saved the search term.",您保存的搜索詞。 ,module,Magento_Search
 "Something went wrong while saving the search query.",保存搜索查詢時，出了錯。 ,module,Magento_Search
-"You already have an identical search term query.",你已經有一個相同的搜索詞查詢。 ,module,Magento_Search
+"You already have an identical search term query.",您已經有一個相同的搜索詞查詢。 ,module,Magento_Search
 "Your search query can't be longer than %1, so we shortened your query.","您的搜索查詢不能超過 %1，所以我們縮短您的查詢。",module,Magento_Search
 "All Websites",所有網站,module,Magento_Search
 "All Store Views",所有商店界面,module,Magento_Search
@@ -4697,10 +4697,10 @@ View/Edit,查看/編輯,module,Magento_Search
 "Account Activity","帳戶活動",module,Magento_Security
 "All other open sessions for this account were terminated.","此帳戶所有其他打開的會話將被終止",module,Magento_Security
 "We couldn't logout because of an error.","發生錯誤，沒法登出。",module,Magento_Security
-"Someone logged into this account from another device or browser. Your current session is terminated.","其他人己在其他機器或瀏覧器登入這個帳戶，你將被登出。",module,Magento_Security
-"Your current session is terminated by another user of this account.","你被強制登出這個帳戶",module,Magento_Security
+"Someone logged into this account from another device or browser. Your current session is terminated.","其他人己在其他機器或瀏覧器登入這個帳戶，您將被登出。",module,Magento_Security
+"Your current session is terminated by another user of this account.","您被強制登出這個帳戶",module,Magento_Security
 "Your account is temporarily disabled.","您的帳戶被暫時禁用。",module,Magento_Security
-"Your current session has been expired.","你當前的會話已過期",module,Magento_Security
+"Your current session has been expired.","您當前的會話已過期",module,Magento_Security
 "By IP and Email","通過 IP 和電子郵件",module,Magento_Security
 "By IP","以 IP",module,Magento_Security
 "By Email","通過電子郵件",module,Magento_Security
@@ -4728,7 +4728,7 @@ View/Edit,查看/編輯,module,Magento_Search
 "The link to a friend was sent.",被送到一位朋友的鏈接。 ,module,Magento_SendFriend
 "We found some problems with the data.",我們發現了一些問題的數據。 ,module,Magento_SendFriend
 "Some emails were not sent.",未發送幾封電子郵件。 ,module,Magento_SendFriend
-"You've met your limit of %1 sends in an hour.","你見過你的 %1 發送在一個小時的極限。",module,Magento_SendFriend
+"You've met your limit of %1 sends in an hour.","您見過您的 %1 發送在一個小時的極限。",module,Magento_SendFriend
 "Please enter a sender name.",請輸入發件人的名稱。 ,module,Magento_SendFriend
 "Invalid Sender Email",無效發件人的電子郵件,module,Magento_SendFriend
 "Please enter a message.",請輸入一條消息。 ,module,Magento_SendFriend
@@ -4766,7 +4766,7 @@ Back,後退,module,Magento_SendFriend
 "Custom Value",跟踪貨運,module,Magento_Shipping
 Add,添加,module,Magento_Shipping
 "Send Tracking Information",發送跟踪信息,module,Magento_Shipping
-"Are you sure you want to send a Shipment email to customer?",你確定你想要向客戶發送裝運電子郵件?,module,Magento_Shipping
+"Are you sure you want to send a Shipment email to customer?",您確定您想要向客戶發送裝運電子郵件?,module,Magento_Shipping
 Print,打印,module,Magento_Shipping
 "the shipment email was sent",裝運電子郵件已發送,module,Magento_Shipping
 "the shipment email is not sent",裝運電子郵件不會發送,module,Magento_Shipping
@@ -4787,7 +4787,7 @@ Shipments,發貨,module,Magento_Shipping
 "Cannot add tracking number.",不能添加物流追蹤編號。 ,module,Magento_Shipping
 "You created the shipping label.",您創建的航運標籤。 ,module,Magento_Shipping
 "An error occurred while creating shipping label.",創建航運標籤時出錯。 ,module,Magento_Shipping
-"You sent the shipment.",你發送的裝運。 ,module,Magento_Shipping
+"You sent the shipment.",您發送的裝運。 ,module,Magento_Shipping
 "Cannot send shipment information.",不能發送裝運信息。 ,module,Magento_Shipping
 "There are no shipping labels related to selected orders.",沒有有關所選訂單的發貨標籤。 ,module,Magento_Shipping
 "New Shipment",新的裝運,module,Magento_Shipping
@@ -4922,7 +4922,7 @@ Generate,生成,module,Magento_Sitemap
 "XML Sitemap","XML 網站地圖",module,Magento_Sitemap
 "Add Sitemap",添加網站地圖,module,Magento_Sitemap
 Catalog,目錄重寫,module,Magento_Sitemap
-"You deleted the sitemap.",你刪除的站點地圖。 ,module,Magento_Sitemap
+"You deleted the sitemap.",您刪除的站點地圖。 ,module,Magento_Sitemap
 "We can't find a sitemap to delete.",我們找不到要刪除一個網站地圖。 ,module,Magento_Sitemap
 "This sitemap no longer exists.",這個網站地圖不再存在。 ,module,Magento_Sitemap
 "Site Map",站點地圖,module,Magento_Sitemap
@@ -4930,7 +4930,7 @@ Catalog,目錄重寫,module,Magento_Sitemap
 "The sitemap ""%1"" has been generated.","已生成網站地圖""%1""。",module,Magento_Sitemap
 "We can't generate the sitemap right now.",我們現在無法生成站點地圖。 ,module,Magento_Sitemap
 "We can't find a sitemap to generate.",我們找不到生成站點地圖。 ,module,Magento_Sitemap
-"You saved the sitemap.",你保存的網站地圖。 ,module,Magento_Sitemap
+"You saved the sitemap.",您保存的網站地圖。 ,module,Magento_Sitemap
 "The priority must be between 0 and 1.","優先級必須介於 0 和 1 之間。",module,Magento_Sitemap
 Always,總是,module,Magento_Sitemap
 Hourly,每小時,module,Magento_Sitemap
@@ -5037,7 +5037,7 @@ Priority,優先級,module,Magento_Tax
 "Tax rates at the same priority are added, others are compounded.",加稅稅率相同的優先級，別人更加惡化。 ,module,Magento_Tax
 "Calculate Off Subtotal Only",只計算小計的折扣,module,Magento_Tax
 "Sort Order",排序,module,Magento_Tax
-"Do you really want to delete this tax class?",你真的想要刪除此稅類嗎?,module,Magento_Tax
+"Do you really want to delete this tax class?",您真的想要刪除此稅類嗎?,module,Magento_Tax
 "Add New Tax Class",添加新稅類,module,Magento_Tax
 "Shipping Incl. Tax (%1)","小計 (含稅)",module,Magento_Tax
 "Shipping Excl. Tax (%1)","運費不包括稅 (%1)",module,Magento_Tax
@@ -5055,11 +5055,11 @@ Tax,稅,module,Magento_Tax
 "We can't delete this tax rate right now.",我們現在不能刪除此稅率。 ,module,Magento_Tax
 "An error occurred while loading this tax rate.",加載此稅率時出錯。 ,module,Magento_Tax
 "We can't save this rate right now.",我們無法保存這個速度現在。 ,module,Magento_Tax
-"You deleted the tax rate.",你刪除的稅率。 ,module,Magento_Tax
+"You deleted the tax rate.",您刪除的稅率。 ,module,Magento_Tax
 "We can't delete this rate because of an incorrect rate ID.","我們不能刪除此率由於不正確率 id。",module,Magento_Tax
 "Something went wrong deleting this rate.",出了錯刪去這一比率。 ,module,Magento_Tax
 "Edit Tax Rate",編輯稅率,module,Magento_Tax
-"You saved the tax rate.",你保存的稅率。 ,module,Magento_Tax
+"You saved the tax rate.",您保存的稅率。 ,module,Magento_Tax
 "Tax Rules",稅務規則,module,Magento_Tax
 "The tax rule has been deleted.",稅收規則已被刪除。 ,module,Magento_Tax
 "This rule no longer exists.",該規則已不存在。 ,module,Magento_Tax
@@ -5067,7 +5067,7 @@ Tax,稅,module,Magento_Tax
 "New Tax Rule",新的稅收規則,module,Magento_Tax
 "Edit Rule",修改規則,module,Magento_Tax
 "New Rule",新規則,module,Magento_Tax
-"You saved the tax rule.",你保存的稅收規則。 ,module,Magento_Tax
+"You saved the tax rule.",您保存的稅收規則。 ,module,Magento_Tax
 "We can't save this tax rule right now.",我們現在不能保存此稅收規則。 ,module,Magento_Tax
 "Invalid name of tax class specified.",稅收類指定的名稱無效。 ,module,Magento_Tax
 "We can't delete this tax class right now.",我們現在不能刪除此稅類。 ,module,Magento_Tax
@@ -5127,7 +5127,7 @@ product,產品,module,Magento_Tax
 Note:,注意:,module,Magento_Tax
 "Leave this field empty if you wish to use the tax identifier.",將此字段留空的如果您想要使用的稅務標識符。 ,module,Magento_Tax
 "An error occurred",出現了一個錯誤,module,Magento_Tax
-"Do you really want to delete this tax rate?",你真的想要刪除此稅率嗎?,module,Magento_Tax
+"Do you really want to delete this tax rate?",您真的想要刪除此稅率嗎?,module,Magento_Tax
 Save,儲存,module,Magento_Tax
 "Add New Class",添加新類,module,Magento_Tax
 "Grand Total Excl. Tax",盛大的稅金除外,module,Magento_Tax
@@ -5137,7 +5137,7 @@ Back,返回,module,Magento_Theme
 Default,默認,module,Magento_Theme
 Themes,右欄2列,module,Magento_Theme
 "Save and Continue Edit",保存並繼續編輯,module,Magento_Theme
-"Are you sure you want to delete this theme?",你確定你想要刪除這個主題?,module,Magento_Theme
+"Are you sure you want to delete this theme?",您確定您想要刪除這個主題?,module,Magento_Theme
 "Theme: %1","主題: %1",module,Magento_Theme
 "New Theme",新主題,module,Magento_Theme
 "Theme CSS","主題的 css 文件",module,Magento_Theme
@@ -5181,14 +5181,14 @@ Theme,網站模板,module,Magento_Theme
 "Are you sure you want to delete this file?",是否確實要刪除此文件?,module,Magento_Theme
 "Storage Root",存儲根,module,Magento_Theme
 "You saved the configuration.",您已保存配置。 ,module,Magento_Theme
-"You deleted the theme.",你刪除的主題。 ,module,Magento_Theme
+"You deleted the theme.",您刪除的主題。 ,module,Magento_Theme
 "We cannot delete the theme.",我們不能刪除該主題。 ,module,Magento_Theme
 "File not found: ""%1"".","找不到文件:""%1""。",module,Magento_Theme
 "We can't find file.",我們找不到文件。 ,module,Magento_Theme
 "We cannot find theme ""%1"".","我們找不到主題""%1""。",module,Magento_Theme
 "We cannot find the theme.",我們找不到主題。 ,module,Magento_Theme
 "This theme is not editable.",這個主題不是可編輯的。 ,module,Magento_Theme
-"You saved the theme.",你保存主題。 ,module,Magento_Theme
+"You saved the theme.",您保存主題。 ,module,Magento_Theme
 "We can't upload the CSS file right now.","我們現在不能上傳的 CSS 文件。",module,Magento_Theme
 "We cannot find a theme with id ""%1"".","我們找不到 id 為""%1""的主題。",module,Magento_Theme
 "We can't upload the JS file right now.","我們現在不能上傳 JS 文件。",module,Magento_Theme
@@ -5329,7 +5329,7 @@ label,標籤,module,Magento_Ups
 "Edit URL Rewrite for a Category","編輯 URL 重寫為一個類別",module,Magento_UrlRewrite
 "Add URL Rewrite for a Category",需要輸入商店的路徑,module,Magento_UrlRewrite
 Category:,類別:,module,Magento_UrlRewrite
-"We can't set up a URL rewrite because the product you chose is not associated with a website.","我們不能設置 URL 重寫，因為你選擇的產品不是與網站關聯。",module,Magento_UrlRewrite
+"We can't set up a URL rewrite because the product you chose is not associated with a website.","我們不能設置 URL 重寫，因為您選擇的產品不是與網站關聯。",module,Magento_UrlRewrite
 "Please assign a website to the selected category.",請將網站分配給所選的類別。 ,module,Magento_UrlRewrite
 "Edit URL Rewrite for a Product","編輯產品 URL 重寫",module,Magento_UrlRewrite
 "Add URL Rewrite for a Product","添加產品 URL 重寫",module,Magento_UrlRewrite
@@ -5365,7 +5365,7 @@ Custom,自定義,module,Magento_UrlRewrite
 "For product",給產品,module,Magento_UrlRewrite
 "For CMS page","給CMS 頁面",module,Magento_UrlRewrite
 "Create URL Rewrite:","創建 URL 重寫:",module,Magento_UrlRewrite
-"You deleted the URL rewrite.","你刪除 URL 重寫。",module,Magento_UrlRewrite
+"You deleted the URL rewrite.","您刪除 URL 重寫。",module,Magento_UrlRewrite
 "We can't delete URL Rewrite right now.","我們不能刪除 URL 重寫現在。",module,Magento_UrlRewrite
 "URL Rewrites",URL重寫,module,Magento_UrlRewrite
 "The product you chose is not associated with the selected store or category.",您選擇的產品不是與所選的存儲或類別相關聯的。 ,module,Magento_UrlRewrite
@@ -5409,7 +5409,7 @@ Inactive,未激活,module,Magento_User
 Users,用戶管理,module,Magento_User
 "Save User",保存用戶,module,Magento_User
 "Delete User",刪除用戶,module,Magento_User
-"Are you sure you want to revoke the user's tokens?",你確定你想要撤銷用戶的令牌？ ,module,Magento_User
+"Are you sure you want to revoke the user's tokens?",您確定您想要撤銷用戶的令牌？ ,module,Magento_User
 "Force Sign-In",強制登錄,module,Magento_User
 "Edit User '%1'","編輯用戶 '%1'",module,Magento_User
 "New User",新增用戶,module,Magento_User
@@ -5439,22 +5439,22 @@ Role,職能,module,Magento_User
 System,系統,module,Magento_User
 Permissions,權限,module,Magento_User
 "You cannot delete your own account.",您不能刪除您自己的帳戶。 ,module,Magento_User
-"You deleted the user.",你刪除的用戶。 ,module,Magento_User
+"You deleted the user.",您刪除的用戶。 ,module,Magento_User
 "We can't find a user to delete.",我們找不到要刪除的用戶。 ,module,Magento_User
 "This user no longer exists.",此用戶不存在。 ,module,Magento_User
 "Edit User",編輯用戶,module,Magento_User
-"You have revoked the user's tokens.",你已吊銷該用戶的令牌。 ,module,Magento_User
+"You have revoked the user's tokens.",您已吊銷該用戶的令牌。 ,module,Magento_User
 "We can't find a user to revoke.",我們找不到用戶撤銷。 ,module,Magento_User
 "You cannot delete self-assigned roles.",您不能刪除自分配的角色。 ,module,Magento_User
-"You deleted the role.",你刪除的角色。 ,module,Magento_User
+"You deleted the role.",您刪除的角色。 ,module,Magento_User
 "An error occurred while deleting this role.",刪除此角色時出錯。 ,module,Magento_User
 "Edit Role",編輯角色,module,Magento_User
 "New Role",新建角色,module,Magento_User
 "This role no longer exists.",該角色已不存在。 ,module,Magento_User
-"You saved the role.",你保存的角色。 ,module,Magento_User
+"You saved the role.",您保存的角色。 ,module,Magento_User
 "You have entered an invalid password for current user.",您輸入了當前用戶的無效密碼。 ,module,Magento_User
 "An error occurred while saving this role.",保存這個角色時出錯。 ,module,Magento_User
-"You saved the user.",你保存的用戶。 ,module,Magento_User
+"You saved the user.",您保存的用戶。 ,module,Magento_User
 "A user with the same user name or email already exists.",具有相同的用戶名或電子郵件的用戶已存在。 ,module,Magento_User
 Recommended,推薦的,module,Magento_User
 Forced,強迫,module,Magento_User
@@ -5469,7 +5469,7 @@ Forced,強迫,module,Magento_User
 "Your password must be at least %1 characters.","您的密碼必須至少 %1 字符。",module,Magento_User
 "Your password must include both numeric and alphabetic characters.",您的密碼必須包含數字和字母的字符。 ,module,Magento_User
 "Your password confirmation must match your password.",您確認密碼必須匹配您的密碼。 ,module,Magento_User
-"It's time to change your password.",是時候改變你的密碼了。 ,module,Magento_User
+"It's time to change your password.",是時候改變您的密碼了。 ,module,Magento_User
 "Your password has expired; please contact your administrator.",您的密碼已過期;請聯繫您的管理員聯繫。 ,module,Magento_User
 "Password Help",密碼幫助,module,Magento_User
 "Enter your email address. You will receive an email with a link to reset your password.","請輸入您的電子郵件地址。 您將收到一封電子郵件的鏈接重置您的密碼。",module, Magento_User
@@ -5479,14 +5479,14 @@ Forced,強迫,module,Magento_User
 "Forgot your password?",您忘記密碼了嗎?,module,Magento_User
 "Reset a Password",重置密碼,module,Magento_User
 "Confirm New Password",確認新密碼,module,Magento_User
-"Reset Password",你的密碼重設鏈接已過期。 ,module,Magento_User
+"Reset Password",您的密碼重設鏈接已過期。 ,module,Magento_User
 "Roles Resources",角色資源,module,Magento_User
 "Resource Access",資源,module,Magento_User
 Custom,自定義,module,Magento_User
 All,全部,module,Magento_User
 Resources,資源,module,Magento_User
-"Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","警告! \r\nThis 操作將刪除此用戶從已分配role\r\nAre 你確定嗎?" ,module,Magento_User
-"Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","警告! \r\nThis 操作將刪除這些用戶從已分配roles\r\nAre 你確定嗎?" ,module,Magento_User
+"Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","警告! \r\nThis 操作將刪除此用戶從已分配role\r\nAre 您確定嗎?" ,module,Magento_User
+"Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","警告! \r\nThis 操作將刪除這些用戶從已分配roles\r\nAre 您確定嗎?" ,module,Magento_User
 "First-Class Mail Large Envelope",一流的郵件大信封,module,Magento_Usps
 "First-Class Mail Letter",一流的郵件信,module,Magento_Usps
 "First-Class Mail Parcel",一流的郵件包裹,module,Magento_Usps
@@ -5598,7 +5598,7 @@ Yes,是,module,Magento_Variable
 "Variable HTML Value","HTML 的變量值",module,Magento_Variable
 "Variable Plain Value",平原的變量值,module,Magento_Variable
 "You deleted the custom variable.",刪除自定義的變量。 ,module,Magento_Variable
-"You saved the custom variable.",你保存的自定義的變量。 ,module,Magento_Variable
+"You saved the custom variable.",您保存的自定義的變量。 ,module,Magento_Variable
 "Variable Code must be unique.",變量的代碼必須是唯一的。 ,module,Magento_Variable
 "Validation has failed.",驗證已失敗。 ,module,Magento_Variable
 %1,1%,module,Magento_Variable
@@ -5704,7 +5704,7 @@ Page,頁面,module,Magento_Widget
 "We can't load the Wish List item right now.",我們現在無法加載的願望列表項。 ,module,Magento_Wishlist
 "We can't configure the product right now.",我們現在不能配置該產品。 ,module,Magento_Wishlist
 "The requested cart item doesn't exist.",不存在請求的車項目。 ,module,Magento_Wishlist
-"%1 has been moved to your wish list.","%1 已進入你的喜愛清單。",module,Magento_Wishlist
+"%1 has been moved to your wish list.","%1 已進入您的喜愛清單。",module,Magento_Wishlist
 "We can't move the item to the wish list.",我們不能將項目移至喜愛清單。 ,module,Magento_Wishlist
 "We can't delete the item from Wish List right now because of an error: %1.","我們不能刪除該項目從喜愛清單現在由於出錯: %1。",module,Magento_Wishlist
 "We can't delete the item from the Wish List right now.",我們現在不能從願望列表中刪除該項目。 ,module,Magento_Wishlist
@@ -5746,7 +5746,7 @@ Message,信息,module,Magento_Wishlist
 error-message,錯誤消息,module,Magento_Wishlist
 "Product Exception.",產品的異常。 ,module,Magento_Wishlist
 "Localized Exception.",本地化例外。 ,module,Magento_Wishlist
-"Are you sure you want to remove this item?",你確定要刪除這個項目嗎？ ,module,Magento_Wishlist
+"Are you sure you want to remove this item?",您確定要刪除這個項目嗎？ ,module,Magento_Wishlist
 "Share Wish List",分享喜愛清單,module,Magento_Wishlist
 "Add All to Cart",全部加入購物車,module,Magento_Wishlist
 "Update Wish List",更新喜愛清單,module,Magento_Wishlist
@@ -5773,12 +5773,12 @@ Back,後退,module,Magento_Wishlist
 "* Required Fields",*必需填寫,module,Magento_Wishlist
 "Sharing Information",該產品缺貨,module,Magento_Wishlist
 "Email addresses, separated by commas",以逗號分隔的電子郵件地址,module,Magento_Wishlist
-"Check here to link an RSS feed to your Wish List.","在這裡請檢查鏈接的 RSS 飼料你喜愛清單。",module,Magento_Wishlist
+"Check here to link an RSS feed to your Wish List.","在這裡請檢查鏈接的 RSS 飼料您喜愛清單。",module,Magento_Wishlist
 "Last Added Items",最後添加的項,module,Magento_Wishlist
 "Remove This Item",刪除該內容,module,Magento_Wishlist
 "Go to Wish List",去希望列表,module,Magento_Wishlist
-"You have no items in your wish list.",你有願望列表中沒有的項目。,module,Magento_Wishlist
-"%1 has been added to your Wish List.","%1 已加到你的願望列表中",module,Magento_Wishlist
+"You have no items in your wish list.",您有願望列表中沒有的項目。,module,Magento_Wishlist
+"%1 has been added to your Wish List.","%1 已加到您的願望列表中",module,Magento_Wishlist
 "Now Shopping by","篩選條件",theme,frontend/Magento/luma
 Previous,上一個,theme,frontend/Magento/luma
 Remove,刪除,theme,frontend/Magento/luma
@@ -5882,11 +5882,11 @@ Password:,密碼:,module,Magento_Customer
 "Store alternative addresses (for shipping to multiple family members and friends)","存儲備用地址 (用於運送到多個家庭成員和朋友)",module,Magento_Customer
 "You must confirm your %customer_email email before you can sign in (link is only valid once):","您必須確認您的 %customer_email 電子郵件之前您可以登錄 (鏈接有效期只有一次):",module,Magento_Customer
 "Confirm Your Account",確認您的帳戶,module,Magento_Customer
-"Thank you for confirming your %store_name account.","謝謝你確認您的 %store_name 帳戶。",module,Magento_Customer
+"Thank you for confirming your %store_name account.","謝謝您確認您的 %store_name 帳戶。",module,Magento_Customer
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","要登錄到我們的站點並設置密碼，請單擊<a href=""%create_password_url""> 鏈接</a>:",module,Magento_Customer
 "There was recently a request to change the password for your account.",最近被更改為您的帳戶密碼的請求。 ,module,Magento_Customer
 "If you requested this change, set a new password here:",如果您要求此更改，在這裡設置一個新密碼:,module,Magento_Customer
-"If you did not make this request, you can ignore this email and your password will remain the same.",如果你並沒有提出這一請求，您可以忽略這封電子郵件，您的密碼將保持不變。 ,module,Magento_Customer
+"If you did not make this request, you can ignore this email and your password will remain the same.",如果您並沒有提出這一請求，您可以忽略這封電子郵件，您的密碼將保持不變。 ,module,Magento_Customer
 "Checkout out as a new customer",簽出了作為一個新的客戶,module,Magento_Customer
 "Creating an account has many benefits:",創建帳戶有很多好處:,module,Magento_Customer
 "See order and shipping status",請參閱順序和傳送狀態,module,Magento_Customer
@@ -5897,7 +5897,7 @@ Password:,密碼:,module,Magento_Customer
 "Change Email and Password","更改電郵及密碼",module,Magento_Customer
 "Currency Update Warnings",貨幣更新警告,module,Magento_Directory
 Footer,頁腳,module,Magento_Email
-"Thank you, %store_name","謝謝你 %store_name",module,Magento_Email
+"Thank you, %store_name","謝謝您 %store_name",module,Magento_Email
 Header,頁面台頭,module,Magento_Email
 "Gift Message (optional)","(可選) 的禮物留言",module,Magento_GiftMessage
 To:,至：,module,Magento_GiftMessage
@@ -5910,7 +5910,7 @@ Delete,刪除,module,Magento_GiftMessage
 "Thank you for subscribing to our newsletter.",感謝您的訂購我們的時事通訊。 ,module,Magento_Newsletter
 "To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:",要開始接收時事通訊，必須首先通過點擊下面的鏈接確認您的訂閱:,module,Magento_Newsletter
 "You have been successfully subscribed to our newsletter.",您已成功訂閱我們的時事通訊。 ,module,Magento_Newsletter
-"You have been unsubscribed from the newsletter.",你已經取消訂閱新聞通訊。 ,module,Magento_Newsletter
+"You have been unsubscribed from the newsletter.",您已經取消訂閱新聞通訊。 ,module,Magento_Newsletter
 "Place Order","下單並確認付款",module,Magento_OfflinePayments
 "Place Order","下單並確認付款",module,Magento_Payment
 "Forgot an item?","忘了增加貨物嗎?",module,Magento_Payment
@@ -5926,23 +5926,23 @@ Delete,刪除,module,Magento_GiftMessage
 "%name,",%名稱，,module,Magento_Sales
 "Thank you for your order from %store_name.","謝謝您的訂單從 %store_name。",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","通過<a href=""%account_url""> 登錄到您的帳戶</a>，可以檢查您的訂單狀態。",module,Magento_Sales
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","如果您有關於您的訂單的問題，你可以通過電子郵件發送我們在<a href=""mailto:%store_email""> %store_email</a>",module,Magento_Sales
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","如果您有關於您的訂單的問題，您可以通過電子郵件發送我們在<a href=""mailto:%store_email""> %store_email</a>",module,Magento_Sales
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","或撥打我們的<a href=""tel:%store_phone""> %store_phone</a> ",module,Magento_Sales
 "Our hours are <span class=""no-link"">%store_hours</span>.","我們的時間是<span class=""no-link"">%store_hours</span>。" ,module,Magento_Sales
-"Your Credit Memo #%creditmemo_id for Order #%order_id","你信用秩序 #%order_id 的備註 #%creditmemo_id",module,Magento_Sales
+"Your Credit Memo #%creditmemo_id for Order #%order_id","您信用秩序 #%order_id 的備註 #%creditmemo_id",module,Magento_Sales
 "Billing Info",付費信息,module,Magento_Sales
 "Shipping Info",航運信息,module,Magento_Sales
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","你訂單#%increment_id 已更新的狀態為<strong>%order_status</strong>。",module, Magento_Sales
-"Your Invoice #%invoice_id for Order #%order_id","為訂單 #%order_id 你發票 #%invoice_id",module,Magento_Sales
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","您訂單#%increment_id 已更新的狀態為<strong>%order_status</strong>。",module, Magento_Sales
+"Your Invoice #%invoice_id for Order #%order_id","為訂單 #%order_id 您發票 #%invoice_id",module,Magento_Sales
 "%customer_name,",%customer_name，,module,Magento_Sales
-"Once your package ships we will send you a tracking number.",一旦你包船我們將向您發送一個物流追蹤編號。 ,module,Magento_Sales
+"Once your package ships we will send you a tracking number.",一旦您包船我們將向您發送一個物流追蹤編號。 ,module,Magento_Sales
 "Your Order <span class=""no-link"">#%increment_id</span>","您的訂單<span class=""no-link""> #%increment_id</span>",module ,Magento_Sales
 "Placed on <span class=""no-link"">%created_at</span>","放在 <span class=""no-link"">%created_at</span>",module,Magento_Sales
-"Once your package ships we will send an email with a link to track your order.",一旦你的包船我們將發送一封電子郵件的鏈接來跟踪您的訂單。 ,module,Magento_Sales
+"Once your package ships we will send an email with a link to track your order.",一旦您的包船我們將發送一封電子郵件的鏈接來跟踪您的訂單。 ,module,Magento_Sales
 "Your shipping confirmation is below. Thank you again for your business.",下面是您發貨確認信息。再次感謝您為您的業務。 ,module,Magento_Sales
-"Your Shipment #%shipment_id for Order #%order_id","為訂單 #%order_id 你裝運 #%shipment_id",module,Magento_Sales
+"Your Shipment #%shipment_id for Order #%order_id","為訂單 #%order_id 您裝運 #%shipment_id",module,Magento_Sales
 "%name,",%名稱，,module,Magento_SendFriend
-"%sender_name wants to share this product with you:","%sender_name 想要與你分享這種產品:",module,Magento_SendFriend
+"%sender_name wants to share this product with you:","%sender_name 想要與您分享這種產品:",module,Magento_SendFriend
 "Message from %sender_name:",消息來自%SENDER_NAME：,module,Magento_SendFriend
 "Sitemap Generation Warnings",網站地圖生成警告,module,Magento_Sitemap
 "Changes have been made to this section that have not been saved.",已更改尚未保存此節。 ,module,Magento_Ui
@@ -5953,9 +5953,9 @@ Filters,篩選,module,Magento_Ui
 "%name,",%名稱，,module,Magento_User
 "There was recently a request to change the password for your account.",最近被更改為您的帳戶密碼的請求。 ,module,Magento_User
 "If you requested this change, reset your password here:",如果您要求此更改，重置您的密碼在這裡:,module,Magento_User
-"If you did not make this request, you can ignore this email and your password will remain the same.",如果你並沒有提出這一請求，您可以忽略這封電子郵件，您的密碼將保持不變。 ,module,Magento_User
+"If you did not make this request, you can ignore this email and your password will remain the same.",如果您並沒有提出這一請求，您可以忽略這封電子郵件，您的密碼將保持不變。 ,module,Magento_User
 "Thank you,",謝謝,module,Magento_User
-"%customer_name wants to share this Wish List from %store_name with you:","%customer_name 想要與你分享從 %store_name 這個喜愛清單:",module,Magento_Wishlist
+"%customer_name wants to share this Wish List from %store_name with you:","%customer_name 想要與您分享從 %store_name 這個喜愛清單:",module,Magento_Wishlist
 "Message from %customer_name:","來自 %customer_name 的消息:",module,Magento_Wishlist
 "View all Wish List items",查看所有願望列表項,module,Magento_Wishlist
 "%name,",%名稱，,theme,frontend/Magento/luma
@@ -5981,20 +5981,20 @@ Password:,密碼:,theme,frontend/Magento/luma
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","營業時間: < br / > <span class=""no-link""> %store_hours</span>。",theme,frontend/Magento/luma
 "Thank you for your order from %store_name.","謝謝您的訂單從 %store_name。",theme,frontend/Magento/luma
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","通過<a href=""%account_url""> 登錄到您的帳戶</a>，可以檢查您的訂單狀態。",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","如果您有關於您的訂單問題，，你可以在<a href=""mailto:%store_email""> %store_email</a>，我們發送電子郵件。",theme,frontend/Magento/luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","你信用秩序 #%order_id 的備註 #%creditmemo_id",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","如果您有關於您的訂單問題，，您可以在<a href=""mailto:%store_email""> %store_email</a>，我們發送電子郵件。",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","您信用秩序 #%order_id 的備註 #%creditmemo_id",theme,frontend/Magento/luma
 "Billing Info",付費信息,theme,frontend/Magento/luma
 "Shipping Info",航運信息,theme,frontend/Magento/luma
 "Payment Method",支付方式,theme,frontend/Magento/luma
 "Shipping Method",運送方式,theme,frontend/Magento/luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","你訂單#%increment_id 已更新的狀態為<strong>%order_status</strong>。",theme, frontend/Magento/luma
-"Your Invoice #%invoice_id for Order #%order_id","為訂單 #%order_id 你發票 #%invoice_id",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","您訂單#%increment_id 已更新的狀態為<strong>%order_status</strong>。",theme, frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","為訂單 #%order_id 您發票 #%invoice_id",theme,frontend/Magento/luma
 "%customer_name,",%customer_name，,theme,frontend/Magento/luma
-"Once your package ships we will send you a tracking number.",一旦你包船我們將向您發送一個物流追蹤編號。 ,theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.",一旦您包船我們將向您發送一個物流追蹤編號。 ,theme,frontend/Magento/luma
 "Your Order <span class=""no-link"">#%increment_id</span>","您的訂單<span class=""no-link""> #%increment_id</span>",theme ,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","放在<span class=""no-link"">%created_at</span>",theme,frontend/ Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.",下面是您發貨確認信息。再次感謝您為您的業務。 ,theme,frontend/Magento/luma
-"Your Shipment #%shipment_id for Order #%order_id","為訂單 #%order_id 你裝運 #%shipment_id",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","為訂單 #%order_id 您裝運 #%shipment_id",theme,frontend/Magento/luma
 "We could not detect a size.",我們未能檢測到尺寸大小。 ,module,Magento_Backend
 "We don't recognize or support this file extension type.",我們不承認或支持該文件擴展類型。 ,module,Magento_Backend
 "This payment is not available",這筆付款不可用,module,Magento_Braintree
@@ -6017,7 +6017,7 @@ Adding...,正在添加...,module,Magento_Catalog
 Added,已添加,module,Magento_Catalog
 "unselect all",取消全選,module,Magento_Catalog
 "Provided Zip/Postal Code seems to be invalid.",提供的郵政編碼似乎無效。 ,module,Magento_Checkout
-"If you believe it is the right one you can ignore this notice.",如果你覺的是正確的，可以忽略此通知。 ,module,Magento_Checkout
+"If you believe it is the right one you can ignore this notice.",如果您覺的是正確的，可以忽略此通知。 ,module,Magento_Checkout
 "Review & Payments",審查及付款,module,Magento_Checkout
 Shipping,送貨,module,Magento_Checkout
 "Save Address",儲存地址,module,Magento_Checkout
@@ -6040,7 +6040,7 @@ Shipping,送貨,module,Magento_Checkout
 "Sorry, something went wrong. Please try again later.","對不起， 出錯了，請稍候再試",module,Magento_Integration
 Allow,允許,module,Magento_Integration
 Done,完成,module,Magento_Integration
-"We can't complete your order because you don't have a payment method set up.",因為你沒有設置的付款方式，我們無法完成您的訂單。 ,module,Magento_Multishipping
+"We can't complete your order because you don't have a payment method set up.",因為您沒有設置的付款方式，我們無法完成您的訂單。 ,module,Magento_Multishipping
 "Please choose a payment method.",請選擇支付方式,module,Magento_Multishipping
 "Sorry, something went wrong.",對不起，出錯了。 ,module,Magento_Paypal
 "Sorry, something went wrong. Please try again later.","對不起， 出錯了，請稍候再試",module,Magento_Paypal
@@ -6245,7 +6245,7 @@ Admin,管理員,module,Magento_Backend
 "Make sure that base URL ends with '/' (slash), eg http://yourdomain/magento/","請確保，基URL 以'/' (斜線)，例如http://yourdomain/magento/ ",module,Magento_Backend
 "Use Custom Admin Path",使用自定義管理路徑,module,Magento_Backend
 "Custom Admin Path",自定義管理路徑,module,Magento_Backend
-"You will have to sign in after you save your custom admin path.",保存您的自定義管理路徑後你必須重新登錄。 ,module,Magento_Backend
+"You will have to sign in after you save your custom admin path.",保存您的自定義管理路徑後您必須重新登錄。 ,module,Magento_Backend
 Security,安全,module,Magento_Backend
 "Recovery Link Expiration Period (hours)","恢復鏈接到期時間 （小時）",module,Magento_Backend
 "Please enter a number 1 or greater in this field.","請在此字段中輸入數量大於或等於 1。",module,Magento_Backend
@@ -6645,7 +6645,7 @@ Block,模塊,module,Magento_Cms
 "Enable Block",啟用模塊,module,Magento_Cms
 "Block Title",模塊標題,module,Magento_Cms
 "Delete items",刪除項目,module,Magento_Cms
-"Are you sure you wan't to delete selected items?",你確定你想刪除選定的項目?,module,Magento_Cms
+"Are you sure you wan't to delete selected items?",您確定您想刪除選定的項目?,module,Magento_Cms
 "Page Information",頁面信息,module,Magento_Cms
 "Enable Page",啟用頁面,module,Magento_Cms
 Content,內容,module,Magento_Cms
@@ -6804,7 +6804,7 @@ ZIP,郵編,module,Magento_Customer
 "Last Activity",最後一次活動,module,Magento_Customer
 Type,類型,module,Magento_Customer
 "Customer Information",客戶信息,module,Magento_Customer
-"If your Magento site has multiple views, you can set the scope to apply to a specific view.","如果你的 Magento 網站有多個視圖，您可以設置適用於特定視圖的範圍。",module,Magento_Customer
+"If your Magento site has multiple views, you can set the scope to apply to a specific view.","如果您的 Magento 網站有多個視圖，您可以設置適用於特定視圖的範圍。",module,Magento_Customer
 "Send Welcome Email From",發送歡迎電子郵件從,module,Magento_Customer
 Addresses,地址,module,Magento_Customer
 "Are you sure you want to delete this item?",您確定要刪除此項嗎？ ,module,Magento_Customer
@@ -6812,7 +6812,7 @@ Addresses,地址,module,Magento_Customer
 "Edit Account Information",編輯帳戶信息,module,Magento_Customer
 "Password forgotten",密碼忘記了,module,Magento_Customer
 "My Dashboard",我的賬戶資料,module,Magento_Customer
-"You are signed out",你已登出,module,Magento_Customer
+"You are signed out",您已登出,module,Magento_Customer
 "Frontend Development Workflow",前端開發流程,module,Magento_Developer
 "Workflow type",流程類型,module,Magento_Developer
 "Not available in production mode",在產品模式下不可用,module,Magento_Developer
@@ -7147,7 +7147,7 @@ Title,標題,module,Magento_Paypal
 "The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","孩子授權在您的貝寶帳戶的默認數量為1。要做多個授權請聯繫貝寶要求增加。",module,Magento_Paypal
 "Advanced Settings",高級設置,module,Magento_Paypal
 "Display on Shopping Cart",在購物車上顯示,module,Magento_Paypal
-"Also affects mini-shopping cart.",也會影響迷你購物車。 ,module,Magento_Paypal
+"Also affects mini-shopping cart.",也會影響迷您購物車。 ,module,Magento_Paypal
 "Payment Applicable From",適用的付款,module,Magento_Paypal
 "Countries Payment Applicable From",適用的國家付款,module,Magento_Paypal
 "Debug Mode",調試模式,module,Magento_Paypal
@@ -7195,7 +7195,7 @@ Partner,合作夥伴,module,Magento_Paypal
 Vendor,供應商,module,Magento_Paypal
 User,用戶,module,Magento_Paypal
 "PayPal recommends that you set up an additional User on your account at manager.paypal.com","PayPal 建議您在您的帳戶在 manager.paypal.com 上設置額外的用戶",module,Magento_Paypal
-"PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal 建議您設置其他用戶在您的帳戶在manager.paypal.com，而不是輸入您的管理員用戶名和密碼在這裡。這將提高您的安全和防止服務中斷，如果您以後更改您的密碼。如果你不想要設置更多的用戶，您可以重新輸入您的商人在這裡登錄。",module,Magento_Paypal
+"PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal 建議您設置其他用戶在您的帳戶在manager.paypal.com，而不是輸入您的管理員用戶名和密碼在這裡。這將提高您的安全和防止服務中斷，如果您以後更改您的密碼。如果您不想要設置更多的用戶，您可以重新輸入您的商人在這裡登錄。",module,Magento_Paypal
 "Test Mode",測試模板,module,Magento_Paypal
 "Use Proxy",使用代理服務器,module,Magento_Paypal
 "It is recommended to set this value to ""Debit or Credit Card"" per store views.","建議將此值向""借記卡或信用卡""設置每一個商店界面。",module,Magento_Paypal
@@ -7283,9 +7283,9 @@ Action,操作,module,Magento_Reports
 "Last Credit Memo Created Date",最後創建的日期的貸項通知單,module,Magento_Reports
 "First Invoice Created Date",第一張發票，創建日期,module,Magento_Reports
 "Refresh Lifetime Statistics",刷新生存時間統計,module,Magento_Reports
-"Are you sure you want to refresh lifetime statistics right now? This operation may slow down your customers' shopping experience.",你確定你想要現在刷新生存時間統計?此操作可能會放慢您的客戶的購物體驗。 ,module,Magento_Reports
+"Are you sure you want to refresh lifetime statistics right now? This operation may slow down your customers' shopping experience.",您確定您想要現在刷新生存時間統計?此操作可能會放慢您的客戶的購物體驗。 ,module,Magento_Reports
 "Refresh Statistics for the Last Day",最後一天刷新統計信息,module,Magento_Reports
-"Are you sure you want to refresh statistics for the last day?",你確定你想要的最後一天刷新統計信息?,module,Magento_Reports
+"Are you sure you want to refresh statistics for the last day?",您確定您想要的最後一天刷新統計信息?,module,Magento_Reports
 Report,報告,module,Magento_Reports
 Description,描述,module,Magento_Reports
 undefined,未定義,module,Magento_Reports
@@ -7337,9 +7337,9 @@ Enable,啟用,module,Magento_Sales
 "Error to Show in Shopping Cart",顯示購物車中的錯誤,module,Magento_Sales
 "Validate Each Address Separately in Multi-address Checkout",驗證每個地址分別在多地址結帳,module,Magento_Sales
 "Multi-address Description Message",多地址描述消息,module,Magento_Sales
-"We'll use the default description above if you leave this empty.",如果你離開這空，我們可以使用上面的默認說明。 ,module,Magento_Sales
+"We'll use the default description above if you leave this empty.",如果您離開這空，我們可以使用上面的默認說明。 ,module,Magento_Sales
 "Multi-address Error to Show in Shopping Cart",多地址錯誤顯示在購物車,module,Magento_Sales
-"We'll use the default error above if you leave this empty.",如果你離開這空，我們可以使用上面的默認錯誤。 ,module,Magento_Sales
+"We'll use the default error above if you leave this empty.",如果您離開這空，我們可以使用上面的默認錯誤。 ,module,Magento_Sales
 Dashboard,控制面板,module,Magento_Sales
 "Orders Cron Settings","訂單 Cron 設置",module,Magento_Sales
 "Pending Payment Order Lifetime (minutes)","待付款訂單壽命 (分鐘)",module,Magento_Sales
@@ -7708,9 +7708,9 @@ Delete,刪除,module,Magento_Wishlist
 "Share with Friends","分享給朋友",module,Mirasvit_Rewards
 "Share the referal link in the social media and get points!","分享以下的連結給好友，齊齊賺取積分獎賞",module,Mirasvit_Rewards
 "Check this out!","快來看看!",module,Mirasvit_Rewards
-"Your referral link:","分享你的連結:",module,Mirasvit_Rewards
+"Your referral link:","分享您的連結:",module,Mirasvit_Rewards
 "Send Invitations","送出邀請",module,Mirasvit_Rewards
-"Enter contacts of your friends to invite them.","請輸入你朋友的電郵地址",module,Mirasvit_Rewards
+"Enter contacts of your friends to invite them.","請輸入您朋友的電郵地址",module,Mirasvit_Rewards
 "Referrals","已推薦的好友",module,Mirasvit_Rewards
 "There are no Referrals","沒有我推薦的人",module,Mirasvit_Rewards
 "Points Summary","累計積分獎賞",module,Mirasvit_Rewards
@@ -7720,19 +7720,19 @@ Delete,刪除,module,Magento_Wishlist
 "Visited by Referral Link","已送出邀請",module,Mirasvit_Rewards
 "Sent Email","已開啟連結",module,Mirasvit_Rewards
 "You have <b>%1</b> in your account.","共有 <b>%1</b>",module,Mirasvit_Rewards
-"Your points balance will expire in %1 days.","你的紅利將會於%1日內過期",module,Mirasvit_Rewards
+"Your points balance will expire in %1 days.","您的紅利將會於%1日內過期",module,Mirasvit_Rewards
 "Visit My Reward Points Section","跳至的的紅利點數",module,Mirasvit_Rewards
 "Transactions History","消費記錄",module,Mirasvit_Rewards
-"There are no Transactions.","你沒有消費記錄",module,Mirasvit_Rewards
+"There are no Transactions.","您沒有消費記錄",module,Mirasvit_Rewards
 "Checkout now and earn <b>%1</b> for this order.","立即結帳，將可獲到 <b>%1</b>.",module,Mirasvit_Rewards
-"You received %1 for signing up","恭喜你成功註冊並獲得%1﹗",module,Mirasvit_Rewards
+"You received %1 for signing up","恭喜您成功註冊並獲得%1﹗",module,Mirasvit_Rewards
 "You received %1 for sending this product","分享成功，得到%1",module,Mirasvit_Rewards
 "You received %1 for sign up for newsletter","訂閱成功，得到%1",module,Mirasvit_Rewards
 "You will receive %1 after approving of this tag","標簽核准後，將得到%1",module,Mirasvit_Rewards
 "You will receive %1 after approving of this review","評論核准後，將得到%1",module,Mirasvit_Rewards
 "You received %1 for sign up of referral customer.","介紹的朋友成功登記，得到%1",module,Mirasvit_Rewards
 "You received %1 for order of referral customer.","介紹的朋友成功購物，得到%1",module,Mirasvit_Rewards
-"Happy birthday! You received %1.","祝你生日快樂，送給你%1",module,Mirasvit_Rewards
+"Happy birthday! You received %1.","祝您生日快樂，送給您%1",module,Mirasvit_Rewards
 "%1 was applied.","%1 已使用。",module,Mirasvit_Rewards
 "Minimum number is %1.","最少 %1。",module,Mirasvit_Rewards
 "Maximum number is %1.","最多 is %1。",module,Mirasvit_Rewards
@@ -7740,7 +7740,7 @@ Delete,刪除,module,Magento_Wishlist
 "Cannot apply %1.","無法使用 %1.",module,Mirasvit_Rewards
 "Points Summary","累計積分獎賞",module,Mirasvit_Rewards
 "You have <b>%1</b> in your account.","共有 <b>%1</b> 。",module,Mirasvit_Rewards
-"You have","你帳戶共有",module,Mirasvit_Rewards
+"You have","您帳戶共有",module,Mirasvit_Rewards
 "Reward Points","積分獎賞",module,Mirasvit_Rewards
 "You have <b>%1</b> available.","共有 <b>%1</b> 可用.",module,Mirasvit_Rewards
 "Enter amount of points to spend:","請輸入要用的點數:",module,Mirasvit_Rewards
@@ -7761,10 +7761,10 @@ Delete,刪除,module,Magento_Wishlist
 "Customer writes a product's review","客戶編寫產品評論",module,Mirasvit_Rewards
 "Customer has a birthday","客戶生日",module,Mirasvit_Rewards
 "Customer is not active for long time","客戶不再活躍",module,Mirasvit_Rewards
-"%1 has been added.","%1 已加入你的帳戶。",module,Mirasvit_Rewards
-"%1 has been deducted.","%1 已由你的帳戶減去。",module,Mirasvit_Rewards
+"%1 has been added.","%1 已加入您的帳戶。",module,Mirasvit_Rewards
+"%1 has been deducted.","%1 已由您的帳戶減去。",module,Mirasvit_Rewards
 "You earned %1 and spent %2 for this order.","是次購物可獲取 %1 和用了 %2。",module,Mirasvit_Rewards
-"You spent %1 for this order.","是次購物你用了 %1。",module,Mirasvit_Rewards
+"You spent %1 for this order.","是次購物您用了 %1。",module,Mirasvit_Rewards
 "You earned %1 for this order.","是次購物可獲取 %1。",module,Mirasvit_Rewards
 "Earned points will be enrolled to your account after we finish processing your order.","是次積分獎賞將於交易完成後7-14個工作天內存入您的賬戶。",module,Mirasvit_Rewards
 "Earned %1 for the order #%2.","訂單 #%2 共賺取了 %1。",module,Mirasvit_Rewards
@@ -7782,7 +7782,7 @@ Delete,刪除,module,Magento_Wishlist
 "Purchased Product Qty","已買產品數量",module,Magestore_Membership
 "Saved Total","已節省",module,Magestore_Membership
 "Renew Now","現在更新",module,Magestore_Membership
-"You do not sign up to any packages.","你並沒有會籍。",module,Magestore_Membership
+"You do not sign up to any packages.","您並沒有會籍。",module,Magestore_Membership
 "VIPPackage","會籍",module,Magestore_Membership
 "Add","加入",module,Mirasvit_Search
 "Match Expression","匹配表達式",module,Mirasvit_Search
@@ -7893,7 +7893,7 @@ Content,Content,module,Mirasvit_Search
 "Stopword contains an invalid character: ""%1"".","Stopword contains an invalid character: ""%1"".",module,Mirasvit_Search
 "The length of synonym must be greater than 1.","The length of synonym must be greater than 1.",module,Mirasvit_Search
 "Synonym ""%1"" can contain only one word.","Synonym ""%1"" can contain only one word.",module,Mirasvit_Search
-"The page you requested was not found, but we have searched for relevant content.","找不到你要搜尋的頁面, 但我們已為你搜尋相關的內容。",module,Mirasvit_Search
+"The page you requested was not found, but we have searched for relevant content.","找不到您要搜尋的頁面, 但我們已為您搜尋相關的內容。",module,Mirasvit_Search
 "Add after","Add after",module,Mirasvit_Search
 Attribute,Attribute,module,Mirasvit_Search
 Weight,Weight,module,Mirasvit_Search
@@ -7940,8 +7940,8 @@ Appearance,Appearance,module,Mirasvit_SearchAutocomplete
 "Hot Searches","熱門搜尋",module,Mirasvit_SearchAutocomplete
 "Show Hot Searches","顯示熱門搜尋",module,Mirasvit_SearchAutocomplete
 "Comma separated search queries. Leave empty for show most popular queries.","Comma separated search queries. Leave empty for show most popular queries.",module,Mirasvit_SearchAutocomplete
-"Your search '<strong>%1</strong>' did not match any products.","你的搜索 '<strong>%1</strong>' 沒有找到產品。",module,Mirasvit_Misspell
-"Did you mean:","你是否要找:",module,Mirasvit_Misspell
+"Your search '<strong>%1</strong>' did not match any products.","您的搜索 '<strong>%1</strong>' 沒有找到產品。",module,Mirasvit_Misspell
+"Did you mean:","您是否要找:",module,Mirasvit_Misspell
 "Showing results using some of your search terms","Showing results using some of your search terms",module,Mirasvit_Misspell
 "Search Spell Correction","Search Spell Correction",module,Mirasvit_Misspell
 "Enable spell correction","Enable spell correction",module,Mirasvit_Misspell
