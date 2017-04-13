@@ -2812,7 +2812,7 @@ No,否,module,Magento_LayeredNavigation
 "Can be used only with catalog input type Dropdown, Multiple Select and Price",可以僅用目錄輸入類型下拉列表中，多個選擇和價格。 ,module,Magento_LayeredNavigation
 "Can be used only with catalog input type Dropdown, Multiple Select and Price.",可以僅用目錄輸入類型下拉列表中，多重選擇和價格。 ,module,Magento_LayeredNavigation
 "Use in Search Results Layered Navigation",在搜索結果中的使用分層導航,module,Magento_LayeredNavigation
-Position,位置,module,Magento_LayeredNavigation
+Position,排序,module,Magento_LayeredNavigation
 "Position in Layered Navigation",在分層導航的位置,module,Magento_LayeredNavigation
 "Position of attribute in layered navigation block.",在分層的導航塊中的屬性位置。 ,module,Magento_LayeredNavigation
 item,項目,module,Magento_LayeredNavigation
@@ -2826,6 +2826,7 @@ Remove,刪除,module,Magento_LayeredNavigation
 "Clear All",全部清除,module,Magento_LayeredNavigation
 "Shopping Options",購物的選項,module,Magento_LayeredNavigation
 "Menu - ","目錄 - ",module,Magento_LayeredNavigation
+"Category","產品類別",module,Magento_LayeredNavigation
 Partners,合作夥伴,module,Magento_Marketplace
 "Magento Marketplace","Magento 市場",module,Magento_Marketplace
 "Platinum Partners",白金合作夥伴,module,Magento_Marketplace
@@ -7805,10 +7806,10 @@ Options,Options,module,Mirasvit_Search
 "Push ""out of stock"" products to the end","Push ""out of stock"" products to the end",module,Mirasvit_Search
 "Url Template","Url Template",module,Mirasvit_Search
 Attributes,Attributes,module,Mirasvit_Search
-"General Information","General Information",module,Mirasvit_Search
-Title,Title,module,Mirasvit_Search
+"General Information","一般訊息",module,Mirasvit_Search
+Title,"標題",module,Mirasvit_Search
 Index,"索引",module,Mirasvit_Search
-Position,"位置",module,Mirasvit_Search
+Position,"排序",module,Mirasvit_Search
 Status,"狀態",module,Mirasvit_Search
 Enabled,Enabled,module,Mirasvit_Search
 Disabled,Disabled,module,Mirasvit_Search
@@ -7876,7 +7877,7 @@ External,External,module,Mirasvit_Search
 "Post Title","Post Title",module,Mirasvit_Search
 "Post Content","Post Content",module,Mirasvit_Search
 "Post Excerpt","Post Excerpt",module,Mirasvit_Search
-Category,類別,module,Mirasvit_Search
+"Category","產品類別",module,Mirasvit_Search
 Magento,Magento,module,Mirasvit_Search
 Name,Name,module,Mirasvit_Search
 Description,Description,module,Mirasvit_Search
