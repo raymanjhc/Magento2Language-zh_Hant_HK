@@ -6588,7 +6588,7 @@ Disable,禁用,module,Magento_Catalog
 "Update attributes",更新屬性,module,Magento_Catalog
 none,沒有,module,Magento_Catalog
 Overview,概述,module,Magento_Catalog
-Details,詳情,module,Magento_Catalog
+Details,產品詳情,module,Magento_Catalog
 "Enable Terms and Conditions",啟用的條款和條件,module,Magento_CheckoutAgreements
 "Checkout Options",結賬選項,module,Magento_Checkout
 "Enable Onepage Checkout",使用同一頁面結帳,module,Magento_Checkout
