@@ -306,7 +306,7 @@ password,密碼,module,Magento_Backend
 "Sign in",登錄,module,Magento_Backend
 "Select Range:",選擇區域:,module,Magento_Backend
 "No Data Found",找不到數據,module,Magento_Backend
-"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","圖表被禁用。若要啟用圖表，請單擊<a href=""% 1""> 這裡</a>。",module,Magento_Backend
+"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","圖表被禁用。若要啟用圖表，請按<a href=""% 1""> 這裡</a>。",module,Magento_Backend
 "Last Orders",最後的訂單,module,Magento_Backend
 "Last Search Terms",最後一個搜索條件,module,Magento_Backend
 "Top Search Terms",熱門搜索詞,module,Magento_Backend
@@ -640,7 +640,7 @@ Type,類型,module,Magento_CatalogRule
 "Attribute Set",屬性集,module,Magento_CatalogRule
 Product,產品,module,Magento_CatalogRule
 Promotions,促銷活動,module,Magento_CatalogRule
-"We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","我們發現不適用的更新的規則。請單擊""應用規則""來更新您的目錄。 ",module,Magento_CatalogRule
+"We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","我們發現不適用的更新的規則。請按""應用規則""來更新您的目錄。 ",module,Magento_CatalogRule
 "We can't apply the rules.",我們不能應用的規則。 ,module,Magento_CatalogRule
 "You deleted the rule.",規則已保存。 ,module,Magento_CatalogRule
 "We can't delete this rule right now. Please review the log and try again.",我們現在不能刪除該規則。請查看日誌並再試一次。 ,module,Magento_CatalogRule
@@ -882,7 +882,7 @@ None,無,module,Magento_Catalog
 "New Products from %1","%1 的新產品",module,Magento_Catalog
 "New Products",新產品,module,Magento_Catalog
 "%1 - Special Products",%1-特殊產品,module,Magento_Catalog
-"Click for price",單擊獲取價格,module,Magento_Catalog
+"Click for price",按獲取價格,module,Magento_Catalog
 "Special Expires On: %1","特別到期日期: %1",module,Magento_Catalog
 "Price: %1","價格: %1",module,Magento_Catalog
 "Special Price: %1","特價: %1",module,Magento_Catalog
@@ -1397,7 +1397,7 @@ Subtotal,小計,module,Magento_Checkout
 Edit,編輯,module,Magento_Checkout
 "Remove item",刪除項目,module,Magento_Checkout
 "You have no items in your shopping cart.",您的購物車中沒有任何物品。 ,module,Magento_Checkout
-"Click <a href=""%1"">here</a> to continue shopping.","單擊<a href=""%1""> 此處</a> 繼續購物。",module ,Magento_Checkout
+"Click <a href=""%1"">here</a> to continue shopping.","按<a href=""%1""> 此處</a> 繼續購物。",module ,Magento_Checkout
 "Estimate Tax",估計稅,module,Magento_Checkout
 "Estimate Shipping and Tax",估計運費和稅,module,Magento_Checkout
 "Excl. Tax",不包括消費稅,module,Magento_Checkout
@@ -1708,7 +1708,7 @@ Import,導入,module,Magento_CurrencySymbol
 "Use Standard",使用標準,module,Magento_CurrencySymbol
 "Please specify a correct Import Service.",請指定正確的導入服務。 ,module,Magento_CurrencySymbol
 "We can't initialize the import model.",我們無法初始化導入模板,module,Magento_CurrencySymbol
-"Click ""Save"" to apply the rates we found.","單擊""保存""以應用我們發現率。",module,Magento_CurrencySymbol
+"Click ""Save"" to apply the rates we found.","按""保存""以應用我們發現率。",module,Magento_CurrencySymbol
 "Currency Rates",貨幣匯率,module,Magento_CurrencySymbol
 "Please correct the input data for ""%1 => %2"" rate.","請更正""%1 => %2""率的輸入的數據。",module,Magento_CurrencySymbol
 "All valid rates have been saved.",所有有效的匯率已被保存。 ,module,Magento_CurrencySymbol
@@ -1842,7 +1842,7 @@ Download,下載,module,Magento_Customer
 "Wrong email.","錯誤的 Email 格式",module,Magento_Customer
 "Your password reset link has expired.",您的密碼重置鏈接已過期。 ,module,Magento_Customer
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","請點擊您的電子郵件確認連結或<a href=""%1"">點擊此處</a>重新送出確認連結。",module,Magento_Customer
-"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.", "已存在此電子郵件地址的帳戶。如果您確信它是您的電子郵件地址，<a href=""%1""> 請單擊此處</a> 以獲取您的密碼和訪問您的帳戶。",module,Magento_Customer
+"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.", "已存在此電子郵件地址的帳戶。如果您確信它是您的電子郵件地址，<a href=""%1""> 請按此處</a> 以獲取您的密碼和訪問您的帳戶。",module,Magento_Customer
 "We can't save the customer.",我們不能保存客戶。 ,module,Magento_Customer
 "Please make sure your passwords match.",請確保您的密碼相匹配。 ,module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","如果您是註冊的增值稅客戶，請<a href=""%1""> 點擊此處</a> 輸入您的運輸地址適當增值稅的計算。",module,Magento_Customer
@@ -2865,7 +2865,7 @@ Database,數據庫,module,Magento_MediaStorage
 "In Cart",購物車中,module,Magento_Msrp
 "Before Order Confirmation",在訂單確認之前,module,Magento_Msrp
 "Use config",用戶配置,module,Magento_Msrp
-"Click for price",單擊獲取價格,module,Magento_Msrp
+"Click for price",按獲取價格,module,Magento_Msrp
 "What's this?",這是什麼？ ,module,Magento_Msrp
 "Order total will be displayed before you submit the order",在您提交訂單之前，將顯示訂單總計,module,Magento_Msrp
 "You will see the order total before you submit the order.",在您提交訂單前，您將看到訂單總額。 ,module,Magento_Msrp
@@ -3546,7 +3546,7 @@ Continue,繼續,module,Magento_Paypal
 "Invalid block type: %1","無效的塊類型: %1",module,Magento_ProductAlert
 "Price change alert! We wanted you to know that prices have changed for these products:",價格變化警報!我們想讓您知道價格換了這些產品:,module,Magento_ProductAlert
 Price:,價格:,module,Magento_ProductAlert
-"Click here to stop alerts for this product.",單擊此處停止這種產品的警報。 ,module,Magento_ProductAlert
+"Click here to stop alerts for this product.",按此處停止這種產品的警報。 ,module,Magento_ProductAlert
 "Unsubscribe from all price alerts",退訂所有價格提醒,module,Magento_ProductAlert
 "In stock alert! We wanted you to know that these products are now available:",在股票的警報!我們想讓您知道這些產品現已可用:,module,Magento_ProductAlert
 "Unsubscribe from all stock alerts",退訂所有股票警報,module,Magento_ProductAlert
@@ -3835,7 +3835,7 @@ Websites,網站,module,Magento_Review
 "Summary of review: %1 <br/>","摘要的審查: %1 <br/>",module,Magento_Review
 "Review: %1 <br/>","評論: %1 <br/>",module,Magento_Review
 "Store: %1 <br/>","存儲: %1 <br/>",module,Magento_Review
-"Click <a href=""%1"">here</a> to see the review.","單擊<a href=""%1""> 這裡</a> 來見到的檢討。 ",module,Magento_Review
+"Click <a href=""%1"">here</a> to see the review.","按<a href=""%1""> 這裡</a> 來見到的檢討。 ",module,Magento_Review
 "Product: ""%1"" reviewed by: %2","產品:""%1""由審查: %2",module,Magento_Review
 "Pending Reviews RSS","待定評論 RSS",module,Magento_Review
 "Reviews %1","點評 %1",module,Magento_Review
@@ -4525,7 +4525,7 @@ Subtotal:,小計：,module,Magento_Sales
 "Move to Shopping Cart",移動到購物車,module,Magento_Sales
 "Move to Wish List",移動到收藏清單,module,Magento_Sales
 "Subscribe to Newsletter",訂閱到新聞通訊,module,Magento_Sales
-"Click to change shipping method",單擊要更改的運輸方法。 ,module,Magento_Sales
+"Click to change shipping method",按要更改的運輸方法。 ,module,Magento_Sales
 "Sorry, no quotes are available for this order.",對不起，沒有引號都可用此訂單。 ,module,Magento_Sales
 "Get shipping methods and rates",讓送貨方式及費率,module,Magento_Sales
 "You don't need to select a shipping method.",您不需要選擇送貨方式。 ,module,Magento_Sales
@@ -5108,8 +5108,8 @@ Total,總額,module,Magento_Tax
 "Including Tax",包括稅,module,Magento_Tax
 None,無,module,Magento_Tax
 "Including and Excluding Tax",包括和不包括稅,module,Magento_Tax
-"Click on the link to <a href=""%1"">ignore this notification</a>","單擊要<a href=""%1""> 忽略此通知</a> 鏈接" ,module,Magento_Tax
-"Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.","單擊此處轉到<a href=""%1""> 稅配置</a> 和更改您的設置。",module,Magento_Tax
+"Click on the link to <a href=""%1"">ignore this notification</a>","按要<a href=""%1""> 忽略此通知</a> 鏈接" ,module,Magento_Tax
+"Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.","按此處轉到<a href=""%1""> 稅配置</a> 和更改您的設置。",module,Magento_Tax
 "Invalid type of tax class ""%1""","無效的類型的稅類""%1""",module,Magento_Tax
 "Updating classType is not allowed.","不允許更新 classType。",module,Magento_Tax
 "A class with the same name already exists for ClassType %1.","對於 ClassType %1 已存在具有相同名稱的類。",module,Magento_Tax
@@ -5778,7 +5778,7 @@ Back,後退,module,Magento_Wishlist
 "Remove This Item",刪除該內容,module,Magento_Wishlist
 "Go to Wish List",去希望列表,module,Magento_Wishlist
 "You have no items in your wish list.",您有喜愛清單中沒有的項目。,module,Magento_Wishlist
-"%1 has been added to your Wish List.","%1 已加入喜愛清單",module,Magento_Wishlist
+"%1 has been added to your Wish List.","%1 已加入喜愛清單。",module,Magento_Wishlist
 "Now Shopping by","篩選條件",theme,frontend/Magento/luma
 Previous,上一個,theme,frontend/Magento/luma
 Remove,刪除,theme,frontend/Magento/luma
@@ -5883,7 +5883,7 @@ Password:,密碼:,module,Magento_Customer
 "You must confirm your %customer_email email before you can sign in (link is only valid once):","您必須確認您的 %customer_email 電子郵件之前您可以登錄 (鏈接有效期只有一次):",module,Magento_Customer
 "Confirm Your Account",確認您的帳戶,module,Magento_Customer
 "Thank you for confirming your %store_name account.","謝謝您確認您的 %store_name 帳戶。",module,Magento_Customer
-"To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","要登錄到我們的站點並設置密碼，請單擊<a href=""%create_password_url""> 鏈接</a>:",module,Magento_Customer
+"To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","要登錄到我們的站點並設置密碼，請按<a href=""%create_password_url""> 鏈接</a>:",module,Magento_Customer
 "There was recently a request to change the password for your account.",最近被更改為您的帳戶密碼的請求。 ,module,Magento_Customer
 "If you requested this change, set a new password here:",如果您要求此更改，在這裡設置一個新密碼:,module,Magento_Customer
 "If you did not make this request, you can ignore this email and your password will remain the same.",如果您並沒有提出這一請求，您可以忽略這封電子郵件，您的密碼將保持不變。 ,module,Magento_Customer
