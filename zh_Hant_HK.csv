@@ -2029,11 +2029,11 @@ or,或者,module,Magento_Customer
 "Delete Address",刪除地址,module,Magento_Customer
 "You have no other address entries in your address book.",您並沒有儲存其他的地址。 ,module,Magento_Customer
 "* Required Fields",*必要字段,module,Magento_Customer
-Company,公司名稱,module,Magento_Customer
+Company,公司電話號碼,module,Magento_Customer
 "Phone Number",電話號碼,module,Magento_Customer
 Fax,傳真,module,Magento_Customer
 Address,地址,module,Magento_Customer
-"Street Address",街道地址,module,Magento_Customer
+"Street Address",街道名稱,module,Magento_Customer
 "Street Address %1","街道地址 %1",module,Magento_Customer
 "VAT Number",增值稅號碼,module,Magento_Customer
 City,城市,module,Magento_Customer
@@ -4449,13 +4449,13 @@ title,標題,module,Magento_Sales
 "The total model should be extended from \Magento\Sales\Model\Order\Total\AbstractTotal.","總模型應該從 \Magento\Sales\Model\Order\Total\AbstractTotal 擴展。",module,Magento_Sales
 "We cannot determine the field name.",我們不能確定字段名稱。 ,module,Magento_Sales
 City,城市,module,Magento_Sales
-Company,公司名稱,module,Magento_Sales
+Company,公司電話號碼,module,Magento_Sales
 Country,國家,module,Magento_Sales
 Email,電郵,module,Magento_Sales
 "First Name",名字,module,Magento_Sales
 "Last Name",姓氏,module,Magento_Sales
 State/Province,地區,module,Magento_Sales
-"Street Address",街道地址,module,Magento_Sales
+"Street Address",街道名稱,module,Magento_Sales
 "Phone Number",電話號碼,module,Magento_Sales
 "Zip/Postal Code",郵編,module,Magento_Sales
 "We don't have enough information to save the parent transaction ID.","我們沒有足夠的信息來保存父事務 id。",module,Magento_Sales
@@ -6223,7 +6223,7 @@ Country,國家,module,Magento_Backend
 Region/State,地區/國家,module,Magento_Backend
 "ZIP/Postal Code",郵編,module,Magento_Backend
 City,城市,module,Magento_Backend
-"Street Address",街道地址,module,Magento_Backend
+"Street Address",街道名稱,module,Magento_Backend
 "Street Address Line 2",街道地址行二,module,Magento_Backend
 "VAT Number",增值稅VAT號碼,module,Magento_Backend
 "Single-Store Mode",單店鋪模式,module,Magento_Backend
@@ -7461,7 +7461,7 @@ Country,國家,module,Magento_Shipping
 Region/State,地區/國家,module,Magento_Shipping
 "ZIP/Postal Code",郵編,module,Magento_Shipping
 City,城市,module,Magento_Shipping
-"Street Address",街道地址,module,Magento_Shipping
+"Street Address",街道名稱,module,Magento_Shipping
 "Street Address Line 2",街道地址行二,module,Magento_Shipping
 "Shipping Policy Parameters",航運政策參數,module,Magento_Shipping
 "Apply custom Shipping Policy",應用自定義的航運政策,module,Magento_Shipping
