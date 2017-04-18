@@ -4692,7 +4692,7 @@ Reports,報告,module,Magento_Search
 "All Store Views",所有商店界面,module,Magento_Search
 Delete,刪除,module,Magento_Search
 View/Edit,查看/編輯,module,Magento_Search
-"Search entire store here...",在這裡搜索整個商店...,module,Magento_Search
+"Search entire store here...",搜尋喜愛產品及資訊,module,Magento_Search
 "There are no search terms available.",沒有搜索條件。 ,module,Magento_Search
 "Account Activity","帳戶活動",module,Magento_Security
 "All other open sessions for this account were terminated.","此帳戶所有其他打開的會話將被終止",module,Magento_Security
@@ -7922,7 +7922,7 @@ Stores,Stores,module,Mirasvit_Search
 Dictionary successfully processed.,module,Mirasvit_Search
 Products,"產品",module,Mirasvit_SearchAutocomplete
 "Popular suggestions","熱門推介",module,Mirasvit_SearchAutocomplete
-"Show all %1 results →","顯示全部 %1 結果 →",module,Mirasvit_SearchAutocomplete
+"Show all %1 results →","顯示全部 %1 個結果 →",module,Mirasvit_SearchAutocomplete
 "Sorry, nothing found for ""%1"".","對不起, ""%1"" 找不到東西。",module,Mirasvit_SearchAutocomplete
 "Searchable content","可搜尋的內䆟",module,Mirasvit_SearchAutocomplete
 Search,"搜尋",module,Mirasvit_SearchAutocomplete
