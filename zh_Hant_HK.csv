@@ -3028,12 +3028,12 @@ Subscribers,訂閱用戶,module,Magento_Newsletter
 "Your subscription has been confirmed.",您的訂閱已被證實。 ,module,Magento_Newsletter
 "This is an invalid subscription confirmation code.",這是一個無效的訂閱確認碼。 ,module,Magento_Newsletter
 "This is an invalid subscription ID.","這是一個無效的訂閱 id。",module,Magento_Newsletter
-"This email address is already assigned to another user.",此電子郵件地址已經分配給另一個用戶。 ,module,Magento_Newsletter
+"This email address is already assigned to another user.",此電郵已被登記。,module,Magento_Newsletter
 "Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","抱歉，但管理員拒絕客人的預訂。請<a href=""% 1""> 註冊</a>。",module,Magento_Newsletter
 "Please enter a valid email address.",請輸入有效的電子郵件地址。 ,module,Magento_Newsletter
 "The confirmation request has been sent.",確認請求已發送。 ,module,Magento_Newsletter
 "Thank you for your subscription.",謝謝您的訂閱。 ,module,Magento_Newsletter
-"There was a problem with the subscription: %1","還有一個問題與訂閱: %1",module,Magento_Newsletter
+"There was a problem with the subscription: %1","此電郵已被登記，請您登入賬戶更改訂閱資料。",module,Magento_Newsletter
 "Something went wrong with the subscription.",該訂閱出毛病了。 ,module,Magento_Newsletter
 "You unsubscribed.",您退訂。 ,module,Magento_Newsletter
 "Something went wrong while unsubscribing you.",取消訂閱您時出了錯。 ,module,Magento_Newsletter
