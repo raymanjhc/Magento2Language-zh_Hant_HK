@@ -625,7 +625,7 @@ Quantity,數量,module,Magento_CatalogInventory
 "Product availability",產品的可用性,module,Magento_CatalogInventory
 "Product Name",產品名稱,module,Magento_CatalogInventory
 Qty,數量,module,Magento_CatalogInventory
-"We don't have as many ""%1"" as you requested.","""%1"" 暫沒有那么多存貨。",module,Magento_CatalogInventory
+"We don't have as many ""%1"" as you requested.","""%1"" 暫沒有那麼多存貨。",module,Magento_CatalogInventory
 "Delete Rule",刪除規則,module,Magento_CatalogRule
 "Are you sure you want to do this?",您確認要這麼做麼？ ,module,Magento_CatalogRule
 Reset,重置,module,Magento_CatalogRule
