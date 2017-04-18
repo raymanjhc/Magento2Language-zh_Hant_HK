@@ -119,7 +119,7 @@ Shipping,運費,module,Magento_Backend
 "What is this?",這是什麼？ ,module,Magento_Backend
 "Save Account",保存帳戶信息,module,Magento_Backend
 "My Account",我的賬戶,module,Magento_Backend
-"Account Information",個人信息,module,Magento_Backend
+"Account Information",個人資料,module,Magento_Backend
 "User Name",用戶名稱,module,Magento_Backend
 "First Name",名字,module,Magento_Backend
 "Last Name",姓氏,module,Magento_Backend
@@ -1847,7 +1847,7 @@ Download,下載,module,Magento_Customer
 "Please make sure your passwords match.",請確保您的密碼相匹配。 ,module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","如果您是註冊的增值稅客戶，請<a href=""%1""> 點擊此處</a> 輸入您的運輸地址適當增值稅的計算。",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","如果您是註冊的增值稅客戶，請<a href=""%1""> 點擊此處</a> 輸入您的運輸地址適當增值稅的計算。",module,Magento_Customer
-"Account Information",個人信息,module,Magento_Customer
+"Account Information",個人資料,module,Magento_Customer
 "You saved the account information.",您保存的帳戶信息。 ,module,Magento_Customer
 "The password doesn't match this account.",密碼不匹配此帳戶。 ,module,Magento_Customer
 "Please correct the email address.",請正確的電子郵件地址。 ,module,Magento_Customer
@@ -1995,7 +1995,7 @@ Visitor,遊客,module,Magento_Customer
 Customer,客戶,module,Magento_Customer
 "No item specified.",沒有指定的項。 ,module,Magento_Customer
 "Are you sure you want to remove this item?",您確定要刪除這個項目嗎？ ,module,Magento_Customer
-"Personal Information",個人信息,module,Magento_Customer
+"Personal Information",個人資料,module,Magento_Customer
 "Last Logged In:",上次登錄:,module,Magento_Customer
 "Last Logged In (%1):","上次登錄在 (%1):",module,Magento_Customer
 "Confirmed email:",已確認的電子郵件:,module,Magento_Customer
@@ -4078,7 +4078,7 @@ Cancel,保存,module,Magento_Sales
 Coupons,優惠券,module,Magento_Sales
 "Please select a customer",請選擇客戶,module,Magento_Sales
 "Create New Customer",創建新客戶,module,Magento_Sales
-"Account Information",個人信息,module,Magento_Sales
+"Account Information",個人資料,module,Magento_Sales
 From,從,module,Magento_Sales
 To,至,module,Magento_Sales
 Message,信息,module,Magento_Sales
@@ -5413,7 +5413,7 @@ Users,用戶管理,module,Magento_User
 "Force Sign-In",強制登錄,module,Magento_User
 "Edit User '%1'","編輯用戶 '%1'",module,Magento_User
 "New User",新增用戶,module,Magento_User
-"Account Information",個人信息,module,Magento_User
+"Account Information",個人資料,module,Magento_User
 "User Email",界面語言,module,Magento_User
 Password,密碼,module,Magento_User
 "New Password",新密碼,module,Magento_User
