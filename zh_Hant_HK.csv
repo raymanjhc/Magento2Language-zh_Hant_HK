@@ -1737,7 +1737,7 @@ System,系統,module,Magento_CurrencySymbol
 "You subscribe to our newsletter.",您訂閱我們的時事通訊。 ,module,Magento_Customer
 "You don't subscribe to our newsletter.",您沒有訂閱我們的時事通訊。 ,module,Magento_Customer
 "You have not set a default shipping address.",您沒有設置默認的送貨地址。 ,module,Magento_Customer
-"You have not set a default billing address.",您沒有設置默認的賬單地址。 ,module,Magento_Customer
+"You have not set a default billing address.",您沒有儲存賬單地址。,module,Magento_Customer
 "Address Book",送貨地址,module,Magento_Customer
 "Additional Information",附加資訊,module,Magento_Customer
 "Edit Address",更改賬單地址,module,Magento_Customer
@@ -1849,8 +1849,8 @@ Download,下載,module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","如果您是註冊的增值稅客戶，請<a href=""%1""> 點擊此處</a> 輸入您的運輸地址適當增值稅的計算。",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","如果您是註冊的增值稅客戶，請<a href=""%1""> 點擊此處</a> 輸入您的運輸地址適當增值稅的計算。",module,Magento_Customer
 "Account Information",個人資料,module,Magento_Customer
-"You saved the account information.",您保存的帳戶信息。 ,module,Magento_Customer
-"The password doesn't match this account.",密碼不匹配此帳戶。 ,module,Magento_Customer
+"You saved the account information.",已儲存您的賬戶資料。,module,Magento_Customer
+"The password doesn't match this account.",密碼不正確。,module,Magento_Customer
 "Please correct the email address.",請正確的電子郵件地址。 ,module,Magento_Customer
 "We're unable to send the password reset email.",我們無法發送重新設置密碼的電子郵件。 ,module,Magento_Customer
 "Please enter your email.",請輸入您的電子郵箱地址。 ,module,Magento_Customer
@@ -2018,7 +2018,7 @@ Change,更改,module,Magento_Customer
 "Contact Information",個人資料,module,Magento_Customer
 "Change Password",更改密碼,module,Magento_Customer
 Newsletters,訂閱資訊,module,Magento_Customer
-"You subscribe to ""General Subscription"".","您訂閱""一般訂閱""。",module,Magento_Customer
+"You subscribe to ""General Subscription"".","您已訂閱EugeneBaby.com的最新資訊。",module,Magento_Customer
 or,或者,module,Magento_Customer
 "Default Addresses",通訊錄,module,Magento_Customer
 "Change Billing Address",更改賬單地址,module,Magento_Customer
@@ -2072,6 +2072,8 @@ Password,密碼,module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","您已登出，5秒後將會返回首頁。",module,Magento_Customer
 "New Customers",新客戶,module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","註冊成為會員後可更快地查閱和追蹤訂單。", module,Magento_Customer
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","密碼必須至少包含下列其中 %1 種字元: 大寫字母、小寫字母、數字或符號。",module,Magento_Customer
+"Please enter the same value again.","請輸入相同密碼。",module,Magento_Customer
 "Creating an account can check and track orders anytime.","註冊成為會員可隨時查閱和追蹤訂單。",module,Magento_Customer
 "Gender","性別",module,Magento_Customer
 "Name","名字",module,Magento_Customer
@@ -3021,7 +3023,7 @@ Subscribers,訂閱用戶,module,Magento_Newsletter
 "Something went wrong while saving this template.",保存此模板時，出了錯。 ,module,Magento_Newsletter
 "Newsletter Subscription",訂閱資訊,module,Magento_Newsletter
 "Something went wrong while saving your subscription.",保存訂閱時出了錯。 ,module,Magento_Newsletter
-"We saved the subscription.",我們保存訂閱。 ,module,Magento_Newsletter
+"We saved the subscription.",已儲存您的訂閱資訊。,module,Magento_Newsletter
 "We removed the subscription.",我們刪除訂閱。 ,module,Magento_Newsletter
 "Your subscription has been confirmed.",您的訂閱已被證實。 ,module,Magento_Newsletter
 "This is an invalid subscription confirmation code.",這是一個無效的訂閱確認碼。 ,module,Magento_Newsletter
