@@ -707,7 +707,7 @@ Search,搜索,module,Magento_CatalogSearch
 "Modify your search.",修改您的搜索。 ,module,Magento_CatalogSearch
 name,名字,module,Magento_CatalogSearch
 "Don't see what you're looking for?",找不到想找的的東西？ ,module,Magento_CatalogSearch
-"Your search returned no results.",您的搜索沒有任何結果。 ,module,Magento_CatalogSearch
+"Your search returned no results.",找不到相關產品。 ,module,Magento_CatalogSearch
 "Create Permanent Redirect for old URL",為舊網址創建永久重定向,module,Magento_CatalogUrlRewrite
 "Conditions Combination",條件組合,module,Magento_CatalogWidget
 "Product Attribute",產品屬性,module,Magento_CatalogWidget
@@ -1411,7 +1411,7 @@ Loading...,加載.....,module,Magento_Checkout
 "Your order # is: <span>%1</span>.","您的訂單號是: <span>%1</span>。",module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.",我們會盡快處理閣下的訂單，請到「訂單紀錄」中查閱訂單狀態。 ,module,Magento_Checkout
 "Discount Total",折扣總和,module,Magento_Checkout
-"Are you sure you would like to remove this item from the shopping cart?","碓定要將此產品從購物車中移除？",module,Magento_Checkout
+"Are you sure you would like to remove this item from the shopping cart?","確定要將此產品從購物車中移除？",module,Magento_Checkout
 "Discount Total",折扣總和,module,Magento_SalesRule
 "Coupon Discount",優惠劵,module,Magento_SalesRule
 "Reward Point Used",使用積分,module,Magento_SalesRule
@@ -1738,7 +1738,7 @@ System,系統,module,Magento_CurrencySymbol
 "You don't subscribe to our newsletter.",您沒有訂閱我們的時事通訊。 ,module,Magento_Customer
 "You have not set a default shipping address.",您沒有設置默認的送貨地址。 ,module,Magento_Customer
 "You have not set a default billing address.",您沒有儲存賬單地址。,module,Magento_Customer
-"Address Book",送貨地址,module,Magento_Customer
+"Address Book",通訊地址,module,Magento_Customer
 "Additional Information",附加資訊,module,Magento_Customer
 "Edit Address",更改送貨地址,module,Magento_Customer
 "Add New Address",添加新地址,module,Magento_Customer
@@ -2020,7 +2020,7 @@ Change,更改,module,Magento_Customer
 Newsletters,訂閱資訊,module,Magento_Customer
 "You subscribe to ""General Subscription"".","您已訂閱EugeneBaby.com的最新資訊。",module,Magento_Customer
 or,或者,module,Magento_Customer
-"Default Addresses",通訊錄,module,Magento_Customer
+"Default Addresses",通訊地址,module,Magento_Customer
 "Change Billing Address",更改賬單地址,module,Magento_Customer
 "You have no default billing address in your address book.",您有沒有默認的賬單地址簿中的地址。 ,module,Magento_Customer
 "Change Shipping Address",更改送貨地址,module,Magento_Customer
@@ -2883,7 +2883,7 @@ Price,價格,module,Magento_Msrp
 Total,總額,module,Magento_Multishipping
 "Total for this address",共為此地址的,module,Magento_Multishipping
 "Shipping Methods",運送方法,module,Magento_Multishipping
-"Edit Address",更改送貨地址,module,Magento_Multishipping
+"Edit Address",更改地址,module,Magento_Multishipping
 "Edit Billing Address",編輯賬單地址,module,Magento_Multishipping
 "Edit Shipping Address",編輯送貨地址,module,Magento_Multishipping
 "Create Billing Address",創建賬單地址,module,Magento_Multishipping
@@ -2894,7 +2894,7 @@ Total,總額,module,Magento_Multishipping
 "Order place error",順序位置誤差,module,Magento_Multishipping
 "Maximum qty allowed for Shipping to multiple addresses is %1","允許發貨到多個地址的最大數量是 %1",module,Magento_Multishipping
 "Please check shipping address information.",請檢查送貨地址信息。 ,module,Magento_Multishipping
-"Please check billing address information.",請檢查送貨地址信息。 ,module,Magento_Multishipping
+"Please check billing address information.",請檢查賬單地址信息。 ,module,Magento_Multishipping
 "Please select shipping methods for all addresses.",請選擇所有地址的配送方式。 ,module,Magento_Multishipping
 "A payment method is not defined.",未定義的付款方法。 ,module,Magento_Multishipping
 "The requested payment method is not available for multishipping.","Multishipping 的請求的付款方法不可用。",module,Magento_Multishipping
@@ -3479,7 +3479,7 @@ here,在這裡,module,Magento_Paypal
 "To use PayPal Payments Advanced, you must configure your PayPal Payments Advanced account on the PayPal website.",若要使用貝寶付款先進，必須在貝寶網站上配置您的貝寶付款高級帳戶。 ,module,Magento_Paypal
 "Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","一旦您登錄到您的PayPal 高級帳戶、 導航到服務設置-主辦結帳頁面-設置目錄和設置選項如下所述",module,Magento_Paypal
 "To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","若要使用 PayPal 轉賬鏈接，您必須在貝寶網站上配置您的 PayPal 轉賬鏈接帳戶。",module,Magento_Paypal
-"Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","一旦您登錄到您的PayPal 轉賬鏈接帳戶、 導航到服務設置-主辦結帳頁面-設置目錄和設置選項如下所述",module,Magento_Paypal
+"Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","一旦您登錄到您的PayPal 轉賬鏈接帳戶、 導航到服務設置-主辦結賬頁面-設置目錄和設置選項如下所述",module,Magento_Paypal
 "Agreement Information",協議信息,module,Magento_Paypal
 "Reference ID:","引用 ID:",module,Magento_Paypal
 Status:,狀態:,module,Magento_Paypal
@@ -3604,7 +3604,7 @@ Subtotal,小計,module,Magento_Quote
 "This item price or quantity is not valid for checkout.",這個項目的價格或數量是無效的。 ,module,Magento_Quote
 "Please check the shipping address information. %1",請檢查送貨地址信息。 %1,module,Magento_Quote
 "Please specify a shipping method.",請指定一個裝運方法。 ,module,Magento_Quote
-"Please check the billing address information. %1",請檢查送貨地址信息。 %1,module,Magento_Quote
+"Please check the billing address information. %1",請檢查賬單地址信息。 %1,module,Magento_Quote
 "Please select a valid payment method.",請選擇有效的付款方法。 ,module,Magento_Quote
 "Store Credit",店鋪信用,module,Magento_Quote
 Discount,折扣,module,Magento_Quote
@@ -4513,7 +4513,7 @@ Remove,刪除,module,Magento_Sales
 "Same As Billing Address",與賬單地址相同,module,Magento_Sales
 "Select from existing customer addresses:",從現有的客戶地址中選擇:,module,Magento_Sales
 "Add New Address",添加新地址,module,Magento_Sales
-"Save in address book",保存到地址簿,module,Magento_Sales
+"Save in address book",保存到通訊地址,module,Magento_Sales
 "You don't need to select a shipping address.",您不需要選擇送貨地址。 ,module,Magento_Sales
 "Gift Message for the Entire Order",整個訂單的禮物留言,module,Magento_Sales
 "Leave this box blank if you don't want to leave a gift message for the entire order.",將此框保留為空，如果您不想離開整個訂單的禮物留言。 ,module,Magento_Sales
@@ -5817,7 +5817,7 @@ Password,密碼,module,Magento_Checkout
 "My billing and shipping address are the same",送貨地址和賬單地址一樣,module,Magento_Checkout
 Update,更新,module,Magento_Checkout
 Cancel,保存,module,Magento_Checkout
-"Save in address book",保存到地址簿,module,Magento_Checkout
+"Save in address book",保存到通訊地址,module,Magento_Checkout
 "Estimated Total",估計總額,module,Magento_Checkout
 "You can create an account after checkout.",您可以在結賬後創建帳戶。 ,module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.",您已經有賬號了，可以登錄或繼續使用遊客賬號,module,Magento_Checkout
@@ -5825,7 +5825,7 @@ Login,登錄,module,Magento_Checkout
 Close,關閉,module,Magento_Checkout
 item,件,module,Magento_Checkout
 items,件,module,Magento_Checkout
-"Go to Checkout",立即結帳,module,Magento_Checkout
+"Go to Checkout",立即結賬,module,Magento_Checkout
 "Recently added item(s)",最近添加的商品,module,Magento_Checkout
 "View and edit cart",查看和修改購物清單,module,Magento_Checkout
 "See Details",查看詳細信息,module,Magento_Checkout
@@ -5857,7 +5857,7 @@ Remove,刪除,module,Magento_Checkout
 "Ship To:",送貨到:,module,Magento_Checkout
 edit,編輯,module,Magento_Checkout
 "Shipping Address",送貨地址,module,Magento_Checkout
-"New Address",在「送貨地址」中選擇，或輸入新地址。,module,Magento_Checkout
+"New Address",在「通訊地址」中選擇，或輸入新地址。,module,Magento_Checkout
 "Shipping Methods",運送方法,module,Magento_Checkout
 "Select Method",選擇方法,module,Magento_Checkout
 "Method Title",方法標題,module,Magento_Checkout
@@ -5880,7 +5880,7 @@ Password:,密碼:,module,Magento_Customer
 "Password you set when creating account",在創建帳戶時設置的密碼,module,Magento_Customer
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","忘記了您的帳戶密碼?點擊<a href=""%reset_url""> 這裡</a> 重置它。",module,Magento_Customer
 "When you sign in to your account, you will be able to:",當您登錄到您的帳戶時，您將能夠:,module,Magento_Customer
-"Proceed through checkout faster",更快地進行結帳,module,Magento_Customer
+"Proceed through checkout faster",更快地進行結賬,module,Magento_Customer
 "Check the status of orders",檢查訂單的狀態,module,Magento_Customer
 "View past orders",查看過去的訂單,module,Magento_Customer
 "Store alternative addresses (for shipping to multiple family members and friends)","存儲備用地址 (用於運送到多個家庭成員和朋友)",module,Magento_Customer
@@ -5896,7 +5896,7 @@ Password:,密碼:,module,Magento_Customer
 "See order and shipping status",請參閱順序和傳送狀態,module,Magento_Customer
 "Track order history",跟踪訂單歷史記錄,module,Magento_Customer
 "Check out faster",更快地查閱,module,Magento_Customer
-"Checkout out using your account",使用您的帳戶結帳,module,Magento_Customer
+"Checkout out using your account",使用您的帳戶結賬,module,Magento_Customer
 "Email Address",電郵地址,module,Magento_Customer
 "Change Email and Password","更改電郵及密碼",module,Magento_Customer
 "Currency Update Warnings",貨幣更新警告,module,Magento_Directory
@@ -6355,7 +6355,7 @@ Debug,調試,module,Magento_Braintree
 "PayPal through Braintree",布倫特里通過貝寶,module,Magento_Braintree
 "Override Merchant Name",重寫商戶名稱,module,Magento_Braintree
 "Require Customer's Billing Address",需要客戶的賬單地址,module,Magento_Braintree
-"Allow to Edit Shipping Address Entered During Checkout on PayPal Side",允許編輯航運貝寶一邊在結帳時輸入地址,module,Magento_Braintree
+"Allow to Edit Shipping Address Entered During Checkout on PayPal Side",允許編輯航運貝寶一邊在結賬時輸入地址,module,Magento_Braintree
 "Display on Shopping Cart",在購物車上的顯示,module,Magento_Braintree
 "3D Secure Verification Settings","3D 安全驗證設置",module,Magento_Braintree
 "3D Secure Verification","3D 安全驗證",module,Magento_Braintree
@@ -6596,8 +6596,8 @@ Overview,概述,module,Magento_Catalog
 Details,產品詳情,module,Magento_Catalog
 "Enable Terms and Conditions",啟用的條款和條件,module,Magento_CheckoutAgreements
 "Checkout Options",結賬選項,module,Magento_Checkout
-"Enable Onepage Checkout",使用同一頁面結帳,module,Magento_Checkout
-"Allow Guest Checkout",允許遊客結帳,module,Magento_Checkout
+"Enable Onepage Checkout",使用同一頁面結賬,module,Magento_Checkout
+"Allow Guest Checkout",允許遊客結賬,module,Magento_Checkout
 "Quote Lifetime (days)","引述有效期 (天)",module,Magento_Checkout
 "After Adding a Product Redirect to Shopping Cart",將產品加入購物車後將重定向到購物車頁面,module,Magento_Checkout
 "My Cart Link",我購物車鏈接,module,Magento_Checkout
@@ -6878,8 +6878,8 @@ Downloads,下載附件,module,Magento_Downloadable
 "Default Link Title",默認鏈接標題,module,Magento_Downloadable
 "Open Links in New Window",在新窗口中打開鏈接,module,Magento_Downloadable
 "Use Content-Disposition",使用內容處置,module,Magento_Downloadable
-"Disable Guest Checkout if Cart Contains Downloadable Items",如果禁用來賓結帳車包含可下載的項目,module,Magento_Downloadable
-"Guest checkout will only work with shareable.",僅來賓結帳將可共享使用。 ,module,Magento_Downloadable
+"Disable Guest Checkout if Cart Contains Downloadable Items",如果禁用來賓結賬車包含可下載的項目,module,Magento_Downloadable
+"Guest checkout will only work with shareable.",僅來賓結賬將可共享使用。 ,module,Magento_Downloadable
 "EAV types and attributes","EAV 類型和屬性",module,Magento_Eav
 "Entity types declaration cache",實體類型聲明緩存,module,Magento_Eav
 Communications,通訊,module,Magento_Email
@@ -7111,10 +7111,10 @@ Import,導入,module,Magento_OfflineShipping
 "Payments Pro and Express Checkout","付款 Pro 和快遞簽出",module,Magento_Paypal
 "Basic Settings - PayPal Payments Pro","基本設置-PayPal 付款臨",module,Magento_Paypal
 "PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","所有在一貝寶付款解決方案<i>接受、 過程信用卡和PayPal 付款。 </i>",module,Magento_Paypal
-"Accept payments with a completely customizable checkout page.",接受支付完全可定制的結帳頁面。 ,module,Magento_Paypal
+"Accept payments with a completely customizable checkout page.",接受支付完全可定制的結賬頁面。 ,module,Magento_Paypal
 "Process payments using your own internet merchant account.",使用您自己的互聯網商家帳戶的處理付款。 ,module,Magento_Paypal
-"Express Checkout",快速結帳,module,Magento_Paypal
-"Add PayPal as an additional payment method to your checkout page.",貝寶作為一種額外的付款方法添加到結帳頁面。 ,module,Magento_Paypal
+"Express Checkout",快速結賬,module,Magento_Paypal
+"Add PayPal as an additional payment method to your checkout page.",貝寶作為一種額外的付款方法添加到結賬頁面。 ,module,Magento_Paypal
 "Required PayPal Settings",所需的貝寶設置,module,Magento_Paypal
 "Email Associated with PayPal Merchant Account (Optional)","與貝寶商人帳戶 (可選) 關聯的電子郵件",module,Magento_Paypal
 "Don't have a PayPal account? Simply enter your email address.","難道沒有一個 PayPal 帳戶嗎?只需輸入您的電子郵件地址。",module,Magento_Paypal
@@ -7138,7 +7138,7 @@ Size,尺寸,module,Magento_Paypal
 "Catalog Category Page",目錄類別頁,module,Magento_Paypal
 "Catalog Product Page",目錄產品頁,module,Magento_Paypal
 "Checkout Cart Page",簽出購物車頁面,module,Magento_Paypal
-"Basic Settings - PayPal Express Checkout",基本設置-貝寶快速結帳,module,Magento_Paypal
+"Basic Settings - PayPal Express Checkout",基本設置-貝寶快速結賬,module,Magento_Paypal
 Title,標題,module,Magento_Paypal
 "It is recommended to set this value to ""PayPal"" per store views.","它建議設置此值與""貝寶""每一個商店界面。",module,Magento_Paypal
 "Sort Order",排序,module,Magento_Paypal
@@ -7162,7 +7162,7 @@ Title,標題,module,Magento_Paypal
 "If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","如果啟用此選項，則客戶可以更改送貨地址和送貨方式在貝寶網站上。在實時模式中工作通過HTTPS 協議只。",module,Magento_Paypal
 "Notice that PayPal can handle up to 10 shipping options. That is why Magento will tr​​ansfer only first 10 cheapest shipping options if there are more than 10 available.","請注意，PayPal 可以處理達10 送貨選項。這就是為什麼Magento 將轉移只有首先10 最便宜的運輸選項，如果超過10。",module,Magento_Paypal
 "Shortcut Buttons Flavor",快捷方式按鈕風味,module,Magento_Paypal
-"Enable PayPal Guest Checkout",啟用貝寶來賓結帳,module,Magento_Paypal
+"Enable PayPal Guest Checkout",啟用貝寶來賓結賬,module,Magento_Paypal
 "Ability for buyer to purchase without PayPal account.","買方購買沒有 PayPal 帳戶的能力。",module,Magento_Paypal
 "Require Customer's Billing Address",需要客戶的賬單地址,module,Magento_Paypal
 "This feature needs be enabled first for the merchant account through PayPal technical support.",通過貝寶技術支持的商人帳戶，需要首先啟用此功能。 ,module,Magento_Paypal
@@ -7340,7 +7340,7 @@ Enable,啟用,module,Magento_Sales
 "Description Message",描述消息,module,Magento_Sales
 "This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.","低於的最小允許金額小計(打折後) 時，將購物車中顯示此消息。 ",module,Magento_Sales
 "Error to Show in Shopping Cart",顯示購物車中的錯誤,module,Magento_Sales
-"Validate Each Address Separately in Multi-address Checkout",驗證每個地址分別在多地址結帳,module,Magento_Sales
+"Validate Each Address Separately in Multi-address Checkout",驗證每個地址分別在多地址結賬,module,Magento_Sales
 "Multi-address Description Message",多地址描述消息,module,Magento_Sales
 "We'll use the default description above if you leave this empty.",如果您離開這空，我們可以使用上面的默認說明。 ,module,Magento_Sales
 "Multi-address Error to Show in Shopping Cart",多地址錯誤顯示在購物車,module,Magento_Sales
@@ -7730,7 +7730,7 @@ Delete,刪除,module,Magento_Wishlist
 "My Reward Points","我的積分",module,Mirasvit_Rewards
 "Transactions History","消費記錄",module,Mirasvit_Rewards
 "There are no Transactions.","您沒有消費記錄",module,Mirasvit_Rewards
-"Checkout now and earn <b>%1</b> for this order.","立即註冊成為基本會員，結帳後可獲到 <b>%1</b>。",module,Mirasvit_Rewards
+"Checkout now and earn <b>%1</b> for this order.","會員結賬後可獲得 <b>%1</b>積分獎賞。",module,Mirasvit_Rewards
 "You received %1 for signing up","恭喜您成功註冊並獲得%1﹗",module,Mirasvit_Rewards
 "You received %1 for sending this product","分享成功，得到%1",module,Mirasvit_Rewards
 "You received %1 for sign up for newsletter","訂閱成功，得到%1",module,Mirasvit_Rewards
@@ -7783,7 +7783,7 @@ Delete,刪除,module,Magento_Wishlist
 "Not Paid","未付款",module,Magedelight_Cybersourcesa
 "Go To Product","前往產品",module,WeltPixel_Quickview
 "My Membership Area","會員專區",module,Magestore_Membership
-"My Packages","我的會籍",module,Magestore_Membership
+"My Packages","基本會員 / VIB會員",module,Magestore_Membership
 "Expired Date","到期日",module,Magestore_Membership
 "Purchased Product Qty","已買產品數量",module,Magestore_Membership
 "Saved Total","已節省",module,Magestore_Membership
@@ -7928,7 +7928,7 @@ Dictionary successfully processed.,module,Mirasvit_Search
 Products,"產品",module,Mirasvit_SearchAutocomplete
 "Popular suggestions","熱門推介",module,Mirasvit_SearchAutocomplete
 "Show all %1 results →","顯示全部 %1 個結果 →",module,Mirasvit_SearchAutocomplete
-"Sorry, nothing found for ""%1"".","對不起, ""%1"" 找不到東西。",module,Mirasvit_SearchAutocomplete
+"Sorry, nothing found for ""%1"".","找不到""%1""相關產品",module,Mirasvit_SearchAutocomplete
 "Searchable content","可搜尋的內䆟",module,Mirasvit_SearchAutocomplete
 Search,"搜尋",module,Mirasvit_SearchAutocomplete
 "Search Autocomplete","搜尋自動推介",module,Mirasvit_SearchAutocomplete
