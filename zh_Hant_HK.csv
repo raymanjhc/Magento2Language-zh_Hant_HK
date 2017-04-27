@@ -1337,10 +1337,10 @@ State/Province,地區,module,Magento_Checkout
 "Out of stock",缺貨,module,Magento_Checkout
 "We can't find the quote item.",我們找不到引用項。 ,module,Magento_Checkout
 "We cannot configure the product.",我們不能配置該產品。 ,module,Magento_Checkout
-"You used coupon code ""%1"".","您使用優惠券代碼""%1""。",module,Magento_Checkout
-"The coupon code ""%1"" is not valid.",編輯項目參數,module,Magento_Checkout
-"You canceled the coupon code.",您取消的優惠券代碼。 ,module,Magento_Checkout
-"We cannot apply the coupon code.",我們不能適用的優惠券代碼。 ,module,Magento_Checkout
+"You used coupon code ""%1"".","您使用優惠碼""%1""。",module,Magento_Checkout
+"The coupon code ""%1"" is not valid.","優惠碼 ""%1"" 無效",module,Magento_Checkout
+"You canceled the coupon code.",您取消的優惠碼代碼。 ,module,Magento_Checkout
+"We cannot apply the coupon code.",我們不能適用的優惠碼代碼。 ,module,Magento_Checkout
 "We can't remove the item.",我們不能刪除該項目。 ,module,Magento_Checkout
 "%1 was updated in your shopping cart.","%1 已更新您的購物車中。",module,Magento_Checkout
 "We can't update the item right now.",我們現在不能更新該項目。 ,module,Magento_Checkout
@@ -1382,7 +1382,7 @@ Message,信息,module,Magento_Checkout
 "Apply Discount Code","使用電子優惠碼？",module,Magento_Checkout
 "Enter discount code",請輸入電子優惠碼,module,Magento_Checkout
 "Apply Discount",使用優惠,module,Magento_Checkout
-"Cancel Coupon",取消優惠券,module,Magento_Checkout
+"Cancel Coupon",取消優惠碼,module,Magento_Checkout
 "Shopping Cart Items",購物車裡的產品,module,Magento_Checkout
 Item,產品,module,Magento_Checkout
 Price,價格,module,Magento_Checkout
@@ -3384,7 +3384,7 @@ Debit,借記卡,module,Magento_Paypal
 "Bonus for first ACH Use","第一次的 ACH 使用獎金",module,Magento_Paypal
 "Buyer Credit Payment",買方信貸付款,module,Magento_Paypal
 Charge-off,撇帳,module,Magento_Paypal
-"Coupon Redemption",優惠券,module,Magento_Paypal
+"Coupon Redemption",優惠碼,module,Magento_Paypal
 "Currency Conversion required to cover negative balance",貨幣轉換需要支付負平衡,module,Magento_Paypal
 "Debit Card Cash Back",借記卡卡現金返還,module,Magento_Paypal
 "Debit Card Transaction",借記卡交易,module,Magento_Paypal
@@ -3569,8 +3569,8 @@ Title:,標題：,module,Magento_ProductVideo
 "Unable to save address. Please check input data.",無法儲存地址。請檢查輸入的數據。 ,module,Magento_Quote
 "Cart %1 doesn't contain products",車%1不包含產品,module,Magento_Quote
 "Could not apply coupon code","無法設置送貨方式。 %1",module,Magento_Quote
-"Coupon code is not valid",優惠券代碼無效,module,Magento_Quote
-"Could not delete coupon code",無法刪除優惠券代碼,module,Magento_Quote
+"Coupon code is not valid",優惠碼代碼無效,module,Magento_Quote
+"Could not delete coupon code",無法刪除優惠碼代碼,module,Magento_Quote
 "Shipping address is not set",運營商有這樣的方法沒有發現：%1%2,module,Magento_Quote
 "The requested Payment Method is not available.",付款方法不可用。 ,module,Magento_Quote
 "We found an invalid request for adding product to quote.",我們發現一個無效的請求添加產品報價。 ,module,Magento_Quote
@@ -3658,7 +3658,7 @@ Created,建立日期,module,Magento_Reports
 "Products Reviews",產品評論,module,Magento_Reports
 "Products Bestsellers Report",產品暢銷報告,module,Magento_Reports
 "Order Quantity",訂購數量,module,Magento_Reports
-"Coupons Usage Report",優惠券使用情況報告,module,Magento_Reports
+"Coupons Usage Report",優惠碼使用情況報告,module,Magento_Reports
 Subtotal,小計,module,Magento_Reports
 "Coupon Code",優惠劵,module,Magento_Reports
 "Price Rule",價格規則,module,Magento_Reports
@@ -3702,7 +3702,7 @@ Rate,費率,module,Magento_Reports
 Email,電郵,module,Magento_Reports
 Products,產品展示,module,Magento_Reports
 Quantity,數量,module,Magento_Reports
-"Applied Coupon",應用的優惠券,module,Magento_Reports
+"Applied Coupon",應用的優惠碼,module,Magento_Reports
 Updated,已更新,module,Magento_Reports
 "IP Address","IP 地址",module,Magento_Reports
 Customers,客戶,module,Magento_Reports
@@ -3737,8 +3737,8 @@ Reviews,點評,module,Magento_Reports
 "Product Reviews",產品評論,module,Magento_Reports
 Details,詳情,module,Magento_Reports
 Sales,銷售,module,Magento_Reports
-Coupons,優惠券,module,Magento_Reports
-"Coupons Report",優惠券報告,module,Magento_Reports
+Coupons,優惠碼,module,Magento_Reports
+"Coupons Report",優惠碼報告,module,Magento_Reports
 "Invoice Report",發票報表,module,Magento_Reports
 "Refunds Report",退款報告,module,Magento_Reports
 "Sales Report",銷售報告,module,Magento_Reports
@@ -3757,7 +3757,7 @@ Statistics,統計數據,module,Magento_Reports
 "The product type filter specified is incorrect.",指定的產品類型篩選器是不正確的。 ,module,Magento_Reports
 "Order Taxes Report Grouped by Tax Rates",訂單稅報表按稅率,module,Magento_Reports
 "Total Invoiced VS Paid Report","總開票 VS 支付報告",module,Magento_Reports
-"Promotion Coupons Usage Report",促銷優惠券使用報告,module,Magento_Reports
+"Promotion Coupons Usage Report",促銷優惠碼使用報告,module,Magento_Reports
 Bestsellers,無法刷新全部統計,module,Magento_Reports
 "Most Viewed Products Report",最查看的產品報告,module,Magento_Reports
 "An error occurred while showing the product views report. Please review the log and try again.",顯示產品意見報告時出錯。請查看日誌並再試一次。 ,module,Magento_Reports
@@ -3950,8 +3950,8 @@ Actions,動作,module,Magento_SalesRule
 "Apply To",應用給,module,Magento_SalesRule
 Conditions,條件,module,Magento_SalesRule
 "Apply the rule only if the following conditions are met (leave blank for all products).","僅在滿足以下條件時應用規則 (留空所有產品)。",module,Magento_SalesRule
-"Manage Coupon Codes",管理優惠券代碼,module,Magento_SalesRule
-"Coupon Qty",優惠券數量,module,Magento_SalesRule
+"Manage Coupon Codes",管理優惠碼代碼,module,Magento_SalesRule
+"Coupon Qty",優惠碼數量,module,Magento_SalesRule
 "Code Length",每x個字符加橫線,module,Magento_SalesRule
 "Excluding prefix, suffix and separators.","不包括前綴、 後綴和分隔符。",module,Magento_SalesRule
 "Code Format",代碼格式,module,Magento_SalesRule
@@ -3976,7 +3976,7 @@ Start,開始,module,Magento_SalesRule
 End,結束,module,Magento_SalesRule
 Status,狀態,module,Magento_SalesRule
 "%1 - Discounts and Coupons",%1-折扣和優惠,module,Magento_SalesRule
-Coupons/Discounts,優惠券/折扣,module,Magento_SalesRule
+Coupons/Discounts,優惠碼/折扣,module,Magento_SalesRule
 Promotions,促銷活動,module,Magento_SalesRule
 "You deleted the rule.",規則已保存。 ,module,Magento_SalesRule
 "We can't delete the rule right now. Please review the log and try again.",我們現在不能刪除該規則。請查看日誌並再試一次。 ,module,Magento_SalesRule
@@ -3988,7 +3988,7 @@ Promotions,促銷活動,module,Magento_SalesRule
 "Rule is not defined",沒有定義規則,module,Magento_SalesRule
 "Invalid data provided",提供無效數據,module,Magento_SalesRule
 "%1 coupon(s) have been generated.","%1 coupon(s) 已生成。",module,Magento_SalesRule
-"Something went wrong while generating coupons. Please review the log and try again.",在生成優惠券時出了錯。請查看日誌並再試一次。 ,module,Magento_SalesRule
+"Something went wrong while generating coupons. Please review the log and try again.",在生成優惠碼時出了錯。請查看日誌並再試一次。 ,module,Magento_SalesRule
 Catalog,目錄,module,Magento_SalesRule
 "The wrong rule is specified.",指定了錯誤的規則。 ,module,Magento_SalesRule
 "You saved the rule.",您保存的規則。 ,module,Magento_SalesRule
@@ -3996,18 +3996,18 @@ Catalog,目錄,module,Magento_SalesRule
 Alphanumeric,字母表,module,Magento_SalesRule
 Alphabetical,字母表,module,Magento_SalesRule
 Numeric,數字,module,Magento_SalesRule
-"We cannot create the requested Coupon Qty. Please check your settings and try again.",我們不能創建請求的優惠券數量請檢查您的設置，然後重試。 ,module,Magento_SalesRule
-"Specified rule does not allow coupons",指定的規則不允許優惠券,module,Magento_SalesRule
-"Specified rule only allows auto generated coupons",指定的規則只允許自動生成優惠券,module,Magento_SalesRule
-"Specified rule does not allow auto generated coupons",指定的規則不允許自動生成優惠券,module,Magento_SalesRule
-"Error occurred when saving coupon: %1","保存優惠券時出現錯誤: %1",module,Magento_SalesRule
+"We cannot create the requested Coupon Qty. Please check your settings and try again.",我們不能創建請求的優惠碼數量請檢查您的設置，然後重試。 ,module,Magento_SalesRule
+"Specified rule does not allow coupons",指定的規則不允許優惠碼,module,Magento_SalesRule
+"Specified rule only allows auto generated coupons",指定的規則只允許自動生成優惠碼,module,Magento_SalesRule
+"Specified rule does not allow auto generated coupons",指定的規則不允許自動生成優惠碼,module,Magento_SalesRule
+"Error occurred when saving coupon: %1","保存優惠碼時出現錯誤: %1",module,Magento_SalesRule
 "Discount (%1)","折扣 (%1)",module,Magento_SalesRule
 Discount,折扣,module,Magento_SalesRule
-"Coupon with the same code",優惠券使用相同的代碼,module,Magento_SalesRule
-"No Coupon",沒有優惠券,module,Magento_SalesRule
-"Specific Coupon",具體的優惠券,module,Magento_SalesRule
+"Coupon with the same code",優惠碼使用相同的代碼,module,Magento_SalesRule
+"No Coupon",沒有優惠碼,module,Magento_SalesRule
+"Specific Coupon",具體的優惠碼,module,Magento_SalesRule
 Auto,自動,module,Magento_SalesRule
-"Can't acquire coupon.",無法獲取優惠券。 ,module,Magento_SalesRule
+"Can't acquire coupon.",無法獲取優惠碼。 ,module,Magento_SalesRule
 "Update the Product",產品更新,module,Magento_SalesRule
 "Special Price",特殊價格,module,Magento_SalesRule
 "To Fixed Value",為固定值,module,Magento_SalesRule
@@ -4048,15 +4048,15 @@ is,非,module,Magento_SalesRule
 "is one of",小於,module,Magento_SalesRule
 "is not one of",不是的,module,Magento_SalesRule
 "If %1​​ %2 %3 for a subselection of items in cart matching %4 of these conditions:","如果選定項目中的%1 %2 %3 購物車匹配%4 的這些條件:",module, Magento_SalesRule
-"Percent of product price discount",自動生成的具體優惠券代碼,module,Magento_SalesRule
+"Percent of product price discount",自動生成的具體優惠碼代碼,module,Magento_SalesRule
 "Fixed amount discount",固定的金額的折扣,module,Magento_SalesRule
 "Fixed amount discount for whole cart",整車的固定的金額折扣,module,Magento_SalesRule
 "Buy X get Y free (discount amount is Y)","買 X 得到 Y 免費 (折扣金額是 Y)",module,Magento_SalesRule
 Active,活動,module,Magento_SalesRule
 Inactive,未激活,module,Magento_SalesRule
-"Specified rule does not allow automatic coupon generation",指定的規則不允許自動優惠券一代,module,Magento_SalesRule
-"Error occurred when generating coupons: %1","生成的優惠券時出現錯誤: %1",module,Magento_SalesRule
-"Some coupons are invalid.",一些優惠券是無效的。 ,module,Magento_SalesRule
+"Specified rule does not allow automatic coupon generation",指定的規則不允許自動優惠碼一代,module,Magento_SalesRule
+"Error occurred when generating coupons: %1","生成的優惠碼時出現錯誤: %1",module,Magento_SalesRule
+"Some coupons are invalid.",一些優惠碼是無效的。 ,module,Magento_SalesRule
 "Item totals are not set for the rule.",項目總計不會設定規則。 ,module,Magento_SalesRule
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 購物車價格規則，基於""%2""屬性已被禁用。",module,Magento_SalesRule
 "Entity Sequence profile not added to meta active profile",實體序列配置文件不會添加到元活動配置文件,module,Magento_SalesSequence
@@ -4079,7 +4079,7 @@ Cancel,保存,module,Magento_Sales
 "Billing Address",賬單地址,module,Magento_Sales
 "Payment Method",支付方式,module,Magento_Sales
 "Order Comment",訂單資料,module,Magento_Sales
-Coupons,優惠券,module,Magento_Sales
+Coupons,優惠碼,module,Magento_Sales
 "Please select a customer",請選擇客戶,module,Magento_Sales
 "Create New Customer",創建新客戶,module,Magento_Sales
 "Account Information",個人資料,module,Magento_Sales
@@ -4253,9 +4253,9 @@ Sales,銷售,module,Magento_Sales
 "We can't update the order address right now.",我們現在不能更新訂單地址。 ,module,Magento_Sales
 "You have not canceled the item.",您還沒有取消該項目。 ,module,Magento_Sales
 "You canceled the order.",您取消訂單。 ,module,Magento_Sales
-"""%1"" coupon code was not applied. Do not apply discount is selected for item(s)","""%1""優惠券代碼不是適用的。不適用於為項目選擇的折扣", module,Magento_Sales
-"""%1"" coupon code is not valid.","""%1""優惠券代碼是無效的。",module,Magento_Sales
-"The coupon code has been accepted.",優惠券代碼已被接受。 ,module,Magento_Sales
+"""%1"" coupon code was not applied. Do not apply discount is selected for item(s)","""%1""優惠碼代碼不是適用的。不適用於為項目選擇的折扣", module,Magento_Sales
+"""%1"" coupon code is not valid.","""%1""優惠碼代碼是無效的。",module,Magento_Sales
+"The coupon code has been accepted.",優惠碼代碼已被接受。 ,module,Magento_Sales
 "Quote item id is not received.","總計 %1 產品",module,Magento_Sales
 "Quote item is not loaded.",報價產品沒有裝載。 ,module,Magento_Sales
 "New Order",新秩序,module,Magento_Sales
@@ -4502,9 +4502,9 @@ Notified,已通知。 ,module,Magento_Sales
 "Not Notified",不通知,module,Magento_Sales
 "No Payment Methods",沒有付款方法,module,Magento_Sales
 "Order Comments",訂單的評論,module,Magento_Sales
-"Apply Coupon Code",適用的優惠券代碼,module,Magento_Sales
+"Apply Coupon Code",適用的優惠碼代碼,module,Magento_Sales
 Apply,應用,module,Magento_Sales
-"Remove Coupon Code",刪除優惠券代碼,module,Magento_Sales
+"Remove Coupon Code",刪除優惠碼代碼,module,Magento_Sales
 Remove,刪除,module,Magento_Sales
 "Address Information",地址信息,module,Magento_Sales
 "Payment &amp; Shipping Information",付款和發貨信息,module,Magento_Sales
@@ -5927,6 +5927,8 @@ Delete,刪除,module,Magento_GiftMessage
 "Enter discount code",請輸入電子優惠碼,module,Magento_SalesRule
 "Apply Discount",使用優惠,module,Magento_SalesRule
 "Cancel coupon",取消折扣,module,Magento_SalesRule
+"Your coupon was successfully removed.","取消優惠碼成功。",module,Magento_SalesRule
+"Your coupon was successfully applied.","使用優惠碼成功。",module,Magento_SalesRule
 "%name,",%名稱，,module,Magento_Sales
 "Thank you for your order from %store_name.","謝謝您的訂單從 %store_name。",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","通過<a href=""%account_url""> 登錄到您的帳戶</a>，可以檢查您的訂單狀態。",module,Magento_Sales
@@ -7300,7 +7302,7 @@ Inactive,未激活,module,Magento_Review
 "RSS Feeds","RSS 源",module,Magento_Rss
 "Rss Config","Rss 配置",module,Magento_Rss
 "Enable RSS","啟動 RSS",module,Magento_Rss
-"Auto Generated Specific Coupon Codes",自動生成特定的優惠券代碼,module,Magento_SalesRule
+"Auto Generated Specific Coupon Codes",自動生成特定的優惠碼代碼,module,Magento_SalesRule
 "Web Site",網站,module,Magento_SalesRule
 Priority,優先級,module,Magento_SalesRule
 "Cart Price Rule",購物車價格規則,module,Magento_SalesRule
@@ -7311,7 +7313,7 @@ Websites,網站,module,Magento_SalesRule
 "Customer Groups",客戶組,module,Magento_SalesRule
 Coupon,折扣券,module,Magento_SalesRule
 "Use Auto Generation",使用自動生成,module,Magento_SalesRule
-"Uses per Coupon",每張優惠券的使用,module,Magento_SalesRule
+"Uses per Coupon",每張優惠碼的使用,module,Magento_SalesRule
 "Uses per Customer",每個客戶的用途,module,Magento_SalesRule
 From,從,module,Magento_SalesRule
 To,至,module,Magento_SalesRule
