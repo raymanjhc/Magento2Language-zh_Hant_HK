@@ -1388,7 +1388,7 @@ Item,產品,module,Magento_Checkout
 Price,價格,module,Magento_Checkout
 Qty,數量,module,Magento_Checkout
 Subtotal,小計,module,Magento_Checkout
-"Continue Shopping",繼續購物,module,Magento_Checkout
+"Continue Shopping","繼續購物",module,Magento_Checkout
 "Clear Shopping Cart",沒有付款方式,module,Magento_Checkout
 "Update Shopping Cart",更新購物車,module,Magento_Checkout
 "Update Cart",更新購物車,module,Magento_Checkout
@@ -2952,7 +2952,7 @@ Items,產品,module,Magento_Multishipping
 "Back to Select Addresses",返回選擇地址,module,Magento_Multishipping
 "Thank you for your purchase!",感謝您的購買！ ,module,Magento_Multishipping
 "Thanks for your order. We'll email you order details and tracking information.",謝謝您的訂單。我們會通過電子郵件發送您訂單的詳細信息和跟踪信息。 ,module,Magento_Multishipping
-"Continue Shopping",繼續購物,module,Magento_Multishipping
+"Continue Shopping","繼續購物",module,Magento_Multishipping
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","沒有New Relic應用程序 ID 配置，無法繼續通過計劃事件報告",module,Magento_NewRelicReporting
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","新的遺物一體化要求 newrelic php5 代理，不安裝。有關安裝代理的詳細信息是可用 <a target=""_blank""href=""%1""> 在這裡</a>。 ",module,Magento_NewRelicReporting
@@ -5825,7 +5825,7 @@ Login,登錄,module,Magento_Checkout
 Close,關閉,module,Magento_Checkout
 item,件,module,Magento_Checkout
 items,件,module,Magento_Checkout
-"Go to Checkout",立即結賬,module,Magento_Checkout
+"Go to Checkout","立即結賬",module,Magento_Checkout
 "Recently added item(s)",最近添加的商品,module,Magento_Checkout
 "View and edit cart",查看和修改購物清單,module,Magento_Checkout
 "See Details",查看詳細信息,module,Magento_Checkout
@@ -7784,6 +7784,8 @@ Delete,刪除,module,Magento_Wishlist
 "Payment was canceled.","付款已取消",module,Magedelight_Cybersourcesa
 "Not Paid","未付款",module,Magedelight_Cybersourcesa
 "Go To Product","前往產品",module,WeltPixel_Quickview
+"Continue Shopping","繼續購物",module,WeltPixel_Quickview
+"Go To Checkout","立即結賬",module,WeltPixel_Quickview
 "My Membership Area","會員專區",module,Magestore_Membership
 "My Packages","基本會員 / VIB會員",module,Magestore_Membership
 "Expired Date","到期日",module,Magestore_Membership
