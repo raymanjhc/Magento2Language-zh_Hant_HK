@@ -3569,7 +3569,7 @@ Title:,標題：,module,Magento_ProductVideo
 "Unable to save address. Please check input data.",無法儲存地址。請檢查輸入的數據。 ,module,Magento_Quote
 "Cart %1 doesn't contain products",車%1不包含產品,module,Magento_Quote
 "Could not apply coupon code","無法設置送貨方式。 %1",module,Magento_Quote
-"Coupon code is not valid",優惠碼代碼無效,module,Magento_Quote
+"Coupon code is not valid",優惠碼無效,module,Magento_Quote
 "Could not delete coupon code",無法刪除優惠碼代碼,module,Magento_Quote
 "Shipping address is not set",運營商有這樣的方法沒有發現：%1%2,module,Magento_Quote
 "The requested Payment Method is not available.",付款方法不可用。 ,module,Magento_Quote
@@ -5863,7 +5863,7 @@ edit,編輯,module,Magento_Checkout
 "Method Title",方法標題,module,Magento_Checkout
 "Carrier Title",承運人名字,module,Magento_Checkout
 Next,下一個,module,Magento_Checkout
-"Sorry, no quotes are available for this order at this time",抱歉，這個訂單目前沒有報價,module,Magento_Checkout
+"Sorry, no quotes are available for this order at this time","請先填寫送貨地址",module,Magento_Checkout
 "Order Summary",訂單,module,Magento_Checkout
 "Item in Cart",購物裡的商品,module,Magento_Checkout
 "Items in Cart",購物裡的商品,module,Magento_Checkout
