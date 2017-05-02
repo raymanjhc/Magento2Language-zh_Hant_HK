@@ -1316,9 +1316,9 @@ Sales,銷售,module,Magento_CheckoutAgreements
 Automatically,自動,module,Magento_CheckoutAgreements
 Manually,手動,module,Magento_CheckoutAgreements
 "Please agree to all the terms and conditions before placing the order.",請在下訂單前同意所有的條款和條件。 ,module,Magento_CheckoutAgreements
-"Unable to save checkout agreement %1","無法保存結帳協議 %1",module,Magento_CheckoutAgreements
-"Unable to remove checkout agreement %1","無法刪除結帳協議 %1",module,Magento_CheckoutAgreements
-"Checkout agreement with specified ID ""%1"" not found.","結帳協議具有指定 ID""%1""找不到。",module,Magento_CheckoutAgreements
+"Unable to save checkout agreement %1","無法保存結賬協議 %1",module,Magento_CheckoutAgreements
+"Unable to remove checkout agreement %1","無法刪除結賬協議 %1",module,Magento_CheckoutAgreements
+"Checkout agreement with specified ID ""%1"" not found.","結賬協議具有指定 ID""%1""找不到。",module,Magento_CheckoutAgreements
 "Shopping Cart",購物車,module,Magento_Checkout
 "Invalid method: %1",支付失敗郵件副本發送方式,module,Magento_Checkout
 City,城市,module,Magento_Checkout
@@ -1345,9 +1345,9 @@ State/Province,地區,module,Magento_Checkout
 "%1 was updated in your shopping cart.","%1 已更新您的購物車中。",module,Magento_Checkout
 "We can't update the item right now.",我們現在不能更新該項目。 ,module,Magento_Checkout
 "We can't update the shopping cart.",我們不能更新購物車。 ,module,Magento_Checkout
-"One-page checkout is turned off.",單頁結帳處於關閉狀態。 ,module,Magento_Checkout
-"Guest checkout is disabled.",禁用了來賓結帳。 ,module,Magento_Checkout
-Checkout,結帳,module,Magento_Checkout
+"One-page checkout is turned off.",單頁結賬處於關閉狀態。 ,module,Magento_Checkout
+"Guest checkout is disabled.",禁用了來賓結賬。 ,module,Magento_Checkout
+Checkout,結賬,module,Magento_Checkout
 "Page not found.",找不到網頁。 ,module,Magento_Checkout
 "Please agree to all the terms and conditions before placing the order.",請在下訂單前同意所有的條款和條件。 ,module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.",在處理您的訂單時，出了錯。請稍後再試。 ,module,Magento_Checkout
@@ -1370,7 +1370,7 @@ Checkout,結帳,module,Magento_Checkout
 "The customer address is not valid.",客戶地址不是有效的。 ,module,Magento_Checkout
 "Invalid shipping method",無效的運輸方法,module,Magento_Checkout
 "There are more than one shipping addresses.",有多個送貨地址。 ,module,Magento_Checkout
-"Sorry, guest checkout is not available.",對不起，客人結帳不是可用的。 ,module,Magento_Checkout
+"Sorry, guest checkout is not available.",對不起，客人結賬不是可用的。 ,module,Magento_Checkout
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","請點擊您的電子郵件確認連結或<a href=""%1"">點擊此處</a>重新送出確認連結。",module,Magento_Checkout
 "Load customer quote error",加載客戶報價單錯誤,module,Magento_Checkout
 "Error message!",錯誤消息!,module,Magento_Checkout
@@ -1404,7 +1404,7 @@ Edit,編輯,module,Magento_Checkout
 "Excl. Tax",不包括消費稅,module,Magento_Checkout
 Loading...,加載.....,module,Magento_Checkout
 "Order #","訂單編號",module,Magento_Checkout
-"Proceed to Checkout",結帳,module,Magento_Checkout
+"Proceed to Checkout",結賬,module,Magento_Checkout
 "Product Name",產品名稱,module,Magento_Checkout
 "Incl. Tax",含稅,module,Magento_Checkout
 "Your order number is: %1.","您的訂單編號是: %1。",module,Magento_Checkout
@@ -1608,7 +1608,7 @@ Summary,用戶中心,module,Magento_ConfigurableProduct
 "Value index is not specified for an option.",值索引未指定選項。 ,module,Magento_ConfigurableProduct
 "Product with id ""%1"" does not contain required attribute ""%2"".","與id""%1""產品不包含所需的屬性""%2""。",module ,Magento_ConfigurableProduct
 "You can't add the item to shopping cart.",無法將該項目加入購物車。 ,module,Magento_ConfigurableProduct
-"You need to choose options for your item.",您需要選擇您的項目的選擇。 ,module,Magento_ConfigurableProduct
+"You need to choose options for your item.","揀選合適的產品選項"。 ,module,Magento_ConfigurableProduct
 "Some product variations fields are not valid.",一些產品變化字段不是有效的。 ,module,Magento_ConfigurableProduct
 "Configuration must have specified attributes",配置必須具有指定的屬性,module,Magento_ConfigurableProduct
 "Choose Affected Attribute Set",選擇受影響的屬性集,module,Magento_ConfigurableProduct
@@ -3197,7 +3197,7 @@ Sales,銷售,module,Magento_Paypal
 "Billing Agreement # %1","計費協議 # %1",module,Magento_Paypal
 "We can't initialize Express Checkout.",我們不能初始化快速結賬。 ,module,Magento_Paypal
 "PayPal Express Checkout Token does not exist.",貝寶表示簽出令牌並不存在。 ,module,Magento_Paypal
-"A wrong PayPal Express Checkout Token is specified.",指定了一個錯誤的支付寶快捷結帳令牌。 ,module,Magento_Paypal
+"A wrong PayPal Express Checkout Token is specified.",指定了一個錯誤的支付寶快捷結賬令牌。 ,module,Magento_Paypal
 "Express Checkout and Order have been canceled.",快速結賬和訂單已被取消。 ,module,Magento_Paypal
 "Express Checkout has been canceled.",快速結賬已取消,module,Magento_Paypal
 "Unable to cancel Express Checkout",不能取消快速結賬,module,Magento_Paypal
@@ -3255,7 +3255,7 @@ Never,永不,module,Magento_Paypal
 "We'll authorize the amount of %1 as soon as the payment gateway approves it.","我們將授權 %1 的量，盡快支付網關批准它。",module,Magento_Paypal
 "The authorized amount is %1.","授權的金額是 %1。",module,Magento_Paypal
 "The maximum number of child authorizations is reached.",達到了子授權的最大數目。 ,module,Magento_Paypal
-"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.",支付寶不能處理訂單與一零平衡。要完成您的購買，請通過標準結帳過程。 ,module,Magento_Paypal
+"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.",支付寶不能處理訂單與一零平衡。要完成您的購買，請通過標準結賬過程。 ,module,Magento_Paypal
 "A payer is not identified.",不確定的付款人。 ,module,Magento_Paypal
 "Cannot get secure form URL from PayPal","無法從 PayPal 安全窗體的 URL",module,Magento_Paypal
 "Last Transaction ID","最後的交易 ID",module,Magento_Paypal
@@ -3390,7 +3390,7 @@ Charge-off,撇帳,module,Magento_Paypal
 "Debit Card Transaction",借記卡交易,module,Magento_Paypal
 "Direct Payment API","直接付款的 API",module,Magento_Paypal
 "EFT Funding (German banking)","EFT 籌資 (德國銀行)",module,Magento_Paypal
-"Express Checkout APIs","表達結帳 Api",module,Magento_Paypal
+"Express Checkout APIs","表達結賬 Api",module,Magento_Paypal
 "Fee Reversal",費逆轉,module,Magento_Paypal
 "Fee: Foreign ACH Withdrawal","費用: 外國 ACH 撤出",module,Magento_Paypal
 "Fee: Mass Pay Request","費用: 大規模付款請求",module,Magento_Paypal
@@ -3453,7 +3453,7 @@ Void,創建於,module,Magento_Paypal
 "The PayPal certificate file is empty.",貝寶的證書文件是空的。 ,module,Magento_Paypal
 "Header (center)","標題 (中心)",module,Magento_Paypal
 "Sidebar (right)","側邊欄 (右)",module,Magento_Paypal
-"Near PayPal Credit checkout button",貝寶信用卡結帳按鈕附近,module,Magento_Paypal
+"Near PayPal Credit checkout button",貝寶信用卡結賬按鈕附近,module,Magento_Paypal
 "--Please Select--","-- 請選擇 --",module,Magento_Paypal
 Daily,每天,module,Magento_Paypal
 "Every 3 days","每隔 3 天",module,Magento_Paypal
@@ -3477,7 +3477,7 @@ Customer,客戶,module,Magento_Paypal
 "Updated At",更新,module,Magento_Paypal
 here,在這裡,module,Magento_Paypal
 "To use PayPal Payments Advanced, you must configure your PayPal Payments Advanced account on the PayPal website.",若要使用貝寶付款先進，必須在貝寶網站上配置您的貝寶付款高級帳戶。 ,module,Magento_Paypal
-"Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","一旦您登錄到您的PayPal 高級帳戶、 導航到服務設置-主辦結帳頁面-設置目錄和設置選項如下所述",module,Magento_Paypal
+"Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","一旦您登錄到您的PayPal 高級帳戶、 導航到服務設置-主辦結賬頁面-設置目錄和設置選項如下所述",module,Magento_Paypal
 "To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","若要使用 PayPal 轉賬鏈接，您必須在貝寶網站上配置您的 PayPal 轉賬鏈接帳戶。",module,Magento_Paypal
 "Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","一旦您登錄到您的PayPal 轉賬鏈接帳戶、 導航到服務設置-主辦結賬頁面-設置目錄和設置選項如下所述",module,Magento_Paypal
 "Agreement Information",協議信息,module,Magento_Paypal
@@ -4513,7 +4513,7 @@ Remove,刪除,module,Magento_Sales
 "Same As Billing Address",與賬單地址相同,module,Magento_Sales
 "Select from existing customer addresses:",從現有的客戶地址中選擇:,module,Magento_Sales
 "Add New Address",添加新地址,module,Magento_Sales
-"Save in address book",保存到通訊地址,module,Magento_Sales
+"Save in address book",儲存至「通訊地址」,module,Magento_Sales
 "You don't need to select a shipping address.",您不需要選擇送貨地址。 ,module,Magento_Sales
 "Gift Message for the Entire Order",整個訂單的禮物留言,module,Magento_Sales
 "Leave this box blank if you don't want to leave a gift message for the entire order.",將此框保留為空，如果您不想離開整個訂單的禮物留言。 ,module,Magento_Sales
@@ -5734,11 +5734,11 @@ Comment,內容,module,Magento_Wishlist
 "Cannot specify product.",不能指定產品。 ,module,Magento_Wishlist
 "Product is not salable.",產品不是暢銷的。 ,module,Magento_Wishlist
 "Invalid item option format.",無效的項目選項的格式。 ,module,Magento_Wishlist
-"%1 for ""%2"".","%1 為""%2""的。",module,Magento_Wishlist
+"%1 for ""%2"".","請先為 ""%2"" %1，再加入購物車。",module,Magento_Wishlist
 "We can't add this item to your shopping cart right now.",我們這個項目不能添加到您的購物車現在。 ,module,Magento_Wishlist
 "We couldn't add the following product(s) to the shopping cart: %1.","我們不能將下面的產品加入購物車: %1。",module,Magento_Wishlist
 "We can't update the Wish List right now.",我們現在不能更新喜愛清單。 ,module,Magento_Wishlist
-"%1 product(s) have been added to shopping cart: %2.","%1 的收藏夾",module,Magento_Wishlist
+"%1 product(s) have been added to shopping cart: %2.","%1 件產品已成功加入購物車",module,Magento_Wishlist
 Comment:,評論:,module,Magento_Wishlist
 "We cannot retrieve the Wish List.",我們無法檢索的喜愛清單。 ,module,Magento_Wishlist
 "%1's Wishlist","%1 的收藏",module,Magento_Wishlist
@@ -5817,7 +5817,7 @@ Password,密碼,module,Magento_Checkout
 "My billing and shipping address are the same",送貨地址和賬單地址一樣,module,Magento_Checkout
 Update,更新,module,Magento_Checkout
 Cancel,保存,module,Magento_Checkout
-"Save in address book",保存到通訊地址,module,Magento_Checkout
+"Save in address book",儲存至「通訊地址」,module,Magento_Checkout
 "Estimated Total",估計總額,module,Magento_Checkout
 "You can create an account after checkout.",您可以在結賬後創建帳戶。 ,module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.",您已經有賬號了，可以登錄或繼續使用遊客賬號,module,Magento_Checkout
@@ -7749,12 +7749,12 @@ Delete,刪除,module,Magento_Wishlist
 "Points Summary","累計積分獎賞",module,Mirasvit_Rewards
 "You have <b>%1</b> in your account.","共有 <b>%1</b> 。",module,Mirasvit_Rewards
 "You have","您共有",module,Mirasvit_Rewards
-"Reward Points","積分獎賞",module,Mirasvit_Rewards
+"Reward Points","積分",module,Mirasvit_Rewards
 "You have <b>%1</b> available.","共有 <b>%1</b> 可用。",module,Mirasvit_Rewards
 "Enter amount of points to spend:","請輸入要用的積分:",module,Mirasvit_Rewards
 "Enter amount of points to spend","請輸入要用的積分",module,Mirasvit_Rewards
 "Use maximum %1","使用全部積分：%1分",module,Mirasvit_Rewards
-"Use maximum","使用全部積分",module,Mirasvit_Rewards
+"Use maximum","使用全部",module,Mirasvit_Rewards
 "available.","可用。",module,Mirasvit_Rewards
 "Apply Points","使用積分",module,Mirasvit_Rewards
 "Apply","使用",module,Mirasvit_Rewards
