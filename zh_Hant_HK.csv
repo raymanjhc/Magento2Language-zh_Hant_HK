@@ -7750,12 +7750,14 @@ Delete,刪除,module,Magento_Wishlist
 "You have <b>%1</b> in your account.","共有 <b>%1</b> 。",module,Mirasvit_Rewards
 "You have","您共有",module,Mirasvit_Rewards
 "Reward Points","積分",module,Mirasvit_Rewards
+"Reward Points.","積分。",module,Mirasvit_Rewards
 "You have <b>%1</b> available.","共有 <b>%1</b> 可用。",module,Mirasvit_Rewards
 "Enter amount of points to spend:","請輸入要用的積分:",module,Mirasvit_Rewards
 "Enter amount of points to spend","請輸入要用的積分",module,Mirasvit_Rewards
 "Use maximum %1","使用全部積分：%1分",module,Mirasvit_Rewards
 "Use maximum","使用全部",module,Mirasvit_Rewards
 "available.","可用。",module,Mirasvit_Rewards
+"available","可用",module,Mirasvit_Rewards
 "Apply Points","使用積分",module,Mirasvit_Rewards
 "Apply","使用",module,Mirasvit_Rewards
 "Cancel Points","取消積分使用",module,Mirasvit_Rewards
