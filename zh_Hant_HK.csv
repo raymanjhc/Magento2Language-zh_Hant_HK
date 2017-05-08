@@ -1335,7 +1335,7 @@ State/Province,地區,module,Magento_Checkout
 "You added %1 to your shopping cart.","您已添加 %1 到您的購物車",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.",我們這個項目不能添加到您的購物車現在。 ,module,Magento_Checkout
 "Out of stock",缺貨,module,Magento_Checkout
-"We can't find the quote item.",我們找不到引用項。 ,module,Magento_Checkout
+"We can't find the quote item.",我們找不到該產品。 ,module,Magento_Checkout
 "We cannot configure the product.",我們不能配置該產品。 ,module,Magento_Checkout
 "You used coupon code ""%1"".","您使用優惠碼""%1""。",module,Magento_Checkout
 "The coupon code ""%1"" is not valid.","優惠碼 ""%1"" 無效",module,Magento_Checkout
@@ -3594,7 +3594,7 @@ Subtotal,小計,module,Magento_Quote
 "Could not save quote",不能保存報價,module,Magento_Quote
 "Cart %1 doesn't contain item %2","購物車 %1 不包含商品 %2",module,Magento_Quote
 "Could not remove item from quote",無法刪除報價單中的商品,module,Magento_Quote
-"The qty value is required to update quote item.",更新引用項需數量值。 ,module,Magento_Quote
+"The qty value is required to update quote item.",更新該產品需數量值。 ,module,Magento_Quote
 "Invalid customer id %1","無效的客戶 id %1",module,Magento_Quote
 "Invalid address id %1","無效地址 id %1",module,Magento_Quote
 "Cannot create quote",不能創建報價單,module,Magento_Quote
