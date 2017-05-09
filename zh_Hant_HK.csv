@@ -1270,7 +1270,7 @@ Next,下一個,module,Magento_Catalog
 "More Choices:",更多的選擇:,module,Magento_Catalog
 "Check items to add to the cart or",檢查加入購物車的物品或,module,Magento_Catalog
 "select all",全選,module,Magento_Catalog
-"Items %1-%2 of %3","產品 %1-%2 共 %3",module,Magento_Catalog
+"Items %1-%2 of %3","%1-%2 件產品，共 %3 件",module,Magento_Catalog
 "%1 Item","%1 件產品",module,Magento_Catalog
 "%1 Items","%1 件產品",module,Magento_Catalog
 Show,顯示,module,Magento_Catalog
@@ -2830,6 +2830,7 @@ Remove,刪除,module,Magento_LayeredNavigation
 "Clear All",全部清除,module,Magento_LayeredNavigation
 "Shopping Options",購物的選項,module,Magento_LayeredNavigation
 "Menu - ","目錄 - ",module,Magento_LayeredNavigation
+"Menu","目錄",module,Magento_LayeredNavigation
 "Category","產品類別",module,Magento_LayeredNavigation
 Partners,合作夥伴,module,Magento_Marketplace
 "Magento Marketplace","Magento 市場",module,Magento_Marketplace
