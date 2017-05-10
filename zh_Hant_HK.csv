@@ -1025,7 +1025,7 @@ Category,產品類別,module,Magento_Catalog
 "Please enter a number 0 or greater in this field.",請在該字段中輸入有效數字。 ,module,Magento_Catalog
 "The value of attribute ""%1"" must be set","""%1""屬性的值必須設置",module,Magento_Catalog
 "SKU length should be %1 characters maximum.","SKU 長度應該是最多 %1 個字符。",module,Magento_Catalog
-"Please enter a valid number in this field.",請在此字段中輸入一個有效的數字。 ,module,Magento_Catalog
+"Please enter a valid number in this field.",請輸入有效數字。 ,module,Magento_Catalog
 "We found a duplicate website, tier price, customer group and quantity.","我們發現重複的網站、 層價格、 客戶組和數量。",module,Magento_Catalog
 "Invalid option id %1","無效的選項 id %1",module,Magento_Catalog
 "Can not create attribute set based on non product attribute set.",不能創建基於非產品屬性集的屬性集。 ,module,Magento_Catalog
@@ -1863,7 +1863,7 @@ Download,下載,module,Magento_Customer
 "A login and a password are required.",登錄名和密碼是必需的。 ,module,Magento_Customer
 "New Password and Confirm New Password values didn't match.",新密碼和確認新密碼值不匹配。 ,module,Magento_Customer
 "Please enter a new password.",請輸入一個新密碼。 ,module,Magento_Customer
-"You updated your password.",您更新您的密碼。 ,module,Magento_Customer
+"You updated your password.",您已更新密碼。 ,module,Magento_Customer
 "Something went wrong while saving the new password.",保存新密碼時出了錯。 ,module,Magento_Customer
 "You deleted the address.",您刪除地址。 ,module,Magento_Customer
 "We can't delete the address right now.",我們現在不能刪除該地址。 ,module,Magento_Customer
@@ -5440,7 +5440,7 @@ Role,職能,module,Magento_User
 "We'll email you a link to reset your password.",我們馬上給您發一個鏈接來重置您的密碼。 ,module,Magento_User
 "Please correct this email address:",請更正此電子郵件地址:,module,Magento_User
 "Please enter an email address.",請輸入電子郵件地址。 ,module,Magento_User
-"You updated your password.",您更新您的密碼。 ,module,Magento_User
+"You updated your password.",您已更新密碼。 ,module,Magento_User
 "Locked Users",鎖定的用戶,module,Magento_User
 "Unlocked %1 user(s).","解鎖的 %1 的用戶。",module,Magento_User
 System,系統,module,Magento_User
@@ -6108,7 +6108,7 @@ OK,確定,module,Magento_Checkout
 "Please enter a number 0 or greater in this field.",請在該字段中輸入有效數字。 ,module,Magento_Ui
 "Please enter a number greater than 0 in this field.","請在此字段中輸入大於 0 的數字。",module,Magento_Ui
 "Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","請輸入一個有效的CSS 長度(Ex: 100px，77pt，20em，.5ex 或50%)。 ",module,Magento_Ui
-"Please enter a valid number in this field.",請在此字段中輸入一個有效的數字。 ,module,Magento_Ui
+"Please enter a valid number in this field.",請輸入有效數字。 ,module,Magento_Ui
 "The value is not within the specified range.",值不是在指定的範圍之內。 ,module,Magento_Ui
 "Please use letters only (a-z or A-Z) in this field.","請僅使用字母 (a 到 z 或 A 到 Z) 在這一領域。",module,Magento_Ui
 "Please use only letters (az), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","請使用唯一字母(az)，數字(0-9)或下劃線(_) 在這一領域，和第一個字符應該是一封信。",module,Magento_Ui
