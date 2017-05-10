@@ -2086,6 +2086,7 @@ Password,密碼,module,Magento_Customer
 "Very Strong","非常強",module,Magento_Customer
 "Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","密碼必須至少有 %1 個字元。",module,Magento_Customer
 "This is a required field.","*必須填寫",module,Magento_Customer
+"This is a required option.","*必須選擇",module,Magento_Customer
 "Please enter the same value again.","請輸入相同密碼。",module,Magento_Customer
 "Cannot switch into given mode ""%1""",不能切換到給定的模式“%1”,module,Magento_Deploy
 "Format for IDE '%1' is not supported","不支持格式為 IDE '%1'",module,Magento_Developer
