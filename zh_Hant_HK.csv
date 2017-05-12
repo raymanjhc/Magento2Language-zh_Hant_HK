@@ -1734,8 +1734,8 @@ System,系統,module,Magento_CurrencySymbol
 "Please enter a password with a valid length.",請輸入一個有效的長度的密碼。 ,module,Magento_CustomerImportExport
 "Sign Out",登出,module,Magento_Customer
 "Sign In",登錄,module,Magento_Customer
-"You subscribe to our newsletter.",您訂閱我們的時事通訊。 ,module,Magento_Customer
-"You don't subscribe to our newsletter.",您沒有訂閱我們的時事通訊。 ,module,Magento_Customer
+"You subscribe to our newsletter.",您訂閱了我們的電子報。 ,module,Magento_Customer
+"You don't subscribe to our newsletter.",您沒有訂閱EugeneBaby電子報。 ,module,Magento_Customer
 "You have not set a default shipping address.",您沒有設置默認的送貨地址。 ,module,Magento_Customer
 "You have not set a default billing address.",您沒有儲存賬單地址。,module,Magento_Customer
 "Address Book",通訊地址,module,Magento_Customer
@@ -2018,8 +2018,8 @@ Change,更改,module,Magento_Customer
 "Default Shipping Address",送貨地址,module,Magento_Customer
 "Contact Information",個人資料,module,Magento_Customer
 "Change Password",更改密碼,module,Magento_Customer
-Newsletters,訂閱資訊,module,Magento_Customer
-"You subscribe to ""General Subscription"".","您已訂閱EugeneBaby.com的最新資訊。",module,Magento_Customer
+Newsletters,訂閱電子報,module,Magento_Customer
+"You subscribe to ""General Subscription"".","您已訂閱EugeneBaby.com的電子報。",module,Magento_Customer
 or,或者,module,Magento_Customer
 "Default Addresses",通訊地址,module,Magento_Customer
 "Change Billing Address",更改賬單地址,module,Magento_Customer
@@ -3012,7 +3012,7 @@ Action,操作,module,Magento_Newsletter
 "Edit Queue",編輯隊列,module,Magento_Newsletter
 "Please correct the newsletter template and try again.",請更正新聞稿模板，再試一次。 ,module,Magento_Newsletter
 "You saved the newsletter queue.",您保存通訊隊列。 ,module,Magento_Newsletter
-"Newsletter Subscribers",時事通訊訂閱服務器,module,Magento_Newsletter
+"Newsletter Subscribers",電子報訂閱服務器,module,Magento_Newsletter
 Newsletter,已暫停,module,Magento_Newsletter
 Subscribers,訂閱用戶,module,Magento_Newsletter
 "Please select one or more subscribers.",請選擇一個或多個訂閱服務器。 ,module,Magento_Newsletter
@@ -3023,13 +3023,13 @@ Subscribers,訂閱用戶,module,Magento_Newsletter
 "Edit Template",編輯模板,module,Magento_Newsletter
 "New Template",新建模板,module,Magento_Newsletter
 "Create Newsletter Template",創建新聞稿模板,module,Magento_Newsletter
-"The newsletter template has been saved.",時事通訊模板已保存。 ,module,Magento_Newsletter
+"The newsletter template has been saved.",電子報模板已保存。 ,module,Magento_Newsletter
 "Something went wrong while saving this template.",保存此模板時，出了錯。 ,module,Magento_Newsletter
-"Newsletter Subscription",訂閱資訊,module,Magento_Newsletter
+"Newsletter Subscription",訂閱電子報,module,Magento_Newsletter
 "Something went wrong while saving your subscription.",保存訂閱時出了錯。 ,module,Magento_Newsletter
-"We saved the subscription.",已儲存您的訂閱資訊。,module,Magento_Newsletter
-"We removed the subscription.",我們刪除訂閱。 ,module,Magento_Newsletter
-"Your subscription has been confirmed.",您的訂閱已被證實。 ,module,Magento_Newsletter
+"We saved the subscription.",您已訂閱EugeneBaby電子報。,module,Magento_Newsletter
+"We removed the subscription.",您已取消訂閱EugeneBaby電子報。 ,module,Magento_Newsletter
+"Your subscription has been confirmed.",您的訂閱已被確認。 ,module,Magento_Newsletter
 "This is an invalid subscription confirmation code.",這是一個無效的訂閱確認碼。 ,module,Magento_Newsletter
 "This is an invalid subscription ID.","這是一個無效的訂閱 id。",module,Magento_Newsletter
 "This email address is already assigned to another user.",此電郵已被登記。,module,Magento_Newsletter
@@ -3056,9 +3056,9 @@ Paused,已暫停,module,Magento_Newsletter
 "Are you sure that you want to strip all tags?",您確定您想要去掉所有標記?,module,Magento_Newsletter
 "Please enter a new template name.",請輸入一個新的模板名稱。 ,module,Magento_Newsletter
 "Are you sure you want to delete this template?",是否確實要刪除此模板?,module,Magento_Newsletter
-"Sign Up for Our Newsletter:",註冊我們的時事通訊:,module,Magento_Newsletter
+"Sign Up for Our Newsletter:",註冊我們的電子報:,module,Magento_Newsletter
 "Enter your email address",輸入您的電子郵件地址,module,Magento_Newsletter
-Subscribe,訂閱資訊,module,Magento_Newsletter
+Subscribe,訂閱電子報,module,Magento_Newsletter
 "Make Check payable to:","請檢查支付給 ︰",module,Magento_OfflinePayments
 "Send Check to:",所有商品自動生成發票,module,Magento_OfflinePayments
 "Purchase Order Number",採購訂單編號,module,Magento_OfflinePayments
@@ -4103,7 +4103,7 @@ Message,信息,module,Magento_Sales
 "* - Enter custom price excluding tax",*-輸入自定義價格（不含稅）,module,Magento_Sales
 Configure,配置,module,Magento_Sales
 "This product does not have any configurable options",此產品並沒有任何的可配置選項,module,Magento_Sales
-"Newsletter Subscription",訂閱資訊,module,Magento_Sales
+"Newsletter Subscription",訂閱電子報,module,Magento_Sales
 "Please select products",請選擇產品。 ,module,Magento_Sales
 "Add Selected Product(s) to Order",將所選的產品添加到訂單,module,Magento_Sales
 Product,產品,module,Magento_Sales
@@ -5914,9 +5914,9 @@ Update,更新,module,Magento_GiftMessage
 "Gift options",禮物選項,module,Magento_GiftMessage
 Edit,編輯,module,Magento_GiftMessage
 Delete,刪除,module,Magento_GiftMessage
-"Thank you for subscribing to our newsletter.",感謝您的訂購我們的時事通訊。 ,module,Magento_Newsletter
-"To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:",要開始接收時事通訊，必須首先通過點擊下面的鏈接確認您的訂閱:,module,Magento_Newsletter
-"You have been successfully subscribed to our newsletter.",您已成功訂閱我們的時事通訊。 ,module,Magento_Newsletter
+"Thank you for subscribing to our newsletter.",感謝您的訂購我們的電子報。 ,module,Magento_Newsletter
+"To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:",要開始接收電子報，必須首先通過點擊下面的鏈接確認您的訂閱:,module,Magento_Newsletter
+"You have been successfully subscribed to our newsletter.",您已成功訂閱我們的電子報。 ,module,Magento_Newsletter
 "You have been unsubscribed from the newsletter.",您已經取消訂閱新聞通訊。 ,module,Magento_Newsletter
 "Place Order","確認付款",module,Magento_OfflinePayments
 "Place Order","確認付款",module,Magento_Payment
@@ -7018,7 +7018,7 @@ General,基本的,module,Magento_NewRelicReporting
 "New Relic Application Name",新的遺留應用程序名稱,module,Magento_NewRelicReporting
 "This is located by navigating to Settings from the New Relic APM website","這位於通過導航到設置從新文物 APM 網站",module,Magento_NewRelicReporting
 "Enable Cron","啟用 Cron",module,Magento_NewRelicReporting
-"Subscription Options",訂閱資訊,module,Magento_Newsletter
+"Subscription Options",訂閱電子報,module,Magento_Newsletter
 "Allow Guest Subscription",允許客人訂閱,module,Magento_Newsletter
 "Need to Confirm",需要確認,module,Magento_Newsletter
 "Confirmation Email Sender",確認電子郵件發件人,module,Magento_Newsletter
@@ -7050,13 +7050,13 @@ Customer,客戶,module,Magento_Newsletter
 "Customer First Name",客戶名字,module,Magento_Newsletter
 "Customer Last Name",客戶姓氏,module,Magento_Newsletter
 "Not Activated",未激活,module,Magento_Newsletter
-Subscribed,訂閱資訊,module,Magento_Newsletter
+Subscribed,訂閱電子報,module,Magento_Newsletter
 Unsubscribed,取消订阅资讯,module,Magento_Newsletter
 Unconfirmed,未經證實的,module,Magento_Newsletter
 "Web Site",網站,module,Magento_Newsletter
 Store,商店,module,Magento_Newsletter
 "Store View",商店界面,module,Magento_Newsletter
-"Newsletter Subscriptions",訂閱資訊,module,Magento_Newsletter
+"Newsletter Subscriptions",訂閱電子報,module,Magento_Newsletter
 "Check / Money Order",支票/匯票,module,Magento_OfflinePayments
 Enabled,啟動,module,Magento_OfflinePayments
 "New Order Status",新訂單狀態,module,Magento_OfflinePayments
