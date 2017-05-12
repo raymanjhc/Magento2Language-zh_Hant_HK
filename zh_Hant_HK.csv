@@ -1396,7 +1396,7 @@ Subtotal,小計,module,Magento_Checkout
 "What's this?",這是什麼？ ,module,Magento_Checkout
 "Edit item parameters",修改參數,module,Magento_Checkout
 Edit,編輯,module,Magento_Checkout
-"Remove item",刪除項目,module,Magento_Checkout
+"Remove item",刪除產品,module,Magento_Checkout
 "You have no items in your shopping cart.",您的購物車中沒有任何產品。 ,module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","按<a href=""%1""> 此處</a> 繼續購物。",module ,Magento_Checkout
 "Estimate Tax",估計稅,module,Magento_Checkout
@@ -5719,12 +5719,12 @@ Page,頁面,module,Magento_Widget
 "Please enter an email address.",請輸入電子郵件地址。 ,module,Magento_Wishlist
 "This wish list can be shared %1 more times.","這喜愛清單可以共享的 %1 更多倍。",module,Magento_Wishlist
 "Please enter a valid email address.",請輸入有效的電子郵件地址。 ,module,Magento_Wishlist
-"Your wish list has been shared.",已共享您的期望列表。 ,module,Magento_Wishlist
-"We can't delete item from Wish List right now.",我們現在不能從喜愛清單中刪除項目。 ,module,Magento_Wishlist
+"Your wish list has been shared.",已分享您的喜愛清單。 ,module,Magento_Wishlist
+"We can't delete item from Wish List right now.",我們現在不能從喜愛清單中刪除產品。 ,module,Magento_Wishlist
 "Can't save description %1","無法保存描述 %1",module,Magento_Wishlist
 "Can't update wish list",不能更新的喜愛清單,module,Magento_Wishlist
 "%1 has been updated in your Wish List.","%1 已更新您的喜愛清單中。",module,Magento_Wishlist
-"We can't update your Wish List right now.",我們現在無法更新您的期望列表。 ,module,Magento_Wishlist
+"We can't update your Wish List right now.",我們現在無法更新您的喜愛清單。 ,module,Magento_Wishlist
 "The requested Wish List doesn't exist.",請求的喜愛清單不存在。 ,module,Magento_Wishlist
 "We can't create the Wish List right now.",我們不能創造收藏清單現在。 ,module,Magento_Wishlist
 "%1 items","%1 件產品",module,Magento_Wishlist
@@ -5766,8 +5766,8 @@ Availability,庫存,module,Magento_Wishlist
 "In stock",有貨,module,Magento_Wishlist
 "Out of stock",缺貨,module,Magento_Wishlist
 Edit,編輯,module,Magento_Wishlist
-"Remove Item",刪除項目,module,Magento_Wishlist
-"Remove item",刪除項目,module,Magento_Wishlist
+"Remove Item",刪除產品,module,Magento_Wishlist
+"Remove item",刪除產品,module,Magento_Wishlist
 "Add to Compare",添加並比較,module,Magento_Wishlist
 "This Wish List has no Items",這喜愛清單已沒有項目,module,Magento_Wishlist
 "See Details",查看具體信息,module,Magento_Wishlist
@@ -5784,7 +5784,7 @@ Back,後退,module,Magento_Wishlist
 "Last Added Items",最後添加的項,module,Magento_Wishlist
 "Remove This Item",刪除該內容,module,Magento_Wishlist
 "Go to Wish List",去希望列表,module,Magento_Wishlist
-"You have no items in your wish list.",您有喜愛清單中沒有的項目。,module,Magento_Wishlist
+"You have no items in your wish list.",您沒有加入產品至喜愛清單。,module,Magento_Wishlist
 "%1 has been added to your Wish List.","%1 已加入喜愛清單。",module,Magento_Wishlist
 "Now Shopping by","篩選條件",theme,frontend/Magento/luma
 Previous,上一個,theme,frontend/Magento/luma
@@ -6096,7 +6096,7 @@ OK,確定,module,Magento_Checkout
 "Please use only letters (az or AZ), numbers (0-9), spaces and ""#"" in this field.","請只使用字母(a 到z 或A 到Z)，數字(0- 9)，空格和""#""在這一領域。",module,Magento_Ui
 "Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","請輸入有效的電話號碼。例如(123) 456-7890 或123-456-7890。",module ,Magento_Ui
 "Please enter a valid fax number (Ex: 123-456-7890).","請輸入有效的傳真號碼 (Ex: 123-456-7890)。",module,Magento_Ui
-"Please enter a valid email address (Ex: johndoe@domain.com).","請輸入一個有效的電郵地址（E.g. chantaiman123@eugenebaby.com）。",module,Magento_Ui
+"Please enter a valid email address (Ex: johndoe@domain.com).","請輸入一個有效的電郵地址（E.G. chantaiman123@eugenebaby.com）。",module,Magento_Ui
 "Please enter 7 or more characters, using both numeric and alphabetic.","請輸入 7 或更多個字符，使用數字和字母。",module,Magento_Ui
 "Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","請輸入一個有效的URL。協議是需要(http://、 https://或ftp: / /)。",module,Magento_Ui
 "Please enter a valid URL. For example http://www.example.com or www.example.com.","請輸入一個有效的URL。例如http://www.example.com 或www.example. com。",module,Magento_Ui
@@ -6590,7 +6590,7 @@ Values,價值,module,Magento_Catalog
 "Add this attribute to the list of filter options in the product grid.",將此屬性添加到產品網格的過濾選項列表。 ,module,Magento_Catalog
 System,系統,module,Magento_Catalog
 "All Store Views",所有商店界面,module,Magento_Catalog
-"Delete items",刪除項目,module,Magento_Catalog
+"Delete items",刪除產品,module,Magento_Catalog
 "Delete selected items?",刪除所選的項目嗎?,module,Magento_Catalog
 "Change status",更改狀態,module,Magento_Catalog
 Enable,啟用,module,Magento_Catalog
