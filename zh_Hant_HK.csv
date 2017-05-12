@@ -5849,8 +5849,8 @@ Remove,刪除,module,Magento_Checkout
 "SF Store","順豐站",module,Magento_Checkout
 "Service Type","服務種類",module,Magento_Checkout
 "Reset","重設",module,Magento_Checkout
-"District","地區",module,Magento_Checkout
-"Village / Town","城市",module,Magento_Checkout
+"District","區域",module,Magento_Checkout
+"Village / Town","地區",module,Magento_Checkout
 "S.F express Store","順豐中心",module,Magento_Checkout
 "Outside Hong Kong","香港以外地址",module,Magento_Checkout
 "Hong Kong Address","香港地址",module,Magento_Checkout
