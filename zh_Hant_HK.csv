@@ -3582,7 +3582,7 @@ Title:,標題：,module,Magento_ProductVideo
 "The address model is not defined.",未定義地址模型。 ,module,Magento_Quote
 "Grand Total",總額,module,Magento_Quote
 "Shipping & Handling (%1)","航運及處理 (%1)",module,Magento_Quote
-"Shipping & Handling",運費和手續費,module,Magento_Quote
+"Shipping & Handling",運費,module,Magento_Quote
 Shipping,運費,module,Magento_Quote
 Subtotal,小計,module,Magento_Quote
 "We found an invalid item option format.",我們發現無效項目選項的格式。 ,module,Magento_Quote
@@ -4093,7 +4093,7 @@ Message,信息,module,Magento_Sales
 "Create New Order for %1 in %2","為 %2 中的 %1 創建新訂單",module,Magento_Sales
 "Create New Order for %1","為 %1 創建新訂單",module,Magento_Sales
 "Create New Order for New Customer",為新客戶創建新訂單,module,Magento_Sales
-"Items Ordered",已下單的商品,module,Magento_Sales
+"Items Ordered",訂單詳情,module,Magento_Sales
 "This product is disabled.",本產品已下架。 ,module,Magento_Sales
 "Buy %1 for price %2","購買價格 %2 %1",module,Magento_Sales
 "Item ordered qty",訂購數量,module,Magento_Sales
@@ -4225,7 +4225,7 @@ No,否,module,Magento_Sales
 "Show Actual Values",顯示實際值,module,Magento_Sales
 "New Order RSS","新秩序 RSS",module,Magento_Sales
 Subtotal,小計,module,Magento_Sales
-"Shipping & Handling",運費和手續費,module,Magento_Sales
+"Shipping & Handling",運費,module,Magento_Sales
 "Discount (%1)","折扣 (%1)",module,Magento_Sales
 Discount,折扣,module,Magento_Sales
 "Grand Total",總額,module,Magento_Sales
@@ -4574,7 +4574,7 @@ Item,產品,module,Magento_Sales
 From:,從：,module,Magento_Sales
 To:,至：,module,Magento_Sales
 Message:,消息：,module,Magento_Sales
-"Shipping &amp; Handling",運費和手續費,module,Magento_Sales
+"Shipping &amp; Handling",運費,module,Magento_Sales
 "Gift Options",請將此框留空，如果您不想留下禮物消息的整個訂單。 ,module,Magento_Sales
 "Create Shipment",創建裝運,module,Magento_Sales
 "Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.",發票和裝運類型不匹配此訂單上的某些商品。您可以創建僅在創建發票後的裝運。 ,module,Magento_Sales
@@ -4886,7 +4886,7 @@ Title,標題,module,Magento_Shipping
 Number,數字,module,Magento_Shipping
 Action,操作,module,Magento_Shipping
 "Are you sure?",您確定嗎？ ,module,Magento_Shipping
-"Shipping &amp; Handling Information",運費和手續費信息,module,Magento_Shipping
+"Shipping &amp; Handling Information",運費信息,module,Magento_Shipping
 "Track Order",跟踪訂單,module,Magento_Shipping
 "No shipping information available",沒有可用的航運信息,module,Magento_Shipping
 "Shipping and Tracking Information",運輸和跟踪信息,module,Magento_Shipping
@@ -7437,7 +7437,7 @@ Created,建立日期,module,Magento_Sales
 "Grand Total (Base)",結算貨幣金額,module,Magento_Sales
 "Grand Total (Purchased)","總計 (購買)",module,Magento_Sales
 "Customer Email",客戶電子郵件,module,Magento_Sales
-"Shipping and Handling",運費和手續費,module,Magento_Sales
+"Shipping and Handling",運費,module,Magento_Sales
 "PDF Invoices","PDF 發票",module,Magento_Sales
 "PDF Shipments","PDF 發貨",module,Magento_Sales
 "Search Engine",搜索引擎,module,Magento_Search
