@@ -7713,29 +7713,155 @@ Action,操作,module,Magento_Wishlist
 Configure,配置,module,Magento_Wishlist
 Delete,刪除,module,Magento_Wishlist
 "Product Details and Comment",產品詳細信息和評論,module,Magento_Wishlist"Product Details and Comment",產品詳細信息和評論,module,Magento_Wishlist"Product Details and Comment",產品詳細信息和評論,module,Magento_Wishlist
+"Reward Points","積分",module,Mirasvit_Rewards
+"Reward Points.","積分。",module,Mirasvit_Rewards
+Rewards Information,Rewards Information,module,Mirasvit_Rewards
+Available Points Balance,Available Points Balance,module,Mirasvit_Rewards
+Change Balance,Change Balance,module,Mirasvit_Rewards
+Enter positive or negative number of points. E.g. 10 or -10,Enter positive or negative number of points. E.g. 10 or -10,module,Mirasvit_Rewards
+Message in the rewards history,Message in the rewards history,module,Mirasvit_Rewards
+Customer will see this in his account,Customer will see this in his account,module,Mirasvit_Rewards
+No Records Found,No Records Found,module,Mirasvit_Rewards
+ID,ID,module,Mirasvit_Rewards
+Balance Change,Balance Change,module,Mirasvit_Rewards
+Comment,Comment,module,Mirasvit_Rewards
+Created At,Created At,module,Mirasvit_Rewards
+Expires At,Expires At,module,Mirasvit_Rewards
+Earning Rules,Earning Rules,module,Mirasvit_Rewards
+Add New Earning Rule,Add New Earning Rule,module,Mirasvit_Rewards
+Save,Save,module,Mirasvit_Rewards
+Delete,Delete,module,Mirasvit_Rewards
+Save And Continue Edit,Save And Continue Edit,module,Mirasvit_Rewards
+Edit Earning Rule '%1',Edit Earning Rule '%1',module,Mirasvit_Rewards
+Create New Earning Rule,Create New Earning Rule,module,Mirasvit_Rewards
+Conditions,Conditions,module,Mirasvit_Rewards
+Event,Event,module,Mirasvit_Rewards
+Number of Inactive Days,Number of Inactive Days,module,Mirasvit_Rewards
+Actions,Actions,module,Mirasvit_Rewards
+Customer Earning Style,Customer Earning Style,module,Mirasvit_Rewards
+Number of points to give (X),Number of points to give (X),module,Mirasvit_Rewards
+Step (Y),Step (Y),module,Mirasvit_Rewards
+Quantity Step (Z),Quantity Step (Z),module,Mirasvit_Rewards
+Maximum number of earned points for one customer per day,Maximum number of earned points for one customer per day,module,Mirasvit_Rewards
+Set 0 to disable limit,Set 0 to disable limit,module,Mirasvit_Rewards
+Apply the rule only if the following conditions are met,Apply the rule only if the following conditions are met,module,Mirasvit_Rewards
+Number of Points (X),Number of Points (X),module,Mirasvit_Rewards
+Earn Maximum,Earn Maximum,module,Mirasvit_Rewards
+Apply the rule only to cart items matching the following conditions (leave blank for all items),Apply the rule only to cart items matching the following conditions (leave blank for all items),module,Mirasvit_Rewards
+Apply To,Apply To,module,Mirasvit_Rewards
+Apply the rule only if the following conditions are met (leave blank for all products),Apply the rule only if the following conditions are met (leave blank for all products),module,Mirasvit_Rewards
+General Information,General Information,module,Mirasvit_Rewards
+Rule Name,Rule Name,module,Mirasvit_Rewards
+Type,Type,module,Mirasvit_Rewards
+Is Active,Is Active,module,Mirasvit_Rewards
+No,No,module,Mirasvit_Rewards
+Yes,Yes,module,Mirasvit_Rewards
+Active From,Active From,module,Mirasvit_Rewards
+Active To,Active To,module,Mirasvit_Rewards
+Websites,Websites,module,Mirasvit_Rewards
+Customer Groups,Customer Groups,module,Mirasvit_Rewards
+Stop further rules processing,Stop further rules processing,module,Mirasvit_Rewards
+Priority,Priority,module,Mirasvit_Rewards
+Arranged in the ascending order. 0 is the highest.,Arranged in the ascending order. 0 is the highest.,module,Mirasvit_Rewards
+Notifications,Notifications,module,Mirasvit_Rewards
+Message for customer notification email,Message for customer notification email,module,Mirasvit_Rewards
+Filters,Filters,module,Mirasvit_Rewards
+Maximum Distributed Points,Maximum Distributed Points,module,Mirasvit_Rewards
+Conditions & Actions,Conditions & Actions,module,Mirasvit_Rewards
+Number of points to earn,Number of points to earn,module,Mirasvit_Rewards
+All,All,module,Mirasvit_Rewards
+Website,Website,module,Mirasvit_Rewards
+Disabled,Disabled,module,Mirasvit_Rewards
+Enabled,Enabled,module,Mirasvit_Rewards
+Change status,Change status,module,Mirasvit_Rewards
+Status,Status,module,Mirasvit_Rewards
+Are you sure?,Are you sure?,module,Mirasvit_Rewards
+Spending Rules,Spending Rules,module,Mirasvit_Rewards
+Notification Rules,Notification Rules,module,Mirasvit_Rewards
+Transactions,Transactions,module,Mirasvit_Rewards
+Customer Referrals,Customer Referrals,module,Mirasvit_Rewards
+Settings,Settings,module,Mirasvit_Rewards
+Add New Notification Rule,Add New Notification Rule,module,Mirasvit_Rewards
+Edit Notification Rule '%1',Edit Notification Rule '%1',module,Mirasvit_Rewards
+Create New Notification Rule,Create New Notification Rule,module,Mirasvit_Rewards
+Show message on,Show message on,module,Mirasvit_Rewards
+Message,Message,module,Mirasvit_Rewards
+"If you insert a variable like ##100.00, it will be converted to the price in currency of customer. E.g. ##100.00 will be displayed as '$100.00' in USD and as '€88' in Euro.<br><br>","If you insert a variable like ##100.00, it will be converted to the price in currency of customer. E.g. ##100.00 will be displayed as '$100.00' in USD and as '€88' in Euro.<br><br>",module,Mirasvit_Rewards
+Edit Referral '%1',Edit Referral '%1',module,Mirasvit_Rewards
+Create New Referral,Create New Referral,module,Mirasvit_Rewards
+Affiliate Customer,Affiliate Customer,module,Mirasvit_Rewards
+Referral Customer,Referral Customer,module,Mirasvit_Rewards
+Referral Email,Referral Email,module,Mirasvit_Rewards
+Referral Name,Referral Name,module,Mirasvit_Rewards
+Store,Store,module,Mirasvit_Rewards
+Add New Spending Rule,Add New Spending Rule,module,Mirasvit_Rewards
+Edit Spending Rule '%1',Edit Spending Rule '%1',module,Mirasvit_Rewards
+Create New Spending Rule,Create New Spending Rule,module,Mirasvit_Rewards
+For each spent X points,For each spent X points,module,Mirasvit_Rewards
+Customer receive Y discount,Customer receive Y discount,module,Mirasvit_Rewards
+Spend minimum,Spend minimum,module,Mirasvit_Rewards
+Spend maximum,Spend maximum,module,Mirasvit_Rewards
+Discount,Discount,module,Mirasvit_Rewards
+Are you sure ?,Are you sure ?,module,Mirasvit_Rewards
+Add New Transaction,Add New Transaction,module,Mirasvit_Rewards
+Edit Transaction '%1',Edit Transaction '%1',module,Mirasvit_Rewards
+Create New Transaction,Create New Transaction,module,Mirasvit_Rewards
+Name,姓名,module,Mirasvit_Rewards
+Email,電郵,module,Mirasvit_Rewards
+Group,群組,module,Mirasvit_Rewards
+Telephone,電話,module,Mirasvit_Rewards
+ZIP,ZIP,module,Mirasvit_Rewards
+Country,國家,module,Mirasvit_Rewards
+State/Province,州或省,module,Mirasvit_Rewards
+Customer Since,Customer Since,module,Mirasvit_Rewards
+Points Balance Change,Points Balance Change,module,Mirasvit_Rewards
+Customer Name,Customer Name,module,Mirasvit_Rewards
+Customer Email,Customer Email,module,Mirasvit_Rewards
+Action,Action,module,Mirasvit_Rewards
 "Check this out! %1","快來看看! %1",module,Mirasvit_Rewards
-"Applies only to registered customers, may vary when logged in.","請登入以確認可獲積分。",module,Mirasvit_Rewards
-"Share with Friends","分享給朋友",module,Mirasvit_Rewards
-"Share the referal link in the social media and get points!","分享以下連結給好友，齊齊賺取積分獎賞",module,Mirasvit_Rewards
-"Check this out!","快來看看!",module,Mirasvit_Rewards
-"Your referral link:","分享您的連結:",module,Mirasvit_Rewards
-"Send Invitations","發出邀請",module,Mirasvit_Rewards
-"Enter contacts of your friends to invite them.","請輸入您朋友的電郵地址",module,Mirasvit_Rewards
-"Referrals","已推薦的好友",module,Mirasvit_Rewards
-"There are no Referrals","沒有我推薦的人",module,Mirasvit_Rewards
-"Points Summary","累計積分獎賞",module,Mirasvit_Rewards
-"Expires","到期日",module,Mirasvit_Rewards
-"Points","積分",module,Mirasvit_Rewards
-"Message Sent","已送出邀請",module,Mirasvit_Rewards
-"Visited by Referral Link","已送出邀請",module,Mirasvit_Rewards
-"Sent Email","已開啟連結",module,Mirasvit_Rewards
-"You have <b>%1</b> in your account.","你目前共有 <b>%1</b>",module,Mirasvit_Rewards
-"Your points balance will expire in %1 days.","您的積分將會於%1日內過期",module,Mirasvit_Rewards
-"Visit My Reward Points Section","跳至的的我的積分",module,Mirasvit_Rewards
-"My Reward Points","我的積分",module,Mirasvit_Rewards
-"Transactions History","積分記錄",module,Mirasvit_Rewards
-"There are no Transactions.","您沒有積分記錄",module,Mirasvit_Rewards
 "Checkout now and earn <b>%1</b> for this order.","會員結賬後可獲得 <b>%1</b>積分獎賞。",module,Mirasvit_Rewards
+"Applies only to registered customers, may vary when logged in.","請登入以確認可獲積分。",module,Mirasvit_Rewards
+Rewards Points,Rewards Points,module,Mirasvit_Rewards
+Grid,Grid,module,Mirasvit_Rewards
+List,List,module,Mirasvit_Rewards
+Referral %1,Referral %1,module,Mirasvit_Rewards
+New Earning Rule,New Earning Rule,module,Mirasvit_Rewards
+Earning Rule was successfully deleted,Earning Rule was successfully deleted,module,Mirasvit_Rewards
+The Earning Rule does not exist.,The Earning Rule does not exist.,module,Mirasvit_Rewards
+Please select Earning Rule(s),Please select Earning Rule(s),module,Mirasvit_Rewards
+Total of %1 record(s) were successfully updated,Total of %1 record(s) were successfully updated,module,Mirasvit_Rewards
+Total of %1 record(s) were successfully deleted,Total of %1 record(s) were successfully deleted,module,Mirasvit_Rewards
+Earning Rule was successfully saved,Earning Rule was successfully saved,module,Mirasvit_Rewards
+Unable to find Earning Rule to save,Unable to find Earning Rule to save,module,Mirasvit_Rewards
+New Notification Rule,New Notification Rule,module,Mirasvit_Rewards
+Notification Rule was successfully deleted,Notification Rule was successfully deleted,module,Mirasvit_Rewards
+The Notification Rule does not exist.,The Notification Rule does not exist.,module,Mirasvit_Rewards
+Please select Notification Rule(s),Please select Notification Rule(s),module,Mirasvit_Rewards
+Notification Rule was successfully saved,Notification Rule was successfully saved,module,Mirasvit_Rewards
+Unable to find Notification Rule to save,Unable to find Notification Rule to save,module,Mirasvit_Rewards
+Please select Referral(s),Please select Referral(s),module,Mirasvit_Rewards
+New Spending Rule,New Spending Rule,module,Mirasvit_Rewards
+Spending Rule was successfully deleted,Spending Rule was successfully deleted,module,Mirasvit_Rewards
+The Spending Rule does not exist.,The Spending Rule does not exist.,module,Mirasvit_Rewards
+Please select Spending Rule(s),Please select Spending Rule(s),module,Mirasvit_Rewards
+Spending Rule was successfully saved,Spending Rule was successfully saved,module,Mirasvit_Rewards
+Unable to find Spending Rule to save,Unable to find Spending Rule to save,module,Mirasvit_Rewards
+New Transaction,New Transaction,module,Mirasvit_Rewards
+Transaction was successfully deleted,Transaction was successfully deleted,module,Mirasvit_Rewards
+Please select Transaction(s),Please select Transaction(s),module,Mirasvit_Rewards
+Transaction was successfully saved,Transaction was successfully saved,module,Mirasvit_Rewards
+Unable to find Transaction to save,Unable to find Transaction to save,module,Mirasvit_Rewards
+Cannot apply points.,Cannot apply points.,module,Mirasvit_Rewards
+You've earned %1 for Facebook Like!,You've earned %1 for Facebook Like!,module,Mirasvit_Rewards
+Facebook Like Points has been canceled,Facebook Like Points has been canceled,module,Mirasvit_Rewards
+You've earned %1 for Google+!,You've earned %1 for Google+!,module,Mirasvit_Rewards
+G+1 Points has been canceled,G+1 Points has been canceled,module,Mirasvit_Rewards
+You've earned %1 for Pin!,You've earned %1 for Pin!,module,Mirasvit_Rewards
+Customer with email %1 has been already invited to our store,Customer with email %1 has been already invited to our store,module,Mirasvit_Rewards
+Your invitations were sent. Thanks!,Your invitations were sent. Thanks!,module,Mirasvit_Rewards
+Error. PLease reload page and login twitter,Error. PLease reload page and login twitter,module,Mirasvit_Rewards
+You've earned %1 for Tweet!,You've earned %1 for Tweet!,module,Mirasvit_Rewards
+You'll get your%1 for Tweet shortly!,You'll get your%1 for Tweet shortly!,module,Mirasvit_Rewards
 "You received %1 for signing up","恭喜您成功註冊並獲得%1﹗",module,Mirasvit_Rewards
 "You received %1 for sending this product","分享成功，得到%1",module,Mirasvit_Rewards
 "You received %1 for sign up for newsletter","訂閱成功，得到%1",module,Mirasvit_Rewards
@@ -7749,11 +7875,124 @@ Delete,刪除,module,Magento_Wishlist
 "Maximum number is %1.","最多 is %1。",module,Mirasvit_Rewards
 "%1 was canceled.","%1 已取消。",module,Mirasvit_Rewards
 "Cannot apply %1.","無法使用 %1.",module,Mirasvit_Rewards
+You can use the following variables:,You can use the following variables:,module,Mirasvit_Rewards
+Pattern,Pattern,module,Mirasvit_Rewards
+Attribute Value,Attribute Value,module,Mirasvit_Rewards
+Default,Default,module,Mirasvit_Rewards
+Integer,Integer,module,Mirasvit_Rewards
+Price,Price,module,Mirasvit_Rewards
+Strip Tags,Strip Tags,module,Mirasvit_Rewards
+Primary Attributes,Primary Attributes,module,Mirasvit_Rewards
+Stock Attributes,Stock Attributes,module,Mirasvit_Rewards
+Prices & Taxes,Prices & Taxes,module,Mirasvit_Rewards
+Images,Images,module,Mirasvit_Rewards
+Custom Attributes,Custom Attributes,module,Mirasvit_Rewards
+Mapping,Mapping,module,Mirasvit_Rewards
+Category,Category,module,Mirasvit_Rewards
+Amasty Meta Tags,Amasty Meta Tags,module,Mirasvit_Rewards
+Others Attributes,Others Attributes,module,Mirasvit_Rewards
+"You Earn","賺取",module,Mirasvit_Rewards
+"You Spend","使用",module,Mirasvit_Rewards
+"Customer signs up in store","客戶註冊帳戶",module,Mirasvit_Rewards
+"Customer emails product's link to a friend","客戶發送產品連結給朋友",module,Mirasvit_Rewards
+"Newsletter sign up","訂閱通訊",module,Mirasvit_Rewards
+"Customer adds tag to a product","客戶為產品加標簽",module,Mirasvit_Rewards
+"Customer writes a product's review","客戶編寫產品評論",module,Mirasvit_Rewards
+"Customer has a birthday","客戶生日",module,Mirasvit_Rewards
+"Customer is not active for long time","客戶不再活躍",module,Mirasvit_Rewards
+Facebook Like,Facebook Like,module,Mirasvit_Rewards
+Twitter Tweet,Twitter Tweet,module,Mirasvit_Rewards
+Google+ Like,Google+ Like,module,Mirasvit_Rewards
+Pinterest Pin,Pinterest Pin,module,Mirasvit_Rewards
+Referred customer signs up in store,Referred customer signs up in store,module,Mirasvit_Rewards
+Order from referred customer,Order from referred customer,module,Mirasvit_Rewards
+Points to Currency,Points to Currency,module,Mirasvit_Rewards
+Currency to Points,Currency to Points,module,Mirasvit_Rewards
+Customer Account > My Reward Points,Customer Account > My Reward Points,module,Mirasvit_Rewards
+Customer Account > My Referrals,Customer Account > My Referrals,module,Mirasvit_Rewards
+Cart Page,Cart Page,module,Mirasvit_Rewards
+"Message Sent","送出邀請",module,Mirasvit_Rewards
+Signed Up,登記帳號,module,Mirasvit_Rewards
+Made Order,好友已購物,module,Mirasvit_Rewards
+"Visited by Referral Link","經介紹朋友連結進入",module,Mirasvit_Rewards
+Subtotal + Tax,Subtotal + Tax,module,Mirasvit_Rewards
+Subtotal + Tax + Shipping,Subtotal + Tax + Shipping,module,Mirasvit_Rewards
+Product Rule,Product Rule,module,Mirasvit_Rewards
+Cart Rule,Cart Rule,module,Mirasvit_Rewards
+Behavior Rule,Behavior Rule,module,Mirasvit_Rewards
+Transaction #%1 is expired,Transaction #%1 is expired,module,Mirasvit_Rewards
+Update the Product,Update the Product,module,Mirasvit_Rewards
+Conditions Combination,Conditions Combination,module,Mirasvit_Rewards
+Product attribute combination,Product attribute combination,module,Mirasvit_Rewards
+Products subselection,Products subselection,module,Mirasvit_Rewards
+Conditions combination,Conditions combination,module,Mirasvit_Rewards
+Cart Attribute,Cart Attribute,module,Mirasvit_Rewards
+Last 7-days Clicks,Last 7-days Clicks,module,Mirasvit_Rewards
+Last 7-days Orders,Last 7-days Orders,module,Mirasvit_Rewards
+Last 7-days Revenue,Last 7-days Revenue,module,Mirasvit_Rewards
+Is Referral,Is Referral,module,Mirasvit_Rewards
+Lifetime Sales,Lifetime Sales,module,Mirasvit_Rewards
+Number of Orders,Number of Orders,module,Mirasvit_Rewards
+Is subscriber of newsletter,Is subscriber of newsletter,module,Mirasvit_Rewards
+Number of reviews,Number of reviews,module,Mirasvit_Rewards
+Number of referred friends signups,Number of referred friends signups,module,Mirasvit_Rewards
+Number of referred friends orders,Number of referred friends orders,module,Mirasvit_Rewards
+Sum of referred friends orders,Sum of referred friends orders,module,Mirasvit_Rewards
+Number of referred friends ordered at least once,Number of referred friends ordered at least once,module,Mirasvit_Rewards
+Not registered,Not registered,module,Mirasvit_Rewards
+Attribute Set,Attribute Set,module,Mirasvit_Rewards
+Quantity,Quantity,module,Mirasvit_Rewards
+Product Type,Product Type,module,Mirasvit_Rewards
+Base Image,Base Image,module,Mirasvit_Rewards
+Thumbnail,Thumbnail,module,Mirasvit_Rewards
+Small Image,Small Image,module,Mirasvit_Rewards
+Base Image Size (bytes),Base Image Size (bytes),module,Mirasvit_Rewards
+Thumbnail Size (bytes),Thumbnail Size (bytes),module,Mirasvit_Rewards
+Small Image Size (bytes),Small Image Size (bytes),module,Mirasvit_Rewards
+PHP Condition,PHP Condition,module,Mirasvit_Rewards
+Open Chooser,Open Chooser,module,Mirasvit_Rewards
+Referred: Group,Referred: Group,module,Mirasvit_Rewards
+Referred: Lifetime Sales,Referred: Lifetime Sales,module,Mirasvit_Rewards
+Referred: Number of Orders,Referred: Number of Orders,module,Mirasvit_Rewards
+Referred: Is subscriber of newsletter,Referred: Is subscriber of newsletter,module,Mirasvit_Rewards
+Referred: Number of reviews,Referred: Number of reviews,module,Mirasvit_Rewards
+-- Please Select --,-- Please Select --,module,Mirasvit_Rewards
+- Disable these emails -,- Disable these emails -,module,Mirasvit_Rewards
+Give X points to customer,Give X points to customer,module,Mirasvit_Rewards
+Give X points for every spent Y,Give X points for every spent Y,module,Mirasvit_Rewards
+Give X points for every Z quantity,Give X points for every Z quantity,module,Mirasvit_Rewards
+"For every Y, give X points","For every Y, give X points",module,Mirasvit_Rewards
+Pending,Pending,module,Mirasvit_Rewards
+Approved,Approved,module,Mirasvit_Rewards
+Discarded,Discarded,module,Mirasvit_Rewards
+-,-,module,Mirasvit_Rewards
+"%1 has been added.","%1 已加入您的帳戶。",module,Mirasvit_Rewards
+"%1 has been deducted.","%1 已由您的帳戶減去。",module,Mirasvit_Rewards
+"You earned %1 and spent %2 for this order.","是次購物可獲取 %1 和用了 %2。",module,Mirasvit_Rewards
+"You spent %1 for this order.","是次購物您用了 %1。",module,Mirasvit_Rewards
+"You earned %1 for this order.","是次購物可獲取 %1。",module,Mirasvit_Rewards
+"Earned points will be enrolled to your account after we finish processing your order.","是次積分獎賞將於交易完成後7-14個工作天內存入您的賬戶。",module,Mirasvit_Rewards
 "Points Summary","累計積分獎賞",module,Mirasvit_Rewards
-"You have <b>%1</b> in your account.","共有 <b>%1</b> 。",module,Mirasvit_Rewards
+"You have <b>%1</b> in your account.","你目前共有 <b>%1</b>",module,Mirasvit_Rewards
 "You have","您共有",module,Mirasvit_Rewards
-"Reward Points","積分",module,Mirasvit_Rewards
-"Reward Points.","積分。",module,Mirasvit_Rewards
+"Transactions History","積分記錄",module,Mirasvit_Rewards
+"Points","積分",module,Mirasvit_Rewards
+Created,Created,module,Mirasvit_Rewards
+"Expires","到期日",module,Mirasvit_Rewards
+"There are no Transactions.","您沒有積分記錄",module,Mirasvit_Rewards
+"Your points balance will expire in %1 days.","您的積分將會於%1日內過期",module,Mirasvit_Rewards
+"Visit My Reward Points Section","跳至的的我的積分",module,Mirasvit_Rewards
+Login to earn %1 for sharing!,Login to earn %1 for sharing!,module,Mirasvit_Rewards
+Earn %1 for sharing!,Earn %1 for sharing!,module,Mirasvit_Rewards
+Like this page and earn %1,Like this page and earn %1,module,Mirasvit_Rewards
+Plus this page and earn %1,Plus this page and earn %1,module,Mirasvit_Rewards
+Pin this page and earn %1,Pin this page and earn %1,module,Mirasvit_Rewards
+Refer Friends,Refer Friends,module,Mirasvit_Rewards
+Refer friend and earn %1. More friends more points!,Refer friend and earn %1. More friends more points!,module,Mirasvit_Rewards
+What's happening?,What's happening?,module,Mirasvit_Rewards
+Tweet,Tweet,module,Mirasvit_Rewards
+Tweet this page and earn %1,Tweet this page and earn %1,module,Mirasvit_Rewards
+Check this out!,Check this out!,module,Mirasvit_Rewards
 "You have <b>%1</b> available.","共有 <b>%1</b> 可用。",module,Mirasvit_Rewards
 "Enter amount of points to spend:","請輸入要用的積分:",module,Mirasvit_Rewards
 "Enter amount of points to spend","請輸入要用的積分",module,Mirasvit_Rewards
@@ -7765,21 +8004,48 @@ Delete,刪除,module,Magento_Wishlist
 "Apply","使用",module,Mirasvit_Rewards
 "Cancel Points","取消積分使用",module,Mirasvit_Rewards
 "Cancel","取消",module,Mirasvit_Rewards
-"You Earn","賺取",module,Mirasvit_Rewards
-"You Spend","使用",module,Mirasvit_Rewards
-"Customer signs up in store","客戶註冊帳戶",module,Mirasvit_Rewards
-"Customer emails product's link to a friend","客戶發送產品連結給朋友",module,Mirasvit_Rewards
-"Newsletter sign up","訂閱通訊",module,Mirasvit_Rewards
-"Customer adds tag to a product","客戶為產品加標簽",module,Mirasvit_Rewards
-"Customer writes a product's review","客戶編寫產品評論",module,Mirasvit_Rewards
-"Customer has a birthday","客戶生日",module,Mirasvit_Rewards
-"Customer is not active for long time","客戶不再活躍",module,Mirasvit_Rewards
-"%1 has been added.","%1 已加入您的帳戶。",module,Mirasvit_Rewards
-"%1 has been deducted.","%1 已由您的帳戶減去。",module,Mirasvit_Rewards
-"You earned %1 and spent %2 for this order.","是次購物可獲取 %1 和用了 %2。",module,Mirasvit_Rewards
-"You spent %1 for this order.","是次購物您用了 %1。",module,Mirasvit_Rewards
-"You earned %1 for this order.","是次購物可獲取 %1。",module,Mirasvit_Rewards
-"Earned points will be enrolled to your account after we finish processing your order.","是次積分獎賞將於交易完成後7-14個工作天內存入您的賬戶。",module,Mirasvit_Rewards
+Use Reward Points,Use Reward Points,module,Mirasvit_Rewards
+Discount amount,Discount amount,module,Mirasvit_Rewards
+This is a required field,This is a required field,module,Mirasvit_Rewards
+Earning %1,Earning %1,module,Mirasvit_Rewards
+Earn %1,Earn %1,module,Mirasvit_Rewards
+Buy to earn %1,Buy to earn %1,module,Mirasvit_Rewards
+You'll earn %1 for this item,You'll earn %1 for this item,module,Mirasvit_Rewards
+"Share with Friends","分享給朋友",module,Mirasvit_Rewards
+"Share the referal link in the social media and get points!","分享以下連結給好友，齊齊賺取積分獎賞",module,Mirasvit_Rewards
+"Check this out!","快來看看!",module,Mirasvit_Rewards
+"Your referral link:","分享您的連結:",module,Mirasvit_Rewards
+"Send Invitations","發出邀請",module,Mirasvit_Rewards
+"Enter contacts of your friends to invite them.","請輸入您朋友的電郵地址",module,Mirasvit_Rewards
+"Referrals","已推薦的好友",module,Mirasvit_Rewards
+Referred by link,Referred by link,module,Mirasvit_Rewards
+"There are no Referrals","沒有我推薦的人",module,Mirasvit_Rewards
+Point Unit Name,Point Unit Name,module,Mirasvit_Rewards
+"Reward points expire after, days","Reward points expire after, days",module,Mirasvit_Rewards
+Approve earned points on invoice,Approve earned points on invoice,module,Mirasvit_Rewards
+Approve earned points on shipment,Approve earned points on shipment,module,Mirasvit_Rewards
+Approve earned points if order has status,Approve earned points if order has status,module,Mirasvit_Rewards
+Cancel earned points after order refunding,Cancel earned points after order refunding,module,Mirasvit_Rewards
+Restore spent points after order refunding,Restore spent points after order refunding,module,Mirasvit_Rewards
+Allow to earn points from shipping charges,Allow to earn points from shipping charges,module,Mirasvit_Rewards
+Allow to spend points for shipping charges,Allow to spend points for shipping charges,module,Mirasvit_Rewards
+Allow to place orders with grand total = 0,Allow to place orders with grand total = 0,module,Mirasvit_Rewards
+Email Sender,Email Sender,module,Mirasvit_Rewards
+Balance update Email,Balance update Email,module,Mirasvit_Rewards
+Points expire Email,Points expire Email,module,Mirasvit_Rewards
+Send notification before points expiring (in days),Send notification before points expiring (in days),module,Mirasvit_Rewards
+Enable Referral System,Enable Referral System,module,Mirasvit_Rewards
+Invitation Email Template,Invitation Email Template,module,Mirasvit_Rewards
+Show number of points on the product page,Show number of points on the product page,module,Mirasvit_Rewards
+Social Networks Settings,Social Networks Settings,module,Mirasvit_Rewards
+Show Facebook Like button,Show Facebook Like button,module,Mirasvit_Rewards
+Facebook App ID,Facebook App ID,module,Mirasvit_Rewards
+Show Twitter Follow button,Show Twitter Follow button,module,Mirasvit_Rewards
+Twitter Consumer Key,Twitter Consumer Key,module,Mirasvit_Rewards
+Twitter Consumer Secret,Twitter Consumer Secret,module,Mirasvit_Rewards
+Show Google Plus +1 button,Show Google Plus +1 button,module,Mirasvit_Rewards
+Show Pinterest pin button,Show Pinterest pin button,module,Mirasvit_Rewards
+"My Reward Points","我的積分",module,Mirasvit_Rewards
 "Earned %1 for the order #%2.","於訂單 #%2 賺取了 %1。",module,Mirasvit_Rewards
 "Cancel earned %1 for the order #%2.","已取消使用訂單 #%2 之 %1。",module,Mirasvit_Rewards
 "Spent %1 for the order #%2.","於訂單 #%2 使用了 %1。",module,Mirasvit_Rewards
