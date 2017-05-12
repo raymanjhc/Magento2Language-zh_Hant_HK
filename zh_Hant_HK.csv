@@ -1608,7 +1608,7 @@ Summary,用戶中心,module,Magento_ConfigurableProduct
 "Value index is not specified for an option.",值索引未指定選項。 ,module,Magento_ConfigurableProduct
 "Product with id ""%1"" does not contain required attribute ""%2"".","與id""%1""產品不包含所需的屬性""%2""。",module ,Magento_ConfigurableProduct
 "You can't add the item to shopping cart.",無法將該項目加入購物車。 ,module,Magento_ConfigurableProduct
-"You need to choose options for your item.","揀選合適的產品選項"。 ,module,Magento_ConfigurableProduct
+"You need to choose options for your item.","請選擇相關資料"。 ,module,Magento_ConfigurableProduct
 "Some product variations fields are not valid.",一些產品變化字段不是有效的。 ,module,Magento_ConfigurableProduct
 "Configuration must have specified attributes",配置必須具有指定的屬性,module,Magento_ConfigurableProduct
 "Choose Affected Attribute Set",選擇受影響的屬性集,module,Magento_ConfigurableProduct
