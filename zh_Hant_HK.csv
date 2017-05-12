@@ -1859,7 +1859,7 @@ Download,下載,module,Magento_Customer
 "My Account",我的賬戶,module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","此帳戶尚未確認。<a href=""%1""> 點擊這裡</a> 重新發送確認電子郵件。",module,Magento_Customer
 "Invalid login or password.",電郵地址或密碼錯誤。,module,Magento_Customer
-"An unspecified error occurred. Please contact us for assistance.",發生未知的錯誤。請援助，聯繫我們。 ,module,Magento_Customer
+"An unspecified error occurred. Please contact us for assistance.",發生未知的錯誤。如需協助，聯繫我們。 ,module,Magento_Customer
 "A login and a password are required.",登錄名和密碼是必需的。 ,module,Magento_Customer
 "New Password and Confirm New Password values didn't match.",新密碼和確認新密碼值不匹配。 ,module,Magento_Customer
 "Please enter a new password.",請輸入一個新密碼。 ,module,Magento_Customer
@@ -7729,12 +7729,12 @@ Delete,刪除,module,Magento_Wishlist
 "Message Sent","已送出邀請",module,Mirasvit_Rewards
 "Visited by Referral Link","已送出邀請",module,Mirasvit_Rewards
 "Sent Email","已開啟連結",module,Mirasvit_Rewards
-"You have <b>%1</b> in your account.","共有 <b>%1</b>",module,Mirasvit_Rewards
+"You have <b>%1</b> in your account.","你目前共有 <b>%1</b>",module,Mirasvit_Rewards
 "Your points balance will expire in %1 days.","您的積分將會於%1日內過期",module,Mirasvit_Rewards
 "Visit My Reward Points Section","跳至的的我的積分",module,Mirasvit_Rewards
 "My Reward Points","我的積分",module,Mirasvit_Rewards
-"Transactions History","消費記錄",module,Mirasvit_Rewards
-"There are no Transactions.","您沒有消費記錄",module,Mirasvit_Rewards
+"Transactions History","積分記錄",module,Mirasvit_Rewards
+"There are no Transactions.","您沒有積分記錄",module,Mirasvit_Rewards
 "Checkout now and earn <b>%1</b> for this order.","會員結賬後可獲得 <b>%1</b>積分獎賞。",module,Mirasvit_Rewards
 "You received %1 for signing up","恭喜您成功註冊並獲得%1﹗",module,Mirasvit_Rewards
 "You received %1 for sending this product","分享成功，得到%1",module,Mirasvit_Rewards
@@ -7780,8 +7780,8 @@ Delete,刪除,module,Magento_Wishlist
 "You spent %1 for this order.","是次購物您用了 %1。",module,Mirasvit_Rewards
 "You earned %1 for this order.","是次購物可獲取 %1。",module,Mirasvit_Rewards
 "Earned points will be enrolled to your account after we finish processing your order.","是次積分獎賞將於交易完成後7-14個工作天內存入您的賬戶。",module,Mirasvit_Rewards
-"Earned %1 for the order #%2.","訂單 #%2 共賺取了 %1。",module,Mirasvit_Rewards
-"Cancel earned %1 for the order #%2.","取消訂單 #%2 取消了 %1。",module,Mirasvit_Rewards
+"Earned %1 for the order #%2.","於訂單 #%2 賺取了 %1。",module,Mirasvit_Rewards
+"Cancel earned %1 for the order #%2.","已取消使用訂單 #%2 之 %1。",module,Mirasvit_Rewards
 "Spent %1 for the order #%2.","於訂單 #%2 使用了 %1。",module,Mirasvit_Rewards
 "Restore spent %1 for the order #%2.","訂單 #%2 返回了%1。",module,Mirasvit_Rewards
 "Insufficient funds in the account","帳戶餘額不足",module,Magedelight_Cybersourcesa
