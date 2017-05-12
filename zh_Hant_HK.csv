@@ -5778,8 +5778,8 @@ Product,產品,module,Magento_Wishlist
 Back,後退,module,Magento_Wishlist
 "Wish List is empty now.",現在的喜愛清單是空的。 ,module,Magento_Wishlist
 "* Required Fields",*必需填寫,module,Magento_Wishlist
-"Sharing Information",該產品缺貨,module,Magento_Wishlist
-"Email addresses, separated by commas",以逗號分隔的電子郵件地址,module,Magento_Wishlist
+"Sharing Information",產品暫時缺貨,module,Magento_Wishlist
+"Email addresses, separated by commas",填寫多於一個電郵地址時，請以逗號（,）分隔。,module,Magento_Wishlist
 "Check here to link an RSS feed to your Wish List.","在這裡請檢查鏈接的 RSS 飼料您喜愛清單。",module,Magento_Wishlist
 "Last Added Items",最後添加的項,module,Magento_Wishlist
 "Remove This Item",刪除該內容,module,Magento_Wishlist
