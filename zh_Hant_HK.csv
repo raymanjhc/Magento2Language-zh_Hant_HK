@@ -7715,8 +7715,8 @@ Delete,刪除,module,Magento_Wishlist
 "Product Details and Comment",產品詳細信息和評論,module,Magento_Wishlist"Product Details and Comment",產品詳細信息和評論,module,Magento_Wishlist"Product Details and Comment",產品詳細信息和評論,module,Magento_Wishlist
 "Reward Points","積分",module,Mirasvit_Rewards
 "Reward Points.","積分。",module,Mirasvit_Rewards
-Rewards Information,Rewards Information,module,Mirasvit_Rewards
-Available Points Balance,Available Points Balance,module,Mirasvit_Rewards
+Rewards Information,積分獎賞資訊,module,Mirasvit_Rewards
+Available Points Balance,可用積金結算,module,Mirasvit_Rewards
 Change Balance,Change Balance,module,Mirasvit_Rewards
 Enter positive or negative number of points. E.g. 10 or -10,Enter positive or negative number of points. E.g. 10 or -10,module,Mirasvit_Rewards
 Message in the rewards history,Message in the rewards history,module,Mirasvit_Rewards
@@ -7724,13 +7724,13 @@ Customer will see this in his account,Customer will see this in his account,modu
 No Records Found,No Records Found,module,Mirasvit_Rewards
 ID,ID,module,Mirasvit_Rewards
 Balance Change,Balance Change,module,Mirasvit_Rewards
-Comment,Comment,module,Mirasvit_Rewards
+Comment,備註,module,Mirasvit_Rewards
 Created At,Created At,module,Mirasvit_Rewards
 Expires At,Expires At,module,Mirasvit_Rewards
 Earning Rules,Earning Rules,module,Mirasvit_Rewards
 Add New Earning Rule,Add New Earning Rule,module,Mirasvit_Rewards
-Save,Save,module,Mirasvit_Rewards
-Delete,Delete,module,Mirasvit_Rewards
+Save,儲存,module,Mirasvit_Rewards
+Delete,刪除,module,Mirasvit_Rewards
 Save And Continue Edit,Save And Continue Edit,module,Mirasvit_Rewards
 Edit Earning Rule '%1',Edit Earning Rule '%1',module,Mirasvit_Rewards
 Create New Earning Rule,Create New Earning Rule,module,Mirasvit_Rewards
@@ -7752,10 +7752,10 @@ Apply To,Apply To,module,Mirasvit_Rewards
 Apply the rule only if the following conditions are met (leave blank for all products),Apply the rule only if the following conditions are met (leave blank for all products),module,Mirasvit_Rewards
 General Information,General Information,module,Mirasvit_Rewards
 Rule Name,Rule Name,module,Mirasvit_Rewards
-Type,Type,module,Mirasvit_Rewards
+Type,類別,module,Mirasvit_Rewards
 Is Active,Is Active,module,Mirasvit_Rewards
-No,No,module,Mirasvit_Rewards
-Yes,Yes,module,Mirasvit_Rewards
+No,否,module,Mirasvit_Rewards
+Yes,是,module,Mirasvit_Rewards
 Active From,Active From,module,Mirasvit_Rewards
 Active To,Active To,module,Mirasvit_Rewards
 Websites,Websites,module,Mirasvit_Rewards
@@ -7769,7 +7769,7 @@ Filters,Filters,module,Mirasvit_Rewards
 Maximum Distributed Points,Maximum Distributed Points,module,Mirasvit_Rewards
 Conditions & Actions,Conditions & Actions,module,Mirasvit_Rewards
 Number of points to earn,Number of points to earn,module,Mirasvit_Rewards
-All,All,module,Mirasvit_Rewards
+All,全部,module,Mirasvit_Rewards
 Website,Website,module,Mirasvit_Rewards
 Disabled,Disabled,module,Mirasvit_Rewards
 Enabled,Enabled,module,Mirasvit_Rewards
@@ -7801,8 +7801,8 @@ For each spent X points,For each spent X points,module,Mirasvit_Rewards
 Customer receive Y discount,Customer receive Y discount,module,Mirasvit_Rewards
 Spend minimum,Spend minimum,module,Mirasvit_Rewards
 Spend maximum,Spend maximum,module,Mirasvit_Rewards
-Discount,Discount,module,Mirasvit_Rewards
-Are you sure ?,Are you sure ?,module,Mirasvit_Rewards
+Discount,折扣,module,Mirasvit_Rewards
+Are you sure ?,您確定嗎 ?,module,Mirasvit_Rewards
 Add New Transaction,Add New Transaction,module,Mirasvit_Rewards
 Edit Transaction '%1',Edit Transaction '%1',module,Mirasvit_Rewards
 Create New Transaction,Create New Transaction,module,Mirasvit_Rewards
@@ -7813,15 +7813,15 @@ Telephone,電話,module,Mirasvit_Rewards
 ZIP,ZIP,module,Mirasvit_Rewards
 Country,國家,module,Mirasvit_Rewards
 State/Province,州或省,module,Mirasvit_Rewards
-Customer Since,Customer Since,module,Mirasvit_Rewards
-Points Balance Change,Points Balance Change,module,Mirasvit_Rewards
-Customer Name,Customer Name,module,Mirasvit_Rewards
-Customer Email,Customer Email,module,Mirasvit_Rewards
+Customer Since,客戶登記日期,module,Mirasvit_Rewards
+Points Balance Change,積分轉變,module,Mirasvit_Rewards
+Customer Name,客戶名稱,module,Mirasvit_Rewards
+Customer Email,客戶電郵,module,Mirasvit_Rewards
 Action,Action,module,Mirasvit_Rewards
 "Check this out! %1","快來看看! %1",module,Mirasvit_Rewards
 "Checkout now and earn <b>%1</b> for this order.","會員結賬後可獲得 <b>%1</b>積分獎賞。",module,Mirasvit_Rewards
 "Applies only to registered customers, may vary when logged in.","請登入以確認可獲積分。",module,Mirasvit_Rewards
-Rewards Points,Rewards Points,module,Mirasvit_Rewards
+Rewards Points,積分獎賞,module,Mirasvit_Rewards
 Grid,Grid,module,Mirasvit_Rewards
 List,List,module,Mirasvit_Rewards
 Referral %1,Referral %1,module,Mirasvit_Rewards
@@ -7932,7 +7932,7 @@ Last 7-days Orders,Last 7-days Orders,module,Mirasvit_Rewards
 Last 7-days Revenue,Last 7-days Revenue,module,Mirasvit_Rewards
 Is Referral,Is Referral,module,Mirasvit_Rewards
 Lifetime Sales,Lifetime Sales,module,Mirasvit_Rewards
-Number of Orders,Number of Orders,module,Mirasvit_Rewards
+Number of Orders,訂單數量,module,Mirasvit_Rewards
 Is subscriber of newsletter,Is subscriber of newsletter,module,Mirasvit_Rewards
 Number of reviews,Number of reviews,module,Mirasvit_Rewards
 Number of referred friends signups,Number of referred friends signups,module,Mirasvit_Rewards
@@ -7941,8 +7941,8 @@ Sum of referred friends orders,Sum of referred friends orders,module,Mirasvit_Re
 Number of referred friends ordered at least once,Number of referred friends ordered at least once,module,Mirasvit_Rewards
 Not registered,Not registered,module,Mirasvit_Rewards
 Attribute Set,Attribute Set,module,Mirasvit_Rewards
-Quantity,Quantity,module,Mirasvit_Rewards
-Product Type,Product Type,module,Mirasvit_Rewards
+Quantity,數量,module,Mirasvit_Rewards
+Product Type,產品類別,module,Mirasvit_Rewards
 Base Image,Base Image,module,Mirasvit_Rewards
 Thumbnail,Thumbnail,module,Mirasvit_Rewards
 Small Image,Small Image,module,Mirasvit_Rewards
@@ -7977,7 +7977,7 @@ Discarded,Discarded,module,Mirasvit_Rewards
 "You have","您共有",module,Mirasvit_Rewards
 "Transactions History","積分記錄",module,Mirasvit_Rewards
 "Points","積分",module,Mirasvit_Rewards
-Created,Created,module,Mirasvit_Rewards
+Created,創建日,module,Mirasvit_Rewards
 "Expires","到期日",module,Mirasvit_Rewards
 "There are no Transactions.","您沒有積分記錄",module,Mirasvit_Rewards
 "Your points balance will expire in %1 days.","您的積分將會於%1日內過期",module,Mirasvit_Rewards
@@ -7987,7 +7987,7 @@ Earn %1 for sharing!,Earn %1 for sharing!,module,Mirasvit_Rewards
 Like this page and earn %1,Like this page and earn %1,module,Mirasvit_Rewards
 Plus this page and earn %1,Plus this page and earn %1,module,Mirasvit_Rewards
 Pin this page and earn %1,Pin this page and earn %1,module,Mirasvit_Rewards
-Refer Friends,Refer Friends,module,Mirasvit_Rewards
+Refer Friends,介紹朋友,module,Mirasvit_Rewards
 Refer friend and earn %1. More friends more points!,Refer friend and earn %1. More friends more points!,module,Mirasvit_Rewards
 What's happening?,What's happening?,module,Mirasvit_Rewards
 Tweet,Tweet,module,Mirasvit_Rewards
@@ -8004,7 +8004,7 @@ Check this out!,Check this out!,module,Mirasvit_Rewards
 "Apply","使用",module,Mirasvit_Rewards
 "Cancel Points","取消積分使用",module,Mirasvit_Rewards
 "Cancel","取消",module,Mirasvit_Rewards
-Use Reward Points,Use Reward Points,module,Mirasvit_Rewards
+Use Reward Points,使用積分,module,Mirasvit_Rewards
 Discount amount,Discount amount,module,Mirasvit_Rewards
 This is a required field,This is a required field,module,Mirasvit_Rewards
 Earning %1,Earning %1,module,Mirasvit_Rewards
