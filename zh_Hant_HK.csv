@@ -850,7 +850,7 @@ Import,導入,module,Magento_Catalog
 "ALL GROUPS",有貨,module,Magento_Catalog
 "Add Price",添加價格,module,Magento_Catalog
 "Default Values",默認值,module,Magento_Catalog
-"Related Products",超售,module,Magento_Catalog
+"Related Products",想關產品,module,Magento_Catalog
 Up-sells,向上銷售,module,Magento_Catalog
 Cross-sells,交叉銷售,module,Magento_Catalog
 "Size for %1","大小為 %1 的",module,Magento_Catalog
@@ -1268,7 +1268,8 @@ Next,下一個,module,Magento_Catalog
 "Add to Compare",添加並比較,module,Magento_Catalog
 "We found other products you might like!",我們發現您可能會喜歡其他產品!,module,Magento_Catalog
 "More Choices:",更多的選擇:,module,Magento_Catalog
-"Check items to add to the cart or",檢查加入購物車的物品或,module,Magento_Catalog
+"Check items to add to the cart or",也可以看一下以下產品或,module,Magento_Catalog
+"Check items to add to the cart",也可以看一下以下產品,module,Magento_Catalog
 "select all",全選,module,Magento_Catalog
 "Items %1-%2 of %3","%1-%2 件產品，共 %3 件",module,Magento_Catalog
 "%1 Item","%1 件產品",module,Magento_Catalog
