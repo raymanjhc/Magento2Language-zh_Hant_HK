@@ -1266,10 +1266,10 @@ Next,下一個,module,Magento_Catalog
 "We can't find products matching the selection.",找不到相關產品。,module,Magento_Catalog
 "Learn More",了解更多,module,Magento_Catalog
 "Add to Compare",添加並比較,module,Magento_Catalog
-"We found other products you might like!",我們發現您可能會喜歡其他產品!,module,Magento_Catalog
+"We found other products you might like!",您可能有興趣:,module,Magento_Catalog
 "More Choices:",更多的選擇:,module,Magento_Catalog
-"Check items to add to the cart or",也可以看一下以下產品或,module,Magento_Catalog
-"Check items to add to the cart",也可以看一下以下產品,module,Magento_Catalog
+"Check items to add to the cart or",相關產品或:,module,Magento_Catalog
+"Check items to add to the cart",相關產品:,module,Magento_Catalog
 "select all",全選,module,Magento_Catalog
 "Items %1-%2 of %3","%1-%2 件產品，共 %3 件",module,Magento_Catalog
 "%1 Item","%1 件產品",module,Magento_Catalog
