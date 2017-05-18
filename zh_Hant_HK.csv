@@ -8032,8 +8032,8 @@ Restore spent points after order refunding,Restore spent points after order refu
 Allow to earn points from shipping charges,Allow to earn points from shipping charges,module,Mirasvit_Rewards
 Allow to spend points for shipping charges,Allow to spend points for shipping charges,module,Mirasvit_Rewards
 Allow to place orders with grand total = 0,Allow to place orders with grand total = 0,module,Mirasvit_Rewards
-Email Sender,Email Sender,module,Mirasvit_Rewards
-Balance update Email,Balance update Email,module,Mirasvit_Rewards
+Email Sender,電郵發送人,module,Mirasvit_Rewards
+Balance update Email,結算更新電郵,module,Mirasvit_Rewards
 Points expire Email,Points expire Email,module,Mirasvit_Rewards
 Send notification before points expiring (in days),Send notification before points expiring (in days),module,Mirasvit_Rewards
 Enable Referral System,Enable Referral System,module,Mirasvit_Rewards
