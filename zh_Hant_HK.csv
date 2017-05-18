@@ -851,6 +851,7 @@ Import,導入,module,Magento_Catalog
 "Add Price",添加價格,module,Magento_Catalog
 "Default Values",默認值,module,Magento_Catalog
 "Related Products",想關產品,module,Magento_Catalog
+"Related Products:",想關產品:,module,Magento_Catalog
 Up-sells,向上銷售,module,Magento_Catalog
 Cross-sells,交叉銷售,module,Magento_Catalog
 "Size for %1","大小為 %1 的",module,Magento_Catalog
@@ -7820,7 +7821,7 @@ Customer Name,客戶名稱,module,Mirasvit_Rewards
 Customer Email,客戶電郵,module,Mirasvit_Rewards
 Action,Action,module,Mirasvit_Rewards
 "Check this out! %1","快來看看! %1",module,Mirasvit_Rewards
-"Checkout now and earn <b>%1</b> for this order.","會員結賬後可獲得 <b>%1</b>積分獎賞。",module,Mirasvit_Rewards
+"Checkout now and earn <b>%1</b> for this order.","會員結賬後可獲得 <b>%1</b>。",module,Mirasvit_Rewards
 "Applies only to registered customers, may vary when logged in.","請登入以確認可獲積分。",module,Mirasvit_Rewards
 Rewards Points,積分獎賞,module,Mirasvit_Rewards
 Grid,Grid,module,Mirasvit_Rewards
