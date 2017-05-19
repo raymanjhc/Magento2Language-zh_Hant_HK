@@ -6627,6 +6627,7 @@ Payment,付款,module,Magento_Checkout
 "Not yet calculated",尚未計算,module,Magento_Checkout
 "We received your order!",我們收到您的訂單!,module,Magento_Checkout
 "Thank you for your purchase!",感謝您的購買！ ,module,Magento_Checkout
+"Create account","同時註冊會員",module,Magento_Checkout
 "Content Management",內容管理,module,Magento_Cms
 "CMS Home Page","CMS 的主頁",module,Magento_Cms
 "CMS No Route Page","CMS 無路由頁面",module,Magento_Cms
