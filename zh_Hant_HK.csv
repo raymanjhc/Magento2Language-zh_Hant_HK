@@ -6626,8 +6626,7 @@ Summary,摘要,module,Magento_Checkout
 Payment,付款,module,Magento_Checkout
 "Not yet calculated",尚未計算,module,Magento_Checkout
 "We received your order!",我們收到您的訂單!,module,Magento_Checkout
-"Thank you for your purchase!",感謝您的購買！ ,module,Magento_Checkout
-"Create account","同時註冊會員",module,Magento_Checkout
+"Thank you for your purchase!",感謝您的購買！,module,Magento_Checkout
 "Content Management",內容管理,module,Magento_Cms
 "CMS Home Page","CMS 的主頁",module,Magento_Cms
 "CMS No Route Page","CMS 無路由頁面",module,Magento_Cms
@@ -8236,4 +8235,8 @@ Appearance,Appearance,module,Mirasvit_SearchAutocomplete
 "All Brands","熱賣品牌",module,Ves_Brand
 "Read more","更多",module,Trive_Revo
 "Login successfully. Please wait...","登入成功，請稍後…",module,Mageplaza_Osc
+"Create account","同時註冊會員",module,Mageplaza_Osc
+"Already have an account? Click here to login","已註冊會員請在此登入",module,Mageplaza_Osc
+"Register for newsletter", "訂閱最新優惠",module,Mageplaza_Osc
+"Comments","意見",module,Mageplaza_Osc
 Information,資訊,module,Mirasvit_Search
