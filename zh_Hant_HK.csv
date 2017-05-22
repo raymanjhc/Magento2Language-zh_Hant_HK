@@ -156,7 +156,7 @@ Save,儲存,module,Magento_Backend
 "General Settings",一般設置,module,Magento_Backend
 Store,商店,module,Magento_Backend
 "-- Please Select --","-- 請選擇 --",module,Magento_Backend
-"Custom Design",自定義設計,module,Magento_Backend
+"Custom Design",自定設計,module,Magento_Backend
 "Date From",始於,module,Magento_Backend
 "Date To",終於,module,Magento_Backend
 "Design Change",設計更改,module,Magento_Backend
@@ -492,7 +492,7 @@ Separately,分開,module,Magento_Bundle
 "Please select all required options.",請選擇所需的所有選項。 ,module,Magento_Bundle
 "We can't add this item to your shopping cart right now.",我們這個項目不能添加到您的購物車現在。 ,module,Magento_Bundle
 Percent,百分之,module,Magento_Bundle
-"We can't save custom-defined options for bundles with dynamic pricing.",無法保存動態標價套裝產品的自定義選項,module,Magento_Bundle
+"We can't save custom-defined options for bundles with dynamic pricing.",無法保存動態標價套裝產品的自定選項,module,Magento_Bundle
 Cancel,取消,module,Magento_Bundle
 "Add Selected Products",添加所選的產品,module,Magento_Bundle
 "Add Option",添加選項,module,Magento_Bundle
@@ -509,7 +509,7 @@ Required,必填,module,Magento_Bundle
 "Is Default",設為默認值,module,Magento_Bundle
 Name,名字,module,Magento_Bundle
 "Default Quantity",默認數量,module,Magento_Bundle
-"User Defined",用戶自定義,module,Magento_Bundle
+"User Defined",用戶自定,module,Magento_Bundle
 "Price Type",價格類型,module,Magento_Bundle
 None,無,module,Magento_Bundle
 Quantity:,數量:,module,Magento_Bundle
@@ -529,16 +529,16 @@ From,從,module,Magento_Bundle
 To,至,module,Magento_Bundle
 "Buy %1 with %2 discount each","買 %1 與 %2 折扣每個",module,Magento_Bundle
 "Go back to product details",返回到產品詳細信息,module,Magento_Bundle
-"Customize and Add to Cart",自定義並加入購物車,module,Magento_Bundle
+"Customize and Add to Cart",自定並加入購物車,module,Magento_Bundle
 "* Required Fields",*必需填寫,module,Magento_Bundle
-"Your Customization",您的自定義,module,Magento_Bundle
+"Your Customization",您的自定,module,Magento_Bundle
 Availability,庫存,module,Magento_Bundle
 "In stock",有貨,module,Magento_Bundle
 "Out of stock",缺貨,module,Magento_Bundle
 Summary,用戶中心,module,Magento_Bundle
 Availability:,庫存:,module,Magento_Bundle
 Quantity,數量,module,Magento_Bundle
-"Customize %1","自定義 %1",module,Magento_Bundle
+"Customize %1","自定 %1",module,Magento_Bundle
 "No options of this product are available.",該產品沒有可用選項。 ,module,Magento_Bundle
 "Gift Message",禮品消息,module,Magento_Bundle
 From:,從：,module,Magento_Bundle
@@ -574,8 +574,8 @@ Always,總是,module,Magento_Captcha
 "Value for 'maximum characters' sub attribute in 'custom_options' attribute contains incorrect value","'Custom_options' 屬性 '最大字符數子屬性的值包含不正確的值",module,Magento_CatalogImportExport
 "Value for 'sort order' sub attribute in 'custom_options' attribute contains incorrect value","'Custom_options' 屬性 '價格' 子屬性的值包含不正確的值",module,Magento_CatalogImportExport
 "Value for 'value price' sub attribute in 'custom_options' attribute contains incorrect value","'Custom_options' 屬性 '排序' 子屬性的值包含不正確的值",module,Magento_CatalogImportExport
-"This name is already being used for custom option. Please enter a different name.",這個名字已經被用於自定義選項。請輸入一個不同的名稱。 ,module,Magento_CatalogImportExport
-"Custom options have different types.",自定義選項具有不同的類型。 ,module,Magento_CatalogImportExport
+"This name is already being used for custom option. Please enter a different name.",這個名字已經被用於自定選項。請輸入一個不同的名稱。 ,module,Magento_CatalogImportExport
+"Custom options have different types.",自定選項具有不同的類型。 ,module,Magento_CatalogImportExport
 "Every option entity must have a parent product entity.",每個選項實體必須有一個父產品的實體。 ,module,Magento_CatalogImportExport
 "Please correct the parameters.",請更正參數。 ,module,Magento_CatalogImportExport
 "File '%1' was not found or has read restriction.","'%1' 文件未找到或讀過限制。",module,Magento_CatalogImportExport
@@ -823,7 +823,7 @@ Websites,網站,module,Magento_Catalog
 "Create Category",創建類別,module,Magento_Catalog
 "Category Name",類別名稱,module,Magento_Catalog
 "Parent Category",父類別,module,Magento_Catalog
-"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a> .","如果沒有自定義父類別，請使用默認的父類別。您可以在任何時候在<a href=""%1""target=""_blank""> 產品> 類別</a>重新分配類別。",module,Magento_Catalog
+"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a> .","如果沒有自定父類別，請使用默認的父類別。您可以在任何時候在<a href=""%1""target=""_blank""> 產品> 類別</a>重新分配類別。",module,Magento_Catalog
 "Price Alert Subscriptions",價格警報訂閱,module,Magento_Catalog
 "Stock Alert Subscriptions",股票的警報訂閱,module,Magento_Catalog
 "There are no customers for this alert.",沒有客戶此警報。 ,module,Magento_Catalog
@@ -1050,7 +1050,7 @@ Disabled,禁用,module,Magento_Catalog
 "The option type to get group instance is incorrect.",要獲取組實例的選項類型不正確。 ,module,Magento_Catalog
 "Select type options required values rows.",選擇類型選項所需的值的行。 ,module,Magento_Catalog
 "ProductSku should be specified",應指定ProductSku,module,Magento_Catalog
-"Could not remove custom option",無法刪除自定義選項,module,Magento_Catalog
+"Could not remove custom option",無法刪除自定選項,module,Magento_Catalog
 "Please specify date required option(s).",請指定日期所需選項。 ,module,Magento_Catalog
 "Please specify time required option(s).",請指定所需的時間選項。 ,module,Magento_Catalog
 "Please specify product's required option(s).",請指定產品必要的選項。 ,module,Magento_Catalog
@@ -1130,7 +1130,7 @@ Done,完成,module,Magento_Catalog
 "Select Attribute",選擇屬性,module,Magento_Catalog
 "Create New Attribute",創建新的屬性,module,Magento_Catalog
 "Customizable Options",定制選項,module,Magento_Catalog
-"Custom options let customers choose the product variations they want.",自定義選項讓用戶選擇他們想要的產品變化。 ,module,Magento_Catalog
+"Custom options let customers choose the product variations they want.",自定選項讓用戶選擇他們想要的產品變化。 ,module,Magento_Catalog
 "Add Option",添加選項,module,Magento_Catalog
 "New Option",新的選項,module,Magento_Catalog
 "Select Product",選擇產品,module,Magento_Catalog
@@ -1165,7 +1165,7 @@ Actions,動作,module,Magento_Catalog
 "If your Magento site has multiple views, you can set the scope to apply to a specific view.","如果您的 Magento 網站有多個視圖，您可以設置適用於特定視圖的範圍。",module,Magento_Catalog
 name,名稱,module,Magento_Catalog
 "Copy Data from",複製數據來源於,module,Magento_Catalog
-"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a >.","如果沒有自定義父類別，請使用默認的父類別。您可以在任何時候在<a href=""%1""target=""_blank""> 產品&gt; 類別</a >重新分配類別。",module,Magento_Catalog
+"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a >.","如果沒有自定父類別，請使用默認的父類別。您可以在任何時候在<a href=""%1""target=""_blank""> 產品&gt; 類別</a >重新分配類別。",module,Magento_Catalog
 "This operation can take a long time",此操作可能需要很長時間,module,Magento_Catalog
 "Collapse All",全部折疊,module,Magento_Catalog
 "Expand All",全部展開,module,Magento_Catalog
@@ -1184,7 +1184,7 @@ Groups,團體,module,Magento_Catalog
 "An attribute group named ""/name/"" already exists"".","屬性組名""/name/""已經存在""。",module,Magento_Catalog
 "Sorry, we're unable to complete this request.",對不起，我們無法完成這個請求。 ,module,Magento_Catalog
 "You can't remove attributes from this attribute set.",您不能移除此屬性集的屬性。 ,module,Magento_Catalog
-"Custom Options",自定義選項,module,Magento_Catalog
+"Custom Options",自定選項,module,Magento_Catalog
 "This is a required option.",這是必需的選項。 ,module,Magento_Catalog
 "The field isn't complete.",該字段不是完整的。 ,module,Magento_Catalog
 "Compatible file extensions to upload",要上傳的兼容的文件擴展名,module,Magento_Catalog
@@ -1211,12 +1211,12 @@ Backorders,延期交貨,module,Magento_Catalog
 "Add Product To Websites",向網站中添加產品,module,Magento_Catalog
 "Remove Product From Websites",從網站中刪除產品,module,Magento_Catalog
 "To hide an item in catalog or search results, set the status to ""Disabled"".","若要隱藏目錄或搜索結果中的項目，請將狀態設置為""禁用""。",module, Magento_Catalog
-"We can't save custom-defined options for bundles with dynamic pricing.",我們無法保存自定義選項為束與動態定價。 ,module,Magento_Catalog
-"Delete Custom Option",刪除自定義選項,module,Magento_Catalog
-"Sort Custom Options",自定義的排序選項,module,Magento_Catalog
+"We can't save custom-defined options for bundles with dynamic pricing.",我們無法保存自定選項為束與動態定價。 ,module,Magento_Catalog
+"Delete Custom Option",刪除自定選項,module,Magento_Catalog
+"Sort Custom Options",自定的排序選項,module,Magento_Catalog
 "Input Type",輸入類型,module,Magento_Catalog
 "%1 <span>x</span> %2 <span>px.</span>","%1 <span>x</span> %2 <span>px。</span>",module, Magento_Catalog
-"Sort Custom Option",排序的自定義選項,module,Magento_Catalog
+"Sort Custom Option",排序的自定選項,module,Magento_Catalog
 "Item Price",項目價格,module,Magento_Catalog
 Action,操作,module,Magento_Catalog
 "and above",及以上,module,Magento_Catalog
@@ -1525,7 +1525,7 @@ System,系統,module,Magento_Config
 "You saved the configuration.",您已保存的配置。 ,module,Magento_Config
 "Something went wrong while saving this configuration:",保存此配置時，出現了錯誤:,module,Magento_Config
 "Page not found.",找不到網頁。 ,module,Magento_Config
-"Please specify the admin custom URL.","請指定管理員自定義 URL。",module,Magento_Config
+"Please specify the admin custom URL.","請指定管理員自定 URL。",module,Magento_Config
 "Invalid %1. %2","無效的 %1。%2",module,Magento_Config
 "Value must be a URL or one of placeholders: %1","值必須是一個 URL 或占位符之一: %1",module,Magento_Config
 "Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","指定URL 或路徑開頭預留: %1，並以""/""。", module,Magento_Config
@@ -1716,7 +1716,7 @@ Import,導入,module,Magento_CurrencySymbol
 "Please correct the input data for ""%1 => %2"" rate.","請更正""%1 => %2""率的輸入的數據。",module,Magento_CurrencySymbol
 "All valid rates have been saved.",所有有效的匯率已被保存。 ,module,Magento_CurrencySymbol
 System,系統,module,Magento_CurrencySymbol
-"You applied the custom currency symbols.",您應用了自定義的貨幣符號。 ,module,Magento_CurrencySymbol
+"You applied the custom currency symbols.",您應用了自定的貨幣符號。 ,module,Magento_CurrencySymbol
 "You must first configure currency options before being able to see currency rates.",在看貨幣匯率之前您必須先配置貨幣選項,module,Magento_CurrencySymbol
 "Old rate:",舊率:,module,Magento_CurrencySymbol
 "Please specify a website.",請指定一個網站。 ,module,Magento_CustomerImportExport
@@ -2695,7 +2695,7 @@ Delete,刪除,module,Magento_ImportExport
 "Note: Product IDs will be regenerated.","注意: 將再生產品 Id。",module,Magento_ImportExport
 "Add/Update Complex Data",添加更新復雜數據,module,Magento_ImportExport
 "Delete Entities",刪除實體,module,Magento_ImportExport
-"Custom Action",自定義操作,module,Magento_ImportExport
+"Custom Action",自定操作,module,Magento_ImportExport
 "Error message",錯誤消息,module,Magento_ImportExport
 "URL key for specified store already exists.",已經存在的URL鍵指定的商店。 ,module,Magento_ImportExport
 "Entity Attributes",實體屬性,module,Magento_ImportExport
@@ -2810,7 +2810,7 @@ Reset,重置,module,Magento_Integration
 "Please setup or sign in into your 3rd party account to complete setup of this integration.",請安裝或登錄到您的第三方帳戶來完成這種集成的安裝程序。 ,module,Magento_Integration
 "Available APIs","可用的 Api",module,Magento_Integration
 "Resource Access",資源,module,Magento_Integration
-Custom,自定義,module,Magento_Integration
+Custom,自定,module,Magento_Integration
 All,全部,module,Magento_Integration
 Resources,資源,module,Magento_Integration
 No,否,module,Magento_LayeredNavigation
@@ -3372,7 +3372,7 @@ Event,事件,module,Magento_Paypal
 "Gross Amount",總金額,module,Magento_Paypal
 "Fee Debit or Credit",費用借方或貸方,module,Magento_Paypal
 "Fee Amount",費用金額,module,Magento_Paypal
-Custom,自定義,module,Magento_Paypal
+Custom,自定,module,Magento_Paypal
 "Order ID","訂單 ID",module,Magento_Paypal
 "Preapproved Payment ID","預先的付款 ID",module,Magento_Paypal
 "Subscription ID","訂閱 ID",module,Magento_Paypal
@@ -4101,8 +4101,8 @@ Message,信息,module,Magento_Sales
 "Item ordered qty",訂購數量,module,Magento_Sales
 "%1 with %2 discount each","%1 與 %2 折扣每個",module,Magento_Sales
 "%1 for %2","%2 的 %1",module,Magento_Sales
-"* - Enter custom price including tax",*-輸入自定義價格（含稅）,module,Magento_Sales
-"* - Enter custom price excluding tax",*-輸入自定義價格（不含稅）,module,Magento_Sales
+"* - Enter custom price including tax",*-輸入自定價格（含稅）,module,Magento_Sales
+"* - Enter custom price excluding tax",*-輸入自定價格（不含稅）,module,Magento_Sales
 Configure,配置,module,Magento_Sales
 "This product does not have any configurable options",此產品並沒有任何的可配置選項,module,Magento_Sales
 "Newsletter Subscription",訂閱電子報,module,Magento_Sales
@@ -4529,7 +4529,7 @@ Action,操作,module,Magento_Sales
 "Total %1 product(s)","總計%1 產品",module,Magento_Sales
 Subtotal:,小計：,module,Magento_Sales
 "Tier Pricing",層級價格,module,Magento_Sales
-"Custom Price",自定義價格,module,Magento_Sales
+"Custom Price",自定價格,module,Magento_Sales
 "Please select",請選擇,module,Magento_Sales
 "Move to Shopping Cart",移動到購物車,module,Magento_Sales
 "Move to Wish List",移動到收藏清單,module,Magento_Sales
@@ -4829,7 +4829,7 @@ Package,包,module,Magento_Shipping
 Type,類型,module,Magento_Shipping
 Length,長度,module,Magento_Shipping
 "Signature Confirmation",簽名確認,module,Magento_Shipping
-"Customs Value",自定義值,module,Magento_Shipping
+"Customs Value",自定值,module,Magento_Shipping
 Width,寬,module,Magento_Shipping
 Contents,內容,module,Magento_Shipping
 "Total Weight",總重量,module,Magento_Shipping
@@ -5089,7 +5089,7 @@ Tax,稅,module,Magento_Tax
 "The tax rate cannot be removed. It exists in a tax rule.",不能刪除的稅率。它存在於一個稅收規則。 ,module,Magento_Tax
 "This class no longer exists.",此類不再存在。 ,module,Magento_Tax
 "You cannot delete this tax class because it is used in existing %1(s).","因為它在現有的 %1(s) 中使用，無法刪除此稅類。",module,Magento_Tax
-"Custom price if available",如果可用的自定義價格,module,Magento_Tax
+"Custom price if available",如果可用的自定價格,module,Magento_Tax
 "Original price only",原價只有,module,Magento_Tax
 "Shipping Address",送貨地址,module,Magento_Tax
 "Billing Address",賬單地址,module,Magento_Tax
@@ -5151,7 +5151,7 @@ Themes,右欄2列,module,Magento_Theme
 "New Theme",新主題,module,Magento_Theme
 "Theme CSS","主題的 css 文件",module,Magento_Theme
 "Theme CSS Assets","主題 CSS 資產",module,Magento_Theme
-"Custom CSS","自定義 CSS",module,Magento_Theme
+"Custom CSS","自定 CSS",module,Magento_Theme
 "Select CSS File to Upload","選擇 CSS 文件上傳",module,Magento_Theme
 "Upload CSS File","CSS 文件上傳",module,Magento_Theme
 "Download CSS File","CSS 文件下載",module,Magento_Theme
@@ -5369,7 +5369,7 @@ Description,描述,module,Magento_UrlRewrite
 Store,商店,module,Magento_UrlRewrite
 "URL Rewrite Management","URL 重寫管理",module,Magento_UrlRewrite
 "Add URL Rewrite","添加 URL 重寫",module,Magento_UrlRewrite
-Custom,自定義,module,Magento_UrlRewrite
+Custom,自定,module,Magento_UrlRewrite
 "For category",類別,module,Magento_UrlRewrite
 "For product",給產品,module,Magento_UrlRewrite
 "For CMS page","給CMS 頁面",module,Magento_UrlRewrite
@@ -5390,7 +5390,7 @@ No,否,module,Magento_UrlRewrite
 "Permanent (301)","常駐 (301)",module,Magento_UrlRewrite
 "Request Path for Specified Store",指定商店請求路徑。 ,module,Magento_UrlRewrite
 "URL key for specified store already exists.",已經存在的URL鍵指定的商店。 ,module,Magento_UrlRewrite
-"Custom storage message",自定義存儲消息,module,Magento_UrlRewrite
+"Custom storage message",自定存儲消息,module,Magento_UrlRewrite
 "Select Category",選擇類別,module,Magento_UrlRewrite
 Back,返回,module,Magento_User
 Reset,重置,module,Magento_User
@@ -5491,7 +5491,7 @@ Forced,強迫,module,Magento_User
 "Reset Password",您的密碼重設鏈接已過期。 ,module,Magento_User
 "Roles Resources",角色資源,module,Magento_User
 "Resource Access",資源,module,Magento_User
-Custom,自定義,module,Magento_User
+Custom,自定,module,Magento_User
 All,全部,module,Magento_User
 Resources,資源,module,Magento_User
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","警告! \r\nThis 操作將刪除此用戶從已分配role\r\nAre 您確定嗎?" ,module,Magento_User
@@ -5593,11 +5593,11 @@ Gift,禮物,module,Magento_Usps
 Documents,文件,module,Magento_Usps
 Other,其他​​​,module,Magento_Usps
 None,無,module,Magento_Usps
-"Custom Variables",自定義變量,module,Magento_Variable
+"Custom Variables",自定變量,module,Magento_Variable
 "Add New Variable",變量代碼必須是唯一的。 ,module,Magento_Variable
 "Save and Continue Edit",保存並繼續編輯,module,Magento_Variable
-"Custom Variable ""%1""","自定義變量""%1""",module,Magento_Variable
-"New Custom Variable",新的自定義變量,module,Magento_Variable
+"Custom Variable ""%1""","自定變量""%1""",module,Magento_Variable
+"New Custom Variable",新的自定變量,module,Magento_Variable
 Variable,變量,module,Magento_Variable
 "Variable Code",變量的代碼,module,Magento_Variable
 "Variable Name",變量名稱,module,Magento_Variable
@@ -5606,8 +5606,8 @@ No,否,module,Magento_Variable
 Yes,是,module,Magento_Variable
 "Variable HTML Value","HTML 的變量值",module,Magento_Variable
 "Variable Plain Value",平原的變量值,module,Magento_Variable
-"You deleted the custom variable.",刪除自定義的變量。 ,module,Magento_Variable
-"You saved the custom variable.",您保存的自定義的變量。 ,module,Magento_Variable
+"You deleted the custom variable.",刪除自定的變量。 ,module,Magento_Variable
+"You saved the custom variable.",您保存的自定的變量。 ,module,Magento_Variable
 "Variable Code must be unique.",變量的代碼必須是唯一的。 ,module,Magento_Variable
 "Validation has failed.",驗證已失敗。 ,module,Magento_Variable
 %1,1%,module,Magento_Variable
@@ -5660,7 +5660,7 @@ Widget,部件,module,Magento_Widget
 "Save and Continue Edit",保存並繼續編輯,module,Magento_Widget
 "Widget ""%1""","""%1""的小部件",module,Magento_Widget
 "New Widget Instance",新的小部件實例,module,Magento_Widget
-"Custom Layouts",自定義佈局,module,Magento_Widget
+"Custom Layouts",自定佈局,module,Magento_Widget
 "Page Layouts",頁面佈局,module,Magento_Widget
 "Please Select Container First",請先選擇容器,module,Magento_Widget
 "Storefront Properties",前台屬性,module,Magento_Widget
@@ -6184,10 +6184,10 @@ Services,服務,module,Magento_Backend
 Advanced,高級,module,Magento_Backend
 "Disable Modules Output",禁用模塊輸出,module,Magento_Backend
 "Store Email Addresses",店鋪電子郵件地址,module,Magento_Backend
-"Custom Email 1","自定義電子郵件 1",module,Magento_Backend
+"Custom Email 1","自定電子郵件 1",module,Magento_Backend
 "Sender Email",發件人的電子郵件,module,Magento_Backend
 "Sender Name",發件人姓名,module,Magento_Backend
-"Custom Email 2","自定義電子郵件 2",module,Magento_Backend
+"Custom Email 2","自定電子郵件 2",module,Magento_Backend
 "General Contact",一般接觸,module,Magento_Backend
 "Sales Representative",銷售代表,module,Magento_Backend
 "Customer Support",客戶支持,module,Magento_Backend
@@ -6252,12 +6252,12 @@ Admin,管理員,module,Magento_Backend
 "Forgot and Reset Email Sender",遺忘和重置電子郵件發件人,module,Magento_Backend
 "Startup Page",起始頁,module,Magento_Backend
 "Admin Base URL",管理原始URL,module,Magento_Backend
-"Use Custom Admin URL","使用自定義 Admin URL",module,Magento_Backend
-"Custom Admin URL","自定義 Admin URL",module,Magento_Backend
+"Use Custom Admin URL","使用自定 Admin URL",module,Magento_Backend
+"Custom Admin URL","自定 Admin URL",module,Magento_Backend
 "Make sure that base URL ends with '/' (slash), eg http://yourdomain/magento/","請確保，基URL 以'/' (斜線)，例如http://yourdomain/magento/ ",module,Magento_Backend
-"Use Custom Admin Path",使用自定義管理路徑,module,Magento_Backend
-"Custom Admin Path",自定義管理路徑,module,Magento_Backend
-"You will have to sign in after you save your custom admin path.",保存您的自定義管理路徑後您必須重新登錄。 ,module,Magento_Backend
+"Use Custom Admin Path",使用自定管理路徑,module,Magento_Backend
+"Custom Admin Path",自定管理路徑,module,Magento_Backend
+"You will have to sign in after you save your custom admin path.",保存您的自定管理路徑後您必須重新登錄。 ,module,Magento_Backend
 Security,安全,module,Magento_Backend
 "Recovery Link Expiration Period (hours)","恢復鏈接到期時間 （小時）",module,Magento_Backend
 "Please enter a number 1 or greater in this field.","請在此字段中輸入數量大於或等於 1。",module,Magento_Backend
@@ -6499,7 +6499,7 @@ Comma-separated.,以逗號分隔。 ,module,Magento_Catalog
 "This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").","這定義基礎貨幣範圍(""Currency Setup"" > ""Currency Options "" > ""Base Currency"")。",module,Magento_Catalog
 "Category Top Navigation",類別頂部導航,module,Magento_Catalog
 "Maximal Depth",最大深度,module,Magento_Catalog
-"Date & Time Custom Options",日期及時間的自定義選項,module,Magento_Catalog
+"Date & Time Custom Options",日期及時間的自定選項,module,Magento_Catalog
 "Use JavaScript Calendar","使用 JavaScript 日曆",module,Magento_Catalog
 "Date Fields Order",日期字段排序。 ,module,Magento_Catalog
 "Time Format",時間格式,module,Magento_Catalog
@@ -6540,9 +6540,9 @@ Template,模板,module,Magento_Catalog
 "Catalog Product Link",目錄產品鏈接,module,Magento_Catalog
 "Link to a Specified Product",鏈接到指定的產品,module,Magento_Catalog
 "Select Product...",選擇產品...,module,Magento_Catalog
-"Anchor Custom Text",自定義文本錨點,module,Magento_Catalog
+"Anchor Custom Text",自定文本錨點,module,Magento_Catalog
 "If empty, we'll use the product name here.",如果為空，我們將在這裡使用的產品名稱。 ,module,Magento_Catalog
-"Anchor Custom Title",自定義標題錨點,module,Magento_Catalog
+"Anchor Custom Title",自定標題錨點,module,Magento_Catalog
 "Product Link Block Template",產品鏈接塊模板,module,Magento_Catalog
 "Product Link Inline Template",產品鏈接內聯模板,module,Magento_Catalog
 "Catalog Category Link",目錄類別鏈接,module,Magento_Catalog
@@ -6642,9 +6642,9 @@ Payment,付款,module,Magento_Checkout
 "Link to a CMS Page","CMS 頁面的鏈接",module,Magento_Cms
 "CMS Page","CMS 頁面",module,Magento_Cms
 "Select Page...",選擇頁面...,module,Magento_Cms
-"Anchor Custom Text",自定義文本錨點,module,Magento_Cms
+"Anchor Custom Text",自定文本錨點,module,Magento_Cms
 "If empty, the Page Title will be used",如果為空，將使用頁面標題,module,Magento_Cms
-"Anchor Custom Title",自定義標題錨點,module,Magento_Cms
+"Anchor Custom Title",自定標題錨點,module,Magento_Cms
 Template,模板,module,Magento_Cms
 "CMS Page Link Block Template","CMS 頁面鏈接塊模板",module,Magento_Cms
 "CMS Page Link Inline Template","CMS 頁面鏈接內聯模板",module,Magento_Cms
@@ -6668,7 +6668,7 @@ Content,內容,module,Magento_Cms
 "Page in Websites",網站中的頁面,module,Magento_Cms
 Design,設計,module,Magento_Cms
 "Layout Update XML","佈局更新 XML",module,Magento_Cms
-"Custom Design Update",自定義設計更新,module,Magento_Cms
+"Custom Design Update",自定設計更新,module,Magento_Cms
 From,從,module,Magento_Cms
 To,至,module,Magento_Cms
 "New Theme",新主題,module,Magento_Cms
@@ -6676,10 +6676,10 @@ To,至,module,Magento_Cms
 "New Layout",新的佈局,module,Magento_Cms
 Disable,禁用,module,Magento_Cms
 Enable,啟用,module,Magento_Cms
-"Custom design from",自定義設計表單,module,Magento_Cms
-"Custom design to",自定義設計,module,Magento_Cms
-"Custom Theme",自定義主題,module,Magento_Cms
-"Custom Layout",自定義佈局,module,Magento_Cms
+"Custom design from",自定設計表單,module,Magento_Cms
+"Custom design to",自定設計,module,Magento_Cms
+"Custom Theme",自定主題,module,Magento_Cms
+"Custom Layout",自定佈局,module,Magento_Cms
 "Group Label",組標籤,module,Magento_Config
 "Some Label",有些標籤,module,Magento_Config
 "Tab Label",選項卡標籤,module,Magento_Config
@@ -7183,10 +7183,10 @@ Enabled,啟動,module,Magento_Paypal
 "SFTP Credentials","SFTP 憑據",module,Magento_Paypal
 Login,登錄,module,Magento_Paypal
 Password,密碼,module,Magento_Paypal
-"Custom Endpoint Hostname or IP-Address","自定義終結點的主機名或 IP 地址",module,Magento_Paypal
+"Custom Endpoint Hostname or IP-Address","自定終結點的主機名或 IP 地址",module,Magento_Paypal
 "By default it is ""reports.paypal.com"".","默認情況下它是""reports.paypal.com""。",module,Magento_Paypal
 "Use colon to specify port. For example: ""test.example.com:5224"".","使用冒號來指定端口。例如:""test.example.com:5224""。",module,Magento_Paypal
-"Custom Path",自定義路徑,module,Magento_Paypal
+"Custom Path",自定路徑,module,Magento_Paypal
 "Scheduled Fetching",預定取,module,Magento_Paypal
 "Enable Automatic Fetching",啟用自動取,module,Magento_Paypal
 Schedule,計劃任務,module,Magento_Paypal
@@ -7407,7 +7407,7 @@ Shipment,裝運,module,Magento_Sales
 "Customer Order Status Notification",客戶訂單狀態通知,module,Magento_Sales
 "Asynchronous indexing",異步索引,module,Magento_Sales
 "Orders and Returns Search Form",訂單和返回搜索表單,module,Magento_Sales
-"Anchor Custom Title",自定義標題錨點,module,Magento_Sales
+"Anchor Custom Title",自定標題錨點,module,Magento_Sales
 Template,模板,module,Magento_Sales
 "Default Template",默認模板,module,Magento_Sales
 Name,名字,module,Magento_Sales
@@ -7474,7 +7474,7 @@ City,城市,module,Magento_Shipping
 "Street Address",街道名稱,module,Magento_Shipping
 "Street Address Line 2",街道地址行二,module,Magento_Shipping
 "Shipping Policy Parameters",航運政策參數,module,Magento_Shipping
-"Apply custom Shipping Policy",應用自定義的航運政策,module,Magento_Shipping
+"Apply custom Shipping Policy",應用自定的航運政策,module,Magento_Shipping
 "Shipping Policy",航運政策,module,Magento_Shipping
 "Shipping Methods",運送方法,module,Magento_Shipping
 "Categories Options",類別選項,module,Magento_Sitemap
@@ -7551,9 +7551,9 @@ Empty,"產品 %1",module,Magento_Theme
 "Search Engine Robots",搜索引擎機器人,module,Magento_Theme
 "Default Robots",默認機器人,module,Magento_Theme
 "This will be included before head closing tag in page HTML.","這將會包括頭在頁面 HTML 標籤之前。",module,Magento_Theme
-"Edit custom instruction of robots.txt File","編輯自定義指令的 robots.txt 文件",module,Magento_Theme
+"Edit custom instruction of robots.txt File","編輯自定指令的 robots.txt 文件",module,Magento_Theme
 "Reset to Defaults",重置為默認值,module,Magento_Theme
-"This action will delete your custom instructions and reset robots.txt file to system's default settings.","此操作將刪除您的自定義說明並置 robots.txt 文件為系統的默認設置。",module,Magento_Theme
+"This action will delete your custom instructions and reset robots.txt file to system's default settings.","此操作將刪除您的自定說明並置 robots.txt 文件為系統的默認設置。",module,Magento_Theme
 "Default Description",默認描述,module,Magento_Theme
 "Default welcome msg!",默認歡迎msg!,module,Magento_Theme
 "Admin empty",管理員為空,module,Magento_Theme
@@ -7682,7 +7682,7 @@ Name,名字,module,Magento_Variable
 "Include FPT In Subtotal","在分類匯總中包括 FPT",module,Magento_Weee
 "Orders and Returns",訂單與退貨,module,Magento_Widget
 "Orders and Returns Search Form",訂單和返回搜索表單,module,Magento_Widget
-"Anchor Custom Title",自定義標題錨點,module,Magento_Widget
+"Anchor Custom Title",自定標題錨點,module,Magento_Widget
 "CMS Page Link Block Template","CMS 頁面鏈接塊模板",module,Magento_Widget
 "CMS Page Link Inline Template","CMS 頁面鏈接內聯模板",module,Magento_Widget
 "Display a Link to Loading a Spreadsheet",加載的SKU的列表,module,Magento_Widget
