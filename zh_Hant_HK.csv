@@ -7787,7 +7787,7 @@ Add New Notification Rule,Add New Notification Rule,module,Mirasvit_Rewards
 Edit Notification Rule '%1',Edit Notification Rule '%1',module,Mirasvit_Rewards
 Create New Notification Rule,Create New Notification Rule,module,Mirasvit_Rewards
 Show message on,Show message on,module,Mirasvit_Rewards
-Message,Message,module,Mirasvit_Rewards
+Message,訊息,module,Mirasvit_Rewards
 "If you insert a variable like ##100.00, it will be converted to the price in currency of customer. E.g. ##100.00 will be displayed as '$100.00' in USD and as '€88' in Euro.<br><br>","If you insert a variable like ##100.00, it will be converted to the price in currency of customer. E.g. ##100.00 will be displayed as '$100.00' in USD and as '€88' in Euro.<br><br>",module,Mirasvit_Rewards
 Edit Referral '%1',Edit Referral '%1',module,Mirasvit_Rewards
 Create New Referral,Create New Referral,module,Mirasvit_Rewards
@@ -8020,7 +8020,7 @@ You'll earn %1 for this item,You'll earn %1 for this item,module,Mirasvit_Reward
 "Send Invitations","發出邀請",module,Mirasvit_Rewards
 "Enter contacts of your friends to invite them.","請輸入您朋友的電郵地址",module,Mirasvit_Rewards
 "Referrals","已推薦的好友",module,Mirasvit_Rewards
-Referred by link,Referred by link,module,Mirasvit_Rewards
+Referred by link,通過連結,module,Mirasvit_Rewards
 "There are no Referrals","沒有我推薦的人",module,Mirasvit_Rewards
 Point Unit Name,Point Unit Name,module,Mirasvit_Rewards
 "Reward points expire after, days","Reward points expire after, days",module,Mirasvit_Rewards
@@ -8162,7 +8162,7 @@ External,External,module,Mirasvit_Search
 "Post Excerpt","Post Excerpt",module,Mirasvit_Search
 "Category","產品類別",module,Mirasvit_Search
 Magento,Magento,module,Mirasvit_Search
-Name,Name,module,Mirasvit_Search
+Name,姓名,module,Mirasvit_Search
 Description,Description,module,Mirasvit_Search
 "Page Title","Page Title",module,Mirasvit_Search
 "Meta Keywords","Meta Keywords",module,Mirasvit_Search
