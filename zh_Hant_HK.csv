@@ -850,8 +850,8 @@ Import,導入,module,Magento_Catalog
 "ALL GROUPS",有貨,module,Magento_Catalog
 "Add Price",添加價格,module,Magento_Catalog
 "Default Values",默認值,module,Magento_Catalog
-"Related Products",想關產品,module,Magento_Catalog
-"Related Products:",想關產品:,module,Magento_Catalog
+"Related Products",相關產品,module,Magento_Catalog
+"Related Products:",相關產品:,module,Magento_Catalog
 Up-sells,向上銷售,module,Magento_Catalog
 Cross-sells,交叉銷售,module,Magento_Catalog
 "Size for %1","大小為 %1 的",module,Magento_Catalog
@@ -2054,7 +2054,7 @@ Country,國家,module,Magento_Customer
 Email,電郵,module,Magento_Customer
 "Send confirmation link",發送確認鏈接,module,Magento_Customer
 "Back to Sign In",回去簽到,module,Magento_Customer
-"Current Password",當前密碼,module,Magento_Customer
+"Current Password",現有密碼,module,Magento_Customer
 "New Password",新密碼,module,Magento_Customer
 "Confirm New Password",確認新密碼,module,Magento_Customer
 Save,儲存,module,Magento_Customer
