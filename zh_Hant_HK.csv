@@ -2900,13 +2900,13 @@ Total,總額,module,Magento_Multishipping
 "Maximum qty allowed for Shipping to multiple addresses is %1","允許發貨到多個地址的最大數量是 %1",module,Magento_Multishipping
 "Please check shipping address information.",請檢查送貨地址信息。 ,module,Magento_Multishipping
 "Please check billing address information.",請檢查賬單地址信息。 ,module,Magento_Multishipping
-"Please select shipping methods for all addresses.",請選擇所有地址的配送方式。 ,module,Magento_Multishipping
+"Please select shipping methods for all addresses.",請選擇所有地址的送貨方式。 ,module,Magento_Multishipping
 "A payment method is not defined.",未定義的付款方法。 ,module,Magento_Multishipping
 "The requested payment method is not available for multishipping.","Multishipping 的請求的付款方法不可用。",module,Magento_Multishipping
 "Item not found or already ordered",項目找不到或已訂購,module,Magento_Multishipping
 "Please specify a payment method.",請指定付款方式,module,Magento_Multishipping
 "Please check shipping addresses information.",請檢查發貨地址信息。 ,module,Magento_Multishipping
-"Please specify shipping methods for all addresses.",請指定所有地址的配送方式。 ,module,Magento_Multishipping
+"Please specify shipping methods for all addresses.",請指定所有地址的送貨方式。 ,module,Magento_Multishipping
 "Select Addresses",選擇地址,module,Magento_Multishipping
 "Shipping Information",運輸方式,module,Magento_Multishipping
 "Billing Information",訂單總覽,module,Magento_Multishipping
@@ -5795,7 +5795,7 @@ Remove,刪除,theme,frontend/Magento/luma
 "Shop By","篩選條件",theme,frontend/Magento/luma
 "Filter By","篩選條件",theme,frontend/Magento/luma
 "Clear All",清除全部,theme,frontend/Magento/luma
-"Shopping Options",配送方式選擇,theme,frontend/Magento/luma
+"Shopping Options",篩選條件,theme,frontend/Magento/luma
 "Place Order","確認付款",module,Magento_Authorizenet
 "Credit Card Information",信用卡信息,module,Magento_Braintree
 "What is this?",這是什麼？ ,module,Magento_Braintree
