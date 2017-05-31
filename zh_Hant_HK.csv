@@ -1857,7 +1857,7 @@ Download,下載,module,Magento_Customer
 "Please correct the email address.",請正確的電子郵件地址。 ,module,Magento_Customer
 "We're unable to send the password reset email.",我們無法發送重新設置密碼的電子郵件。 ,module,Magento_Customer
 "Please enter your email.",請輸入您的電子郵箱地址。 ,module,Magento_Customer
-"If there is an account associated with %1 you will receive an email with a link to reset your password.","如果與%1 相關聯的帳戶，則您將收到電子郵件鏈接重置您的密碼。" ,module,Magento_Customer
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","密碼重設連結已發送至您的電郵地址。" ,module,Magento_Customer
 "My Account",我的賬戶,module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","此帳戶尚未確認。<a href=""%1""> 點擊這裡</a> 重新發送確認電子郵件。",module,Magento_Customer
 "Invalid login or password.",電郵地址或密碼錯誤。,module,Magento_Customer
