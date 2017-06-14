@@ -850,8 +850,8 @@ Import,導入,module,Magento_Catalog
 "ALL GROUPS",有貨,module,Magento_Catalog
 "Add Price",添加價格,module,Magento_Catalog
 "Default Values",默認值,module,Magento_Catalog
-"Related Products",想關產品,module,Magento_Catalog
-"Related Products:",想關產品:,module,Magento_Catalog
+"Related Products",相關產品,module,Magento_Catalog
+"Related Products:",相關產品:,module,Magento_Catalog
 Up-sells,向上銷售,module,Magento_Catalog
 Cross-sells,交叉銷售,module,Magento_Catalog
 "Size for %1","大小為 %1 的",module,Magento_Catalog
@@ -2054,7 +2054,7 @@ Country,國家,module,Magento_Customer
 Email,電郵,module,Magento_Customer
 "Send confirmation link",發送確認鏈接,module,Magento_Customer
 "Back to Sign In",回去簽到,module,Magento_Customer
-"Current Password",當前密碼,module,Magento_Customer
+"Current Password",現有密碼,module,Magento_Customer
 "New Password",新密碼,module,Magento_Customer
 "Confirm New Password",確認新密碼,module,Magento_Customer
 Save,儲存,module,Magento_Customer
@@ -2900,13 +2900,13 @@ Total,總額,module,Magento_Multishipping
 "Maximum qty allowed for Shipping to multiple addresses is %1","允許發貨到多個地址的最大數量是 %1",module,Magento_Multishipping
 "Please check shipping address information.",請檢查送貨地址信息。 ,module,Magento_Multishipping
 "Please check billing address information.",請檢查賬單地址信息。 ,module,Magento_Multishipping
-"Please select shipping methods for all addresses.",請選擇所有地址的配送方式。 ,module,Magento_Multishipping
+"Please select shipping methods for all addresses.",請選擇所有地址的送貨方式。 ,module,Magento_Multishipping
 "A payment method is not defined.",未定義的付款方法。 ,module,Magento_Multishipping
 "The requested payment method is not available for multishipping.","Multishipping 的請求的付款方法不可用。",module,Magento_Multishipping
 "Item not found or already ordered",項目找不到或已訂購,module,Magento_Multishipping
 "Please specify a payment method.",請指定付款方式,module,Magento_Multishipping
 "Please check shipping addresses information.",請檢查發貨地址信息。 ,module,Magento_Multishipping
-"Please specify shipping methods for all addresses.",請指定所有地址的配送方式。 ,module,Magento_Multishipping
+"Please specify shipping methods for all addresses.",請指定所有地址的送貨方式。 ,module,Magento_Multishipping
 "Select Addresses",選擇地址,module,Magento_Multishipping
 "Shipping Information",運輸方式,module,Magento_Multishipping
 "Billing Information",訂單總覽,module,Magento_Multishipping
@@ -5795,7 +5795,7 @@ Remove,刪除,theme,frontend/Magento/luma
 "Shop By","篩選條件",theme,frontend/Magento/luma
 "Filter By","篩選條件",theme,frontend/Magento/luma
 "Clear All",清除全部,theme,frontend/Magento/luma
-"Shopping Options",配送方式選擇,theme,frontend/Magento/luma
+"Shopping Options",篩選條件,theme,frontend/Magento/luma
 "Place Order","確認付款",module,Magento_Authorizenet
 "Credit Card Information",信用卡信息,module,Magento_Braintree
 "What is this?",這是什麼？ ,module,Magento_Braintree
@@ -8051,7 +8051,7 @@ Show Pinterest pin button,Show Pinterest pin button,module,Mirasvit_Rewards
 "Earned %1 for the order #%2.","於訂單 #%2 賺取了 %1。",module,Mirasvit_Rewards
 "Cancel earned %1 for the order #%2.","已取消使用訂單 #%2 之 %1。",module,Mirasvit_Rewards
 "Spent %1 for the order #%2.","於訂單 #%2 使用了 %1。",module,Mirasvit_Rewards
-"Restore spent %1 for the order #%2.","訂單 #%2 返回了%1。",module,Mirasvit_Rewards
+"Restore spent %1 for the order #%2.","已取消使用訂單 #%2 之 %1。",module,Mirasvit_Rewards
 "Insufficient funds in the account","帳戶餘額不足",module,Magedelight_Cybersourcesa
 "General system failure","系統處理失敗，請稍後再試",module,Magedelight_Cybersourcesa
 "Payment was canceled.","付款已取消",module,Magedelight_Cybersourcesa
@@ -8240,3 +8240,4 @@ Appearance,Appearance,module,Mirasvit_SearchAutocomplete
 "Register for newsletter", "訂閱最新優惠",module,Mageplaza_Osc
 "Comments","意見",module,Mageplaza_Osc
 Information,資訊,module,Mirasvit_Search
+"OR",或,module,Plumrocket_SocialLoginPro
