@@ -3203,7 +3203,7 @@ Sales,銷售,module,Magento_Paypal
 "Billing Agreement # %1","計費協議 # %1",module,Magento_Paypal
 "We can't initialize Express Checkout.",我們不能初始化快速結賬。 ,module,Magento_Paypal
 "PayPal Express Checkout Token does not exist.",貝寶表示簽出令牌並不存在。 ,module,Magento_Paypal
-"A wrong PayPal Express Checkout Token is specified.",指定了一個錯誤的支付寶快捷結賬令牌。 ,module,Magento_Paypal
+"A wrong PayPal Express Checkout Token is specified.",指定了一個錯誤的PayPal快捷結賬令牌。 ,module,Magento_Paypal
 "Express Checkout and Order have been canceled.",快速結賬和訂單已被取消。 ,module,Magento_Paypal
 "Express Checkout has been canceled.",快速結賬已取消,module,Magento_Paypal
 "Unable to cancel Express Checkout",不能取消快速結賬,module,Magento_Paypal
@@ -3219,10 +3219,10 @@ Sales,銷售,module,Magento_Paypal
 "Would you like to sign a billing agreement to streamline further purchases with PayPal?",您想簽賬單的協議，以進一步精簡與貝寶購買嗎?,module,Magento_Paypal
 "Error processing payment, please try again later.",錯誤處理付款，請稍後再試。 ,module,Magento_Paypal
 "Payment Gateway is unreachable at the moment. Please use another payment option.",目前，支付網關是遙不可及。請使用另一種付款方式。 ,module,Magento_Paypal
-"PayPal response hasn't required fields.",支付寶回應並沒有要求領域。 ,module,Magento_Paypal
+"PayPal response hasn't required fields.",PayPal回應並沒有要求領域。 ,module,Magento_Paypal
 "Something went wrong while processing your order.",在處理您的訂單時，出了錯。 ,module,Magento_Paypal
-"PayPal gateway has rejected request. %1","支付寶網關拒絕了請求。% 1",module,Magento_Paypal
-"The PayPal gateway rejected the request. %1","支付寶網關拒絕了請求。% 1",module,Magento_Paypal
+"PayPal gateway has rejected request. %1","PayPal網關拒絕了請求。%1",module,Magento_Paypal
+"The PayPal gateway rejected the request. %1","PayPal網關拒絕了請求。%1",module,Magento_Paypal
 "I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.",我很抱歉-但我們也不能夠處理您的付款。請嘗試另一種付款方式或與我們聯繫，以便我們可以協助您。 ,module,Magento_Paypal
 "I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.",我很抱歉-但我們不能夠完成您的交易。請與我們聯繫，以便我們可以協助您。 ,module,Magento_Paypal
 "The payment method code is not set.",未設置付款方法代碼。 ,module,Magento_Paypal
@@ -3232,13 +3232,13 @@ Active,活動,module,Magento_Paypal
 Canceled,已取消,module,Magento_Paypal
 "The customer ID is not set.","不設置客戶 ID。",module,Magento_Paypal
 "The Billing Agreement status is not set.",不設置收費協議狀態。 ,module,Magento_Paypal
-"The PayPal certificate does not exist.",支付寶證書不存在。 ,module,Magento_Paypal
-"We prefer PayPal (150 X 60)",我們更喜歡支付寶（150×60）,module,Magento_Paypal
-"We prefer PayPal (150 X 40)",我們更喜歡支付寶（150×40）,module,Magento_Paypal
-"Now accepting PayPal (150 X 60)",現在接受支付寶（150×60）,module,Magento_Paypal
-"Now accepting PayPal (150 X 40)",現在接受支付寶（150×40）,module,Magento_Paypal
-"Payments by PayPal (150 X 60)","支付寶（150 X 60）",module,Magento_Paypal
-"Payments by PayPal (150 X 40)","支付寶（150 X 40）",module,Magento_Paypal
+"The PayPal certificate does not exist.",PayPal證書不存在。 ,module,Magento_Paypal
+"We prefer PayPal (150 X 60)",我們更喜歡PayPal（150×60）,module,Magento_Paypal
+"We prefer PayPal (150 X 40)",我們更喜歡PayPal（150×40）,module,Magento_Paypal
+"Now accepting PayPal (150 X 60)",現在接受PayPal（150×60）,module,Magento_Paypal
+"Now accepting PayPal (150 X 40)",現在接受PayPal（150×40）,module,Magento_Paypal
+"Payments by PayPal (150 X 60)","PayPal（150 X 60）",module,Magento_Paypal
+"Payments by PayPal (150 X 40)","PayPal（150 X 40）",module,Magento_Paypal
 "Shop now using (150 X 60)","店鋪現在使用 (150 × 60)",module,Magento_Paypal
 "Shop now using (150 X 40)","店鋪現在使用 (150 × 40)",module,Magento_Paypal
 Dynamic,動態,module,Magento_Paypal
@@ -3261,7 +3261,7 @@ Never,永不,module,Magento_Paypal
 "We'll authorize the amount of %1 as soon as the payment gateway approves it.","我們將授權 %1 的量，盡快支付網關批准它。",module,Magento_Paypal
 "The authorized amount is %1.","授權的金額是 %1。",module,Magento_Paypal
 "The maximum number of child authorizations is reached.",達到了子授權的最大數目。 ,module,Magento_Paypal
-"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.",支付寶不能處理訂單與一零平衡。要完成您的購買，請通過標準結賬過程。 ,module,Magento_Paypal
+"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.",PayPal不能處理訂單與一零平衡。要完成您的購買，請通過標準結賬過程。 ,module,Magento_Paypal
 "A payer is not identified.",不確定的付款人。 ,module,Magento_Paypal
 "Cannot get secure form URL from PayPal","無法從 PayPal 安全窗體的 URL",module,Magento_Paypal
 "Last Transaction ID","最後的交易 ID",module,Magento_Paypal
@@ -3270,7 +3270,7 @@ Never,永不,module,Magento_Paypal
 "The payment eCheck is not cleared.",支付電子支票是不會被清除。 ,module,Magento_Paypal
 "The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.",商人持有非美國帳戶，並沒有退出機制。 ,module,Magento_Paypal
 "The payment currency doesn't match any of the merchant's balances currency.",付款幣種不匹配任何商人的餘額的貨幣。 ,module,Magento_Paypal
-"The payment is pending while it is being reviewed by PayPal for risk.",該付款正在等待，而它正在審查通過支付寶的風險。 ,module,Magento_Paypal
+"The payment is pending while it is being reviewed by PayPal for risk.",該付款正在等待，而它正在審查通過PayPal的風險。 ,module,Magento_Paypal
 "The payment is pending because it was made to an email address that is not yet registered or confirmed.",該付款正在等待，因為它是由一個電子郵件地址，尚未登記或確認。 ,module,Magento_Paypal
 "The merchant account is not yet verified.",商人帳戶尚未證明。 ,module,Magento_Paypal
 "The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.",通過信用卡付款。為了得到資金商人必須升級帳戶到業務或總理的地位。 ,module,Magento_Paypal
@@ -3280,8 +3280,8 @@ Never,永不,module,Magento_Paypal
 "A reversal has occurred on this transaction due to a complaint about the transaction from your customer.",從您的客戶交易投訴此交易發生了逆轉。 ,module,Magento_Paypal
 "A reversal has occurred on this transaction because you have given the customer a refund.",因為您給客戶退款這筆交易上出現逆轉。 ,module,Magento_Paypal
 "Reversal of an adjustment.",逆轉的調整。 ,module,Magento_Paypal
-"Transaction reversal due to fraud detected by PayPal administrators.",由於支付寶管理人員檢測到的欺詐交易。 ,module,Magento_Paypal
-"Transaction reversal by PayPal administrators.",通過支付寶管理員的交易撤銷。 ,module,Magento_Paypal
+"Transaction reversal due to fraud detected by PayPal administrators.",由於PayPal管理人員檢測到的欺詐交易。 ,module,Magento_Paypal
+"Transaction reversal by PayPal administrators.",通過PayPal管理員的交易撤銷。 ,module,Magento_Paypal
 "Reimbursement for a chargeback.",報銷費用分攤。 ,module,Magento_Paypal
 "Settlement of a chargeback.",存儲容量使用計費結算。 ,module,Magento_Paypal
 "A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.",這筆交易因懷疑未經授權的欺騙客戶糾紛發生了逆轉。 ,module,Magento_Paypal
@@ -3383,7 +3383,7 @@ Debit,借記卡,module,Magento_Paypal
 "ACH Deposit (Reversal)","ACH 存款 (逆轉)",module,Magento_Paypal
 "ACH Funding for Funds Recovery from Account Balance","ACH 經費賬戶結餘資金回收",module,Magento_Paypal
 "ACH Withdrawal","ACH 撤出",module,Magento_Paypal
-"Account-to-Account Payment, initiated by PayPal",賬戶支付，由支付寶發起,module,Magento_Paypal
+"Account-to-Account Payment, initiated by PayPal",賬戶支付，由PayPal發起,module,Magento_Paypal
 "Auction Payment other than through eBay","其他比通過 eBay 的拍賣付款",module,Magento_Paypal
 "Available Balance",可用餘額,module,Magento_Paypal
 "Balance Manager Account Bonus",平衡管理器帳戶獎金,module,Magento_Paypal
@@ -3424,7 +3424,7 @@ Funding,資金,module,Magento_Paypal
 "General: temporary hold of a type not belonging to the other T15xx categories","一般情況: 暫時凍結不屬於其他 T15xx 類別類型的",module,Magento_Paypal
 "Gift Certificate Payment: purchase of Gift Certificate","禮品證書付款: 購買的禮品證書",module,Magento_Paypal
 "Gift Certificate Redemption",禮品券兌換,module,Magento_Paypal
-"Hidden Virtual PayPal Debit Card Transaction",隱藏虛擬支付寶借記卡交易,module,Magento_Paypal
+"Hidden Virtual PayPal Debit Card Transaction",隱藏虛擬PayPal借記卡交易,module,Magento_Paypal
 "Hold for Dispute Investigation",為糾紛調查舉行,module,Magento_Paypal
 Incentive,激勵,module,Magento_Paypal
 "Mass Pay Payment",大體積付付款,module,Magento_Paypal
