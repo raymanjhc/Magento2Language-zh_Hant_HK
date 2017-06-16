@@ -5235,7 +5235,7 @@ Remove,刪除,module,Magento_Theme
 "For the best experience on our site, be sure to turn on Javascript in your browser.","在我們的網站上獲得最佳體驗，請務必打開 Javascript 在您的瀏覽器。",module,Magento_Theme
 "Local Storage seems to be disabled in your browser.",本地存儲似乎在您的瀏覽器中禁用。 ,module,Magento_Theme
 "For the best experience on our site, be sure to turn on Local Storage in your browser.",在我們的網站上獲得最佳體驗，請務必打開本地存儲在您的瀏覽器。 ,module,Magento_Theme
-"This is demo store. No orders will be fulfilled.",這是演示店鋪。沒有訂單將會完成。 ,module,Magento_Theme
+"This is demo store. No orders will be fulfilled.",這是示範網店。訂單不會被處理。 ,module,Magento_Theme
 "Items %1 to %2 of %3 total","項目 %1 到 %2 共%3 ",module,Magento_Theme
 "%1 Item","%1 項目",module,Magento_Theme
 "%1 Item(s)","%1 項目",module,Magento_Theme
