@@ -1685,6 +1685,7 @@ Email,電郵,module,Magento_Contact
 "Phone Number",電話號碼,module,Magento_Contact
 "What’s on your mind?",您的想法是什麼?,module,Magento_Contact
 Submit,提交,module,Magento_Contact
+"Contact Details",聯絡詳情,module,Magento_Contact
 "Invalid domain name: %1","無效的域名: %1",module,Magento_Cookie
 "Invalid cookie lifetime: %1","無效的 cookie 的生命週期: %1",module,Magento_Cookie
 "Invalid cookie path","無效的 cookie 路徑",module,Magento_Cookie
