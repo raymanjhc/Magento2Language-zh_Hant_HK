@@ -443,7 +443,7 @@ Country,國家,module,Magento_Braintree
 Authorize,授權,module,Magento_Braintree
 "Authorize and Capture",授權和獲取,module,Magento_Braintree
 "--Please Select--","-- 請選擇 --",module,Magento_Braintree
-"Please agree to all the terms and conditions before placing the order.",請在下訂單前同意所有的條款和條件。 ,module,Magento_Braintree
+"Please agree to all the terms and conditions before placing the order.",請在下訂單前同意所有的條款及細則。 ,module,Magento_Braintree
 "Credit Card Type",卡片驗證號碼,module,Magento_Braintree
 "Credit Card Number",信用卡卡號,module,Magento_Braintree
 "Please, enter valid Credit Card Number",請輸入有效的信用卡號碼,module,Magento_Braintree
@@ -1285,13 +1285,13 @@ Show,顯示,module,Magento_Catalog
 Loading...,"加載 。。。",module,Magento_Catalog
 "* Required Fields",*必需填寫,module,Magento_Catalog
 Availability,庫存,module,Magento_Catalog
-"Terms and Conditions",條款和條件,module,Magento_CheckoutAgreements
+"Terms and Conditions",條款及細則,module,Magento_CheckoutAgreements
 "Add New Condition",添加新的條件,module,Magento_CheckoutAgreements
 "Save Condition",保存條件,module,Magento_CheckoutAgreements
 "Delete Condition",刪除條件,module,Magento_CheckoutAgreements
-"Edit Terms and Conditions",編輯的條款和條件,module,Magento_CheckoutAgreements
-"New Terms and Conditions",新的條款和條件,module,Magento_CheckoutAgreements
-"Terms and Conditions Information",條款和條件的信息,module,Magento_CheckoutAgreements
+"Edit Terms and Conditions",編輯的條款及細則,module,Magento_CheckoutAgreements
+"New Terms and Conditions",新的條款及細則,module,Magento_CheckoutAgreements
+"Terms and Conditions Information",條款及細則的信息,module,Magento_CheckoutAgreements
 "Condition Name",條件名稱,module,Magento_CheckoutAgreements
 Status,狀態,module,Magento_CheckoutAgreements
 Enabled,啟動,module,Magento_CheckoutAgreements
@@ -1317,7 +1317,7 @@ Sales,銷售,module,Magento_CheckoutAgreements
 "Something went wrong while saving this condition.",這種情況在保存時出了錯。 ,module,Magento_CheckoutAgreements
 Automatically,自動,module,Magento_CheckoutAgreements
 Manually,手動,module,Magento_CheckoutAgreements
-"Please agree to all the terms and conditions before placing the order.",請在下訂單前同意所有的條款和條件。 ,module,Magento_CheckoutAgreements
+"Please agree to all the terms and conditions before placing the order.",請在下訂單前同意所有的條款及細則。 ,module,Magento_CheckoutAgreements
 "Unable to save checkout agreement %1","無法保存結賬協議 %1",module,Magento_CheckoutAgreements
 "Unable to remove checkout agreement %1","無法刪除結賬協議 %1",module,Magento_CheckoutAgreements
 "Checkout agreement with specified ID ""%1"" not found.","結賬協議具有指定 ID""%1""找不到。",module,Magento_CheckoutAgreements
@@ -1351,7 +1351,7 @@ State/Province,地區,module,Magento_Checkout
 "Guest checkout is disabled.",禁用了來賓結賬。 ,module,Magento_Checkout
 Checkout,結賬,module,Magento_Checkout
 "Page not found.",找不到網頁。 ,module,Magento_Checkout
-"Please agree to all the terms and conditions before placing the order.",請在下訂單前同意所有的條款和條件。 ,module,Magento_Checkout
+"Please agree to all the terms and conditions before placing the order.",請在下訂單前同意所有的條款及細則。 ,module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.",在處理您的訂單時，出了錯。請稍後再試。 ,module,Magento_Checkout
 "%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 不延長 \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
 "We can't find the product.",我們找不到該產品,module,Magento_Checkout
@@ -2897,7 +2897,7 @@ Total,總額,module,Magento_Multishipping
 "Create Shipping Address",創建送貨地址,module,Magento_Multishipping
 "Data saving problem",數據保存的問題,module,Magento_Multishipping
 "We cannot open the overview page.",我們不能打開概述頁。 ,module,Magento_Multishipping
-"Please agree to all Terms and Conditions before placing the order.",請在下訂單前同意所有的條款和條件。 ,module,Magento_Multishipping
+"Please agree to all Terms and Conditions before placing the order.",請在下訂單前同意所有的條款及細則。 ,module,Magento_Multishipping
 "Order place error",順序位置誤差,module,Magento_Multishipping
 "Maximum qty allowed for Shipping to multiple addresses is %1","允許發貨到多個地址的最大數量是 %1",module,Magento_Multishipping
 "Please check shipping address information.",請檢查送貨地址信息。 ,module,Magento_Multishipping
@@ -3208,7 +3208,7 @@ Sales,銷售,module,Magento_Paypal
 "Express Checkout and Order have been canceled.",快速結賬和訂單已被取消。 ,module,Magento_Paypal
 "Express Checkout has been canceled.",快速結賬已取消,module,Magento_Paypal
 "Unable to cancel Express Checkout",不能取消快速結賬,module,Magento_Paypal
-"Please agree to all the terms and conditions before placing the order.",請在下訂單前同意所有的條款和條件。 ,module,Magento_Paypal
+"Please agree to all the terms and conditions before placing the order.",請在下訂單前同意所有的條款及細則。 ,module,Magento_Paypal
 "We can't place the order.",我們不能下訂單。 ,module,Magento_Paypal
 "We can't process Express Checkout approval.",我們不能處理快速結賬審批。 ,module,Magento_Paypal
 "We can't initialize Express Checkout review.",我們不能初始化快速結賬審查。 ,module,Magento_Paypal
@@ -5848,7 +5848,7 @@ Remove,刪除,module,Magento_Checkout
 "Please specify the shipping address to see available options.","請選填寫地址，然後選擇運送方法。",module,Magento_Checkout
 "Some products are only suitable for delivery services (including: trolleys, trolley kits, school chair, dining chair, car safety seats, bed, play mats, etc.), please pay attention to the product page.","部份貨品只適用於送貨服務（包括：手推車、手推車套裝、學行椅、餐椅、汽車安全座椅、睡床、遊玩地墊等），敬請留意產品頁面。",module,Magento_Checkout
 "Please carefully choose the shipping method and clearly fill in the delivery address, otherwise it will delay the entire delivery process and affect the delivery time.","請小心選擇運送方法及清楚填寫送貨地址，否則將耽誤整個送貨流程及影響送貨時間。",module,Magento_Checkout
-"I have read and agreed to the Terms & Conditions.","我已閱讀並同意條款和條件。",module,Magento_Checkout
+"I have read and agreed to the Terms & Conditions.","我已閱讀並同意條款及細則。",module,Magento_Checkout
 "EF Locker","順便智能櫃",module,Magento_Checkout
 "SF Store","順豐站",module,Magento_Checkout
 "Service Type","服務種類",module,Magento_Checkout
@@ -6603,7 +6603,7 @@ Disable,禁用,module,Magento_Catalog
 none,沒有,module,Magento_Catalog
 Overview,概述,module,Magento_Catalog
 Details,產品詳情,module,Magento_Catalog
-"Enable Terms and Conditions",啟用的條款和條件,module,Magento_CheckoutAgreements
+"Enable Terms and Conditions",啟用的條款及細則,module,Magento_CheckoutAgreements
 "Checkout Options",結賬選項,module,Magento_Checkout
 "Enable Onepage Checkout",使用同一頁面結賬,module,Magento_Checkout
 "Allow Guest Checkout",允許遊客結賬,module,Magento_Checkout
