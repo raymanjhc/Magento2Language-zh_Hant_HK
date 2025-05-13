@@ -1,5 +1,5 @@
 {
-    "name": "fd/language-zh_hant_hk",
+    "name": "raymandhc/language-zh_hant_hk",
     "description": "Traditional Chinese",
     "homepage": "https://github.com/4dhk/Magento2Language-zh_Hant_HK",
     "version": "100.0.28",
@@ -7,7 +7,7 @@
         "MIT"
     ],
     "require": {
-        "magento/framework": "~100.0"
+        "magento/framework": "^100.0|^101.0|^102.0|^103.0"
     },
     "keywords": [
         "magento",
